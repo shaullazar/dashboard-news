@@ -1,0 +1,34 @@
+name: LATAM News Scraper
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'   # every 30 minutes
+  workflow_dispatch:           # allow manual run from GitHub UI
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: pip install requests -q
+
+      - name: Run news scraper
+        run: python3 scrape_news.py
+
+      - name: Commit news.json if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add news.json
+          git stash
+          git pull --rebase origin main
+          git stash pop
+          git add news.json
+          git diff --cached --quiet || git commit -m "Update LATAM news $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
