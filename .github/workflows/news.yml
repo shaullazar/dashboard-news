@@ -2,7 +2,7 @@ name: LATAM News Scraper
 
 on:
   schedule:
-    - cron: '*/30 * * * *'   # every 30 minutes
+    - cron: '*/5 * * * *'   # every 5 minutes
   workflow_dispatch:           # allow manual run from GitHub UI
 
 jobs:
