@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T03:30:49.267949+00:00",
+  "updated": "2026-06-29T08:47:02.184083+00:00",
   "colombia": [
     {
       "title": "Colombia face Portugal for top spot in Group K",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "El jefe de Gabinete de Milei renuncia acorralado por un escándalo de corrupción",
+      "link": "https://expansion.mx/mundo/2026/06/28/el-jefe-de-gabinete-de-milei-renuncia-acorralado-por-un-escandalo-de-corrupcion",
+      "source": "Expansion MX",
+      "pub": "Mon, 29 Jun 2026 00:28:42 GMT"
+    },
+    {
+      "title": "Irán advierte a los buques que no se desvíen de ruta demarcada en estrecho de Ormuz",
+      "link": "https://expansion.mx/mundo/2026/06/28/iran-advierte-a-los-buques-que-no-se-desvien-de-ruta-demarcada-en-estrecho-de-ormuz",
+      "source": "Expansion MX",
+      "pub": "Mon, 29 Jun 2026 00:05:40 GMT"
+    },
+    {
       "title": "La ola de calor provoca más 1,300 muertes adicionales en Europa, de acuerdo con la OMS",
       "link": "https://expansion.mx/mundo/2026/06/28/la-ola-de-calor-provoca-mas-1-300-muertes-adicionales-en-europa-de-acuerdo-con-la-oms",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/mundo/2026/06/27/suman-1-430-fallecidos-por-terremotos-de-venezuela",
       "source": "Expansion MX",
       "pub": "Sat, 27 Jun 2026 18:36:19 GMT"
-    },
-    {
-      "title": "Guadalajara se despide del Mundial 2026 entre goles, diplomacia y un estadio teñido de rojo",
-      "link": "https://expansion.mx/empresas/2026/06/27/espana-uruguay-cierra-mundial-guadalajara-diplomacia-turismo",
-      "source": "Expansion MX",
-      "pub": "Sat, 27 Jun 2026 15:00:12 GMT"
-    },
-    {
-      "title": "“Confío en la presunción de inocencia”, dice exdirector de Pemex tras agresiones a su esposa",
-      "link": "https://expansion.mx/empresas/2026/06/26/sener-desconoce-a-victor-rodriguez-padilla-exdirector-de-pemex-y-niega-nombramiento",
-      "source": "Expansion MX",
-      "pub": "Sat, 27 Jun 2026 05:26:03 GMT"
     }
   ]
 }
