@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T04:37:50.641634+00:00",
+  "updated": "2026-06-30T08:08:27.104053+00:00",
   "colombia": [
     {
       "title": "Colombia face Portugal for top spot in Group K",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Selección de Ecuador vale más que la de México en el Mundial 2026: tres razones clave",
+      "link": "https://expansion.mx/tendencias/2026/06/29/ecuador-vs-mexico-rumbo-al-duelo-por-los-octavos-de-final",
+      "source": "Expansion MX",
+      "pub": "Tue, 30 Jun 2026 01:05:30 GMT"
+    },
+    {
       "title": "Centrales legadas enfrentan el dilema de migrar al mercado eléctrico o pagar nuevas tarifas de transmisión",
       "link": "https://expansion.mx/empresas/2026/06/29/centrales-legadas-nuevas-tarifas",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/06/29/cancelaran-linea-de-celular-1-de-julio-fecha-limite",
       "source": "Expansion MX",
       "pub": "Mon, 29 Jun 2026 20:59:47 GMT"
-    },
-    {
-      "title": "El número de muertos en Venezuela supera los 1,700, mientras la ventana de rescate se agota",
-      "link": "https://expansion.mx/mundo/2026/06/29/el-numero-de-muertos-en-venezuela-supera-los-1-700-mientras-la-ventana-de-rescate-se-agota",
-      "source": "Expansion MX",
-      "pub": "Mon, 29 Jun 2026 20:46:59 GMT"
     }
   ]
 }
