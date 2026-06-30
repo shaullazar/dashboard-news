@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T00:20:10.927473+00:00",
+  "updated": "2026-06-30T04:37:50.641634+00:00",
   "colombia": [
     {
       "title": "Colombia face Portugal for top spot in Group K",
@@ -64,6 +64,24 @@
   ],
   "mexico": [
     {
+      "title": "Centrales legadas enfrentan el dilema de migrar al mercado eléctrico o pagar nuevas tarifas de transmisión",
+      "link": "https://expansion.mx/empresas/2026/06/29/centrales-legadas-nuevas-tarifas",
+      "source": "Expansion MX",
+      "pub": "Tue, 30 Jun 2026 00:12:00 GMT"
+    },
+    {
+      "title": "México vs Ecuador: el historial favorece al Tri, pero la rivalidad se ha cerrado en los últimos años",
+      "link": "https://expansion.mx/tendencias/2026/06/29/mexico-vs-ecuador-historial-completo-mundial-2026",
+      "source": "Expansion MX",
+      "pub": "Mon, 29 Jun 2026 23:58:40 GMT"
+    },
+    {
+      "title": "El jitomate da un respiro al bolsillo: su precio cae 41% en un mes, según Profeco",
+      "link": "https://expansion.mx/economia/2026/06/29/cual-es-el-precio-del-jitomate-segun-profeco",
+      "source": "Expansion MX",
+      "pub": "Mon, 29 Jun 2026 23:43:57 GMT"
+    },
+    {
       "title": "Si México le gana a Ecuador, ¿quién sería su rival en octavos de final de la Copa Mundial 2026?",
       "link": "https://expansion.mx/tendencias/2026/06/29/si-mexico-pasa-octavos-de-final-contra-quien-juega",
       "source": "Expansion MX",
@@ -104,24 +122,6 @@
       "link": "https://expansion.mx/mundo/2026/06/29/el-numero-de-muertos-en-venezuela-supera-los-1-700-mientras-la-ventana-de-rescate-se-agota",
       "source": "Expansion MX",
       "pub": "Mon, 29 Jun 2026 20:46:59 GMT"
-    },
-    {
-      "title": "BMV reanuda operaciones tras suspensión por duplicidad de información",
-      "link": "https://expansion.mx/mercados/2026/06/29/bmv-reanuda-operaciones-tras-suspension-por-duplicidad-de-informacion",
-      "source": "Expansion MX",
-      "pub": "Mon, 29 Jun 2026 19:20:37 GMT"
-    },
-    {
-      "title": "México vs. Ecuador: a qué hora y dónde ver el partido que define el futuro del Tri en el Mundial 2026",
-      "link": "https://expansion.mx/tendencias/2026/06/29/mexico-vs-ecuador-a-que-hora-es-donde-ver",
-      "source": "Expansion MX",
-      "pub": "Mon, 29 Jun 2026 18:40:36 GMT"
-    },
-    {
-      "title": "Cinco cambios para construir una economía más competitiva en Latinoamérica",
-      "link": "https://expansion.mx/tendencias/2026/06/29/cinco-cambios-construir-economia-competitiva-america-latina",
-      "source": "Expansion MX",
-      "pub": "Mon, 29 Jun 2026 18:27:47 GMT"
     }
   ]
 }
