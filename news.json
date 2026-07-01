@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T12:48:20.692736+00:00",
+  "updated": "2026-07-01T15:31:07.223915+00:00",
   "colombia": [
     {
       "title": "Colombia face Portugal for top spot in Group K",
@@ -64,6 +64,48 @@
   ],
   "mexico": [
     {
+      "title": "El desfalco de las factureras",
+      "link": "https://expansion.mx/opinion/2026/07/01/el-desfalco-de-las-factureras",
+      "source": "Expansion MX",
+      "pub": "Wed, 01 Jul 2026 12:06:28 GMT"
+    },
+    {
+      "title": "La tecnología potencia los procesos que ya existen y pone de manifiesto los ausentes",
+      "link": "https://expansion.mx/opinion/2026/07/01/la-tecnologia-potencia-los-procesos-que-ya-existen-y-pone-de-manifiesto-los-ausentes",
+      "source": "Expansion MX",
+      "pub": "Wed, 01 Jul 2026 12:02:27 GMT"
+    },
+    {
+      "title": "¿Tu empleo desapareció o solo cambió de nombre?",
+      "link": "https://expansion.mx/opinion/2026/07/01/tu-empleo-desaparecio-o-solo-cambio-de-nombre",
+      "source": "Expansion MX",
+      "pub": "Wed, 01 Jul 2026 12:01:43 GMT"
+    },
+    {
+      "title": "Los perros robot dejan el espectáculo y se convierten en aliados de la industria",
+      "link": "https://expansion.mx/tecnologia/2026/07/01/perros-robots-ya-trabajan-en-minas-y-fabricas",
+      "source": "Expansion MX",
+      "pub": "Wed, 01 Jul 2026 11:55:58 GMT"
+    },
+    {
+      "title": "La reinvención del T-MEC: de funcionar a medias a revivir con los aranceles de Trump",
+      "link": "https://expansion.mx/economia/2026/07/01/futuro-tmec-se-decide-hoy",
+      "source": "Expansion MX",
+      "pub": "Wed, 01 Jul 2026 11:55:02 GMT"
+    },
+    {
+      "title": "Zohran Mamdani se convierte en la estrella política del Mundial 2026",
+      "link": "https://expansion.mx/mundo/2026/07/01/zohran-mamdani-se-convierte-en-la-estrella-politica-del-mundial-2026",
+      "source": "Expansion MX",
+      "pub": "Wed, 01 Jul 2026 11:50:33 GMT"
+    },
+    {
+      "title": "Registro telefónico arriesga la desconexión de 16 millones de líneas y la pérdida de 1,900 mdp mensuales",
+      "link": "https://expansion.mx/empresas/2026/07/01/registro-telefonico-riesgos-desconexion-perdidas",
+      "source": "Expansion MX",
+      "pub": "Wed, 01 Jul 2026 11:00:53 GMT"
+    },
+    {
       "title": "¿Cuánto dinero deberías tener ahorrado según tu edad?",
       "link": "https://expansion.mx/finanzas-personales/2026/06/30/cuanto-dinero-deberias-tener-ahorrado-segun-tu-edad",
       "source": "Expansion MX",
@@ -80,48 +122,6 @@
       "link": "https://expansion.mx/economia/2026/06/30/ingresos-petroleo-isr-faltas-ieps-refrescos-marca-record",
       "source": "Expansion MX",
       "pub": "Tue, 30 Jun 2026 23:54:05 GMT"
-    },
-    {
-      "title": "Wall Street cierra su mejor trimestre en seis años, impulsado por IA y chips",
-      "link": "https://expansion.mx/mercados/2026/06/30/wall-street-cierra-su-mejor-trimestre-en-seis-anos-impulsado-por-ia-y-chips",
-      "source": "Expansion MX",
-      "pub": "Tue, 30 Jun 2026 23:19:42 GMT"
-    },
-    {
-      "title": "México elimina a Ecuador con un 2-0 y avanza al quinto partido del Mundial 2026",
-      "link": "https://expansion.mx/tendencias/2026/06/30/mexico-vs-ecuador-en-vivo",
-      "source": "Expansion MX",
-      "pub": "Tue, 30 Jun 2026 23:07:28 GMT"
-    },
-    {
-      "title": "Pemex desploma 11.8% su proceso de crudo y producción de combustibles",
-      "link": "https://expansion.mx/empresas/2026/06/30/pemex-desploma-proceso-de-crudo-y-produccion-de-combustibles",
-      "source": "Expansion MX",
-      "pub": "Tue, 30 Jun 2026 22:53:43 GMT"
-    },
-    {
-      "title": "Las redes sociales prometen proteger a menores, pero sus controles fallan",
-      "link": "https://expansion.mx/tecnologia/2026/06/30/redes-sociales-presentan-fallas-en-seguridad",
-      "source": "Expansion MX",
-      "pub": "Tue, 30 Jun 2026 22:30:22 GMT"
-    },
-    {
-      "title": "México amplía aeropuertos, pero pierde terreno en la competencia aérea de LATAM",
-      "link": "https://expansion.mx/empresas/2026/06/30/mexico-tiene-mas-aeropuertos-pero-no-es-suficiente",
-      "source": "Expansion MX",
-      "pub": "Tue, 30 Jun 2026 22:24:23 GMT"
-    },
-    {
-      "title": "Chucho Benítez: el goleador ecuatoriano que conquistó al América y murió de forma inesperada en Catar",
-      "link": "https://expansion.mx/tendencias/2026/06/30/mexico-vs-ecuador-chucho-benitez-el-goleador-ecuatoriano",
-      "source": "Expansion MX",
-      "pub": "Tue, 30 Jun 2026 22:14:55 GMT"
-    },
-    {
-      "title": "Ecuador exige a organizadores del Mundial actuar tras serenata de aficionados del Tri",
-      "link": "https://expansion.mx/tendencias/2026/06/30/ecuador-exige-autoridades-medidas-serenata-aficionados-tri",
-      "source": "Expansion MX",
-      "pub": "Tue, 30 Jun 2026 21:48:15 GMT"
     }
   ]
 }
