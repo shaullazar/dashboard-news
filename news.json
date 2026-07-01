@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T19:17:51.250259+00:00",
+  "updated": "2026-07-01T20:56:16.312859+00:00",
   "colombia": [
     {
       "title": "Colombia face Portugal for top spot in Group K",
@@ -70,6 +70,24 @@
       "pub": "Sat, 11 Jul 2026 16:00:12 GMT"
     },
     {
+      "title": "Donald Trump defiende sus ingresos por haber obtenido 1,200 millones de dólares",
+      "link": "https://expansion.mx/mundo/2026/07/01/donald-trump-defiende-sus-ingresos",
+      "source": "Expansion MX",
+      "pub": "Wed, 01 Jul 2026 19:04:23 GMT"
+    },
+    {
+      "title": "Meta quiere cobrar por funciones de IA en sus gafas inteligentes",
+      "link": "https://expansion.mx/tecnologia/2026/07/01/lentes-inteligente-meta-mas-caros-cobrar-funciones-ia",
+      "source": "Expansion MX",
+      "pub": "Wed, 01 Jul 2026 19:00:36 GMT"
+    },
+    {
+      "title": "México enfrentará a Inglaterra en octavos, una selección que vale 1,168 millones de euros más que el Tri",
+      "link": "https://expansion.mx/tendencias/2026/07/01/mexico-enfrentara-inglaterra-seleccion-vale-mas-tri",
+      "source": "Expansion MX",
+      "pub": "Wed, 01 Jul 2026 18:56:49 GMT"
+    },
+    {
       "title": "Microsoft despedirá a 5,500 empleados que afectarán a Xbox",
       "link": "https://expansion.mx/tecnologia/2026/07/01/microsoft-despidos-masivos-2026-recortara-5500-empleados",
       "source": "Expansion MX",
@@ -82,7 +100,7 @@
       "pub": "Wed, 01 Jul 2026 17:02:57 GMT"
     },
     {
-      "title": "Envejecimiento y menor cobertura pública elevan el gasto en salud de los mexicanos",
+      "title": "La salud desplaza educación y vestido en el presupuesto de los hogares mexicanos",
       "link": "https://expansion.mx/empresas/2026/07/01/gasto-mexicanos-salud-aumento-mas-100-en-menos-10-anos",
       "source": "Expansion MX",
       "pub": "Wed, 01 Jul 2026 17:00:05 GMT"
@@ -98,30 +116,6 @@
       "link": "https://expansion.mx/economia/2026/07/01/presidente-de-la-fed-se-compromete-a-combatir-inflacion-superior-al-objetivo-en-eu",
       "source": "Expansion MX",
       "pub": "Wed, 01 Jul 2026 15:56:52 GMT"
-    },
-    {
-      "title": "Partidos del Mundial hoy 1 de julio: Inglaterra vs. República Democrática del Congo, ¿en dónde ver todos los encuentros?",
-      "link": "https://expansion.mx/tendencias/2026/07/01/que-partidos-del-mundial-transmitiran-tv-abierta-1-julio",
-      "source": "Expansion MX",
-      "pub": "Wed, 01 Jul 2026 15:50:25 GMT"
-    },
-    {
-      "title": "México recibe 5,611 mdd en remesas en mayo y registra el mayor monto en siete meses",
-      "link": "https://expansion.mx/economia/2026/07/01/mexico-recibe-5-611-mdd-en-remesas-en-mayo-y-registra-el-mayor-monto-en-siete-meses",
-      "source": "Expansion MX",
-      "pub": "Wed, 01 Jul 2026 15:44:25 GMT"
-    },
-    {
-      "title": "Orgullo EXATEC: Liderazgo transformador en Telcel",
-      "link": "https://expansion.mx/carrera/2026/07/01/orgullo-exatec-liderazgo-transformador-en-telcel",
-      "source": "Expansion MX",
-      "pub": "Wed, 01 Jul 2026 15:00:30 GMT"
-    },
-    {
-      "title": "¿Cuándo vuelve a jugar México en el Mundial 2026 tras avanzar a los octavos de final?",
-      "link": "https://expansion.mx/tendencias/2026/07/01/cuando-es-siguiente-juego-mexico-octavos-de-final",
-      "source": "Expansion MX",
-      "pub": "Wed, 01 Jul 2026 14:28:15 GMT"
     }
   ]
 }
