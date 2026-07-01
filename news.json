@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T06:16:09.174262+00:00",
+  "updated": "2026-07-01T10:15:37.411408+00:00",
   "colombia": [
     {
       "title": "Colombia face Portugal for top spot in Group K",
@@ -64,6 +64,54 @@
   ],
   "mexico": [
     {
+      "title": "¿Cuánto dinero deberías tener ahorrado según tu edad?",
+      "link": "https://expansion.mx/finanzas-personales/2026/06/30/cuanto-dinero-deberias-tener-ahorrado-segun-tu-edad",
+      "source": "Expansion MX",
+      "pub": "Wed, 01 Jul 2026 01:11:39 GMT"
+    },
+    {
+      "title": "México vs Ecuador: se retrasa por intensa lluvia en el Estadio Ciudad de México",
+      "link": "https://expansion.mx/tendencias/2026/06/30/mexico-vs-ecuador-retrasaso",
+      "source": "Expansion MX",
+      "pub": "Wed, 01 Jul 2026 00:40:36 GMT"
+    },
+    {
+      "title": "Ingresos por petróleo e ISR marcan faltas, mientras IEPS a refrescos rompe récord",
+      "link": "https://expansion.mx/economia/2026/06/30/ingresos-petroleo-isr-faltas-ieps-refrescos-marca-record",
+      "source": "Expansion MX",
+      "pub": "Tue, 30 Jun 2026 23:54:05 GMT"
+    },
+    {
+      "title": "Wall Street cierra su mejor trimestre en seis años, impulsado por IA y chips",
+      "link": "https://expansion.mx/mercados/2026/06/30/wall-street-cierra-su-mejor-trimestre-en-seis-anos-impulsado-por-ia-y-chips",
+      "source": "Expansion MX",
+      "pub": "Tue, 30 Jun 2026 23:19:42 GMT"
+    },
+    {
+      "title": "México vs. Ecuador en vivo en el Estadio Azteca: alineaciones, goles y últimas noticias del partido de 16vos",
+      "link": "https://expansion.mx/tendencias/2026/06/30/mexico-vs-ecuador-en-vivo",
+      "source": "Expansion MX",
+      "pub": "Tue, 30 Jun 2026 23:07:28 GMT"
+    },
+    {
+      "title": "Pemex desploma 11.8% su proceso de crudo y producción de combustibles",
+      "link": "https://expansion.mx/empresas/2026/06/30/pemex-desploma-proceso-de-crudo-y-produccion-de-combustibles",
+      "source": "Expansion MX",
+      "pub": "Tue, 30 Jun 2026 22:53:43 GMT"
+    },
+    {
+      "title": "Las redes sociales prometen proteger a menores, pero sus controles fallan",
+      "link": "https://expansion.mx/tecnologia/2026/06/30/redes-sociales-presentan-fallas-en-seguridad",
+      "source": "Expansion MX",
+      "pub": "Tue, 30 Jun 2026 22:30:22 GMT"
+    },
+    {
+      "title": "México amplía aeropuertos, pero pierde terreno en la competencia aérea de LATAM",
+      "link": "https://expansion.mx/empresas/2026/06/30/mexico-tiene-mas-aeropuertos-pero-no-es-suficiente",
+      "source": "Expansion MX",
+      "pub": "Tue, 30 Jun 2026 22:24:23 GMT"
+    },
+    {
       "title": "Chucho Benítez: el goleador ecuatoriano que conquistó al América y murió de forma inesperada en Catar",
       "link": "https://expansion.mx/tendencias/2026/06/30/mexico-vs-ecuador-chucho-benitez-el-goleador-ecuatoriano",
       "source": "Expansion MX",
@@ -74,54 +122,6 @@
       "link": "https://expansion.mx/tendencias/2026/06/30/ecuador-exige-autoridades-medidas-serenata-aficionados-tri",
       "source": "Expansion MX",
       "pub": "Tue, 30 Jun 2026 21:48:15 GMT"
-    },
-    {
-      "title": "Los damnificados de los sismos de Venezuela sufren la escasez de comida y techo",
-      "link": "https://expansion.mx/mundo/2026/06/30/los-damnificados-de-los-sismos-de-venezuela-sufren-la-escasez-de-comida-y-techo",
-      "source": "Expansion MX",
-      "pub": "Tue, 30 Jun 2026 20:47:54 GMT"
-    },
-    {
-      "title": "La ingeniería oculta del Estadio Azteca: así funciona el drenaje de una cancha mundialista",
-      "link": "https://expansion.mx/tendencias/2026/06/30/como-es-el-drenaje-del-estadio-azteca",
-      "source": "Expansion MX",
-      "pub": "Tue, 30 Jun 2026 20:35:31 GMT"
-    },
-    {
-      "title": "¿Hasta dónde llegó México las veces que fue anfitrión del Mundial y qué necesita para igualarlo?",
-      "link": "https://expansion.mx/tendencias/2026/06/30/mexico-anfitrion-mundial-1970-1986-cuartos-2026",
-      "source": "Expansion MX",
-      "pub": "Tue, 30 Jun 2026 20:24:49 GMT"
-    },
-    {
-      "title": "De vender aguas a conquistar el Mundial, la historia del Pato Merlín y su registro de marca",
-      "link": "https://expansion.mx/mercadotecnia/2026/06/30/pato-merlin-fenomeno-marketing-marcas",
-      "source": "Expansion MX",
-      "pub": "Tue, 30 Jun 2026 18:21:20 GMT"
-    },
-    {
-      "title": "Efemérides de julio: los días que marcarán la agenda del mes y las fechas que debes conocer",
-      "link": "https://expansion.mx/tendencias/2026/06/30/efemerides-julio-2026-fechas-que-debes-conocer",
-      "source": "Expansion MX",
-      "pub": "Tue, 30 Jun 2026 18:11:29 GMT"
-    },
-    {
-      "title": "La Corte Suprema de EU rechaza restringir la ciudadanía por nacimiento",
-      "link": "https://expansion.mx/mundo/2026/06/30/la-corte-suprema-de-eu-rechaza-restringir-la-ciudadania-por-nacimiento",
-      "source": "Expansion MX",
-      "pub": "Tue, 30 Jun 2026 18:05:34 GMT"
-    },
-    {
-      "title": "Hotel Avándaro redefine la hospitalidad de lujo en Valle de Bravo",
-      "link": "https://expansion.mx/bespoke-ad/2026/06/30/hotel-avandaro-redefine-la-hospitalidad-de-lujo-en-valle-de-bravo",
-      "source": "Expansion MX",
-      "pub": "Tue, 30 Jun 2026 17:34:28 GMT"
-    },
-    {
-      "title": "Elizabeth González, la primera mujer en dirigir las finanzas de Pemex",
-      "link": "https://expansion.mx/empresas/2026/06/30/elizabeth-gonzalez-primera-mujer-en-dirigir-finanzas-pemex",
-      "source": "Expansion MX",
-      "pub": "Tue, 30 Jun 2026 17:19:04 GMT"
     }
   ]
 }
