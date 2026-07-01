@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T17:29:31.944861+00:00",
+  "updated": "2026-07-01T19:17:51.250259+00:00",
   "colombia": [
     {
       "title": "Colombia face Portugal for top spot in Group K",
@@ -70,6 +70,12 @@
       "pub": "Sat, 11 Jul 2026 16:00:12 GMT"
     },
     {
+      "title": "Microsoft despedirá a 5,500 empleados que afectarán a Xbox",
+      "link": "https://expansion.mx/tecnologia/2026/07/01/microsoft-despidos-masivos-2026-recortara-5500-empleados",
+      "source": "Expansion MX",
+      "pub": "Wed, 01 Jul 2026 17:30:31 GMT"
+    },
+    {
       "title": "Cinco familias venezolanas denuncian a Maduro en EU por ejecuciones extrajudiciales",
       "link": "https://expansion.mx/mundo/2026/07/01/cinco-familias-venezolanas-denuncian-a-maduro-en-eu-por-ejecuciones-extrajudiciales",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/tendencias/2026/07/01/cuando-es-siguiente-juego-mexico-octavos-de-final",
       "source": "Expansion MX",
       "pub": "Wed, 01 Jul 2026 14:28:15 GMT"
-    },
-    {
-      "title": "Quitar las exenciones del T-MEC costaría 466,000 mdd a Estados Unidos",
-      "link": "https://expansion.mx/podcasts-expansion/expansion-daily/2026/07/01/quitar-exenciones-t-mec-costaria-466-000-mdd-estados-unidos",
-      "source": "Expansion MX",
-      "pub": "Wed, 01 Jul 2026 13:35:44 GMT"
     }
   ]
 }
