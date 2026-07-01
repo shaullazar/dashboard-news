@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T22:13:00.685448+00:00",
+  "updated": "2026-07-01T23:42:21.219023+00:00",
   "colombia": [
     {
       "title": "Colombia face Portugal for top spot in Group K",
@@ -70,30 +70,6 @@
       "pub": "Sat, 11 Jul 2026 16:00:12 GMT"
     },
     {
-      "title": "¿Cómo México pasó del “sí se puede” al “¿y si sí?” en los Mundiales? El cambio que explica 2026",
-      "link": "https://expansion.mx/tendencias/2026/07/01/mexico-paso-y-si-si-de-donde-salio",
-      "source": "Expansion MX",
-      "pub": "Wed, 01 Jul 2026 21:58:04 GMT"
-    },
-    {
-      "title": "Ebrard descarta diferencias de fondo que impidan extender el T-MEC en cualquier momento",
-      "link": "https://expansion.mx/economia/2026/07/01/ebrard-ve-posible-extender-el-tmec",
-      "source": "Expansion MX",
-      "pub": "Wed, 01 Jul 2026 21:16:53 GMT"
-    },
-    {
-      "title": "Hacienda dejará de recaudar 3.4 billones de pesos en 2026 y 2027 por estímulos y exenciones fiscales",
-      "link": "https://expansion.mx/economia/2026/07/01/hacienda-dejara-de-recaudar-3-4-billones-de-pesos-en-2026-y-2027-por-estimulos-y-exenciones-fiscales",
-      "source": "Expansion MX",
-      "pub": "Wed, 01 Jul 2026 21:11:46 GMT"
-    },
-    {
-      "title": "EU levanta el veto sobre la IA de Anthropic, pero mantiene vigilancia sobre los modelos más poderosos",
-      "link": "https://expansion.mx/tecnologia/2026/07/01/eu-libera-claude-fable-5-pero-limita-mythos-5",
-      "source": "Expansion MX",
-      "pub": "Wed, 01 Jul 2026 21:00:20 GMT"
-    },
-    {
       "title": "Automotrices llaman a salvar el T-MEC ante nueva incertidumbre comercial",
       "link": "https://expansion.mx/empresas/2026/07/01/industria-automotriz-mexicana-lamenta-decision-t-mec-trump",
       "source": "Expansion MX",
@@ -122,6 +98,30 @@
       "link": "https://expansion.mx/mercados/2026/07/01/fibras-afores-financiar-infraestructura-plan-mexico",
       "source": "Expansion MX",
       "pub": "Wed, 01 Jul 2026 19:28:48 GMT"
+    },
+    {
+      "title": "Tecate cierra un ciclo con Tigres y abre otro con la Liga Mexicana de Beisbol Banorte",
+      "link": "https://expansion.mx/mercadotecnia/2026/07/01/tecate-deja-tigres-toma-lmb",
+      "source": "Expansion MX",
+      "pub": "Wed, 01 Jul 2026 19:24:53 GMT"
+    },
+    {
+      "title": "México deja de gastar más de 418,000 millones de pesos, pero el déficit fiscal se dispara 42%",
+      "link": "https://expansion.mx/economia/2026/07/01/mexico-recorta-418000-mdp-gasto-deficit-fiscal-dispara",
+      "source": "Expansion MX",
+      "pub": "Wed, 01 Jul 2026 19:20:19 GMT"
+    },
+    {
+      "title": "Donald Trump defiende sus ingresos por haber obtenido 1,200 millones de dólares",
+      "link": "https://expansion.mx/mundo/2026/07/01/donald-trump-defiende-sus-ingresos",
+      "source": "Expansion MX",
+      "pub": "Wed, 01 Jul 2026 19:04:23 GMT"
+    },
+    {
+      "title": "Meta quiere cobrar por funciones de IA en sus gafas inteligentes",
+      "link": "https://expansion.mx/tecnologia/2026/07/01/lentes-inteligente-meta-mas-caros-cobrar-funciones-ia",
+      "source": "Expansion MX",
+      "pub": "Wed, 01 Jul 2026 19:00:36 GMT"
     }
   ]
 }
