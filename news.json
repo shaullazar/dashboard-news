@@ -1,6 +1,12 @@
 {
-  "updated": "2026-07-02T17:08:26.510785+00:00",
+  "updated": "2026-07-02T18:44:56.062992+00:00",
   "colombia": [
+    {
+      "title": "Colombia’s EGC suspends ‘war tax’ as ‘goodwill’ gesture toward President-elect Abelardo de la Espriella",
+      "link": "https://thebogotapost.com/colombias-egc-suspends-war-tax-as-goodwill-gesture-toward-president-elect-abelardo-de-la-espriella/56601/",
+      "source": "The Bogota Post",
+      "pub": "Thu, 02 Jul 2026 18:03:37 +0000"
+    },
     {
       "title": "Colombia face Portugal for top spot in Group K",
       "link": "https://thebogotapost.com/colombia-portugal-miami-2026/56596/",
@@ -54,27 +60,9 @@
       "link": "https://thebogotapost.com/presidential-election-2026-final-part/56547/",
       "source": "The Bogota Post",
       "pub": "Wed, 17 Jun 2026 18:54:18 +0000"
-    },
-    {
-      "title": "Chaos on Colombia’s Caribbean coast as major highway blocked following military operation",
-      "link": "https://thebogotapost.com/chaos-on-colombias-caribbean-coast-as-major-highway-blocked-following-military-operation/56542/",
-      "source": "The Bogota Post",
-      "pub": "Tue, 16 Jun 2026 00:31:08 +0000"
     }
   ],
   "mexico": [
-    {
-      "title": "La OMS da por terminado el brote por hantavirus en el crucero Hondius MV",
-      "link": "https://expansion.mx/mundo/2026/07/02/la-oms-da-por-terminado-el-brote-por-hantavirus-en-el-crucero-hondius-mv",
-      "source": "Expansion MX",
-      "pub": "Thu, 02 Jul 2026 16:26:51 GMT"
-    },
-    {
-      "title": "Hotel Avándaro redefine la hospitalidad de lujo en Valle de Bravo",
-      "link": "https://expansion.mx/bespoke-ad/2026/07/02/hotel-avandaro-redefine-la-hospitalidad-de-lujo-en-valle-de-bravo",
-      "source": "Expansion MX",
-      "pub": "Thu, 02 Jul 2026 16:25:28 GMT"
-    },
     {
       "title": "Xbox trabaja en una función para convertir juegos físicos en digitales",
       "link": "https://expansion.mx/tecnologia/2026/07/02/xbox-funcion-convertir-juegos-fisicos-en-digitales",
@@ -122,6 +110,18 @@
       "link": "https://expansion.mx/opinion/2026/07/02/con-la-ia-el-desafio-no-es-automatizar-sino-transformar-la-productividad-en-desarrollo",
       "source": "Expansion MX",
       "pub": "Thu, 02 Jul 2026 12:03:05 GMT"
+    },
+    {
+      "title": "De Ormuz a Malaca: vulnerabilidad en la seguridad energética de China",
+      "link": "https://expansion.mx/opinion/2026/07/02/de-ormuz-a-malaca-vulnerabilidad-en-la-seguridad-energetica-de-china",
+      "source": "Expansion MX",
+      "pub": "Thu, 02 Jul 2026 12:02:41 GMT"
+    },
+    {
+      "title": "El gasto en telefonía móvil cae 3% y presiona la inversión en nuevas redes",
+      "link": "https://expansion.mx/empresas/2026/07/02/el-gasto-en-telefonia-movil-cae-3-y-presiona-la-inversion-en-nuevas-redes",
+      "source": "Expansion MX",
+      "pub": "Thu, 02 Jul 2026 11:55:54 GMT"
     }
   ]
 }
