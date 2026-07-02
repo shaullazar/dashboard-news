@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T21:20:51.785605+00:00",
+  "updated": "2026-07-02T22:31:02.967656+00:00",
   "colombia": [
     {
       "title": "Colombia’s EGC suspends ‘war tax’ as ‘goodwill’ gesture toward President-elect Abelardo de la Espriella",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "¿Cuál es la altura de la CDMX y la de Inglaterra? La ventaja para México en el Mundial 2026",
+      "link": "https://expansion.mx/tendencias/2026/07/02/2240-metros-altura-ventaja-mexico-contra-inglaterra",
+      "source": "Expansion MX",
+      "pub": "Thu, 02 Jul 2026 21:27:12 GMT"
+    },
+    {
+      "title": "¿Quién gobierna Irán ahora? Estos son los líderes al frente de la república islámica",
+      "link": "https://expansion.mx/mundo/2026/07/02/quien-gobierna-iran-ahora-estos-son-los-lideres-al-frente-de-la-republica-islamica",
+      "source": "Expansion MX",
+      "pub": "Thu, 02 Jul 2026 21:07:52 GMT"
+    },
+    {
+      "title": "¿Cuándo termina el mandato de Gianni Infantino en la FIFA? Los años que aún seguirá al frente",
+      "link": "https://expansion.mx/tendencias/2026/07/02/gianni-infantino-presidente-fifa-cuando-termina",
+      "source": "Expansion MX",
+      "pub": "Thu, 02 Jul 2026 21:02:50 GMT"
+    },
+    {
+      "title": "¿Qué pasa si desactivas el control de tracción de tu carro?",
+      "link": "https://expansion.mx/tendencias/2026/07/02/que-pasa-al-desactivar-control-de-traccion-auto",
+      "source": "Expansion MX",
+      "pub": "Thu, 02 Jul 2026 20:29:27 GMT"
+    },
+    {
       "title": "Microsoft apuesta 2,500 mdd al negocio de la IA empresarial",
       "link": "https://expansion.mx/tecnologia/2026/07/02/microsoft-nuevo-negocio-apoyar-empresas-usar-ia",
       "source": "Expansion MX",
@@ -98,30 +122,6 @@
       "link": "https://expansion.mx/tecnologia/2026/07/02/xbox-funcion-convertir-juegos-fisicos-en-digitales",
       "source": "Expansion MX",
       "pub": "Thu, 02 Jul 2026 14:35:56 GMT"
-    },
-    {
-      "title": "Partidos del Mundial hoy 2 de julio: Portugal vs. Croacia, ¿en dónde ver todos los encuentros?",
-      "link": "https://expansion.mx/tendencias/2026/07/02/que-partidos-del-mundial-transmitiran-tv-abierta-2-julio",
-      "source": "Expansion MX",
-      "pub": "Thu, 02 Jul 2026 14:30:45 GMT"
-    },
-    {
-      "title": "La revisión anual del T-MEC reducirá el crecimiento de México",
-      "link": "https://expansion.mx/podcasts-expansion/expansion-daily/2026/07/02/revision-anual-t-mec-reducira-crecimiento-mexico",
-      "source": "Expansion MX",
-      "pub": "Thu, 02 Jul 2026 13:24:42 GMT"
-    },
-    {
-      "title": "La estrategia icónica de Washington contra México en el T-MEC",
-      "link": "https://expansion.mx/opinion/2026/07/02/la-estrategia-iconica-de-washington-contra-mexico-en-el-t-mec",
-      "source": "Expansion MX",
-      "pub": "Thu, 02 Jul 2026 12:07:14 GMT"
-    },
-    {
-      "title": "Reino Unido, la gran oportunidad",
-      "link": "https://expansion.mx/opinion/2026/07/02/reino-unido-la-gran-oportunidad",
-      "source": "Expansion MX",
-      "pub": "Thu, 02 Jul 2026 12:05:13 GMT"
     }
   ]
 }
