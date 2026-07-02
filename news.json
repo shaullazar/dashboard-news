@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T15:25:59.920308+00:00",
+  "updated": "2026-07-02T17:08:26.510785+00:00",
   "colombia": [
     {
       "title": "Colombia face Portugal for top spot in Group K",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "La OMS da por terminado el brote por hantavirus en el crucero Hondius MV",
+      "link": "https://expansion.mx/mundo/2026/07/02/la-oms-da-por-terminado-el-brote-por-hantavirus-en-el-crucero-hondius-mv",
+      "source": "Expansion MX",
+      "pub": "Thu, 02 Jul 2026 16:26:51 GMT"
+    },
+    {
+      "title": "Hotel Avándaro redefine la hospitalidad de lujo en Valle de Bravo",
+      "link": "https://expansion.mx/bespoke-ad/2026/07/02/hotel-avandaro-redefine-la-hospitalidad-de-lujo-en-valle-de-bravo",
+      "source": "Expansion MX",
+      "pub": "Thu, 02 Jul 2026 16:25:28 GMT"
+    },
+    {
       "title": "Xbox trabaja en una función para convertir juegos físicos en digitales",
       "link": "https://expansion.mx/tecnologia/2026/07/02/xbox-funcion-convertir-juegos-fisicos-en-digitales",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/opinion/2026/07/02/con-la-ia-el-desafio-no-es-automatizar-sino-transformar-la-productividad-en-desarrollo",
       "source": "Expansion MX",
       "pub": "Thu, 02 Jul 2026 12:03:05 GMT"
-    },
-    {
-      "title": "De Ormuz a Malaca: vulnerabilidad en la seguridad energética de China",
-      "link": "https://expansion.mx/opinion/2026/07/02/de-ormuz-a-malaca-vulnerabilidad-en-la-seguridad-energetica-de-china",
-      "source": "Expansion MX",
-      "pub": "Thu, 02 Jul 2026 12:02:41 GMT"
-    },
-    {
-      "title": "El gasto en telefonía móvil cae 3% y presiona la inversión en nuevas redes",
-      "link": "https://expansion.mx/empresas/2026/07/02/el-gasto-en-telefonia-movil-cae-3-y-presiona-la-inversion-en-nuevas-redes",
-      "source": "Expansion MX",
-      "pub": "Thu, 02 Jul 2026 11:55:54 GMT"
     }
   ]
 }
