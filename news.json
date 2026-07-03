@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T01:14:23.018606+00:00",
+  "updated": "2026-07-03T04:57:28.285950+00:00",
   "colombia": [
     {
       "title": "Colombia’s EGC suspends ‘war tax’ as ‘goodwill’ gesture toward President-elect Abelardo de la Espriella",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Jordan Pickford, el portero al que más goles le ha anotado Raúl Jiménez",
+      "link": "https://expansion.mx/tendencias/2026/07/02/jordan-pickford-portero-mas-goles-ha-anotado-raul-jimenez",
+      "source": "Expansion MX",
+      "pub": "Fri, 03 Jul 2026 01:24:27 GMT"
+    },
+    {
+      "title": "StubHub, la plataforma en el centro de la polémica por los boletos del Mundial 2026",
+      "link": "https://expansion.mx/empresas/2026/07/02/stubhub-polemica-reventa-boletos-mundial-2026",
+      "source": "Expansion MX",
+      "pub": "Fri, 03 Jul 2026 01:22:35 GMT"
+    },
+    {
       "title": "Efecto '¿Y si sí?' provocará mayor consumo en los hogares",
       "link": "https://expansion.mx/economia/2026/07/02/efecto-y-si-si-provocara-mayor-consumo-en-los-hogares",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/mercadotecnia/2026/07/02/mexico-premio-mayor-agencias-independientes-publicidad",
       "source": "Expansion MX",
       "pub": "Thu, 02 Jul 2026 22:07:22 GMT"
-    },
-    {
-      "title": "Una falla de privacidad pone en duda una de las mayores promesas de Apple",
-      "link": "https://expansion.mx/tecnologia/2026/07/02/apple-no-ha-podido-resolver-vulnerabilidad-privacidad",
-      "source": "Expansion MX",
-      "pub": "Thu, 02 Jul 2026 22:00:12 GMT"
-    },
-    {
-      "title": "¿Cuál es la altura de la CDMX y la de Inglaterra? La ventaja para México en el Mundial 2026",
-      "link": "https://expansion.mx/tendencias/2026/07/02/2240-metros-altura-ventaja-mexico-contra-inglaterra",
-      "source": "Expansion MX",
-      "pub": "Thu, 02 Jul 2026 21:27:12 GMT"
     }
   ]
 }
