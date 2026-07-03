@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T12:27:08.435675+00:00",
+  "updated": "2026-07-03T14:39:03.750925+00:00",
   "colombia": [
     {
       "title": "Colombia’s EGC suspends ‘war tax’ as ‘goodwill’ gesture toward President-elect Abelardo de la Espriella",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "La revisión del T-MEC podría extender la falta de inversiones automotrices",
+      "link": "https://expansion.mx/podcasts-expansion/expansion-daily/2026/07/03/revisiont-mec-podria-extender-falta-inversiones-automotrices",
+      "source": "Expansion MX",
+      "pub": "Fri, 03 Jul 2026 13:16:24 GMT"
+    },
+    {
       "title": "‘Back-end’ semiconductor, el eslabón donde México puede ganar",
       "link": "https://expansion.mx/opinion/2026/07/03/back-end-semiconductor-el-eslabon-donde-mexico-puede-ganar",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/mundo/2026/07/03/mexico-vs-inglaterra-rivales-en-la-cancha-pero-aliados-en-la-economia",
       "source": "Expansion MX",
       "pub": "Fri, 03 Jul 2026 11:55:03 GMT"
-    },
-    {
-      "title": "Jordan Pickford, el portero al que más goles le ha anotado Raúl Jiménez",
-      "link": "https://expansion.mx/tendencias/2026/07/02/jordan-pickford-portero-mas-goles-ha-anotado-raul-jimenez",
-      "source": "Expansion MX",
-      "pub": "Fri, 03 Jul 2026 01:24:27 GMT"
     }
   ]
 }
