@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T18:50:35.654723+00:00",
+  "updated": "2026-07-03T20:05:48.841598+00:00",
   "colombia": [
     {
       "title": "Meet The Bogota Post’s Best Tech Company to Work for in Colombia in 2026",
@@ -64,14 +64,8 @@
   ],
   "mexico": [
     {
-      "title": "¿Por qué Whirlpool cerrará una planta en México? La reestructuración detrás de la decisión",
-      "link": "https://expansion.mx/empresas/2026/07/03/whirpool-cerrara-apocada-que-pasara-planta",
-      "source": "Expansion MX",
-      "pub": "Fri, 03 Jul 2026 18:00:51 GMT"
-    },
-    {
       "title": "Trionda: el balón que debe cargarse antes de cada partido y eliminó a Croacia",
-      "link": "https://expansion.mx/tecnologia/2026/07/03/como-funciona-balon-mundial-2026-tecnologia-trionda",
+      "link": "https://expansion.mx/tecnologia/2026/07/03/trionda-el-balon-que-debe-cargarse-antes-de-cada-partido-y-elimino-a-croacia",
       "source": "Expansion MX",
       "pub": "Fri, 03 Jul 2026 17:40:18 GMT"
     },
@@ -122,6 +116,12 @@
       "link": "https://expansion.mx/mundo/2026/07/03/10-dias-doble-terremoto-venezuela-situacion-actual",
       "source": "Expansion MX",
       "pub": "Fri, 03 Jul 2026 16:14:54 GMT"
+    },
+    {
+      "title": "Efecto '¿Y si sí?' provocará mayor consumo en los hogares",
+      "link": "https://expansion.mx/economia/2026/07/03/efecto-y-si-si-llega-bolsillo-avance-mexico-mundial-gasto",
+      "source": "Expansion MX",
+      "pub": "Fri, 03 Jul 2026 14:54:12 GMT"
     }
   ]
 }
