@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T22:27:56.350358+00:00",
+  "updated": "2026-07-04T23:30:22.176881+00:00",
   "colombia": [
     {
       "title": "Meet The Bogota Post’s Best Tech Company to Work for in Colombia in 2026",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Representantes de Hamás y Hezbolá asisten a funeral de Jamenei",
+      "link": "https://expansion.mx/mundo/2026/07/04/representantes-de-hamas-y-hezbola-asisten-a-funeral-de-jamenei",
+      "source": "Expansion MX",
+      "pub": "Sat, 04 Jul 2026 19:02:01 GMT"
+    },
+    {
+      "title": "Banco del Bienestar aumenta su capital en 4,245 millones de pesos",
+      "link": "https://expansion.mx/economia/2026/07/04/banco-del-bienestar-aumenta-su-capital-en-4-245-millones-de-pesos",
+      "source": "Expansion MX",
+      "pub": "Sat, 04 Jul 2026 18:34:48 GMT"
+    },
+    {
       "title": "¿Quién es el dueño del Madison Square Garden? El empresario detrás del recinto donde se casa Taylor Swift",
       "link": "https://expansion.mx/empresas/2026/07/04/el-dueno-del-madison-square-garden-boda-taylor-swift",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/07/03/profeco-emite-llamado-revision-para-6-000-autos-mg",
       "source": "Expansion MX",
       "pub": "Fri, 03 Jul 2026 22:27:50 GMT"
-    },
-    {
-      "title": "Inglaterra regresa al Azteca, el escenario de la Mano de Dios y su caída más recordada ante Maradona",
-      "link": "https://expansion.mx/tendencias/2026/07/03/inglaterra-regresa-estadio-azteca-40-anos-mano-de-dios",
-      "source": "Expansion MX",
-      "pub": "Fri, 03 Jul 2026 22:04:35 GMT"
-    },
-    {
-      "title": "Apple presentará 5 nuevos iPhone, incluido un plegable",
-      "link": "https://expansion.mx/tecnologia/2026/07/03/apple-lanzara-cinco-nuevos-iphone-incluido-plegable",
-      "source": "Expansion MX",
-      "pub": "Fri, 03 Jul 2026 22:00:36 GMT"
     }
   ]
 }
