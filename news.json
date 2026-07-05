@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T15:46:07.373065+00:00",
+  "updated": "2026-07-05T16:45:34.088232+00:00",
   "colombia": [
     {
       "title": "Meet The Bogota Post’s Best Tech Company to Work for in Colombia in 2026",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Del \"¿Y si sí?\" al \"No inglés\", las marcas encuentran en el Mundial su mejor cancha",
+      "link": "https://expansion.mx/mercadotecnia/2026/07/05/marcas-no-ingles-mexico-vs-inglaterra",
+      "source": "Expansion MX",
+      "pub": "Sun, 05 Jul 2026 14:46:29 GMT"
+    },
+    {
       "title": "Operativo 'No inglés': Las marcas se cambian de nombre para apoyar a México",
       "link": "https://expansion.mx/mercadotecnia/2026/07/04/operativo-no-ingles-marcas-se-cambian-nombre-apoyo-seleccion",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/economia/2026/07/03/bancos-evitaran-fraudes-con-nueva-regulacion-biometrica",
       "source": "Expansion MX",
       "pub": "Sat, 04 Jul 2026 00:58:37 GMT"
-    },
-    {
-      "title": "¿Cuánto valían los Rolex que recibió el Tri y por qué los regresaron al influencer estadounidense?",
-      "link": "https://expansion.mx/tendencias/2026/07/03/cuanto-valen-relojes-rolex-que-recibio-el-tri",
-      "source": "Expansion MX",
-      "pub": "Fri, 03 Jul 2026 23:18:17 GMT"
     }
   ]
 }
