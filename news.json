@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T00:16:20.533402+00:00",
+  "updated": "2026-07-06T04:40:29.293045+00:00",
   "colombia": [
     {
       "title": "Meet The Bogota Post’s Best Tech Company to Work for in Colombia in 2026",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Con un \"Aztecazo\", México queda eliminado del Mundial 2026",
+      "link": "https://expansion.mx/tendencias/2026/07/05/mexico-queda-eliminado-del-mundial-2026",
+      "source": "Expansion MX",
+      "pub": "Mon, 06 Jul 2026 03:35:03 GMT"
+    },
+    {
       "title": "Después del México vs. Inglaterra, el Mundial 2026 dejará territorio mexicano",
       "link": "https://expansion.mx/tendencias/2026/07/05/mexico-vs-inglaterra-mundial-dejara-territorio-mexicano",
       "source": "Expansion MX",
@@ -76,7 +82,7 @@
       "pub": "Sun, 05 Jul 2026 22:12:35 GMT"
     },
     {
-      "title": "México vs. Inglaterra en vivo en el Estadio Azteca: alineaciones, goles y últimas noticias del partido",
+      "title": "México cae ante Inglaterra y suma 40 años sin cuartos de final",
       "link": "https://expansion.mx/tendencias/2026/07/05/mexico-vs-inglaterra-en-vivo",
       "source": "Expansion MX",
       "pub": "Sun, 05 Jul 2026 22:08:49 GMT"
@@ -94,7 +100,7 @@
       "pub": "Sun, 05 Jul 2026 17:19:08 GMT"
     },
     {
-      "title": "¿A qué hora juega México vs. Inglaterra hoy? Horario oficial del partido de octavos de final del Mundial",
+      "title": "Lluvia y rayos frenan el México vs. Inglaterra; partido inicia más tarde",
       "link": "https://expansion.mx/tendencias/2026/07/05/a-que-hora-juega-mexico-contra-inglaterra-hoy",
       "source": "Expansion MX",
       "pub": "Sun, 05 Jul 2026 16:53:16 GMT"
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/mercadotecnia/2026/07/04/operativo-no-ingles-marcas-se-cambian-nombre-apoyo-seleccion",
       "source": "Expansion MX",
       "pub": "Sun, 05 Jul 2026 00:48:26 GMT"
-    },
-    {
-      "title": "Estados Unidos lanza 250,000 monedas conmemorativas en su 250 aniversario",
-      "link": "https://expansion.mx/economia/2026/07/04/estados-unidos-lanza-250-000-monedas-conmemorativas-en-su-250-aniversario",
-      "source": "Expansion MX",
-      "pub": "Sat, 04 Jul 2026 23:44:00 GMT"
     }
   ]
 }
