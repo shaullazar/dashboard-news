@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T16:45:34.305438+00:00",
+  "updated": "2026-07-08T18:07:04.337243+00:00",
   "colombia": [
     {
       "title": "Meet The Bogota Post’s Best Tech Company to Work for in Colombia in 2026",
@@ -64,6 +64,48 @@
   ],
   "mexico": [
     {
+      "title": "México llevará seis prioridades a la próxima ronda de revisión del T-MEC",
+      "link": "https://expansion.mx/economia/2026/07/08/revision-tmec-mexico-seis-prioridades-20-julio",
+      "source": "Expansion MX",
+      "pub": "Wed, 08 Jul 2026 15:50:11 GMT"
+    },
+    {
+      "title": "Qué partidos de cuartos de final del Mundial 2026 van por TV abierta y cuándo se juegan",
+      "link": "https://expansion.mx/tendencias/2026/07/08/partidos-cuartos-de-final-mundial-2026-pasan-tv-abierta",
+      "source": "Expansion MX",
+      "pub": "Wed, 08 Jul 2026 15:33:11 GMT"
+    },
+    {
+      "title": "Apple invertirá 30,000 mdd para fabricar chips en EU junto a Broadcom",
+      "link": "https://expansion.mx/tecnologia/2026/07/08/apple-invertira-fabricar-chips-eu-broadcom",
+      "source": "Expansion MX",
+      "pub": "Wed, 08 Jul 2026 15:30:31 GMT"
+    },
+    {
+      "title": "FMI rebaja su previsión de crecimiento para México a 1.2% en 2026",
+      "link": "https://expansion.mx/economia/2026/07/08/fmi-rebaja-su-prevision-de-crecimiento-para-mexico-a-1-2-en-2026",
+      "source": "Expansion MX",
+      "pub": "Wed, 08 Jul 2026 15:21:06 GMT"
+    },
+    {
+      "title": "\"Esta noche les vamos a dar duro\": Trump da por terminada la tregua con Irán",
+      "link": "https://expansion.mx/mundo/2026/07/08/esta-noche-les-vamos-a-dar-duro-trump-da-por-terminada-la-tregua-con-iran",
+      "source": "Expansion MX",
+      "pub": "Wed, 08 Jul 2026 14:58:33 GMT"
+    },
+    {
+      "title": "Trump da por terminada la tregua con Irán, Wall Street cae y el petróleo repunta",
+      "link": "https://expansion.mx/mercados/2026/07/08/trump-da-por-terminada-la-tregua-con-iran-wall-street-cae-y-el-petroleo-repunta",
+      "source": "Expansion MX",
+      "pub": "Wed, 08 Jul 2026 14:33:52 GMT"
+    },
+    {
+      "title": "Baja el promedio de homicidios durante el Mundial",
+      "link": "https://expansion.mx/podcasts-expansion/expansion-daily/2026/07/08/baja-promedio-homicidios-durante-mundial",
+      "source": "Expansion MX",
+      "pub": "Wed, 08 Jul 2026 13:28:57 GMT"
+    },
+    {
       "title": "La economía de la desesperanza y la indiferencia",
       "link": "https://expansion.mx/opinion/2026/07/08/la-economia-de-la-desesperanza-y-la-indiferencia",
       "source": "Expansion MX",
@@ -80,48 +122,6 @@
       "link": "https://expansion.mx/opinion/2026/07/08/la-confianza-del-lector-ya-alimenta-a-la-ia",
       "source": "Expansion MX",
       "pub": "Wed, 08 Jul 2026 12:02:11 GMT"
-    },
-    {
-      "title": "¿Cómo una conversación puede transformar el rumbo de tu carrera?",
-      "link": "https://expansion.mx/opinion/2026/07/08/como-una-conversacion-puede-transformar-el-rumbo-de-tu-carrera",
-      "source": "Expansion MX",
-      "pub": "Wed, 08 Jul 2026 12:00:13 GMT"
-    },
-    {
-      "title": "La reconstrucción pone a prueba a una Venezuela endeudada y sin margen financiero",
-      "link": "https://expansion.mx/mundo/2026/07/08/la-reconstruccion-pone-a-prueba-a-una-venezuela-endeudada-y-sin-margen-financiero",
-      "source": "Expansion MX",
-      "pub": "Wed, 08 Jul 2026 11:55:48 GMT"
-    },
-    {
-      "title": "Del TLCAN al T-MEC: así se transformó la economía mexicana",
-      "link": "https://expansion.mx/economia/2026/07/08/tlcan-t-mec-transformacion-economia-mexicana",
-      "source": "Expansion MX",
-      "pub": "Wed, 08 Jul 2026 11:55:01 GMT"
-    },
-    {
-      "title": "¿Dónde se jugará el Mundial 2038 y por qué México surge como posible candidato?",
-      "link": "https://expansion.mx/tendencias/2026/07/07/donde-sera-el-mundial-2038-mexico-posible-candidato",
-      "source": "Expansion MX",
-      "pub": "Wed, 08 Jul 2026 00:25:24 GMT"
-    },
-    {
-      "title": "Gamesa, Sabritas y Turín: las 10 empresas mexicanas que ahora pertenecen a gigantes extranjeros",
-      "link": "https://expansion.mx/empresas/2026/07/07/10-marcas-mexicanas-que-cambiaron-de-propietario",
-      "source": "Expansion MX",
-      "pub": "Tue, 07 Jul 2026 23:35:55 GMT"
-    },
-    {
-      "title": "Pese al dólar fuerte, las oportunidades para invertir florecen en los mercados de Asia, Brasil y México",
-      "link": "https://expansion.mx/mercados/2026/07/07/dolar-fuerte-ya-no-destruye-mercados-emergentes-2026",
-      "source": "Expansion MX",
-      "pub": "Tue, 07 Jul 2026 23:33:44 GMT"
-    },
-    {
-      "title": "¿Cuáles son las 8 selecciones que siguen en el Mundial 2026 y cómo quedan los cuartos de final?",
-      "link": "https://expansion.mx/tendencias/2026/07/07/cuartos-final-mundial-2026-fechas-juegos-semifinalistas",
-      "source": "Expansion MX",
-      "pub": "Tue, 07 Jul 2026 23:10:24 GMT"
     }
   ]
 }
