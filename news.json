@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T22:47:25.705605+00:00",
+  "updated": "2026-07-08T23:49:11.425167+00:00",
   "colombia": [
     {
       "title": "Colombia go out on penalties against the Swiss",
@@ -64,48 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "El control del Estrecho de Ormuz descarrila la tregua entre Estados Unidos e Irán",
-      "link": "https://expansion.mx/mundo/2026/07/08/control-estrecho-de-ormuz-discordia-estados-unidos-e-iran",
-      "source": "Expansion MX",
-      "pub": "Wed, 08 Jul 2026 21:50:38 GMT"
-    },
-    {
-      "title": "“No va a faltar energía\", asegura Jorge Islas, subsecretario de Sener, y explica el cuello de botella",
-      "link": "https://expansion.mx/empresas/2026/07/08/no-va-a-faltar-energia-jorge-islas-subsecretario-de-sener",
-      "source": "Expansion MX",
-      "pub": "Wed, 08 Jul 2026 21:48:34 GMT"
-    },
-    {
-      "title": "La tregua terminó: Estados Unidos retoma los ataques contra Irán",
-      "link": "https://expansion.mx/mundo/2026/07/08/estados-unidos-retoma-los-ataques-contra-iran",
-      "source": "Expansion MX",
-      "pub": "Wed, 08 Jul 2026 21:47:07 GMT"
-    },
-    {
-      "title": "Liga MX, NFL y conciertos: el plan del Estadio Azteca para pagar su deuda millonaria con Banorte desde 2027",
-      "link": "https://expansion.mx/empresas/2026/07/08/plan-estadio-azteca-para-pagar-deuda-millonaria-con-banorte",
-      "source": "Expansion MX",
-      "pub": "Wed, 08 Jul 2026 21:34:05 GMT"
-    },
-    {
-      "title": "Las lecciones de Walmart para capitalizar el Mundial sin ser patrocinador oficial",
-      "link": "https://expansion.mx/mercadotecnia/2026/07/08/walmart-encontro-aprovechar-mundial-2026-sin-patrocinar",
-      "source": "Expansion MX",
-      "pub": "Wed, 08 Jul 2026 21:27:40 GMT"
-    },
-    {
-      "title": "Vuelve la guerra a Medio Oriente y se dispara el precio del petróleo",
-      "link": "https://expansion.mx/mercados/2026/07/08/vuelve-la-guerra-a-medio-oriente-y-se-dispara-el-precio-del-petroleo",
-      "source": "Expansion MX",
-      "pub": "Wed, 08 Jul 2026 21:22:53 GMT"
-    },
-    {
-      "title": "\"Digitalizar todo no es inteligente\": saber usar la IA puede ahorrar hasta 5,000 dólares al año a una startup",
-      "link": "https://expansion.mx/tecnologia/2026/07/08/error-impide-startups-ahorrar-5000-dolares-ia",
-      "source": "Expansion MX",
-      "pub": "Wed, 08 Jul 2026 21:00:38 GMT"
-    },
-    {
       "title": "Equifax compra Círculo de Crédito en 750 millones de dólares",
       "link": "https://expansion.mx/economia/2026/07/08/equifax-compra-circulo-de-credito-en-750-millones-de-dolares",
       "source": "Expansion MX",
@@ -122,6 +80,48 @@
       "link": "https://expansion.mx/tecnologia/2026/07/08/palantir-llega-a-mexico-con-gnp-seguros",
       "source": "Expansion MX",
       "pub": "Wed, 08 Jul 2026 19:15:57 GMT"
+    },
+    {
+      "title": "Trump pasa del ataque a la calma en pocas horas en la cumbre de la OTAN",
+      "link": "https://expansion.mx/mundo/2026/07/08/trump-cumbre-de-la-otan-reproches-y-caos",
+      "source": "Expansion MX",
+      "pub": "Wed, 08 Jul 2026 19:08:09 GMT"
+    },
+    {
+      "title": "OpenAI libera GPT-5.6 tras revisión del gobierno de Trump",
+      "link": "https://expansion.mx/tecnologia/2026/07/08/openai-libera-gpt-5-6-despues-de-revision-trump",
+      "source": "Expansion MX",
+      "pub": "Wed, 08 Jul 2026 19:00:19 GMT"
+    },
+    {
+      "title": "Inicia una nueva era en la selección mexicana: Rafael Márquez es oficialmente el nuevo entrenador",
+      "link": "https://expansion.mx/tendencias/2026/07/08/rafa-marquez-nuevo-director-tecnico-seleccion-mexicana",
+      "source": "Expansion MX",
+      "pub": "Wed, 08 Jul 2026 18:59:17 GMT"
+    },
+    {
+      "title": "Cinépolis y Openbank buscan aumentar a 60% la digitalización en cines",
+      "link": "https://expansion.mx/economia/2026/07/08/cinepolis-y-openbank-buscan-aumentar-a-60-la-digitalizacion-en-cines",
+      "source": "Expansion MX",
+      "pub": "Wed, 08 Jul 2026 18:56:24 GMT"
+    },
+    {
+      "title": "Con 479 votos, Parlamento Europeo respalda el acuerdo comercial modernizado con México",
+      "link": "https://expansion.mx/economia/2026/07/08/parlamento-europeo-aprueba-acuerdo-modernizado-mexico",
+      "source": "Expansion MX",
+      "pub": "Wed, 08 Jul 2026 18:39:07 GMT"
+    },
+    {
+      "title": "Messi vs. Mbappé en el Mundial 2026: así marcha la carrera por la Bota de Oro",
+      "link": "https://expansion.mx/tendencias/2026/07/08/quien-gana-bota-de-oro-mundial-jugador-mas-goles-2026",
+      "source": "Expansion MX",
+      "pub": "Wed, 08 Jul 2026 18:34:34 GMT"
+    },
+    {
+      "title": "No solo Messi, Cristiano y Ochoa: las leyendas que se despedirían de los Mundiales tras 2026",
+      "link": "https://expansion.mx/tendencias/2026/07/08/jugadores-que-juegan-su-ultimo-mundial-2026",
+      "source": "Expansion MX",
+      "pub": "Wed, 08 Jul 2026 18:03:39 GMT"
     }
   ]
 }
