@@ -1,6 +1,12 @@
 {
-  "updated": "2026-07-08T18:07:04.337243+00:00",
+  "updated": "2026-07-08T19:50:09.208685+00:00",
   "colombia": [
+    {
+      "title": "Colombia go out on penalties against the Swiss",
+      "link": "https://thebogotapost.com/colombia-switzerland-2026-world-cup/56622/",
+      "source": "The Bogota Post",
+      "pub": "Tue, 07 Jul 2026 23:00:37 +0000"
+    },
     {
       "title": "Meet The Bogota Post’s Best Tech Company to Work for in Colombia in 2026",
       "link": "https://thebogotapost.com/meet-the-bogota-posts-best-tech-company-to-work-for-in-colombia-in-2026/56608/",
@@ -54,15 +60,15 @@
       "link": "https://thebogotapost.com/colombia-passes-law-mandating-gender-focused-training-for-public-officials/56554/",
       "source": "The Bogota Post",
       "pub": "Wed, 17 Jun 2026 21:22:24 +0000"
-    },
-    {
-      "title": "Cousin of ‘Lost Children of the Amazon’ killed in combat after forced recruitment",
-      "link": "https://thebogotapost.com/cousin-of-lost-children-of-the-amazon-killed-in-combat-after-forced-recruitment/56524/",
-      "source": "The Bogota Post",
-      "pub": "Wed, 17 Jun 2026 20:35:37 +0000"
     }
   ],
   "mexico": [
+    {
+      "title": "Meta apuesta por una IA más personal con Muse Image, su nuevo generador de imágenes",
+      "link": "https://expansion.mx/tecnologia/2026/07/08/meta-muse-image-nuevo-generador-de-imagenes-ia",
+      "source": "Expansion MX",
+      "pub": "Wed, 08 Jul 2026 17:28:45 GMT"
+    },
     {
       "title": "México llevará seis prioridades a la próxima ronda de revisión del T-MEC",
       "link": "https://expansion.mx/economia/2026/07/08/revision-tmec-mexico-seis-prioridades-20-julio",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/opinion/2026/07/08/las-empresas-creen-conocer-a-sus-clientes-y-cada-vez-los-conocen-menos",
       "source": "Expansion MX",
       "pub": "Wed, 08 Jul 2026 12:04:12 GMT"
-    },
-    {
-      "title": "La confianza del lector ya alimenta a la IA",
-      "link": "https://expansion.mx/opinion/2026/07/08/la-confianza-del-lector-ya-alimenta-a-la-ia",
-      "source": "Expansion MX",
-      "pub": "Wed, 08 Jul 2026 12:02:11 GMT"
     }
   ]
 }
