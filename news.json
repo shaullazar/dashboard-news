@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T01:05:07.417865+00:00",
+  "updated": "2026-07-08T04:24:16.445056+00:00",
   "colombia": [
     {
       "title": "Meet The Bogota Post’s Best Tech Company to Work for in Colombia in 2026",
@@ -64,18 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Gamesa, Sabritas y Turín: las 10 empresas mexicanas que ahora pertenecen a gigantes extranjeros",
-      "link": "https://expansion.mx/empresas/2026/07/07/10-marcas-mexicanas-que-cambiaron-de-propietario",
-      "source": "Expansion MX",
-      "pub": "Tue, 07 Jul 2026 23:35:55 GMT"
-    },
-    {
-      "title": "Pese al dólar fuerte, las oportunidades para invertir florecen en los mercados de Asia, Brasil y México",
-      "link": "https://expansion.mx/mercados/2026/07/07/dolar-fuerte-ya-no-destruye-mercados-emergentes-2026",
-      "source": "Expansion MX",
-      "pub": "Tue, 07 Jul 2026 23:33:44 GMT"
-    },
-    {
       "title": "¿Cuáles son las 8 selecciones que siguen en el Mundial 2026 y cómo quedan los cuartos de final?",
       "link": "https://expansion.mx/tendencias/2026/07/07/cuartos-final-mundial-2026-fechas-juegos-semifinalistas",
       "source": "Expansion MX",
@@ -122,6 +110,18 @@
       "link": "https://expansion.mx/tendencias/2026/07/07/de-cuanto-es-la-fortuna-de-lionel-messi",
       "source": "Expansion MX",
       "pub": "Tue, 07 Jul 2026 20:16:59 GMT"
+    },
+    {
+      "title": "La IA no provoca una \"caída generalizada\" del empleo, según la OCDE",
+      "link": "https://expansion.mx/tecnologia/2026/07/07/la-ia-no-provoca-caida-generalizada-empleo-segun-ocde",
+      "source": "Expansion MX",
+      "pub": "Tue, 07 Jul 2026 20:00:55 GMT"
+    },
+    {
+      "title": "Vacaciones 2026: ¿qué es la TUA y cuáles son los aeropuertos donde más se paga en México?",
+      "link": "https://expansion.mx/tendencias/2026/07/07/aeropuertos-mexico-tua-mas-cara-2026",
+      "source": "Expansion MX",
+      "pub": "Tue, 07 Jul 2026 19:27:19 GMT"
     }
   ]
 }
