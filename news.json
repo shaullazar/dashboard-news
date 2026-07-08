@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T15:03:17.576410+00:00",
+  "updated": "2026-07-08T16:45:34.305438+00:00",
   "colombia": [
     {
       "title": "Meet The Bogota Post’s Best Tech Company to Work for in Colombia in 2026",
@@ -64,6 +64,42 @@
   ],
   "mexico": [
     {
+      "title": "La economía de la desesperanza y la indiferencia",
+      "link": "https://expansion.mx/opinion/2026/07/08/la-economia-de-la-desesperanza-y-la-indiferencia",
+      "source": "Expansion MX",
+      "pub": "Wed, 08 Jul 2026 12:05:06 GMT"
+    },
+    {
+      "title": "Las empresas creen conocer a sus clientes y cada vez los conocen menos",
+      "link": "https://expansion.mx/opinion/2026/07/08/las-empresas-creen-conocer-a-sus-clientes-y-cada-vez-los-conocen-menos",
+      "source": "Expansion MX",
+      "pub": "Wed, 08 Jul 2026 12:04:12 GMT"
+    },
+    {
+      "title": "La confianza del lector ya alimenta a la IA",
+      "link": "https://expansion.mx/opinion/2026/07/08/la-confianza-del-lector-ya-alimenta-a-la-ia",
+      "source": "Expansion MX",
+      "pub": "Wed, 08 Jul 2026 12:02:11 GMT"
+    },
+    {
+      "title": "¿Cómo una conversación puede transformar el rumbo de tu carrera?",
+      "link": "https://expansion.mx/opinion/2026/07/08/como-una-conversacion-puede-transformar-el-rumbo-de-tu-carrera",
+      "source": "Expansion MX",
+      "pub": "Wed, 08 Jul 2026 12:00:13 GMT"
+    },
+    {
+      "title": "La reconstrucción pone a prueba a una Venezuela endeudada y sin margen financiero",
+      "link": "https://expansion.mx/mundo/2026/07/08/la-reconstruccion-pone-a-prueba-a-una-venezuela-endeudada-y-sin-margen-financiero",
+      "source": "Expansion MX",
+      "pub": "Wed, 08 Jul 2026 11:55:48 GMT"
+    },
+    {
+      "title": "Del TLCAN al T-MEC: así se transformó la economía mexicana",
+      "link": "https://expansion.mx/economia/2026/07/08/tlcan-t-mec-transformacion-economia-mexicana",
+      "source": "Expansion MX",
+      "pub": "Wed, 08 Jul 2026 11:55:01 GMT"
+    },
+    {
       "title": "¿Dónde se jugará el Mundial 2038 y por qué México surge como posible candidato?",
       "link": "https://expansion.mx/tendencias/2026/07/07/donde-sera-el-mundial-2038-mexico-posible-candidato",
       "source": "Expansion MX",
@@ -86,42 +122,6 @@
       "link": "https://expansion.mx/tendencias/2026/07/07/cuartos-final-mundial-2026-fechas-juegos-semifinalistas",
       "source": "Expansion MX",
       "pub": "Tue, 07 Jul 2026 23:10:24 GMT"
-    },
-    {
-      "title": "“Se nos ha tratado de manera injusta”: Egipto explota contra el arbitraje tras eliminación ante Argentina",
-      "link": "https://expansion.mx/tendencias/2026/07/07/polemica-partido-egipto-vs-argentina",
-      "source": "Expansion MX",
-      "pub": "Tue, 07 Jul 2026 22:31:33 GMT"
-    },
-    {
-      "title": "¿Quién es el dueño de Kia? Hyundai la salvó de la bancarrota y hoy patrocina el Mundial 2026",
-      "link": "https://expansion.mx/empresas/2026/07/07/quien-es-dueno-de-kia-hyundai-bancarrota",
-      "source": "Expansion MX",
-      "pub": "Tue, 07 Jul 2026 22:09:28 GMT"
-    },
-    {
-      "title": "Francia investigará declaraciones racistas de senadora paraguaya contra Mbappé",
-      "link": "https://expansion.mx/mundo/2026/07/07/francia-investigara-declaraciones-racistas-de-senadora-paraguaya-contra-mbape",
-      "source": "Expansion MX",
-      "pub": "Tue, 07 Jul 2026 21:46:48 GMT"
-    },
-    {
-      "title": "Resultados IPN 2026: consulta la fecha, dónde revisarlos y qué pasa si no te quedas",
-      "link": "https://expansion.mx/carrera/2026/07/07/resultados-ipn-2026-cuando-salen",
-      "source": "Expansion MX",
-      "pub": "Tue, 07 Jul 2026 21:30:42 GMT"
-    },
-    {
-      "title": "Hasta 1,000 pesos por cruzar: las cinco autopistas más caras de México en verano 2026",
-      "link": "https://expansion.mx/tendencias/2026/07/07/autopistas-casetas-mas-caras-mexico-2026",
-      "source": "Expansion MX",
-      "pub": "Tue, 07 Jul 2026 21:25:41 GMT"
-    },
-    {
-      "title": "México exporta 242,903 mdd a EU entre enero y mayo; mantiene máximos pese a incertidumbre",
-      "link": "https://expansion.mx/economia/2026/07/07/mexico-exportaciones-estados-unidos-record-2026",
-      "source": "Expansion MX",
-      "pub": "Tue, 07 Jul 2026 20:31:07 GMT"
     }
   ]
 }
