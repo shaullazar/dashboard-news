@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T14:07:20.171729+00:00",
+  "updated": "2026-07-09T16:35:46.788227+00:00",
   "colombia": [
     {
       "title": "Colombia go out on penalties against the Swiss",
@@ -64,6 +64,48 @@
   ],
   "mexico": [
     {
+      "title": "Inflación baja a 3.37% en junio por desplome del jitomate, huevo y chiles",
+      "link": "https://expansion.mx/economia/2026/07/09/inflacion-baja-a-3-37-en-junio-por-desplome-del-jitomate-huevo-y-chiles",
+      "source": "Expansion MX",
+      "pub": "Thu, 09 Jul 2026 12:46:53 GMT"
+    },
+    {
+      "title": "Estados Unidos retoma los ataques contra Irán y se dispara el precio del petróleo",
+      "link": "https://expansion.mx/podcasts-expansion/expansion-daily/2026/07/09/estados-unidos-retoma-ataques-iran-dispara-precio-petroleo",
+      "source": "Expansion MX",
+      "pub": "Thu, 09 Jul 2026 12:37:58 GMT"
+    },
+    {
+      "title": "Transformar realidades: cinco lecciones del emprendimiento en Latinoamérica",
+      "link": "https://expansion.mx/opinion/2026/07/09/transformar-realidades-cinco-lecciones-del-emprendimiento-en-latinoamerica",
+      "source": "Expansion MX",
+      "pub": "Thu, 09 Jul 2026 12:03:25 GMT"
+    },
+    {
+      "title": "Ucrania convierte los drones en una industria que redefine su guerra contra Rusia",
+      "link": "https://expansion.mx/mundo/2026/07/09/ucrania-convierte-los-drones-en-una-industria-que-redefine-su-guerra-contra-rusia",
+      "source": "Expansion MX",
+      "pub": "Thu, 09 Jul 2026 11:55:43 GMT"
+    },
+    {
+      "title": "El 'Súper Niño' amenaza con presionar la inflación de alimentos hacia 2027",
+      "link": "https://expansion.mx/economia/2026/07/09/el-super-nino-amenaza-con-presionar-la-inflacion-de-alimentos-hacia-2027",
+      "source": "Expansion MX",
+      "pub": "Thu, 09 Jul 2026 11:55:23 GMT"
+    },
+    {
+      "title": "La IA puede darte la razón, pero el negocio está en resolver problemas",
+      "link": "https://expansion.mx/tecnologia/2026/07/09/ia-dice-lo-que-quieres-oir-y-no-necesitas-saber",
+      "source": "Expansion MX",
+      "pub": "Thu, 09 Jul 2026 11:55:19 GMT"
+    },
+    {
+      "title": "Scott Thomson, CEO global de Scotiabank: \"Queremos ser el banco del T-MEC\"",
+      "link": "https://expansion.mx/economia/2026/07/09/scott-thomson-ceo-scotiabank-banco-tmec",
+      "source": "Expansion MX",
+      "pub": "Thu, 09 Jul 2026 11:30:26 GMT"
+    },
+    {
       "title": "¿Cuánto cuestan las tarjetas en el Mundial 2026? FIFA contempla miles de dólares en sanciones",
       "link": "https://expansion.mx/tendencias/2026/07/08/cuanto-cuestan-las-tarjetas-en-el-mundial-2026-fifa",
       "source": "Expansion MX",
@@ -80,48 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/07/08/grupo-bimbo-suma-500-000-hectareas-bajo-agricultura-regenerativa",
       "source": "Expansion MX",
       "pub": "Thu, 09 Jul 2026 00:12:13 GMT"
-    },
-    {
-      "title": "Meta invertirá 9,000 millones de dólares en su primer centro de datos de IA en Canadá",
-      "link": "https://expansion.mx/tecnologia/2026/07/08/meta-invertira-13-000-millones-de-dolares",
-      "source": "Expansion MX",
-      "pub": "Wed, 08 Jul 2026 23:45:27 GMT"
-    },
-    {
-      "title": "¿Para qué usan la inteligencia artificial los estudiantes de la UNAM? Estudio revela impacto en las aulas",
-      "link": "https://expansion.mx/carrera/2026/07/08/9-cada-10-estudiantes-unam-usan-ia-para-que",
-      "source": "Expansion MX",
-      "pub": "Wed, 08 Jul 2026 23:44:25 GMT"
-    },
-    {
-      "title": "Ni tan autosuficientes, México importa 23% más gasolinas en mayo",
-      "link": "https://expansion.mx/empresas/2026/07/08/importacion-de-gasolina-aumenta-23-en-mayo",
-      "source": "Expansion MX",
-      "pub": "Wed, 08 Jul 2026 23:31:40 GMT"
-    },
-    {
-      "title": "Así son los vehículos tipo Olinia que ya se venden en Europa, Estados Unidos y Japón",
-      "link": "https://expansion.mx/empresas/2026/07/08/honda-super-one-autos-primos-olinia",
-      "source": "Expansion MX",
-      "pub": "Wed, 08 Jul 2026 23:10:04 GMT"
-    },
-    {
-      "title": "Las cuatro playas más cercanas a la CDMX para visitar en estas vacaciones de verano",
-      "link": "https://expansion.mx/tendencias/2026/07/08/playas-mas-cercanas-cdmx-en-carro",
-      "source": "Expansion MX",
-      "pub": "Wed, 08 Jul 2026 23:01:15 GMT"
-    },
-    {
-      "title": "¿Cómo funciona la app de Capufe que revela cuánto gastarás en gasolina y casetas en tus vacaciones?",
-      "link": "https://expansion.mx/tendencias/2026/07/08/traza-tu-ruta-capufe-precio-casetas-y-gasolina",
-      "source": "Expansion MX",
-      "pub": "Wed, 08 Jul 2026 22:14:13 GMT"
-    },
-    {
-      "title": "El control del Estrecho de Ormuz descarrila la tregua entre Estados Unidos e Irán",
-      "link": "https://expansion.mx/mundo/2026/07/08/control-estrecho-de-ormuz-discordia-estados-unidos-e-iran",
-      "source": "Expansion MX",
-      "pub": "Wed, 08 Jul 2026 21:50:38 GMT"
     }
   ]
 }
