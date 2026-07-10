@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T19:07:41.443775+00:00",
+  "updated": "2026-07-10T20:39:50.311925+00:00",
   "colombia": [
     {
       "title": "Colombia go out on penalties against the Swiss",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Velas Resorts lidera los premios Travelers’ Choice 2026 de TripAdvisor",
+      "link": "https://expansion.mx/bespoke-ad/2026/07/10/velas-resorts-lidera-los-premios-travelers-choice-2026-de-tripadvisor",
+      "source": "Expansion MX",
+      "pub": "Fri, 10 Jul 2026 18:51:33 GMT"
+    },
+    {
+      "title": "CRT deja en manos de los operadores el éxito del registro telefónico",
+      "link": "https://expansion.mx/empresas/2026/07/10/crt-responsabiliza-telcel-att-operadoras-exito-registro",
+      "source": "Expansion MX",
+      "pub": "Fri, 10 Jul 2026 18:08:21 GMT"
+    },
+    {
       "title": "¿Quién es David Vélez, el multimillonario detrás de Nu, el nuevo banco autorizado para operar en México?",
       "link": "https://expansion.mx/empresas/2026/07/10/quien-es-david-velez-dueno-nu-bank",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/podcasts-expansion/expansion-daily/2026/07/10/caida-precio-jitomate-huevo-chiles-baja-inflacion-junio",
       "source": "Expansion MX",
       "pub": "Fri, 10 Jul 2026 13:43:25 GMT"
-    },
-    {
-      "title": "El déficit comercial que no es lo que parece",
-      "link": "https://expansion.mx/opinion/2026/07/10/el-deficit-comercial-que-no-es-lo-que-parece",
-      "source": "Expansion MX",
-      "pub": "Fri, 10 Jul 2026 12:07:35 GMT"
-    },
-    {
-      "title": "La IA no vive en el modelo, vive en los sistemas",
-      "link": "https://expansion.mx/opinion/2026/07/10/la-ia-no-vive-en-el-modelo-vive-en-los-sistemas",
-      "source": "Expansion MX",
-      "pub": "Fri, 10 Jul 2026 12:03:31 GMT"
     }
   ]
 }
