@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T06:28:26.671288+00:00",
+  "updated": "2026-07-11T08:19:11.844499+00:00",
   "colombia": [
     {
       "title": "Colombia go out on penalties against the Swiss",
@@ -64,6 +64,36 @@
   ],
   "mexico": [
     {
+      "title": "Apple presenta demanda contra OpenAI por supuesto robo de secretos empresariales",
+      "link": "https://expansion.mx/https:/expansion.mx/tecnologia/2026/07/10/apple-presenta-demanda-contra-openai-secretos-empresariales",
+      "source": "Expansion MX",
+      "pub": "Sat, 11 Jul 2026 01:07:50 GMT"
+    },
+    {
+      "title": "La mujer más poderosa del mercado de fichajes: representa a Haaland y a Gilberto Mora",
+      "link": "https://expansion.mx/tendencias/2026/07/10/quien-es-rafaela-pimenta-representa-haaland-mora",
+      "source": "Expansion MX",
+      "pub": "Sat, 11 Jul 2026 00:27:47 GMT"
+    },
+    {
+      "title": "¿Qué pasará con mi cuenta Nu y los rendimientos en las 'Cajitas'?",
+      "link": "https://expansion.mx/finanzas-personales/2026/07/10/que-pasara-con-mi-cuenta-nu-y-los-rendimientos-en-las-cajitas",
+      "source": "Expansion MX",
+      "pub": "Sat, 11 Jul 2026 00:21:24 GMT"
+    },
+    {
+      "title": "Hacienda aumenta subsidio para Magna y diésel; Premium sigue sin apoyo",
+      "link": "https://expansion.mx/economia/2026/07/10/hacienda-aumenta-subsidio-para-magna-y-diesel-premium-sigue-sin-apoyo",
+      "source": "Expansion MX",
+      "pub": "Sat, 11 Jul 2026 00:14:12 GMT"
+    },
+    {
+      "title": "¿Quién es el dueño de Patio Universidad, la plaza que desafía el dominio de Slim frente a Plaza Universidad",
+      "link": "https://expansion.mx/empresas/2026/07/10/quien-es-dueno-patio-universidad-plaza-frente-slim",
+      "source": "Expansion MX",
+      "pub": "Fri, 10 Jul 2026 23:48:06 GMT"
+    },
+    {
       "title": "Tras los incidentes en el Interoceánico, la carga ferroviaria exige reglas para convivir con los trenes de pasajeros",
       "link": "https://expansion.mx/empresas/2026/07/10/trenes-pasajeros-carga-operacion-industria-ferroviaria",
       "source": "Expansion MX",
@@ -92,36 +122,6 @@
       "link": "https://expansion.mx/tendencias/2026/07/10/que-significa-ds-transmision-automatica-carro",
       "source": "Expansion MX",
       "pub": "Fri, 10 Jul 2026 20:09:50 GMT"
-    },
-    {
-      "title": "La historia de la empresa mexicana que creó Carlos V y Chocolate Abuelita y terminó por desaparecer",
-      "link": "https://expansion.mx/empresas/2026/07/10/historia-empresa-creo-carlos-v-chocolate-abuelita",
-      "source": "Expansion MX",
-      "pub": "Fri, 10 Jul 2026 19:39:02 GMT"
-    },
-    {
-      "title": "¿Te vas de vacaciones en avión? Profeco revela tus derechos ante retrasos, cobros y cancelaciones",
-      "link": "https://expansion.mx/tendencias/2026/07/10/avion-vacaciones-estos-son-tus-derechos-como-consumidor",
-      "source": "Expansion MX",
-      "pub": "Fri, 10 Jul 2026 19:12:48 GMT"
-    },
-    {
-      "title": "La empresa española que está entre las 10 más importantes de México y supera a varios gigantes nacionales",
-      "link": "https://expansion.mx/empresas/2026/07/10/empresa-espanola-entre-las-10-mas-importantes-de-mexico",
-      "source": "Expansion MX",
-      "pub": "Fri, 10 Jul 2026 19:09:20 GMT"
-    },
-    {
-      "title": "Velas Resorts lidera los premios Travelers’ Choice 2026 de TripAdvisor",
-      "link": "https://expansion.mx/bespoke-ad/2026/07/10/velas-resorts-lidera-los-premios-travelers-choice-2026-de-tripadvisor",
-      "source": "Expansion MX",
-      "pub": "Fri, 10 Jul 2026 18:51:33 GMT"
-    },
-    {
-      "title": "CRT deja en manos de los operadores el éxito del registro telefónico",
-      "link": "https://expansion.mx/empresas/2026/07/10/crt-responsabiliza-telcel-att-operadoras-exito-registro",
-      "source": "Expansion MX",
-      "pub": "Fri, 10 Jul 2026 18:08:21 GMT"
     }
   ]
 }
