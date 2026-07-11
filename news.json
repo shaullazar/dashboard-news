@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T17:07:59.092298+00:00",
+  "updated": "2026-07-11T18:01:45.449970+00:00",
   "colombia": [
     {
       "title": "Colombia go out on penalties against the Swiss",
@@ -64,18 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "¿Van a pasar el partido de Inglaterra vs. Noruega en TV abierta y a qué hora es el juego en México?",
-      "link": "https://expansion.mx/tendencias/2026/07/11/inglaterra-vs-noruega-tv-abierta-a-que-hora-es",
-      "source": "Expansion MX",
-      "pub": "Sat, 11 Jul 2026 14:30:58 GMT"
-    },
-    {
-      "title": "Apple presenta demanda contra OpenAI por supuesto robo de secretos empresariales",
-      "link": "https://expansion.mx/https:/expansion.mx/tecnologia/2026/07/10/apple-presenta-demanda-contra-openai-secretos-empresariales",
-      "source": "Expansion MX",
-      "pub": "Sat, 11 Jul 2026 01:07:50 GMT"
-    },
-    {
       "title": "La mujer más poderosa del mercado de fichajes: representa a Haaland y a Gilberto Mora",
       "link": "https://expansion.mx/tendencias/2026/07/10/quien-es-rafaela-pimenta-representa-haaland-mora",
       "source": "Expansion MX",
@@ -122,6 +110,18 @@
       "link": "https://expansion.mx/carrera/2026/07/10/juntas-en-trabajo-son-burocracia-cotidiana",
       "source": "Expansion MX",
       "pub": "Fri, 10 Jul 2026 20:19:58 GMT"
+    },
+    {
+      "title": "Para qué sirve la \"DS\" en la transmisión automática de tu auto y cuándo debes usarla",
+      "link": "https://expansion.mx/tendencias/2026/07/10/que-significa-ds-transmision-automatica-carro",
+      "source": "Expansion MX",
+      "pub": "Fri, 10 Jul 2026 20:09:50 GMT"
+    },
+    {
+      "title": "La historia de la empresa mexicana que creó Carlos V y Chocolate Abuelita y terminó por desaparecer",
+      "link": "https://expansion.mx/empresas/2026/07/10/historia-empresa-creo-carlos-v-chocolate-abuelita",
+      "source": "Expansion MX",
+      "pub": "Fri, 10 Jul 2026 19:39:02 GMT"
     }
   ]
 }
