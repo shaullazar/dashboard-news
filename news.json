@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T20:10:16.872314+00:00",
+  "updated": "2026-07-11T21:02:10.611827+00:00",
   "colombia": [
     {
       "title": "Colombia go out on penalties against the Swiss",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Argentina niega favoritismo arbitral en el Mundial 2026: \"Con el VAR es muy difícil\"",
+      "link": "https://expansion.mx/tendencias/2026/07/11/argentina-niega-favoritismo-arbitral-en-el-mundial-2026",
+      "source": "Expansion MX",
+      "pub": "Sat, 11 Jul 2026 19:56:27 GMT"
+    },
+    {
+      "title": "Las 2 empresas de Noruega que operan en México: generan miles de millones y cientos de empleos",
+      "link": "https://expansion.mx/empresas/2026/07/11/empresas-noruega-mexico-ranking-expansion-2026",
+      "source": "Expansion MX",
+      "pub": "Sat, 11 Jul 2026 18:11:35 GMT"
+    },
+    {
       "title": "Apple presenta demanda contra OpenAI por supuesto robo de secretos empresariales",
       "link": "https://expansion.mx/tecnologia/2026/07/11/apple-presenta-demanda-contra-openai-secretos-empresariales",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/economia/2026/07/10/hacienda-aumenta-subsidio-para-magna-y-diesel-premium-sigue-sin-apoyo",
       "source": "Expansion MX",
       "pub": "Sat, 11 Jul 2026 00:14:12 GMT"
-    },
-    {
-      "title": "¿Quién es el dueño de Patio Universidad, la plaza que desafía el dominio de Slim frente a Plaza Universidad",
-      "link": "https://expansion.mx/empresas/2026/07/10/quien-es-dueno-patio-universidad-plaza-frente-slim",
-      "source": "Expansion MX",
-      "pub": "Fri, 10 Jul 2026 23:48:06 GMT"
-    },
-    {
-      "title": "Tras los incidentes en el Interoceánico, la carga ferroviaria exige reglas para convivir con los trenes de pasajeros",
-      "link": "https://expansion.mx/empresas/2026/07/10/trenes-pasajeros-carga-operacion-industria-ferroviaria",
-      "source": "Expansion MX",
-      "pub": "Fri, 10 Jul 2026 22:28:20 GMT"
     }
   ]
 }
