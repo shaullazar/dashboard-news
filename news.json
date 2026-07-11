@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T22:38:01.438032+00:00",
+  "updated": "2026-07-11T23:34:01.464448+00:00",
   "colombia": [
     {
       "title": "Colombia go out on penalties against the Swiss",
@@ -64,18 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Las 2 empresas de Noruega que operan en México: generan miles de millones y cientos de empleos",
-      "link": "https://expansion.mx/empresas/2026/07/11/empresas-noruega-mexico-ranking-expansion-2026",
-      "source": "Expansion MX",
-      "pub": "Sat, 11 Jul 2026 18:11:35 GMT"
-    },
-    {
-      "title": "Apple presenta demanda contra OpenAI por supuesto robo de secretos empresariales",
-      "link": "https://expansion.mx/tecnologia/2026/07/11/apple-presenta-demanda-contra-openai-secretos-empresariales",
-      "source": "Expansion MX",
-      "pub": "Sat, 11 Jul 2026 17:07:50 GMT"
-    },
-    {
       "title": "Muere Jayden Adams, mediocampista de Sudáfrica que enfrentó a México en el Mundial 2026",
       "link": "https://expansion.mx/tendencias/2026/07/11/jayden-adams-muere-25-anos-tras-mundial-2026",
       "source": "Expansion MX",
@@ -100,6 +88,12 @@
       "pub": "Sat, 11 Jul 2026 14:30:58 GMT"
     },
     {
+      "title": "Apple presenta demanda contra OpenAI por supuesto robo de secretos empresariales",
+      "link": "https://expansion.mx/https:/expansion.mx/tecnologia/2026/07/10/apple-presenta-demanda-contra-openai-secretos-empresariales",
+      "source": "Expansion MX",
+      "pub": "Sat, 11 Jul 2026 01:07:50 GMT"
+    },
+    {
       "title": "La mujer más poderosa del mercado de fichajes: representa a Haaland y a Gilberto Mora",
       "link": "https://expansion.mx/tendencias/2026/07/10/quien-es-rafaela-pimenta-representa-haaland-mora",
       "source": "Expansion MX",
@@ -122,6 +116,12 @@
       "link": "https://expansion.mx/empresas/2026/07/10/quien-es-dueno-patio-universidad-plaza-frente-slim",
       "source": "Expansion MX",
       "pub": "Fri, 10 Jul 2026 23:48:06 GMT"
+    },
+    {
+      "title": "Tras los incidentes en el Interoceánico, la carga ferroviaria exige reglas para convivir con los trenes de pasajeros",
+      "link": "https://expansion.mx/empresas/2026/07/10/trenes-pasajeros-carga-operacion-industria-ferroviaria",
+      "source": "Expansion MX",
+      "pub": "Fri, 10 Jul 2026 22:28:20 GMT"
     }
   ]
 }
