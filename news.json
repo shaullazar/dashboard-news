@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T21:59:57.358821+00:00",
+  "updated": "2026-07-12T22:50:53.987011+00:00",
   "colombia": [
     {
       "title": "Colombia go out on penalties against the Swiss",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "El número de muertos por los sismos en Venezuela sube a casi 4,500 personas",
+      "link": "https://expansion.mx/mundo/2026/07/12/el-numero-de-muertos-por-los-sismos-en-venezuela-sube-a-casi-4-500-personas",
+      "source": "Expansion MX",
+      "pub": "Sun, 12 Jul 2026 21:34:41 GMT"
+    },
+    {
       "title": "Irán anuncia cierre del estrecho de Ormuz y bombardea el Golfo en respuesta a ataques de EU",
       "link": "https://expansion.mx/mundo/2026/07/12/iran-anuncia-cierre-del-estrecho-de-ormuz-y-bombardea-el-golfo-en-respuesta-a-ataques-de-eu",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/07/11/empresas-noruega-mexico-ranking-expansion-2026",
       "source": "Expansion MX",
       "pub": "Sat, 11 Jul 2026 18:11:35 GMT"
-    },
-    {
-      "title": "Apple presenta demanda contra OpenAI por supuesto robo de secretos empresariales",
-      "link": "https://expansion.mx/tecnologia/2026/07/11/apple-presenta-demanda-contra-openai-secretos-empresariales",
-      "source": "Expansion MX",
-      "pub": "Sat, 11 Jul 2026 17:07:50 GMT"
     }
   ]
 }
