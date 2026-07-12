@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T10:41:29.839427+00:00",
+  "updated": "2026-07-12T11:42:17.274617+00:00",
   "colombia": [
     {
       "title": "Colombia go out on penalties against the Swiss",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "¿Cuánto cuesta la batería de un carro eléctrico? La pieza que elevó el precio de Olinia",
+      "link": "https://expansion.mx/empresas/2026/07/12/cuanto-cuesta-la-bateria-para-auto-electrico",
+      "source": "Expansion MX",
+      "pub": "Sun, 12 Jul 2026 06:30:27 GMT"
+    },
+    {
+      "title": "Así quedaron las semifinales del Mundial 2026: ¿cuándo se juegan y si van por TV abierta?",
+      "link": "https://expansion.mx/tendencias/2026/07/11/semifinales-mundial-2026-fechas-horarios-tv-abierta",
+      "source": "Expansion MX",
+      "pub": "Sun, 12 Jul 2026 03:46:22 GMT"
+    },
+    {
       "title": "¿Quién es el dueño de Aramco, la petrolera del rey de Arabia Saudita que patrocina el Mundial 2026?",
       "link": "https://expansion.mx/empresas/2026/07/06/quien-es-dueno-aramco-la-petrolera-del-mundial-2026",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/mercadotecnia/2026/07/11/haaland-marcas-marketing-mundial-2026",
       "source": "Expansion MX",
       "pub": "Sat, 11 Jul 2026 15:48:05 GMT"
-    },
-    {
-      "title": "¿Van a pasar el partido de Inglaterra vs. Noruega en TV abierta y a qué hora es el juego en México?",
-      "link": "https://expansion.mx/tendencias/2026/07/11/inglaterra-vs-noruega-tv-abierta-a-que-hora-es",
-      "source": "Expansion MX",
-      "pub": "Sat, 11 Jul 2026 14:30:58 GMT"
-    },
-    {
-      "title": "La mujer más poderosa del mercado de fichajes: representa a Haaland y a Gilberto Mora",
-      "link": "https://expansion.mx/tendencias/2026/07/10/quien-es-rafaela-pimenta-representa-haaland-mora",
-      "source": "Expansion MX",
-      "pub": "Sat, 11 Jul 2026 00:27:47 GMT"
     }
   ]
 }
