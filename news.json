@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T16:09:31.103276+00:00",
+  "updated": "2026-07-12T17:13:22.311027+00:00",
   "colombia": [
     {
       "title": "Colombia go out on penalties against the Swiss",
@@ -64,12 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Nu ya es banco: clientes pierden beneficio fiscal, pero ganan productos",
-      "link": "https://expansion.mx/finanzas-personales/2026/07/12/nu-ya-es-banco-clientes-pierden-beneficio-fiscal-pero-ganan-productos",
-      "source": "Expansion MX",
-      "pub": "Sun, 12 Jul 2026 13:48:29 GMT"
-    },
-    {
       "title": "¿Cuánto cuesta la batería de un carro eléctrico? La pieza que elevó el precio de Olinia",
       "link": "https://expansion.mx/empresas/2026/07/12/cuanto-cuesta-la-bateria-para-auto-electrico",
       "source": "Expansion MX",
@@ -122,6 +116,12 @@
       "link": "https://expansion.mx/tendencias/2026/07/11/se-podra-ver-argentina-vs-suiza-tv-abierta",
       "source": "Expansion MX",
       "pub": "Sat, 11 Jul 2026 16:00:04 GMT"
+    },
+    {
+      "title": "El día que el jugador Erling Haaland se convirtió en el mejor brief de las marcas",
+      "link": "https://expansion.mx/mercadotecnia/2026/07/11/haaland-marcas-marketing-mundial-2026",
+      "source": "Expansion MX",
+      "pub": "Sat, 11 Jul 2026 15:48:05 GMT"
     }
   ]
 }
