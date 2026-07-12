@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T01:07:25.352175+00:00",
+  "updated": "2026-07-12T04:33:14.353874+00:00",
   "colombia": [
     {
       "title": "Colombia go out on penalties against the Swiss",
@@ -64,12 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "¿Quién es el dueño de Aramco, la petrolera del rey de Arabia Saudita que patrocina el Mundial 2026?",
-      "link": "https://expansion.mx/empresas/2026/07/06/quien-es-dueno-aramco-la-petrolera-del-mundial-2026",
-      "source": "Expansion MX",
-      "pub": "Sat, 11 Jul 2026 21:39:46 GMT"
-    },
-    {
       "title": "Venezuela eleva a 4,333 los muertos por terremotos y prepara plan para reconstruir viviendas",
       "link": "https://expansion.mx/mundo/2026/07/11/terremotos-venezuela-dejan-mas-de-4300-muertos",
       "source": "Expansion MX",
@@ -122,6 +116,12 @@
       "link": "https://expansion.mx/tendencias/2026/07/10/quien-es-rafaela-pimenta-representa-haaland-mora",
       "source": "Expansion MX",
       "pub": "Sat, 11 Jul 2026 00:27:47 GMT"
+    },
+    {
+      "title": "¿Qué pasará con mi cuenta Nu y los rendimientos en las 'Cajitas'?",
+      "link": "https://expansion.mx/finanzas-personales/2026/07/10/que-pasara-con-mi-cuenta-nu-y-los-rendimientos-en-las-cajitas",
+      "source": "Expansion MX",
+      "pub": "Sat, 11 Jul 2026 00:21:24 GMT"
     }
   ]
 }
