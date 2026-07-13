@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T15:48:21.684664+00:00",
+  "updated": "2026-07-13T17:43:44.075912+00:00",
   "colombia": [
     {
       "title": "Colombia go out on penalties against the Swiss",
@@ -64,6 +64,42 @@
   ],
   "mexico": [
     {
+      "title": "El alcohol adulterado empieza mucho antes de la botella",
+      "link": "https://expansion.mx/opinion/2026/07/13/el-alcohol-adulterado-empieza-mucho-antes-de-la-botella",
+      "source": "Expansion MX",
+      "pub": "Mon, 13 Jul 2026 12:05:45 GMT"
+    },
+    {
+      "title": "Nos entregamos al algoritmo a cambio de la comunidad",
+      "link": "https://expansion.mx/opinion/2026/07/13/nos-entregamos-al-algoritmo-a-cambio-de-la-comunidad",
+      "source": "Expansion MX",
+      "pub": "Mon, 13 Jul 2026 12:05:19 GMT"
+    },
+    {
+      "title": "La falta de un documento frena el acceso al empleo de los refugiados en México",
+      "link": "https://expansion.mx/mundo/2026/07/13/obstaculos-para-personas-refugiadas-empleo",
+      "source": "Expansion MX",
+      "pub": "Mon, 13 Jul 2026 11:55:56 GMT"
+    },
+    {
+      "title": "Softtek prepara el relevo de su fundadora Blanca Treviño en plena reinvención de la industria por la IA",
+      "link": "https://expansion.mx/empresas/2026/07/13/softtek-cambiara-ceo-blanca-trevino",
+      "source": "Expansion MX",
+      "pub": "Mon, 13 Jul 2026 11:55:52 GMT"
+    },
+    {
+      "title": "Todos hablan de la crisis de la RAM, pero la siguiente batalla de la IA será por la fibra óptica",
+      "link": "https://expansion.mx/tecnologia/2026/07/13/fibra-optica-siguiente-lista-crisis-chips-ram",
+      "source": "Expansion MX",
+      "pub": "Mon, 13 Jul 2026 11:55:23 GMT"
+    },
+    {
+      "title": "Cinco potencias, un mismo destino: la inversión manufacturera apuesta por México",
+      "link": "https://expansion.mx/economia/2026/07/13/mexico-inversion-manufacturera-potencias",
+      "source": "Expansion MX",
+      "pub": "Mon, 13 Jul 2026 11:55:14 GMT"
+    },
+    {
       "title": "El número de muertos por los sismos en Venezuela sube a casi 4,500 personas",
       "link": "https://expansion.mx/mundo/2026/07/12/el-numero-de-muertos-por-los-sismos-en-venezuela-sube-a-casi-4-500-personas",
       "source": "Expansion MX",
@@ -86,42 +122,6 @@
       "link": "https://expansion.mx/finanzas-personales/2026/07/12/nu-ya-es-banco-clientes-pierden-beneficio-fiscal-pero-ganan-productos",
       "source": "Expansion MX",
       "pub": "Sun, 12 Jul 2026 13:48:29 GMT"
-    },
-    {
-      "title": "¿Cuánto cuesta la batería de un carro eléctrico? La pieza que elevó el precio de Olinia",
-      "link": "https://expansion.mx/empresas/2026/07/12/cuanto-cuesta-la-bateria-para-auto-electrico",
-      "source": "Expansion MX",
-      "pub": "Sun, 12 Jul 2026 06:30:27 GMT"
-    },
-    {
-      "title": "Así quedaron las semifinales del Mundial 2026: ¿cuándo se juegan y si van por TV abierta?",
-      "link": "https://expansion.mx/tendencias/2026/07/11/semifinales-mundial-2026-fechas-horarios-tv-abierta",
-      "source": "Expansion MX",
-      "pub": "Sun, 12 Jul 2026 03:46:22 GMT"
-    },
-    {
-      "title": "¿Quién es el dueño de Aramco, la petrolera del rey de Arabia Saudita que patrocina el Mundial 2026?",
-      "link": "https://expansion.mx/empresas/2026/07/06/quien-es-dueno-aramco-la-petrolera-del-mundial-2026",
-      "source": "Expansion MX",
-      "pub": "Sat, 11 Jul 2026 21:39:46 GMT"
-    },
-    {
-      "title": "Venezuela eleva a 4,333 los muertos por terremotos y prepara plan para reconstruir viviendas",
-      "link": "https://expansion.mx/mundo/2026/07/11/terremotos-venezuela-dejan-mas-de-4300-muertos",
-      "source": "Expansion MX",
-      "pub": "Sat, 11 Jul 2026 21:07:55 GMT"
-    },
-    {
-      "title": "Argentina niega favoritismo arbitral en el Mundial 2026: \"Con el VAR es muy difícil\"",
-      "link": "https://expansion.mx/tendencias/2026/07/11/argentina-niega-favoritismo-arbitral-en-el-mundial-2026",
-      "source": "Expansion MX",
-      "pub": "Sat, 11 Jul 2026 19:56:27 GMT"
-    },
-    {
-      "title": "Las 2 empresas de Noruega que operan en México: generan miles de millones y cientos de empleos",
-      "link": "https://expansion.mx/empresas/2026/07/11/empresas-noruega-mexico-ranking-expansion-2026",
-      "source": "Expansion MX",
-      "pub": "Sat, 11 Jul 2026 18:11:35 GMT"
     }
   ]
 }
