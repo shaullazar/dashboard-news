@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T17:43:44.075912+00:00",
+  "updated": "2026-07-13T19:04:18.964501+00:00",
   "colombia": [
     {
       "title": "Colombia go out on penalties against the Swiss",
@@ -64,6 +64,24 @@
   ],
   "mexico": [
     {
+      "title": "Tras 100 partidos del Mundial 2026: los gigantes caídos, las sorpresas y los favoritos al título",
+      "link": "https://expansion.mx/tendencias/2026/07/13/mundial-2026-balance-100-partidos-y-semifinales",
+      "source": "Expansion MX",
+      "pub": "Mon, 13 Jul 2026 15:37:05 GMT"
+    },
+    {
+      "title": "EU cobrará un tasa del 20% para proteger los barcos en el Estrecho de Ormuz",
+      "link": "https://expansion.mx/economia/2026/07/13/eu-cobrara-un-tasa-del-20-para-proteger-los-barcos-en-el-estrecho-de-ormuz",
+      "source": "Expansion MX",
+      "pub": "Mon, 13 Jul 2026 15:32:24 GMT"
+    },
+    {
+      "title": "¿Qué partidos de semifinales del Mundial 2026 van por TV abierta y cuándo se juegan?",
+      "link": "https://expansion.mx/tendencias/2026/07/13/partidos-semifinal-mundial-2026-pasan-tv-abierta",
+      "source": "Expansion MX",
+      "pub": "Mon, 13 Jul 2026 15:08:48 GMT"
+    },
+    {
       "title": "El alcohol adulterado empieza mucho antes de la botella",
       "link": "https://expansion.mx/opinion/2026/07/13/el-alcohol-adulterado-empieza-mucho-antes-de-la-botella",
       "source": "Expansion MX",
@@ -98,30 +116,6 @@
       "link": "https://expansion.mx/economia/2026/07/13/mexico-inversion-manufacturera-potencias",
       "source": "Expansion MX",
       "pub": "Mon, 13 Jul 2026 11:55:14 GMT"
-    },
-    {
-      "title": "El número de muertos por los sismos en Venezuela sube a casi 4,500 personas",
-      "link": "https://expansion.mx/mundo/2026/07/12/el-numero-de-muertos-por-los-sismos-en-venezuela-sube-a-casi-4-500-personas",
-      "source": "Expansion MX",
-      "pub": "Sun, 12 Jul 2026 21:34:41 GMT"
-    },
-    {
-      "title": "Irán anuncia cierre del estrecho de Ormuz y bombardea el Golfo en respuesta a ataques de EU",
-      "link": "https://expansion.mx/mundo/2026/07/12/iran-anuncia-cierre-del-estrecho-de-ormuz-y-bombardea-el-golfo-en-respuesta-a-ataques-de-eu",
-      "source": "Expansion MX",
-      "pub": "Sun, 12 Jul 2026 20:37:12 GMT"
-    },
-    {
-      "title": "Muere Lindsey Graham, uno de los grandes defensores de Trump y de Israel, a los 71 años",
-      "link": "https://expansion.mx/mundo/2026/07/12/muere-lindsay-graham-uno-de-los-grandes-defensores-de-trump",
-      "source": "Expansion MX",
-      "pub": "Sun, 12 Jul 2026 18:31:10 GMT"
-    },
-    {
-      "title": "Nu ya es banco: clientes pierden beneficio fiscal, pero ganan productos",
-      "link": "https://expansion.mx/finanzas-personales/2026/07/12/nu-ya-es-banco-clientes-pierden-beneficio-fiscal-pero-ganan-productos",
-      "source": "Expansion MX",
-      "pub": "Sun, 12 Jul 2026 13:48:29 GMT"
     }
   ]
 }
