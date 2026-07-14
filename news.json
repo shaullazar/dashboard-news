@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T05:42:40.559028+00:00",
+  "updated": "2026-07-14T07:27:51.625727+00:00",
   "colombia": [
     {
       "title": "Colombia go out on penalties against the Swiss",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "No solo Nu: estas apps financieras también quieren convertirse en banco y operar en México",
+      "link": "https://expansion.mx/empresas/2026/07/13/no-solo-nu-apps-financieras-quieren-convertirse-banco",
+      "source": "Expansion MX",
+      "pub": "Mon, 13 Jul 2026 23:55:35 GMT"
+    },
+    {
+      "title": "Vacaciones 2026: ¿Podrás pagar casetas en efectivo durante tu viaje?",
+      "link": "https://expansion.mx/tendencias/2026/07/13/vacaciones-2026-pagar-casetas-en-efectivo-durante-tu-viaje",
+      "source": "Expansion MX",
+      "pub": "Mon, 13 Jul 2026 23:20:27 GMT"
+    },
+    {
       "title": "Venezuela cambia de canciller en plena crisis, nombra a su representante ante EU",
       "link": "https://expansion.mx/mundo/2026/07/13/venezuela-cambia-de-canciller-en-plena-crisis-nombra-a-su-representante-ante-eu",
       "source": "Expansion MX",
@@ -104,18 +116,6 @@
       "link": "https://expansion.mx/mercados/2026/07/13/amexcap-busca-reducir-de-2-anos-a-6-meses-el-tiempo-para-levantar-fondos",
       "source": "Expansion MX",
       "pub": "Mon, 13 Jul 2026 21:25:13 GMT"
-    },
-    {
-      "title": "Trump anuncia el reinicio del bloqueo naval contra los puertos y embarcaciones iraníes",
-      "link": "https://expansion.mx/mundo/2026/07/13/trump-anuncia-el-reinicio-del-bloqueo-naval-contra-los-puertos-y-embarcaciones-iranies",
-      "source": "Expansion MX",
-      "pub": "Mon, 13 Jul 2026 21:11:11 GMT"
-    },
-    {
-      "title": "La FIFA abre la puerta a un Mundial de 64 equipos; así podría cambiar la Copa del Mundo",
-      "link": "https://expansion.mx/tendencias/2026/07/13/como-seria-mundial-64-equipos-asi-serian-partidos",
-      "source": "Expansion MX",
-      "pub": "Mon, 13 Jul 2026 21:07:05 GMT"
     }
   ]
 }
