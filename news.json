@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T12:11:42.425535+00:00",
+  "updated": "2026-07-14T14:10:26.559861+00:00",
   "colombia": [
     {
       "title": "Colombia go out on penalties against the Swiss",
@@ -64,6 +64,36 @@
   ],
   "mexico": [
     {
+      "title": "El dinero busca energía, certeza y poder productivo",
+      "link": "https://expansion.mx/opinion/2026/07/14/el-dinero-busca-energia-certeza-y-poder-productivo",
+      "source": "Expansion MX",
+      "pub": "Tue, 14 Jul 2026 12:05:47 GMT"
+    },
+    {
+      "title": "Cuando la política decide quién lidera",
+      "link": "https://expansion.mx/opinion/2026/07/14/cuando-la-politica-decide-quien-lidera",
+      "source": "Expansion MX",
+      "pub": "Tue, 14 Jul 2026 12:02:01 GMT"
+    },
+    {
+      "title": "Jugar a la defensiva no basta: de la resiliencia al \"Total Value\" en la cadena de suministro",
+      "link": "https://expansion.mx/opinion/2026/07/14/jugar-a-la-defensiva-no-basta-de-la-resiliencia-al-total-value-en-la-cadena-de-suministro",
+      "source": "Expansion MX",
+      "pub": "Tue, 14 Jul 2026 12:01:58 GMT"
+    },
+    {
+      "title": "Grupos conservadores de EU buscan reabrir el debate sobre el voto femenino",
+      "link": "https://expansion.mx/mundo/2026/07/14/grupos-conservadores-de-eu-buscan-reabrir-el-debate-sobre-el-voto-femenino",
+      "source": "Expansion MX",
+      "pub": "Tue, 14 Jul 2026 11:55:30 GMT"
+    },
+    {
+      "title": "La revisión del T-MEC abre un nuevo frente de EU contra las fresas mexicanas",
+      "link": "https://expansion.mx/economia/2026/07/14/tmec-presion-politica-catigo-fresas-mexicanas",
+      "source": "Expansion MX",
+      "pub": "Tue, 14 Jul 2026 11:55:15 GMT"
+    },
+    {
       "title": "Alsea abre la primera sucursal de Chipotle en Monterrey con precios hasta 20% menores que en EU",
       "link": "https://expansion.mx/empresas/2026/07/13/alsea-abre-chipotle-monterrey-precios-menu-mexico-eu",
       "source": "Expansion MX",
@@ -92,36 +122,6 @@
       "link": "https://expansion.mx/tendencias/2026/07/13/vacaciones-2026-pagar-casetas-en-efectivo-durante-tu-viaje",
       "source": "Expansion MX",
       "pub": "Mon, 13 Jul 2026 23:20:27 GMT"
-    },
-    {
-      "title": "Venezuela cambia de canciller en plena crisis, nombra a su representante ante EU",
-      "link": "https://expansion.mx/mundo/2026/07/13/venezuela-cambia-de-canciller-en-plena-crisis-nombra-a-su-representante-ante-eu",
-      "source": "Expansion MX",
-      "pub": "Mon, 13 Jul 2026 22:57:55 GMT"
-    },
-    {
-      "title": "La Guerra de las Malvinas: el conflicto que convirtió a Argentina e Inglaterra en una rivalidad eterna",
-      "link": "https://expansion.mx/tendencias/2026/07/13/argentina-vs-inglaterra-la-guerra-de-las-malvinas",
-      "source": "Expansion MX",
-      "pub": "Mon, 13 Jul 2026 22:20:13 GMT"
-    },
-    {
-      "title": "Monedas de 10 pesos serán fabricadas con nuevos materiales",
-      "link": "https://expansion.mx/economia/2026/07/13/monedas-de-10-pesos-seran-fabricadas-con-nuevos-materiales",
-      "source": "Expansion MX",
-      "pub": "Mon, 13 Jul 2026 22:05:32 GMT"
-    },
-    {
-      "title": "Los envíos de smartphones caen 11% por el auge de la inteligencia artificial",
-      "link": "https://expansion.mx/tecnologia/2026/07/13/envios-smartphones-caen-11-auge-inteligencia-artificial",
-      "source": "Expansion MX",
-      "pub": "Mon, 13 Jul 2026 22:00:49 GMT"
-    },
-    {
-      "title": "Estados Unidos sanciona al Ministerio de Turismo y a otras entidades cubanas",
-      "link": "https://expansion.mx/mundo/2026/07/13/estados-unidos-sanciona-al-ministerio-de-turismo-y-a-otras-entidades-cubanas",
-      "source": "Expansion MX",
-      "pub": "Mon, 13 Jul 2026 21:54:43 GMT"
     }
   ]
 }
