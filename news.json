@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T22:29:52.963198+00:00",
+  "updated": "2026-07-15T23:28:54.922889+00:00",
   "colombia": [
     {
       "title": "Court holds Colombia police responsible for 18-year-old’s death in 2019 protests",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "¿Qué hacen con el dinero de las casetas? Así se reparte lo que pagas en las autopistas",
+      "link": "https://expansion.mx/tendencias/2026/07/15/que-hacen-con-el-dinero-de-las-casetas",
+      "source": "Expansion MX",
+      "pub": "Wed, 15 Jul 2026 22:28:17 GMT"
+    },
+    {
+      "title": "Pemex recupera terreno en gasolineras y concentra casi dos terceras partes del mercado",
+      "link": "https://expansion.mx/empresas/2026/07/15/pemex-concentra-casi-dos-terceras-partes-mercado-gasolinero",
+      "source": "Expansion MX",
+      "pub": "Wed, 15 Jul 2026 22:08:14 GMT"
+    },
+    {
       "title": "Lista la final del Mundial 2026: cuándo y a qué hora juegan España vs Argentina",
       "link": "https://expansion.mx/tendencias/2026/07/15/lista-la-final-del-mundial-2026-cuando-y-a-que-hora-juegan-espana-vs-argentina",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/tecnologia/2026/07/15/reino-unido-propone-toque-de-queda-a-redes",
       "source": "Expansion MX",
       "pub": "Wed, 15 Jul 2026 18:30:51 GMT"
-    },
-    {
-      "title": "Aportaciones voluntarias a la Afore: qué son, para qué sirven y cómo pueden aumentar tu pensión",
-      "link": "https://expansion.mx/finanzas-personales/2026/07/15/aportaciones-voluntarias-afore-que-son-para-que-sirve",
-      "source": "Expansion MX",
-      "pub": "Wed, 15 Jul 2026 18:09:52 GMT"
-    },
-    {
-      "title": "Empresas fantasma, el saqueo gubernamental",
-      "link": "https://expansion.mx/opinion/2026/07/15/empresas-fantasma-el-saqueo-gubernamental",
-      "source": "Expansion MX",
-      "pub": "Wed, 15 Jul 2026 18:00:33 GMT"
     }
   ]
 }
