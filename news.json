@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T19:25:14.883836+00:00",
+  "updated": "2026-07-15T20:29:53.681331+00:00",
   "colombia": [
     {
       "title": "Court holds Colombia police responsible for 18-year-old’s death in 2019 protests",
@@ -64,6 +64,48 @@
   ],
   "mexico": [
     {
+      "title": "Kwid, March o Grand i10: ¿qué hatchback llega más lejos con un tanque de gasolina?",
+      "link": "https://expansion.mx/empresas/2026/07/15/kwid-march-o-grand-i10-que-hatchback-llega-mas-lejos-con-un-tanque-de-gasolina",
+      "source": "Expansion MX",
+      "pub": "Wed, 15 Jul 2026 18:58:18 GMT"
+    },
+    {
+      "title": "El Parlamento de Francia aprueba el derecho a la eutanasia",
+      "link": "https://expansion.mx/mundo/2026/07/15/el-parlamento-de-francia-aprueba-el-derecho-a-la-eutanasia",
+      "source": "Expansion MX",
+      "pub": "Wed, 15 Jul 2026 18:58:11 GMT"
+    },
+    {
+      "title": "Los 7 empresarios y familias que dominan la riqueza en Inglaterra",
+      "link": "https://expansion.mx/empresas/2026/07/15/los-7-empresarios-y-familias-mas-ricos-en-inglaterra",
+      "source": "Expansion MX",
+      "pub": "Wed, 15 Jul 2026 18:49:40 GMT"
+    },
+    {
+      "title": "Cuando la piratería de Tepito ayudó a Argentina a vencer a Inglaterra en el Mundial de México 86",
+      "link": "https://expansion.mx/tendencias/2026/07/15/playera-pirata-tepito-que-salvo-el-argentina-vs-inglaterra",
+      "source": "Expansion MX",
+      "pub": "Wed, 15 Jul 2026 18:35:49 GMT"
+    },
+    {
+      "title": "Reino Unido propone toque de queda a redes sociales para adolescentes",
+      "link": "https://expansion.mx/tecnologia/2026/07/15/reino-unido-propone-toque-de-queda-a-redes",
+      "source": "Expansion MX",
+      "pub": "Wed, 15 Jul 2026 18:30:51 GMT"
+    },
+    {
+      "title": "Aportaciones voluntarias a la Afore: qué son, para qué sirven y cómo pueden aumentar tu pensión",
+      "link": "https://expansion.mx/finanzas-personales/2026/07/15/aportaciones-voluntarias-afore-que-son-para-que-sirve",
+      "source": "Expansion MX",
+      "pub": "Wed, 15 Jul 2026 18:09:52 GMT"
+    },
+    {
+      "title": "Empresas fantasma, el saqueo gubernamental",
+      "link": "https://expansion.mx/opinion/2026/07/15/empresas-fantasma-el-saqueo-gubernamental",
+      "source": "Expansion MX",
+      "pub": "Wed, 15 Jul 2026 18:00:33 GMT"
+    },
+    {
       "title": "La vicepresidenta de Argentina llama a los ingleses \"piratas usurpadores\" previo a la semifinal",
       "link": "https://expansion.mx/mundo/2026/07/15/la-vicepresidenta-de-argentina-llama-a-los-ingleses-piratas-usurpadores-previo-a-la-semifinal",
       "source": "Expansion MX",
@@ -80,48 +122,6 @@
       "link": "https://expansion.mx/tendencias/2026/07/15/argentina-vs-inglaterra-tv-abierta-a-que-hora-es",
       "source": "Expansion MX",
       "pub": "Wed, 15 Jul 2026 14:30:21 GMT"
-    },
-    {
-      "title": "Acaba ciclo escolar sin evaluación ni datos sobre abandono escolar",
-      "link": "https://expansion.mx/podcasts-expansion/expansion-daily/2026/07/15/acaba-ciclo-escolar-sin-evaluacion-datos-abandono-escolar",
-      "source": "Expansion MX",
-      "pub": "Wed, 15 Jul 2026 13:15:14 GMT"
-    },
-    {
-      "title": "El Estado también tiene un límite financiero… ¡cuidado!",
-      "link": "https://expansion.mx/opinion/2026/07/15/el-estado-tambien-tiene-un-limite-financiero-cuidado",
-      "source": "Expansion MX",
-      "pub": "Wed, 15 Jul 2026 12:04:40 GMT"
-    },
-    {
-      "title": "¿Y por qué no?, el Mundial 2026 en redes",
-      "link": "https://expansion.mx/opinion/2026/07/15/y-por-que-no-el-mundial-2026-en-redes",
-      "source": "Expansion MX",
-      "pub": "Wed, 15 Jul 2026 12:01:55 GMT"
-    },
-    {
-      "title": "Earth-IoT: La startup mexicana que quiere convertirse en el Uber del campo",
-      "link": "https://expansion.mx/tecnologia/2026/07/15/earth-iot-startup-mexicana-que-es-uber-del-campo",
-      "source": "Expansion MX",
-      "pub": "Wed, 15 Jul 2026 11:55:59 GMT"
-    },
-    {
-      "title": "Pescadores afectados por derrame de Pemex presentan amparo para obtener indemnizaciones",
-      "link": "https://expansion.mx/empresas/2026/07/15/pescadores-afectados-derrame-pemex-presentan-amparo",
-      "source": "Expansion MX",
-      "pub": "Wed, 15 Jul 2026 11:55:32 GMT"
-    },
-    {
-      "title": "Cinco años después del 11J, en Cuba las protestas aumentan y la crisis se profundiza",
-      "link": "https://expansion.mx/mundo/2026/07/15/cinco-anos-despues-del-11j-en-cuba-las-protestas-aumentan-y-la-crisis-se-profundiza",
-      "source": "Expansion MX",
-      "pub": "Wed, 15 Jul 2026 11:55:09 GMT"
-    },
-    {
-      "title": "México gana terreno en alta tecnología: EU eleva 43% sus compras y supera a la Unión Europea",
-      "link": "https://expansion.mx/economia/2026/07/15/eu-compra-mas-alta-tecnologia-a-mexico-que-a-union-europea",
-      "source": "Expansion MX",
-      "pub": "Wed, 15 Jul 2026 11:55:04 GMT"
     }
   ]
 }
