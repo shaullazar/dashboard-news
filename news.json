@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T02:49:48.770404+00:00",
+  "updated": "2026-07-15T05:17:49.797433+00:00",
   "colombia": [
     {
       "title": "Court holds Colombia police responsible for 18-year-old’s death in 2019 protests",
@@ -64,6 +64,36 @@
   ],
   "mexico": [
     {
+      "title": "Invierten 10 millones de pesos para evitar que mipymes mueran por ataques cibernéticos",
+      "link": "https://expansion.mx/economia/2026/07/14/invierten-10-millones-de-pesos-para-evitar-que-mipymes-mueran-por-ataques-ciberneticos",
+      "source": "Expansion MX",
+      "pub": "Wed, 15 Jul 2026 01:08:04 GMT"
+    },
+    {
+      "title": "Inglaterra vs Argentina: todos sus duelos en Mundiales, resultados y la historia de una rivalidad eterna",
+      "link": "https://expansion.mx/tendencias/2026/07/14/inglaterra-vs-argentina-resultados-enfrentamientos-mundiales",
+      "source": "Expansion MX",
+      "pub": "Wed, 15 Jul 2026 01:07:24 GMT"
+    },
+    {
+      "title": "El Niño sacude las cosechas y amenaza con elevar el precio del desayuno",
+      "link": "https://expansion.mx/mercados/2026/07/14/el-nino-sacude-las-cosechas-y-amenaza-con-elevar-el-precio-del-desayuno",
+      "source": "Expansion MX",
+      "pub": "Wed, 15 Jul 2026 01:03:22 GMT"
+    },
+    {
+      "title": "El gasto oculto de la IA: empresas desvían su presupuesto de software a centros de datos",
+      "link": "https://expansion.mx/tecnologia/2026/07/14/el-gasto-oculto-de-la-ia-empresas-desvian-presupuesto",
+      "source": "Expansion MX",
+      "pub": "Wed, 15 Jul 2026 00:55:30 GMT"
+    },
+    {
+      "title": "Usuarios pierden control de su gasto en streaming pese a regulación sobre renovaciones automáticas",
+      "link": "https://expansion.mx/empresas/2026/07/14/streaming-notificacion-cobro-plataformas",
+      "source": "Expansion MX",
+      "pub": "Wed, 15 Jul 2026 00:26:38 GMT"
+    },
+    {
       "title": "Huachicol repunta en 2026 con una toma clandestina cada 51 minutos",
       "link": "https://expansion.mx/empresas/2026/07/14/huachicol-repunta-2026-toma-clandestina-cada-51-minutos",
       "source": "Expansion MX",
@@ -92,36 +122,6 @@
       "link": "https://expansion.mx/mundo/2026/07/14/brote-de-ciclosporiasis-que-es-sintomas",
       "source": "Expansion MX",
       "pub": "Tue, 14 Jul 2026 22:36:36 GMT"
-    },
-    {
-      "title": "Estos pensionados del IMSS aún deben hacer el trámite de supervivencia para seguir cobrando su pensión",
-      "link": "https://expansion.mx/finanzas-personales/2026/07/14/tramite-de-supervivencia-para-cobrar-pension-imss",
-      "source": "Expansion MX",
-      "pub": "Tue, 14 Jul 2026 22:28:56 GMT"
-    },
-    {
-      "title": "BBVA vs. Santander: la batalla de los bancos españoles en México por ingresos, empleos y sucursales",
-      "link": "https://expansion.mx/economia/2026/07/14/bbva-vs-santander-bancos-espanoles-en-mexico",
-      "source": "Expansion MX",
-      "pub": "Tue, 14 Jul 2026 22:19:53 GMT"
-    },
-    {
-      "title": "Los cinco sedanes más vendidos en México en 2026",
-      "link": "https://expansion.mx/empresas/2026/07/14/cinco-sedanes-mas-vendidos-en-mexico-en-2026",
-      "source": "Expansion MX",
-      "pub": "Tue, 14 Jul 2026 22:15:16 GMT"
-    },
-    {
-      "title": "España elimina a Francia y se convierte en el primer finalista del Mundial 2026",
-      "link": "https://expansion.mx/tendencias/2026/07/14/espana-elimina-a-francia-y-se-convierte-en-el-primer-finalista-del-mundial-2026",
-      "source": "Expansion MX",
-      "pub": "Tue, 14 Jul 2026 21:03:56 GMT"
-    },
-    {
-      "title": "Meta enfrenta demanda por presunto uso de IA para seleccionar despidos",
-      "link": "https://expansion.mx/tecnologia/2026/07/14/meta-enfrenta-demanda-por-uso-ia-seleccionar-despidos",
-      "source": "Expansion MX",
-      "pub": "Tue, 14 Jul 2026 21:00:13 GMT"
     }
   ]
 }
