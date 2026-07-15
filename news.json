@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T15:51:12.067497+00:00",
+  "updated": "2026-07-15T16:58:33.774193+00:00",
   "colombia": [
     {
       "title": "Court holds Colombia police responsible for 18-year-old’s death in 2019 protests",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "La vicepresidenta de Argentina llama a los ingleses \"piratas usurpadores\" previo a la semifinal",
+      "link": "https://expansion.mx/mundo/2026/07/15/la-vicepresidenta-de-argentina-llama-a-los-ingleses-piratas-usurpadores-previo-a-la-semifinal",
+      "source": "Expansion MX",
+      "pub": "Wed, 15 Jul 2026 16:24:58 GMT"
+    },
+    {
       "title": "China acaba con los \"amantes\" y amistades generadas con IA",
       "link": "https://expansion.mx/tecnologia/2026/07/15/china-prohibe-amantes-generados-ia",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/economia/2026/07/15/eu-compra-mas-alta-tecnologia-a-mexico-que-a-union-europea",
       "source": "Expansion MX",
       "pub": "Wed, 15 Jul 2026 11:55:04 GMT"
-    },
-    {
-      "title": "Invierten 10 millones de pesos para evitar que mipymes mueran por ataques cibernéticos",
-      "link": "https://expansion.mx/economia/2026/07/14/invierten-10-millones-de-pesos-para-evitar-que-mipymes-mueran-por-ataques-ciberneticos",
-      "source": "Expansion MX",
-      "pub": "Wed, 15 Jul 2026 01:08:04 GMT"
     }
   ]
 }
