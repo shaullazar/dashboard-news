@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T21:30:00.501164+00:00",
+  "updated": "2026-07-15T22:29:52.963198+00:00",
   "colombia": [
     {
       "title": "Court holds Colombia police responsible for 18-year-old’s death in 2019 protests",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Lista la final del Mundial 2026: cuándo y a qué hora juegan España vs Argentina",
+      "link": "https://expansion.mx/tendencias/2026/07/15/lista-la-final-del-mundial-2026-cuando-y-a-que-hora-juegan-espana-vs-argentina",
+      "source": "Expansion MX",
+      "pub": "Wed, 15 Jul 2026 21:03:14 GMT"
+    },
+    {
       "title": "Las oportunidades laborales que puedes perder por no hablar inglés",
       "link": "https://expansion.mx/carrera/2026/07/15/ingles-filtro-entrevistas-trabajo",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/opinion/2026/07/15/empresas-fantasma-el-saqueo-gubernamental",
       "source": "Expansion MX",
       "pub": "Wed, 15 Jul 2026 18:00:33 GMT"
-    },
-    {
-      "title": "La vicepresidenta de Argentina llama a los ingleses \"piratas usurpadores\" previo a la semifinal",
-      "link": "https://expansion.mx/mundo/2026/07/15/la-vicepresidenta-de-argentina-llama-a-los-ingleses-piratas-usurpadores-previo-a-la-semifinal",
-      "source": "Expansion MX",
-      "pub": "Wed, 15 Jul 2026 16:24:58 GMT"
     }
   ]
 }
