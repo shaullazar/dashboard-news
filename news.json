@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T20:29:53.681331+00:00",
+  "updated": "2026-07-15T21:30:00.501164+00:00",
   "colombia": [
     {
       "title": "Court holds Colombia police responsible for 18-year-old’s death in 2019 protests",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Las oportunidades laborales que puedes perder por no hablar inglés",
+      "link": "https://expansion.mx/carrera/2026/07/15/ingles-filtro-entrevistas-trabajo",
+      "source": "Expansion MX",
+      "pub": "Wed, 15 Jul 2026 20:24:33 GMT"
+    },
+    {
+      "title": "GML prepara exportación de vehículos JAC hechos en México hacia Latinoamérica",
+      "link": "https://expansion.mx/empresas/2026/07/15/gml-exportacion-vehiculos-jac-hacia-latinoamerica",
+      "source": "Expansion MX",
+      "pub": "Wed, 15 Jul 2026 19:35:30 GMT"
+    },
+    {
       "title": "Kwid, March o Grand i10: ¿qué hatchback llega más lejos con un tanque de gasolina?",
       "link": "https://expansion.mx/empresas/2026/07/15/kwid-march-o-grand-i10-que-hatchback-llega-mas-lejos-con-un-tanque-de-gasolina",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/mundo/2026/07/15/la-vicepresidenta-de-argentina-llama-a-los-ingleses-piratas-usurpadores-previo-a-la-semifinal",
       "source": "Expansion MX",
       "pub": "Wed, 15 Jul 2026 16:24:58 GMT"
-    },
-    {
-      "title": "China acaba con los \"amantes\" y amistades generadas con IA",
-      "link": "https://expansion.mx/tecnologia/2026/07/15/china-prohibe-amantes-generados-ia",
-      "source": "Expansion MX",
-      "pub": "Wed, 15 Jul 2026 14:40:07 GMT"
-    },
-    {
-      "title": "¿Van a pasar el partido de Argentina vs. Inglaterra en TV abierta y a qué hora es el juego en México?",
-      "link": "https://expansion.mx/tendencias/2026/07/15/argentina-vs-inglaterra-tv-abierta-a-que-hora-es",
-      "source": "Expansion MX",
-      "pub": "Wed, 15 Jul 2026 14:30:21 GMT"
     }
   ]
 }
