@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T06:07:58.830942+00:00",
+  "updated": "2026-07-16T08:29:38.317238+00:00",
   "colombia": [
     {
       "title": "Court holds Colombia police responsible for 18-year-old’s death in 2019 protests",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Vacaciones 2026: el seguro que necesitas para viajar por carretera y evitar gastos imprevistos",
+      "link": "https://expansion.mx/tendencias/2026/07/15/vacaciones-2026-seguro-necesitas-viajar-carretera",
+      "source": "Expansion MX",
+      "pub": "Thu, 16 Jul 2026 01:13:02 GMT"
+    },
+    {
       "title": "La Bota de Oro del Mundial 2026 se puede definir entre Messi o Mbappé",
       "link": "https://expansion.mx/tendencias/2026/07/15/bota-de-oro-mundial-2026-entre-messi-o-mbappe",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/mundo/2026/07/15/el-parlamento-de-francia-aprueba-el-derecho-a-la-eutanasia",
       "source": "Expansion MX",
       "pub": "Wed, 15 Jul 2026 18:58:11 GMT"
-    },
-    {
-      "title": "Los 7 empresarios y familias que dominan la riqueza en Inglaterra",
-      "link": "https://expansion.mx/empresas/2026/07/15/los-7-empresarios-y-familias-mas-ricos-en-inglaterra",
-      "source": "Expansion MX",
-      "pub": "Wed, 15 Jul 2026 18:49:40 GMT"
     }
   ]
 }
