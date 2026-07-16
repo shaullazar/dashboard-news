@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T16:44:13.243353+00:00",
+  "updated": "2026-07-16T17:52:13.539416+00:00",
   "colombia": [
     {
       "title": "Court holds Colombia police responsible for 18-year-old’s death in 2019 protests",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Evaluación de GAFI pone en la mira a 100,000 empresas con actividad vulnerable",
+      "link": "https://expansion.mx/economia/2026/07/16/evaluacion-de-gafi-pone-en-la-mira-a-100-000-empresas-con-actividad-vulnerable",
+      "source": "Expansion MX",
+      "pub": "Thu, 16 Jul 2026 16:00:57 GMT"
+    },
+    {
       "title": "TSMC, la empresa más grande de chips, invertirá 100,000 mdd en EU",
       "link": "https://expansion.mx/tecnologia/2026/07/16/tsmc-invertira-100-000-mdd-en-eu",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/finanzas-personales/2026/07/16/comprar-o-rentar-estrategia-para-ahorrar-para-una-casa",
       "source": "Expansion MX",
       "pub": "Thu, 16 Jul 2026 11:55:35 GMT"
-    },
-    {
-      "title": "Las Afores administran 8.95 billones de pesos y ya superan al crédito de la banca",
-      "link": "https://expansion.mx/economia/2026/07/16/las-afores-administran-8-95-billones-de-pesos-y-ya-superan-al-credito-de-la-banca",
-      "source": "Expansion MX",
-      "pub": "Thu, 16 Jul 2026 11:55:24 GMT"
     }
   ]
 }
