@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T08:29:38.317238+00:00",
+  "updated": "2026-07-16T10:26:30.425119+00:00",
   "colombia": [
     {
       "title": "Court holds Colombia police responsible for 18-year-old’s death in 2019 protests",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Suben 10% los 'montachoques' en 2026 y aseguradoras piden tipificar el delito en todo el país",
+      "link": "https://expansion.mx/economia/2026/07/15/suben-10-los-montachoques-en-2026-y-aseguradoras-piden-tipificar-el-delito-en-todo-el-pais",
+      "source": "Expansion MX",
+      "pub": "Thu, 16 Jul 2026 04:30:13 GMT"
+    },
+    {
       "title": "Vacaciones 2026: el seguro que necesitas para viajar por carretera y evitar gastos imprevistos",
       "link": "https://expansion.mx/tendencias/2026/07/15/vacaciones-2026-seguro-necesitas-viajar-carretera",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/07/15/kwid-march-o-grand-i10-que-hatchback-llega-mas-lejos-con-un-tanque-de-gasolina",
       "source": "Expansion MX",
       "pub": "Wed, 15 Jul 2026 18:58:18 GMT"
-    },
-    {
-      "title": "El Parlamento de Francia aprueba el derecho a la eutanasia",
-      "link": "https://expansion.mx/mundo/2026/07/15/el-parlamento-de-francia-aprueba-el-derecho-a-la-eutanasia",
-      "source": "Expansion MX",
-      "pub": "Wed, 15 Jul 2026 18:58:11 GMT"
     }
   ]
 }
