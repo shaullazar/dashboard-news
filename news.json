@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T22:35:03.443227+00:00",
+  "updated": "2026-07-16T23:30:44.946513+00:00",
   "colombia": [
     {
       "title": "Court holds Colombia police responsible for 18-year-old’s death in 2019 protests",
@@ -64,36 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Los cinco destinos turísticos de México que reciben más visitantes nacionales e internacionales",
-      "link": "https://expansion.mx/tendencias/2026/07/16/cinco-destinos-turisticos-mexico-reciben-mas-visitantes",
-      "source": "Expansion MX",
-      "pub": "Thu, 16 Jul 2026 21:27:29 GMT"
-    },
-    {
-      "title": "EU impone aranceles a Brasil en 25% en plenas campañas electorales",
-      "link": "https://expansion.mx/mundo/2026/07/16/eu-impone-aranceles-a-brasil-en-25-en-plenas-campanas-electorales",
-      "source": "Expansion MX",
-      "pub": "Thu, 16 Jul 2026 21:16:27 GMT"
-    },
-    {
-      "title": "Exhiben a Stardust, app para registrar el ciclo menstrual, por compartir datos de salud de usuarias",
-      "link": "https://expansion.mx/tecnologia/2026/07/16/stardust-app-menstrual-comparte-datos-salud",
-      "source": "Expansion MX",
-      "pub": "Thu, 16 Jul 2026 20:59:23 GMT"
-    },
-    {
-      "title": "Las opciones para estudiar si no obtuviste un lugar en la UNAM o el IPN",
-      "link": "https://expansion.mx/carrera/2026/07/16/opciones-para-estudiar-si-no-quedas-en-la-unam-o-el-ipn",
-      "source": "Expansion MX",
-      "pub": "Thu, 16 Jul 2026 20:22:28 GMT"
-    },
-    {
-      "title": "JAC 4 se renueva con más equipamiento y apuesta por conquistar a compradores de sedanes con un precio de 369,000 pesos",
-      "link": "https://expansion.mx/empresas/2026/07/16/jac-4-2027-precio-mexico-caracteristicas",
-      "source": "Expansion MX",
-      "pub": "Thu, 16 Jul 2026 20:07:43 GMT"
-    },
-    {
       "title": "Estados Unidos restringe la estadía de periodistas y estudiantes",
       "link": "https://expansion.mx/mundo/2026/07/16/estados-unidos-restringe-la-estadia-de-periodistas-y-estudiantes",
       "source": "Expansion MX",
@@ -122,6 +92,36 @@
       "link": "https://expansion.mx/economia/2026/07/16/evaluacion-de-gafi-pone-en-la-mira-a-100-000-empresas-con-actividad-vulnerable",
       "source": "Expansion MX",
       "pub": "Thu, 16 Jul 2026 16:00:57 GMT"
+    },
+    {
+      "title": "TSMC, la empresa más grande de chips, invertirá 100,000 mdd en EU",
+      "link": "https://expansion.mx/tecnologia/2026/07/16/tsmc-invertira-100-000-mdd-en-eu",
+      "source": "Expansion MX",
+      "pub": "Thu, 16 Jul 2026 14:40:40 GMT"
+    },
+    {
+      "title": "¿La final del Mundial 2026 va por TV abierta? Fecha, horario y dónde verla",
+      "link": "https://expansion.mx/tendencias/2026/07/16/final-del-mundial-2026-pasa-tv-abierta",
+      "source": "Expansion MX",
+      "pub": "Thu, 16 Jul 2026 14:19:14 GMT"
+    },
+    {
+      "title": "El huachicol repunta este año con más de 2,500 tomas clandestinas",
+      "link": "https://expansion.mx/podcasts-expansion/expansion-daily/2026/07/16/huachicol-repunta-mas-2-500-tomas-clandestinas",
+      "source": "Expansion MX",
+      "pub": "Thu, 16 Jul 2026 12:19:21 GMT"
+    },
+    {
+      "title": "La agenda real del segundo semestre: México resiste, el crecimiento sigue esperando",
+      "link": "https://expansion.mx/opinion/2026/07/16/la-agenda-real-del-segundo-semestre-mexico-resiste-el-crecimiento-sigue-esperando",
+      "source": "Expansion MX",
+      "pub": "Thu, 16 Jul 2026 12:07:37 GMT"
+    },
+    {
+      "title": "La IA cambia las reglas, el artista les da sentido",
+      "link": "https://expansion.mx/opinion/2026/07/16/la-ia-cambia-las-reglas-el-artista-les-da-sentido",
+      "source": "Expansion MX",
+      "pub": "Thu, 16 Jul 2026 12:05:19 GMT"
     }
   ]
 }
