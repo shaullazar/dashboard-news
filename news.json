@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T18:42:22.746610+00:00",
+  "updated": "2026-07-17T19:46:03.904982+00:00",
   "colombia": [
     {
       "title": "Court holds Colombia police responsible for 18-year-old’s death in 2019 protests",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Siri salva a Apple y recupera el trono como la empresa más valiosa del mundo",
+      "link": "https://expansion.mx/tecnologia/2026/07/17/siri-salva-a-apple-recupera-trono-empresa-mas-valiosa",
+      "source": "Expansion MX",
+      "pub": "Fri, 17 Jul 2026 16:33:44 GMT"
+    },
+    {
       "title": "FDA vincula lechuga de México con brote de diarrea que ha enfermado a más de 1,600 personas en EU",
       "link": "https://expansion.mx/mundo/2026/07/17/fda-vincula-lechuga-mexico-brote-diarrea-estados-unidos",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/tecnologia/2026/07/17/mexico-invierte-213-veces-menos-que-eu-en-ia",
       "source": "Expansion MX",
       "pub": "Fri, 17 Jul 2026 11:55:47 GMT"
-    },
-    {
-      "title": "Más de 1.8 millones de argentinos viven fuera de su país y México queda fuera del top 10",
-      "link": "https://expansion.mx/mundo/2026/07/17/millones-argentinos-viven-fuera-mexico-no-10-top-destinos",
-      "source": "Expansion MX",
-      "pub": "Fri, 17 Jul 2026 11:55:29 GMT"
     }
   ]
 }
