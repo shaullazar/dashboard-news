@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T21:25:30.926699+00:00",
+  "updated": "2026-07-17T22:10:56.376007+00:00",
   "colombia": [
     {
       "title": "Court holds Colombia police responsible for 18-year-old’s death in 2019 protests",
@@ -64,6 +64,42 @@
   ],
   "mexico": [
     {
+      "title": "Playas MX, la app que te dice dónde puedes nadar estas vacaciones de verano",
+      "link": "https://expansion.mx/tendencias/2026/07/17/playas-mx-app-que-dice-donde-nadar-vacaciones-verano",
+      "source": "Expansion MX",
+      "pub": "Fri, 17 Jul 2026 21:19:59 GMT"
+    },
+    {
+      "title": "La SEP destaca avances clave en educación e inclusión en el ciclo 2025-2026",
+      "link": "https://expansion.mx/tendencias/2026/07/17/sep-destaca-avances-educacion-inclusion-2025-2026",
+      "source": "Expansion MX",
+      "pub": "Fri, 17 Jul 2026 20:16:59 GMT"
+    },
+    {
+      "title": "PlayStation finalmente cobrará en pesos mexicanos tras polémica con Profeco",
+      "link": "https://expansion.mx/tecnologia/2026/07/17/playstation-finalmente-cobrara-en-pesos-mexicanos-tras-polemica-con-profeco",
+      "source": "Expansion MX",
+      "pub": "Fri, 17 Jul 2026 20:15:52 GMT"
+    },
+    {
+      "title": "¿Dónde será la final del Mundial 2026? El estadio de la NFL donde jugarán España y Argentina",
+      "link": "https://expansion.mx/tendencias/2026/07/17/final-mundial-2026-historia-estadio-espana-vs-argentina",
+      "source": "Expansion MX",
+      "pub": "Fri, 17 Jul 2026 19:53:36 GMT"
+    },
+    {
+      "title": "Las 32 plazas comerciales hermanas de Mitikah en CDMX y Edomex: van de Santa Fe a Chimalhuacán",
+      "link": "https://expansion.mx/empresas/2026/07/17/las-32-plazas-hermanas-mitikah-cdmx-edomex",
+      "source": "Expansion MX",
+      "pub": "Fri, 17 Jul 2026 19:52:45 GMT"
+    },
+    {
+      "title": "Kimi 3: la nueva IA China que presiona a OpenAI y Anthropic",
+      "link": "https://expansion.mx/tecnologia/2026/07/17/kimi-3-la-nueva-ia-china-que-presiona-a-openai",
+      "source": "Expansion MX",
+      "pub": "Fri, 17 Jul 2026 19:50:55 GMT"
+    },
+    {
       "title": "Al estilo de la NFL, FIFA entregará anillos a campeones del Mundial 2026",
       "link": "https://expansion.mx/tendencias/2026/07/17/estilo-nfl-entregaran-anillos-campeones-del-mundial-2026",
       "source": "Expansion MX",
@@ -86,42 +122,6 @@
       "link": "https://expansion.mx/mundo/2026/07/17/fda-vincula-lechuga-mexico-brote-diarrea-estados-unidos",
       "source": "Expansion MX",
       "pub": "Fri, 17 Jul 2026 15:41:17 GMT"
-    },
-    {
-      "title": "Pedro Sánchez y Donald Trump vuelven a verse las caras en la final del Mundial entre España y Argentina",
-      "link": "https://expansion.mx/mundo/2026/07/17/pedro-sanchez-donald-trump-final-mundial-2026",
-      "source": "Expansion MX",
-      "pub": "Fri, 17 Jul 2026 15:06:34 GMT"
-    },
-    {
-      "title": "Francia vs. Inglaterra: ¿el partido por el tercer lugar del Mundial va por TV abierta? Fecha, horario y dónde verlo",
-      "link": "https://expansion.mx/tendencias/2026/07/17/francia-vs-inglaterra-mundial-2026-pasa-tv-abierta",
-      "source": "Expansion MX",
-      "pub": "Fri, 17 Jul 2026 14:20:53 GMT"
-    },
-    {
-      "title": "Mundial dejó a México una derrama económica menor a lo esperado",
-      "link": "https://expansion.mx/podcasts-expansion/expansion-daily/2026/07/17/mundial-dejo-mexico-derrama-economica-menor-esperado",
-      "source": "Expansion MX",
-      "pub": "Fri, 17 Jul 2026 13:06:02 GMT"
-    },
-    {
-      "title": "El tratado que nos falta",
-      "link": "https://expansion.mx/opinion/2026/07/17/el-tratado-que-nos-falta",
-      "source": "Expansion MX",
-      "pub": "Fri, 17 Jul 2026 12:04:56 GMT"
-    },
-    {
-      "title": "Por qué la IA nos da la razón, aunque estemos equivocados",
-      "link": "https://expansion.mx/opinion/2026/07/17/por-que-la-ia-nos-da-la-razon-aunque-estemos-equivocados",
-      "source": "Expansion MX",
-      "pub": "Fri, 17 Jul 2026 12:03:00 GMT"
-    },
-    {
-      "title": "Desaprender, ¿el nuevo superpoder del talento humano?",
-      "link": "https://expansion.mx/opinion/2026/07/17/desaprender-el-nuevo-superpoder-del-talento-humano",
-      "source": "Expansion MX",
-      "pub": "Fri, 17 Jul 2026 12:02:46 GMT"
     }
   ]
 }
