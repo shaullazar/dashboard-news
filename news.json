@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T19:46:03.904982+00:00",
+  "updated": "2026-07-17T20:34:47.994176+00:00",
   "colombia": [
     {
       "title": "Court holds Colombia police responsible for 18-year-old’s death in 2019 protests",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "¿Te marcaron y no respondiste? Configura tu iPhone para que te recuerde devolver la llamada",
+      "link": "https://expansion.mx/tecnologia/2026/07/17/como-hacer-que-iphone-recuerde-devolver-llamada",
+      "source": "Expansion MX",
+      "pub": "Fri, 17 Jul 2026 17:56:55 GMT"
+    },
+    {
       "title": "Siri salva a Apple y recupera el trono como la empresa más valiosa del mundo",
       "link": "https://expansion.mx/tecnologia/2026/07/17/siri-salva-a-apple-recupera-trono-empresa-mas-valiosa",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/opinion/2026/07/17/la-carrera-por-la-ia-el-verdadero-valor-lo-aporta-la-persona",
       "source": "Expansion MX",
       "pub": "Fri, 17 Jul 2026 12:02:29 GMT"
-    },
-    {
-      "title": "México invierte 213 veces menos que EU en IA, pero las startups aún tienen una oportunidad",
-      "link": "https://expansion.mx/tecnologia/2026/07/17/mexico-invierte-213-veces-menos-que-eu-en-ia",
-      "source": "Expansion MX",
-      "pub": "Fri, 17 Jul 2026 11:55:47 GMT"
     }
   ]
 }
