@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T01:02:19.381810+00:00",
+  "updated": "2026-07-17T04:13:56.677147+00:00",
   "colombia": [
     {
       "title": "Court holds Colombia police responsible for 18-year-old’s death in 2019 protests",
@@ -64,12 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Más anuncios, deportes y eventos en vivo: así perfila Netflix el futuro de su catálogo",
-      "link": "https://expansion.mx/tecnologia/2026/07/16/asi-perfila-netflix-el-futuro-de-su-catalogo",
-      "source": "Expansion MX",
-      "pub": "Fri, 17 Jul 2026 00:14:11 GMT"
-    },
-    {
       "title": "Por qué Nike volvió a Chivas y qué gana con vestir al club más popular de México",
       "link": "https://expansion.mx/empresas/2026/07/16/nike-volvio-chivas-que-gana-vestir-club-popular-mexico",
       "source": "Expansion MX",
@@ -122,6 +116,12 @@
       "link": "https://expansion.mx/mundo/2026/07/16/eu-impone-aranceles-a-brasil-en-25-en-plenas-campanas-electorales",
       "source": "Expansion MX",
       "pub": "Thu, 16 Jul 2026 21:16:27 GMT"
+    },
+    {
+      "title": "Exhiben a Stardust, app para registrar el ciclo menstrual, por compartir datos de salud de usuarias",
+      "link": "https://expansion.mx/tecnologia/2026/07/16/stardust-app-menstrual-comparte-datos-salud",
+      "source": "Expansion MX",
+      "pub": "Thu, 16 Jul 2026 20:59:23 GMT"
     }
   ]
 }
