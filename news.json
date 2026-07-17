@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T20:34:47.994176+00:00",
+  "updated": "2026-07-17T21:25:30.926699+00:00",
   "colombia": [
     {
       "title": "Court holds Colombia police responsible for 18-year-old’s death in 2019 protests",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Al estilo de la NFL, FIFA entregará anillos a campeones del Mundial 2026",
+      "link": "https://expansion.mx/tendencias/2026/07/17/estilo-nfl-entregaran-anillos-campeones-del-mundial-2026",
+      "source": "Expansion MX",
+      "pub": "Fri, 17 Jul 2026 18:22:50 GMT"
+    },
+    {
       "title": "¿Te marcaron y no respondiste? Configura tu iPhone para que te recuerde devolver la llamada",
       "link": "https://expansion.mx/tecnologia/2026/07/17/como-hacer-que-iphone-recuerde-devolver-llamada",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/opinion/2026/07/17/desaprender-el-nuevo-superpoder-del-talento-humano",
       "source": "Expansion MX",
       "pub": "Fri, 17 Jul 2026 12:02:46 GMT"
-    },
-    {
-      "title": "La carrera por la IA: el verdadero valor lo aporta la persona",
-      "link": "https://expansion.mx/opinion/2026/07/17/la-carrera-por-la-ia-el-verdadero-valor-lo-aporta-la-persona",
-      "source": "Expansion MX",
-      "pub": "Fri, 17 Jul 2026 12:02:29 GMT"
     }
   ]
 }
