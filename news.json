@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T00:01:26.745873+00:00",
+  "updated": "2026-07-18T02:52:22.020078+00:00",
   "colombia": [
     {
       "title": "Court holds Colombia police responsible for 18-year-old’s death in 2019 protests",
@@ -64,6 +64,42 @@
   ],
   "mexico": [
     {
+      "title": "BYD actualiza el King DM-i para competir con Prius y Corolla en el mercado de sedanes híbridos",
+      "link": "https://expansion.mx/empresas/2026/07/17/byd-actualiza-el-king-dm-i-precio-caracteristicas",
+      "source": "Expansion MX",
+      "pub": "Sat, 18 Jul 2026 00:19:17 GMT"
+    },
+    {
+      "title": "¿La final del Mundial 2026 va por TV abierta? Fecha, horario y dónde verla",
+      "link": "https://expansion.mx/tendencias/2026/07/16/final-mundial-2026-tv-abierta-argentina-espana",
+      "source": "Expansion MX",
+      "pub": "Sat, 18 Jul 2026 00:19:14 GMT"
+    },
+    {
+      "title": "Cruz Azul y el estadio que nunca llega: la eterna búsqueda de una casa para el campeón mexicano",
+      "link": "https://expansion.mx/tendencias/2026/07/17/cruz-azul-eterna-busqueda-de-un-estadio",
+      "source": "Expansion MX",
+      "pub": "Fri, 17 Jul 2026 23:51:41 GMT"
+    },
+    {
+      "title": "El empresario michoacano que convirtió a Cinépolis en el rey del cine y ni Germán Larrea pudo destronarlo",
+      "link": "https://expansion.mx/empresas/2026/07/17/alejandro-ramirez-magana-cinepolis-empresario-mexico",
+      "source": "Expansion MX",
+      "pub": "Fri, 17 Jul 2026 23:19:58 GMT"
+    },
+    {
+      "title": "Mercados cierran la semana entre petróleo al alza y temor a un nuevo “momento DeepSeek”",
+      "link": "https://expansion.mx/mercados/2026/07/17/mercados-cierre-semana-petroleo-kimi-k3-momento-deepseek",
+      "source": "Expansion MX",
+      "pub": "Fri, 17 Jul 2026 22:56:44 GMT"
+    },
+    {
+      "title": "Cotemar reactiva proyectos petroleros en pausa y prepara 1,100 contrataciones para obras de hidrocarburos",
+      "link": "https://expansion.mx/empresas/2026/07/17/cotemar-reactiva-proyectos-petroleros-1100-contrataciones",
+      "source": "Expansion MX",
+      "pub": "Fri, 17 Jul 2026 22:47:16 GMT"
+    },
+    {
       "title": "Empresas impulsan corredor para camiones eléctricos de Ciudad de México a Nuevo Laredo rumbo a 2030",
       "link": "https://expansion.mx/empresas/2026/07/17/corredor-camiones-electricos-cdmx-nuevo-laredo-2030",
       "source": "Expansion MX",
@@ -86,42 +122,6 @@
       "link": "https://expansion.mx/tecnologia/2026/07/17/playstation-finalmente-cobrara-en-pesos-mexicanos-tras-polemica-con-profeco",
       "source": "Expansion MX",
       "pub": "Fri, 17 Jul 2026 20:15:52 GMT"
-    },
-    {
-      "title": "¿Dónde será la final del Mundial 2026? El estadio de la NFL donde jugarán España y Argentina",
-      "link": "https://expansion.mx/tendencias/2026/07/17/final-mundial-2026-historia-estadio-espana-vs-argentina",
-      "source": "Expansion MX",
-      "pub": "Fri, 17 Jul 2026 19:53:36 GMT"
-    },
-    {
-      "title": "Las 32 plazas comerciales hermanas de Mitikah en CDMX y Edomex: van de Santa Fe a Chimalhuacán",
-      "link": "https://expansion.mx/empresas/2026/07/17/las-32-plazas-hermanas-mitikah-cdmx-edomex",
-      "source": "Expansion MX",
-      "pub": "Fri, 17 Jul 2026 19:52:45 GMT"
-    },
-    {
-      "title": "Kimi 3: la nueva IA China que presiona a OpenAI y Anthropic",
-      "link": "https://expansion.mx/tecnologia/2026/07/17/kimi-3-la-nueva-ia-china-que-presiona-a-openai",
-      "source": "Expansion MX",
-      "pub": "Fri, 17 Jul 2026 19:50:55 GMT"
-    },
-    {
-      "title": "Al estilo de la NFL, FIFA entregará anillos a campeones del Mundial 2026",
-      "link": "https://expansion.mx/tendencias/2026/07/17/estilo-nfl-entregaran-anillos-campeones-del-mundial-2026",
-      "source": "Expansion MX",
-      "pub": "Fri, 17 Jul 2026 18:22:50 GMT"
-    },
-    {
-      "title": "¿Te marcaron y no respondiste? Configura tu iPhone para que te recuerde devolver la llamada",
-      "link": "https://expansion.mx/tecnologia/2026/07/17/como-hacer-que-iphone-recuerde-devolver-llamada",
-      "source": "Expansion MX",
-      "pub": "Fri, 17 Jul 2026 17:56:55 GMT"
-    },
-    {
-      "title": "Siri salva a Apple y recupera el trono como la empresa más valiosa del mundo",
-      "link": "https://expansion.mx/tecnologia/2026/07/17/siri-salva-a-apple-recupera-trono-empresa-mas-valiosa",
-      "source": "Expansion MX",
-      "pub": "Fri, 17 Jul 2026 16:33:44 GMT"
     }
   ]
 }
