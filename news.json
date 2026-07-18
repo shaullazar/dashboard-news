@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T02:52:22.020078+00:00",
+  "updated": "2026-07-18T05:13:06.386724+00:00",
   "colombia": [
     {
       "title": "Court holds Colombia police responsible for 18-year-old’s death in 2019 protests",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Hacienda vuelve a subsidiar la gasolina Premium por alza del petróleo",
+      "link": "https://expansion.mx/economia/2026/07/17/hacienda-vuelve-a-subsidiar-la-gasolina-premium-por-alza-del-petroleo",
+      "source": "Expansion MX",
+      "pub": "Sat, 18 Jul 2026 02:10:44 GMT"
+    },
+    {
       "title": "BYD actualiza el King DM-i para competir con Prius y Corolla en el mercado de sedanes híbridos",
       "link": "https://expansion.mx/empresas/2026/07/17/byd-actualiza-el-king-dm-i-precio-caracteristicas",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/tendencias/2026/07/17/sep-destaca-avances-educacion-inclusion-2025-2026",
       "source": "Expansion MX",
       "pub": "Fri, 17 Jul 2026 20:16:59 GMT"
-    },
-    {
-      "title": "PlayStation finalmente cobrará en pesos mexicanos tras polémica con Profeco",
-      "link": "https://expansion.mx/tecnologia/2026/07/17/playstation-finalmente-cobrara-en-pesos-mexicanos-tras-polemica-con-profeco",
-      "source": "Expansion MX",
-      "pub": "Fri, 17 Jul 2026 20:15:52 GMT"
     }
   ]
 }
