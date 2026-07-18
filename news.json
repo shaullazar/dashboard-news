@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T19:39:45.157733+00:00",
+  "updated": "2026-07-18T20:25:50.657759+00:00",
   "colombia": [
     {
       "title": "Court holds Colombia police responsible for 18-year-old’s death in 2019 protests",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "\"Deberíamos haberte dado un mejor final\", le dice Mbappé a Deschamps en redes sociales",
+      "link": "https://expansion.mx/tendencias/2026/07/18/mbappe-reconoce-deschamps-merecia-mejor-desenlace-francia",
+      "source": "Expansion MX",
+      "pub": "Sat, 18 Jul 2026 19:46:37 GMT"
+    },
+    {
       "title": "Nunca antes me habían felicitado por manejar un coche chino",
       "link": "https://expansion.mx/empresas/2026/07/18/nunca-antes-me-habian-felicitado-por-manejar-un-coche-chino",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/07/17/cotemar-reactiva-proyectos-petroleros-1100-contrataciones",
       "source": "Expansion MX",
       "pub": "Fri, 17 Jul 2026 22:47:16 GMT"
-    },
-    {
-      "title": "Empresas impulsan corredor para camiones eléctricos de Ciudad de México a Nuevo Laredo rumbo a 2030",
-      "link": "https://expansion.mx/empresas/2026/07/17/corredor-camiones-electricos-cdmx-nuevo-laredo-2030",
-      "source": "Expansion MX",
-      "pub": "Fri, 17 Jul 2026 22:03:35 GMT"
     }
   ]
 }
