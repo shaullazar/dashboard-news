@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T07:07:41.806517+00:00",
+  "updated": "2026-07-19T09:13:04.174429+00:00",
   "colombia": [
     {
       "title": "Court holds Colombia police responsible for 18-year-old’s death in 2019 protests",
@@ -64,16 +64,40 @@
   ],
   "mexico": [
     {
+      "title": "Nunca antes me habían felicitado por manejar un coche chino",
+      "link": "https://expansion.mx/empresas/2026/07/18/nunca-antes-me-habian-felicitado-por-manejar-un-coche-chino",
+      "source": "Expansion MX",
+      "pub": "Mon, 20 Jul 2026 05:59:52 GMT"
+    },
+    {
+      "title": "Jaguar, Land Rover, MG y Mini, la historia detrás de cuatro marcas británicas que dejaron de serlo",
+      "link": "https://expansion.mx/empresas/2026/07/05/marcas-automotrices-inglesas-cambiaron-dueno",
+      "source": "Expansion MX",
+      "pub": "Sun, 19 Jul 2026 01:19:08 GMT"
+    },
+    {
+      "title": "Mbappé rebasa a Messi como máximo goleador histórico de los Mundiales, pero la final aún puede cambiar el récord",
+      "link": "https://expansion.mx/tendencias/2026/07/18/mbappe-supera-messi-maximo-goleador-historico-mundiales",
+      "source": "Expansion MX",
+      "pub": "Sat, 18 Jul 2026 23:46:21 GMT"
+    },
+    {
+      "title": "Inglaterra derrota 6-4 a Francia y se queda con el tercer lugar del Mundial 2026",
+      "link": "https://expansion.mx/tendencias/2026/07/18/inglaterra-francia-6-4-tercer-lugar-mundial-2026",
+      "source": "Expansion MX",
+      "pub": "Sat, 18 Jul 2026 23:14:11 GMT"
+    },
+    {
+      "title": "Dos militares estadounidenses mueren durante un ataque de Irán a infraestructura civil en Kuwait",
+      "link": "https://expansion.mx/mundo/2026/07/18/dos-militares-estadounidenses-muertos-iran",
+      "source": "Expansion MX",
+      "pub": "Sat, 18 Jul 2026 21:29:54 GMT"
+    },
+    {
       "title": "\"Deberíamos haberte dado un mejor final\", le dice Mbappé a Deschamps en redes sociales",
       "link": "https://expansion.mx/tendencias/2026/07/18/mbappe-reconoce-deschamps-merecia-mejor-desenlace-francia",
       "source": "Expansion MX",
       "pub": "Sat, 18 Jul 2026 19:46:37 GMT"
-    },
-    {
-      "title": "Nunca antes me habían felicitado por manejar un coche chino",
-      "link": "https://expansion.mx/empresas/2026/07/18/nunca-antes-me-habian-felicitado-por-manejar-un-coche-chino",
-      "source": "Expansion MX",
-      "pub": "Sat, 18 Jul 2026 17:58:52 GMT"
     },
     {
       "title": "Honda Aircraft apuesta por un jet más eficiente en medio del alza de la turbosina por el conflicto entre EU e Irán",
@@ -98,30 +122,6 @@
       "link": "https://expansion.mx/tendencias/2026/07/16/final-mundial-2026-tv-abierta-argentina-espana",
       "source": "Expansion MX",
       "pub": "Sat, 18 Jul 2026 00:19:14 GMT"
-    },
-    {
-      "title": "Cruz Azul y el estadio que nunca llega: la eterna búsqueda de una casa para el campeón mexicano",
-      "link": "https://expansion.mx/tendencias/2026/07/17/cruz-azul-eterna-busqueda-de-un-estadio",
-      "source": "Expansion MX",
-      "pub": "Fri, 17 Jul 2026 23:51:41 GMT"
-    },
-    {
-      "title": "El empresario michoacano que convirtió a Cinépolis en el rey del cine y ni Germán Larrea pudo destronarlo",
-      "link": "https://expansion.mx/empresas/2026/07/17/alejandro-ramirez-magana-cinepolis-empresario-mexico",
-      "source": "Expansion MX",
-      "pub": "Fri, 17 Jul 2026 23:19:58 GMT"
-    },
-    {
-      "title": "Mercados cierran la semana entre petróleo al alza y temor a un nuevo “momento DeepSeek”",
-      "link": "https://expansion.mx/mercados/2026/07/17/mercados-cierre-semana-petroleo-kimi-k3-momento-deepseek",
-      "source": "Expansion MX",
-      "pub": "Fri, 17 Jul 2026 22:56:44 GMT"
-    },
-    {
-      "title": "Cotemar reactiva proyectos petroleros en pausa y prepara 1,100 contrataciones para obras de hidrocarburos",
-      "link": "https://expansion.mx/empresas/2026/07/17/cotemar-reactiva-proyectos-petroleros-1100-contrataciones",
-      "source": "Expansion MX",
-      "pub": "Fri, 17 Jul 2026 22:47:16 GMT"
     }
   ]
 }
