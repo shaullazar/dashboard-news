@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T23:54:18.326890+00:00",
+  "updated": "2026-07-19T01:12:36.907805+00:00",
   "colombia": [
     {
       "title": "Court holds Colombia police responsible for 18-year-old’s death in 2019 protests",
@@ -64,10 +64,22 @@
   ],
   "mexico": [
     {
+      "title": "Nunca antes me habían felicitado por manejar un coche chino",
+      "link": "https://expansion.mx/empresas/2026/07/18/nunca-antes-me-habian-felicitado-por-manejar-un-coche-chino",
+      "source": "Expansion MX",
+      "pub": "Mon, 20 Jul 2026 05:59:52 GMT"
+    },
+    {
       "title": "Jaguar, Land Rover, MG y Mini, la historia detrás de cuatro marcas británicas que dejaron de serlo",
       "link": "https://expansion.mx/empresas/2026/07/05/marcas-automotrices-inglesas-cambiaron-dueno",
       "source": "Expansion MX",
       "pub": "Sun, 19 Jul 2026 01:19:08 GMT"
+    },
+    {
+      "title": "Mbappé rebasa a Messi como máximo goleador histórico de los Mundiales, pero la final aún puede cambiar el récord",
+      "link": "https://expansion.mx/tendencias/2026/07/18/mbappe-supera-messi-maximo-goleador-historico-mundiales",
+      "source": "Expansion MX",
+      "pub": "Sat, 18 Jul 2026 23:46:21 GMT"
     },
     {
       "title": "Inglaterra derrota 6-4 a Francia y se queda con el tercer lugar del Mundial 2026",
@@ -86,12 +98,6 @@
       "link": "https://expansion.mx/tendencias/2026/07/18/mbappe-reconoce-deschamps-merecia-mejor-desenlace-francia",
       "source": "Expansion MX",
       "pub": "Sat, 18 Jul 2026 19:46:37 GMT"
-    },
-    {
-      "title": "Nunca antes me habían felicitado por manejar un coche chino",
-      "link": "https://expansion.mx/empresas/2026/07/18/nunca-antes-me-habian-felicitado-por-manejar-un-coche-chino",
-      "source": "Expansion MX",
-      "pub": "Sat, 18 Jul 2026 17:58:52 GMT"
     },
     {
       "title": "Honda Aircraft apuesta por un jet más eficiente en medio del alza de la turbosina por el conflicto entre EU e Irán",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/tendencias/2026/07/16/final-mundial-2026-tv-abierta-argentina-espana",
       "source": "Expansion MX",
       "pub": "Sat, 18 Jul 2026 00:19:14 GMT"
-    },
-    {
-      "title": "Cruz Azul y el estadio que nunca llega: la eterna búsqueda de una casa para el campeón mexicano",
-      "link": "https://expansion.mx/tendencias/2026/07/17/cruz-azul-eterna-busqueda-de-un-estadio",
-      "source": "Expansion MX",
-      "pub": "Fri, 17 Jul 2026 23:51:41 GMT"
     }
   ]
 }
