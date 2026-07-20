@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T11:25:56.163770+00:00",
+  "updated": "2026-07-20T13:22:25.747696+00:00",
   "colombia": [
     {
       "title": "Court holds Colombia police responsible for 18-year-old’s death in 2019 protests",
@@ -64,10 +64,40 @@
   ],
   "mexico": [
     {
+      "title": "La verdadera carrera de la inteligencia artificial no es por los algoritmos, es por los datos",
+      "link": "https://expansion.mx/opinion/2026/07/20/la-verdadera-carrera-de-la-inteligencia-artificial-no-es-por-los-algoritmos-es-por-los-datos",
+      "source": "Expansion MX",
+      "pub": "Mon, 20 Jul 2026 12:00:00 GMT"
+    },
+    {
+      "title": "Empresas de EU rechazan endurecer las reglas de origen para desplazar a China",
+      "link": "https://expansion.mx/economia/2026/07/20/empresas-eu-reglas-origen-tmec-china",
+      "source": "Expansion MX",
+      "pub": "Mon, 20 Jul 2026 11:55:51 GMT"
+    },
+    {
+      "title": "Huawei voltea a Rusia para ser el socio tecnológico de China y vencer a EU",
+      "link": "https://expansion.mx/tecnologia/2026/07/20/huawei-voltea-a-rusia-para-ser-el-socio-tecnologico-de-china-y-vencer-a-eu",
+      "source": "Expansion MX",
+      "pub": "Mon, 20 Jul 2026 11:55:38 GMT"
+    },
+    {
+      "title": "España regularizará a un millón de migrantes para aliviar la presión laboral y fiscal",
+      "link": "https://expansion.mx/mundo/2026/07/20/espana-regularizara-a-un-millon-de-migrantes-para-aliviar-la-presion-laboral-y-fiscal",
+      "source": "Expansion MX",
+      "pub": "Mon, 20 Jul 2026 11:55:18 GMT"
+    },
+    {
       "title": "Nunca antes me habían felicitado por manejar un coche chino",
       "link": "https://expansion.mx/empresas/2026/07/18/nunca-antes-me-habian-felicitado-por-manejar-un-coche-chino",
       "source": "Expansion MX",
       "pub": "Mon, 20 Jul 2026 05:59:52 GMT"
+    },
+    {
+      "title": "Donald Trump busca el protagonismo en el Mundial y se queda en el escenario junto a España",
+      "link": "https://expansion.mx/mundo/2026/07/19/donald-trump-busca-el-protagonismo-en-el-mundial-y-se-queda-en-el-escenario-junto-a-espana",
+      "source": "Expansion MX",
+      "pub": "Mon, 20 Jul 2026 00:55:49 GMT"
     },
     {
       "title": "¿Quién es Ferran Torres, el delantero que hizo campeón del Mundial 2026 a España?",
@@ -92,36 +122,6 @@
       "link": "https://expansion.mx/mundo/2026/07/19/estados-unidos-el-anfitrion-mas-incomodo-del-mundial-recibe-la-final-del-torneo",
       "source": "Expansion MX",
       "pub": "Sun, 19 Jul 2026 18:08:08 GMT"
-    },
-    {
-      "title": "España derrota 1-0 a Argentina y se corona campeón del Mundial 2026",
-      "link": "https://expansion.mx/tendencias/2026/07/19/argentina-vs-espana-en-vivo-final-mundial-2026",
-      "source": "Expansion MX",
-      "pub": "Sun, 19 Jul 2026 17:04:23 GMT"
-    },
-    {
-      "title": "Jaguar, Land Rover, MG y Mini, la historia detrás de cuatro marcas británicas que dejaron de serlo",
-      "link": "https://expansion.mx/empresas/2026/07/05/marcas-automotrices-inglesas-cambiaron-dueno",
-      "source": "Expansion MX",
-      "pub": "Sun, 19 Jul 2026 01:19:08 GMT"
-    },
-    {
-      "title": "Mbappé rebasa a Messi como máximo goleador histórico de los Mundiales, pero la final aún puede cambiar el récord",
-      "link": "https://expansion.mx/tendencias/2026/07/18/mbappe-supera-messi-maximo-goleador-historico-mundiales",
-      "source": "Expansion MX",
-      "pub": "Sat, 18 Jul 2026 23:46:21 GMT"
-    },
-    {
-      "title": "Inglaterra derrota 6-4 a Francia y se queda con el tercer lugar del Mundial 2026",
-      "link": "https://expansion.mx/tendencias/2026/07/18/inglaterra-francia-6-4-tercer-lugar-mundial-2026",
-      "source": "Expansion MX",
-      "pub": "Sat, 18 Jul 2026 23:14:11 GMT"
-    },
-    {
-      "title": "Dos militares estadounidenses mueren durante un ataque de Irán a infraestructura civil en Kuwait",
-      "link": "https://expansion.mx/mundo/2026/07/18/dos-militares-estadounidenses-muertos-iran",
-      "source": "Expansion MX",
-      "pub": "Sat, 18 Jul 2026 21:29:54 GMT"
     }
   ]
 }
