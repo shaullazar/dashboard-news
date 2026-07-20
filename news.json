@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T08:38:44.678882+00:00",
+  "updated": "2026-07-20T11:25:56.163770+00:00",
   "colombia": [
     {
       "title": "Court holds Colombia police responsible for 18-year-old’s death in 2019 protests",
@@ -70,12 +70,6 @@
       "pub": "Mon, 20 Jul 2026 05:59:52 GMT"
     },
     {
-      "title": "Donald Trump busca el protagonismo en el Mundial y se queda en el escenario junto a España",
-      "link": "https://expansion.mx/mundo/2026/07/19/donald-trump-busca-el-protagonismo-en-el-mundial-y-se-queda-en-el-escenario-junto-a-espana",
-      "source": "Expansion MX",
-      "pub": "Mon, 20 Jul 2026 00:55:49 GMT"
-    },
-    {
       "title": "¿Quién es Ferran Torres, el delantero que hizo campeón del Mundial 2026 a España?",
       "link": "https://expansion.mx/tendencias/2026/07/19/quien-es-ferran-torres-hizo-campeon-espana-mundial-2026",
       "source": "Expansion MX",
@@ -122,6 +116,12 @@
       "link": "https://expansion.mx/tendencias/2026/07/18/inglaterra-francia-6-4-tercer-lugar-mundial-2026",
       "source": "Expansion MX",
       "pub": "Sat, 18 Jul 2026 23:14:11 GMT"
+    },
+    {
+      "title": "Dos militares estadounidenses mueren durante un ataque de Irán a infraestructura civil en Kuwait",
+      "link": "https://expansion.mx/mundo/2026/07/18/dos-militares-estadounidenses-muertos-iran",
+      "source": "Expansion MX",
+      "pub": "Sat, 18 Jul 2026 21:29:54 GMT"
     }
   ]
 }
