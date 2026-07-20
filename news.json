@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T13:22:25.747696+00:00",
+  "updated": "2026-07-20T15:23:39.529726+00:00",
   "colombia": [
     {
       "title": "Court holds Colombia police responsible for 18-year-old’s death in 2019 protests",
@@ -64,6 +64,24 @@
   ],
   "mexico": [
     {
+      "title": "AliExpress recibe multa de 629 mdd por vender productos prohibidos en la UE",
+      "link": "https://expansion.mx/tecnologia/2026/07/20/aliexpress-recibe-multa-de-629-mdd-por-vender-productos-prohibidos-en-la-ue",
+      "source": "Expansion MX",
+      "pub": "Mon, 20 Jul 2026 15:00:25 GMT"
+    },
+    {
+      "title": "Las 32 plazas comerciales hermanas de Mitikah en CDMX y Edomex: van de Santa Fe a Chimalhuacán",
+      "link": "https://expansion.mx/empresas/2026/07/20/dueno-mitikah-32-centros-comerciales-cdmx-edomex",
+      "source": "Expansion MX",
+      "pub": "Mon, 20 Jul 2026 14:52:45 GMT"
+    },
+    {
+      "title": "¿Cuánto valen y dónde juegan los jugadores de España, la selección campeona del Mundial 2026?",
+      "link": "https://expansion.mx/tendencias/2026/07/20/jugadores-espana-campeona-mundial-2026-valor",
+      "source": "Expansion MX",
+      "pub": "Mon, 20 Jul 2026 14:30:30 GMT"
+    },
+    {
       "title": "La verdadera carrera de la inteligencia artificial no es por los algoritmos, es por los datos",
       "link": "https://expansion.mx/opinion/2026/07/20/la-verdadera-carrera-de-la-inteligencia-artificial-no-es-por-los-algoritmos-es-por-los-datos",
       "source": "Expansion MX",
@@ -104,24 +122,6 @@
       "link": "https://expansion.mx/tendencias/2026/07/19/quien-es-ferran-torres-hizo-campeon-espana-mundial-2026",
       "source": "Expansion MX",
       "pub": "Mon, 20 Jul 2026 00:12:42 GMT"
-    },
-    {
-      "title": "España es campeón del Mundial 2026: derrota 1-0 a Argentina y conquista su segunda estrella",
-      "link": "https://expansion.mx/tendencias/2026/07/19/espana-campeon-del-mundial-2026-derrota-a-argentina",
-      "source": "Expansion MX",
-      "pub": "Sun, 19 Jul 2026 22:41:05 GMT"
-    },
-    {
-      "title": "Estados Unidos lanza una nueva ofensiva contra Irán tras la muerte de dos de sus militares",
-      "link": "https://expansion.mx/mundo/2026/07/19/estados-unidos-lanza-una-nueva-ofensiva-contra-iran-tras-la-muerte-de-dos-de-sus-militares",
-      "source": "Expansion MX",
-      "pub": "Sun, 19 Jul 2026 20:46:24 GMT"
-    },
-    {
-      "title": "Estados Unidos, el anfitrión más incómodo del Mundial, recibe la final del torneo",
-      "link": "https://expansion.mx/mundo/2026/07/19/estados-unidos-el-anfitrion-mas-incomodo-del-mundial-recibe-la-final-del-torneo",
-      "source": "Expansion MX",
-      "pub": "Sun, 19 Jul 2026 18:08:08 GMT"
     }
   ]
 }
