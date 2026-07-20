@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T20:12:22.679875+00:00",
+  "updated": "2026-07-20T21:31:01.298700+00:00",
   "colombia": [
     {
       "title": "Meet the incoming cabinet appointed by Colombia’s next president",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "FDA se retracta: confirma falso positivo a cyclospora en lechuga mexicana; continúan investigaciones",
+      "link": "https://expansion.mx/mundo/2026/07/20/fda-retracta-lechuga-mexicana-no-causa-diarrea-explosiva",
+      "source": "Expansion MX",
+      "pub": "Mon, 20 Jul 2026 20:05:02 GMT"
+    },
+    {
+      "title": "Los festejos en Argentina terminan con disturbios, dos muertos y 15 detenidos",
+      "link": "https://expansion.mx/mundo/2026/07/20/celebracion-argentina-terminan-disturbios-dos-muertos",
+      "source": "Expansion MX",
+      "pub": "Mon, 20 Jul 2026 19:56:47 GMT"
+    },
+    {
+      "title": "¿Por qué 12 estados de EU buscan frenar la compra de Warner Bros Discovery por Paramount Skydance?",
+      "link": "https://expansion.mx/tecnologia/2026/07/20/12-estados-eu-frenar-compra-warner-bros-discovery-paramount",
+      "source": "Expansion MX",
+      "pub": "Mon, 20 Jul 2026 19:53:07 GMT"
+    },
+    {
+      "title": "La conversación del Mundial no la ganaron los patrocinadores, sino los fenómenos virales",
+      "link": "https://expansion.mx/mercadotecnia/2026/07/20/marcas-no-patrocinaron-mundial-dieron-vuelta-palabras-fifa",
+      "source": "Expansion MX",
+      "pub": "Mon, 20 Jul 2026 19:07:05 GMT"
+    },
+    {
       "title": "Samsung recorta 739 empleos antes de presentar sus nuevos Galaxy",
       "link": "https://expansion.mx/tecnologia/2026/07/20/samsung-recorta-739-empleos-antes-de-presentar-sus-nuevos-galaxy",
       "source": "Expansion MX",
@@ -92,30 +116,6 @@
       "link": "https://expansion.mx/tendencias/2026/07/20/jugadores-espana-campeona-mundial-2026-valor",
       "source": "Expansion MX",
       "pub": "Mon, 20 Jul 2026 14:30:30 GMT"
-    },
-    {
-      "title": "La verdadera carrera de la inteligencia artificial no es por los algoritmos, es por los datos",
-      "link": "https://expansion.mx/opinion/2026/07/20/la-verdadera-carrera-de-la-inteligencia-artificial-no-es-por-los-algoritmos-es-por-los-datos",
-      "source": "Expansion MX",
-      "pub": "Mon, 20 Jul 2026 12:00:00 GMT"
-    },
-    {
-      "title": "Empresas de EU rechazan endurecer las reglas de origen para desplazar a China",
-      "link": "https://expansion.mx/economia/2026/07/20/empresas-eu-reglas-origen-tmec-china",
-      "source": "Expansion MX",
-      "pub": "Mon, 20 Jul 2026 11:55:51 GMT"
-    },
-    {
-      "title": "Huawei voltea a Rusia para ser el socio tecnológico de China y vencer a EU",
-      "link": "https://expansion.mx/tecnologia/2026/07/20/huawei-voltea-a-rusia-para-ser-el-socio-tecnologico-de-china-y-vencer-a-eu",
-      "source": "Expansion MX",
-      "pub": "Mon, 20 Jul 2026 11:55:38 GMT"
-    },
-    {
-      "title": "España regularizará a un millón de migrantes para aliviar la presión laboral y fiscal",
-      "link": "https://expansion.mx/mundo/2026/07/20/espana-regularizara-a-un-millon-de-migrantes-para-aliviar-la-presion-laboral-y-fiscal",
-      "source": "Expansion MX",
-      "pub": "Mon, 20 Jul 2026 11:55:18 GMT"
     }
   ]
 }
