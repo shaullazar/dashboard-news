@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T16:08:00.118617+00:00",
+  "updated": "2026-07-21T17:40:21.298927+00:00",
   "colombia": [
     {
       "title": "Meet the incoming cabinet appointed by Colombia’s next president",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "El liderazgo se transforma y las habilidades humanas toman el control",
+      "link": "https://expansion.mx/bespoke-ad/2026/07/21/el-liderazgo-se-transforma-y-las-habilidades-humanas-toman-el-control",
+      "source": "Expansion MX",
+      "pub": "Tue, 21 Jul 2026 17:13:15 GMT"
+    },
+    {
+      "title": "Proyectos por 22,000 mdd enfrentan trabas mientras crece presión del T-MEC",
+      "link": "https://expansion.mx/economia/2026/07/21/inversiones-atoradas-mexico-millones-dolares-t-mec",
+      "source": "Expansion MX",
+      "pub": "Tue, 21 Jul 2026 16:48:32 GMT"
+    },
+    {
+      "title": "¿Qué pasará con mi cuenta Nu y los rendimientos en las 'Cajitas'?",
+      "link": "https://expansion.mx/finanzas-personales/2026/07/21/que-pasara-con-mi-cuenta-nu-y-los-rendimientos-en-cajitas",
+      "source": "Expansion MX",
+      "pub": "Tue, 21 Jul 2026 16:34:24 GMT"
+    },
+    {
+      "title": "Por qué la FIFA investiga a Argentina y qué consecuencias podría enfrentar",
+      "link": "https://expansion.mx/tendencias/2026/07/21/por-que-la-fifa-investiga-a-argentina",
+      "source": "Expansion MX",
+      "pub": "Tue, 21 Jul 2026 15:13:04 GMT"
+    },
+    {
       "title": "¿Qué equipos subieron y bajaron en el ranking de la FIFA tras el Mundial 2026? México vuelve al Top 10",
       "link": "https://expansion.mx/tendencias/2026/07/21/ranking-fifa-mundial-2026-mexico-top-10",
       "source": "Expansion MX",
@@ -82,12 +106,6 @@
       "pub": "Tue, 21 Jul 2026 11:55:46 GMT"
     },
     {
-      "title": "Proyectos por 22,000 mdd enfrentan trabas mientras crece presión del T-MEC",
-      "link": "https://expansion.mx/economia/2026/07/21/inversiones-atoradas-mexico-millones-dolares-t-mec",
-      "source": "Expansion MX",
-      "pub": "Tue, 21 Jul 2026 11:55:32 GMT"
-    },
-    {
       "title": "El estadio de 115,000 asientos que Marruecos construye para ganar la final del Mundial 2030",
       "link": "https://expansion.mx/tendencias/2026/07/20/estadio-115-000-asientos-marruecos-construye-mundial-2030",
       "source": "Expansion MX",
@@ -104,24 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/07/20/alsea-reporta-caida-de-52-1-en-utilidad-reportes-financieros",
       "source": "Expansion MX",
       "pub": "Tue, 21 Jul 2026 00:19:31 GMT"
-    },
-    {
-      "title": "“La Odisea” de Nolan revela la brecha de IMAX en México: entre la tecnología premium y el negocio de exhibirla",
-      "link": "https://expansion.mx/empresas/2026/07/20/la-odisea-nolan-revela-brecha-imax-mexico",
-      "source": "Expansion MX",
-      "pub": "Mon, 20 Jul 2026 23:57:27 GMT"
-    },
-    {
-      "title": "Las licenciaturas más demandadas tienen los peores sueldos en México",
-      "link": "https://expansion.mx/carrera/2026/07/20/licenciaturas-mas-demandadas-bajos-salarios-en-mexico",
-      "source": "Expansion MX",
-      "pub": "Mon, 20 Jul 2026 23:14:30 GMT"
-    },
-    {
-      "title": "Estos son los precios para ingresar al renovado Estadio Banorte en Liga MX",
-      "link": "https://expansion.mx/tendencias/2026/07/20/estadio-azteca-america-atlante-cruz-azul-precios-boletos",
-      "source": "Expansion MX",
-      "pub": "Mon, 20 Jul 2026 23:06:50 GMT"
     }
   ]
 }
