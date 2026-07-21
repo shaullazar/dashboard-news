@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T14:48:20.471700+00:00",
+  "updated": "2026-07-21T16:08:00.118617+00:00",
   "colombia": [
     {
       "title": "Meet the incoming cabinet appointed by Colombia’s next president",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "¿Qué equipos subieron y bajaron en el ranking de la FIFA tras el Mundial 2026? México vuelve al Top 10",
+      "link": "https://expansion.mx/tendencias/2026/07/21/ranking-fifa-mundial-2026-mexico-top-10",
+      "source": "Expansion MX",
+      "pub": "Tue, 21 Jul 2026 14:32:15 GMT"
+    },
+    {
+      "title": "Hyundai traerá su SUV Creta de Vietnam y ajustará motor de Grand i10 para esquivar aranceles y mantener precios",
+      "link": "https://expansion.mx/empresas/2026/07/21/hyundai-mueve-produccion-creta-ajusta-motor-de-grand-i10",
+      "source": "Expansion MX",
+      "pub": "Tue, 21 Jul 2026 11:55:50 GMT"
+    },
+    {
+      "title": "Andy Burnham, el séptimo primer ministro británico en 10 años, asume el reto de estabilizar la economía",
+      "link": "https://expansion.mx/mundo/2026/07/21/andy-burnham-el-septimo-primer-ministro-britanico-en-10-anos-asume-el-reto-de-estabilizar-la-economia",
+      "source": "Expansion MX",
+      "pub": "Tue, 21 Jul 2026 11:55:46 GMT"
+    },
+    {
+      "title": "Proyectos por 22,000 mdd enfrentan trabas mientras crece presión del T-MEC",
+      "link": "https://expansion.mx/economia/2026/07/21/inversiones-atoradas-mexico-millones-dolares-t-mec",
+      "source": "Expansion MX",
+      "pub": "Tue, 21 Jul 2026 11:55:32 GMT"
+    },
+    {
       "title": "El estadio de 115,000 asientos que Marruecos construye para ganar la final del Mundial 2030",
       "link": "https://expansion.mx/tendencias/2026/07/20/estadio-115-000-asientos-marruecos-construye-mundial-2030",
       "source": "Expansion MX",
@@ -98,30 +122,6 @@
       "link": "https://expansion.mx/tendencias/2026/07/20/estadio-azteca-america-atlante-cruz-azul-precios-boletos",
       "source": "Expansion MX",
       "pub": "Mon, 20 Jul 2026 23:06:50 GMT"
-    },
-    {
-      "title": "AMD y Marvell roban protagonismo a Amazon, Tesla y Nvidia en el rally bursátil",
-      "link": "https://expansion.mx/mercados/2026/07/20/sk-hynix-confirma-expansion-inversiones-ia-7-magnificas",
-      "source": "Expansion MX",
-      "pub": "Mon, 20 Jul 2026 22:58:39 GMT"
-    },
-    {
-      "title": "Daniel Ortega, el exguerrillero que liquida las elecciones en Nicaragua",
-      "link": "https://expansion.mx/mundo/2026/07/20/daniel-ortega-el-exguerrillero-que-liquida-las-elecciones-en-nicaragua",
-      "source": "Expansion MX",
-      "pub": "Mon, 20 Jul 2026 22:36:18 GMT"
-    },
-    {
-      "title": "¿Cuáles son los síntomas y cómo prevenir la diarrea explosiva provocada por el parásito ciclosporiasis?",
-      "link": "https://expansion.mx/ciencia-y-salud/2026/07/20/sintomas-diarrea-explosiva-ciclosporiasis",
-      "source": "Expansion MX",
-      "pub": "Mon, 20 Jul 2026 22:13:45 GMT"
-    },
-    {
-      "title": "Google prepara un nuevo chip para Gemini y acelera la carrera por reducir la dependencia de Nvidia",
-      "link": "https://expansion.mx/tecnologia/2026/07/20/google-nuevo-chip-gemini-frozen-v2",
-      "source": "Expansion MX",
-      "pub": "Mon, 20 Jul 2026 22:00:40 GMT"
     }
   ]
 }
