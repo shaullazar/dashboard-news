@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T09:15:22.623743+00:00",
+  "updated": "2026-07-21T11:19:12.293666+00:00",
   "colombia": [
     {
       "title": "Meet the incoming cabinet appointed by Colombia’s next president",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "El estadio de 115,000 asientos que Marruecos construye para ganar la final del Mundial 2030",
+      "link": "https://expansion.mx/tendencias/2026/07/20/estadio-115-000-asientos-marruecos-construye-mundial-2030",
+      "source": "Expansion MX",
+      "pub": "Tue, 21 Jul 2026 00:57:54 GMT"
+    },
+    {
+      "title": "La carrera de agronomía dejó de ser “sexy” para los jóvenes, pero el Tec la reinventó con tecnología",
+      "link": "https://expansion.mx/carrera/2026/07/20/tec-transforma-agronomia-con-tecnologia-para-atraer-jovenes",
+      "source": "Expansion MX",
+      "pub": "Tue, 21 Jul 2026 00:55:24 GMT"
+    },
+    {
+      "title": "Alsea reporta caída de 52.1% en utilidad por menor consumo en México y efectos cambiarios",
+      "link": "https://expansion.mx/empresas/2026/07/20/alsea-reporta-caida-de-52-1-en-utilidad-reportes-financieros",
+      "source": "Expansion MX",
+      "pub": "Tue, 21 Jul 2026 00:19:31 GMT"
+    },
+    {
+      "title": "“La Odisea” de Nolan revela la brecha de IMAX en México: entre la tecnología premium y el negocio de exhibirla",
+      "link": "https://expansion.mx/empresas/2026/07/20/la-odisea-nolan-revela-brecha-imax-mexico",
+      "source": "Expansion MX",
+      "pub": "Mon, 20 Jul 2026 23:57:27 GMT"
+    },
+    {
       "title": "Las licenciaturas más demandadas tienen los peores sueldos en México",
       "link": "https://expansion.mx/carrera/2026/07/20/licenciaturas-mas-demandadas-bajos-salarios-en-mexico",
       "source": "Expansion MX",
@@ -98,30 +122,6 @@
       "link": "https://expansion.mx/tecnologia/2026/07/20/google-nuevo-chip-gemini-frozen-v2",
       "source": "Expansion MX",
       "pub": "Mon, 20 Jul 2026 22:00:40 GMT"
-    },
-    {
-      "title": "Trump impone aranceles de 50% a algunos bienes canadienses",
-      "link": "https://expansion.mx/mundo/2026/07/20/trump-impone-nuevos-aranceles-50-bienes-canada",
-      "source": "Expansion MX",
-      "pub": "Mon, 20 Jul 2026 21:56:25 GMT"
-    },
-    {
-      "title": "De la cobija de Harfuch a las toallas de Haaland: la IA revive a 20,800 talleres de impresión en México",
-      "link": "https://expansion.mx/empresas/2026/07/20/ia-revive-industria-impresion-personalizacion",
-      "source": "Expansion MX",
-      "pub": "Mon, 20 Jul 2026 21:55:15 GMT"
-    },
-    {
-      "title": "¿Qué sigue para ViX tras el Mundial 2026? Su estrategia para retener suscriptores y evitar cancelaciones",
-      "link": "https://expansion.mx/empresas/2026/07/20/vix-no-quiere-canceles-cuenta-estrategia",
-      "source": "Expansion MX",
-      "pub": "Mon, 20 Jul 2026 21:39:11 GMT"
-    },
-    {
-      "title": "“Dejen de satanizar la IA”: el 90% de los adolescentes ya la usa",
-      "link": "https://expansion.mx/tecnologia/2026/07/20/90-de-los-adolescentesla-usa-ia",
-      "source": "Expansion MX",
-      "pub": "Mon, 20 Jul 2026 20:30:07 GMT"
     }
   ]
 }
