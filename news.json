@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T14:23:30.933441+00:00",
+  "updated": "2026-07-22T15:55:07.753905+00:00",
   "colombia": [
     {
       "title": "De la Espriella’s defeat in congress could signal turbulent term in office",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Pedigree, Whiskas, Snickers y Lucas pertenecen a la misma empresa: vende 29,000 mdp al año",
+      "link": "https://expansion.mx/empresas/2026/07/22/mars-mexico-dueno-pedigree-whiskas-mms-snickers",
+      "source": "Expansion MX",
+      "pub": "Wed, 22 Jul 2026 14:20:29 GMT"
+    },
+    {
+      "title": "Samsung lanza al mercado su propio “Kindle” plegable",
+      "link": "https://expansion.mx/tecnologia/2026/07/22/samsung-revoluciona-galaxy-z-fold8",
+      "source": "Expansion MX",
+      "pub": "Wed, 22 Jul 2026 13:00:04 GMT"
+    },
+    {
       "title": "Puebla concentra 53% del huachigás en México y las tomas clandestinas crecen 35%",
       "link": "https://expansion.mx/empresas/2026/07/22/puebla-primer-lugar-huachigas-mitad-tomas-clandestinas",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/tendencias/2026/07/21/megapantalla-imax-papalote-museo-del-nino-por-que-cerro",
       "source": "Expansion MX",
       "pub": "Wed, 22 Jul 2026 00:14:47 GMT"
-    },
-    {
-      "title": "América Móvil adquiere WOW Perú para consolidarse como líder del mercado fijo de telecomunicaciones",
-      "link": "https://expansion.mx/empresas/2026/07/21/america-movil-adquiere-wow-peru-para-consolidarse-como-lider-del-mercado-fijo-de-telecomunicaciones",
-      "source": "Expansion MX",
-      "pub": "Tue, 21 Jul 2026 23:53:32 GMT"
-    },
-    {
-      "title": "La carrera de Guillermo Ochoa en números: los títulos, clubes y récords que dejó tras su retiro",
-      "link": "https://expansion.mx/tendencias/2026/07/21/carrera-guillermo-ochoa-numeros-titulos-clubes-records",
-      "source": "Expansion MX",
-      "pub": "Tue, 21 Jul 2026 23:49:22 GMT"
     }
   ]
 }
