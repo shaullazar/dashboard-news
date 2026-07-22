@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T00:04:40.620211+00:00",
+  "updated": "2026-07-22T03:34:46.471434+00:00",
   "colombia": [
     {
       "title": "De la Espriella’s defeat in congress could signal turbulent term in office",
@@ -64,56 +64,8 @@
   ],
   "mexico": [
     {
-      "title": "El registro telefónico congela el crecimiento de Telcel en prepago durante segundo trimestre",
-      "link": "https://expansion.mx/empresas/2026/07/21/el-registro-telefonico-congela-el-crecimiento-de-telcel-en-prepago-durante-segundo-trimestre",
-      "source": "Expansion MX",
-      "pub": "Tue, 21 Jul 2026 23:23:09 GMT"
-    },
-    {
-      "title": "¿Qué bienes no te pueden embargar en México? La lista de lo que la ley protege de tus deudas",
-      "link": "https://expansion.mx/finanzas-personales/2026/07/21/que-bienes-no-te-pueden-embargar-en-mexico",
-      "source": "Expansion MX",
-      "pub": "Tue, 21 Jul 2026 23:09:39 GMT"
-    },
-    {
-      "title": "Invertir en oro y metales preciosos: lo que debes saber antes de comprar",
-      "link": "https://expansion.mx/finanzas-personales/2026/07/21/invertir-en-oro-lo-que-debes-saber-antes-de-comprar",
-      "source": "Expansion MX",
-      "pub": "Tue, 21 Jul 2026 22:56:09 GMT"
-    },
-    {
-      "title": "Evita estafas y robos estas vacaciones: recomendaciones por si sales de viaje en verano 2026",
-      "link": "https://expansion.mx/tendencias/2026/07/21/evita-estafas-robos-vacaciones-recomendaciones-verano-2026",
-      "source": "Expansion MX",
-      "pub": "Tue, 21 Jul 2026 22:34:30 GMT"
-    },
-    {
-      "title": "El CEO de Nubank se une al consejo directivo de OpenAI en su camino a Bolsa",
-      "link": "https://expansion.mx/tecnologia/2026/07/21/ceo-de-nubank-david-velez-consejo-directivo-openai",
-      "source": "Expansion MX",
-      "pub": "Tue, 21 Jul 2026 22:30:05 GMT"
-    },
-    {
-      "title": "Las muertes de civiles en Ucrania por la guerra aumentan un 37% en el último semestre",
-      "link": "https://expansion.mx/mundo/2026/07/21/las-muertes-de-civiles-en-ucrania-por-la-guerra-aumentan-un-37-en-el-ultimo-semestre",
-      "source": "Expansion MX",
-      "pub": "Tue, 21 Jul 2026 22:25:03 GMT"
-    },
-    {
-      "title": "¿Qué significa AVG en el tablero de un auto?",
-      "link": "https://expansion.mx/tendencias/2026/07/21/que-significa-avg-tablero-del-carro",
-      "source": "Expansion MX",
-      "pub": "Tue, 21 Jul 2026 22:23:46 GMT"
-    },
-    {
-      "title": "El Mundial no logró impulsar la economía: actividad y consumo perdieron fuerza tras el repunte previo",
-      "link": "https://expansion.mx/economia/2026/07/21/mundial-2026-no-rescato-restaurantes-hoteles-mexico-economia",
-      "source": "Expansion MX",
-      "pub": "Tue, 21 Jul 2026 22:12:12 GMT"
-    },
-    {
       "title": "La IA obliga a un \"reseteo\" laboral: las empresas ya no buscan títulos, sino habilidades",
-      "link": "https://expansion.mx/tecnologia/2026/07/21/ia-redefine-significado-trabajador-competitivo-empresas",
+      "link": "https://expansion.mx/tecnologia/2026/07/21/ia-obliga-reseteo-laboral-empresas-buscan-habilidades",
       "source": "Expansion MX",
       "pub": "Tue, 21 Jul 2026 22:00:32 GMT"
     },
@@ -122,6 +74,54 @@
       "link": "https://expansion.mx/mundo/2026/07/21/eu-impondra-nuevos-aranceles-a-60-paises-dice-su-representante-comercial",
       "source": "Expansion MX",
       "pub": "Tue, 21 Jul 2026 21:46:17 GMT"
+    },
+    {
+      "title": "Afore: tipos de retiros parciales que pueden hacer los trabajadores y bajo qué circunstancias",
+      "link": "https://expansion.mx/finanzas-personales/2026/07/21/tipos-retiros-afore-que-circunstancias-se-pueden-cobrar",
+      "source": "Expansion MX",
+      "pub": "Tue, 21 Jul 2026 21:44:56 GMT"
+    },
+    {
+      "title": "¿Quién fue el máximo goleador del Mundial 2026 y en qué lugar quedaron los mexicanos?",
+      "link": "https://expansion.mx/tendencias/2026/07/21/quien-fue-maximo-goleador-mundial-2026",
+      "source": "Expansion MX",
+      "pub": "Tue, 21 Jul 2026 21:38:59 GMT"
+    },
+    {
+      "title": "Ferrero invertirá 86 millones de dólares para ampliar su planta en Guanajuato y fortalecer su plataforma de exportación",
+      "link": "https://expansion.mx/empresas/2026/07/21/ferrero-invierte-planta-86-mdd-guanajuato",
+      "source": "Expansion MX",
+      "pub": "Tue, 21 Jul 2026 21:04:54 GMT"
+    },
+    {
+      "title": "Así es el robot que ordeña vacas 62% más rápido que los humanos y analiza la salud del ganado",
+      "link": "https://expansion.mx/tecnologia/2026/07/21/robot-ordena-vacas-62-mas-rapido-que-los-humanos",
+      "source": "Expansion MX",
+      "pub": "Tue, 21 Jul 2026 20:00:34 GMT"
+    },
+    {
+      "title": "Los goles del Tri disparan hasta un 15% las ventas en el estadio Ciudad de México",
+      "link": "https://expansion.mx/economia/2026/07/21/cada-gol-mexico-disparo-ventas-estadio-azteca-mundial",
+      "source": "Expansion MX",
+      "pub": "Tue, 21 Jul 2026 20:00:23 GMT"
+    },
+    {
+      "title": "Los 13 reclamos de México a EU en la tercera ronda del T-MEC",
+      "link": "https://expansion.mx/economia/2026/07/21/mexico-13-reclamos-tercera-ronda-tmec",
+      "source": "Expansion MX",
+      "pub": "Tue, 21 Jul 2026 19:53:07 GMT"
+    },
+    {
+      "title": "¿Freno legal a ChatGPT en las aulas? Experto del Tec dice que si la IA ‘te hace flojo’, entonces pierde su valor",
+      "link": "https://expansion.mx/carrera/2026/07/21/chatgpt-te-hace-flojo-pierde-valor-mexico-debate-ia-escuelas",
+      "source": "Expansion MX",
+      "pub": "Tue, 21 Jul 2026 19:39:14 GMT"
+    },
+    {
+      "title": "¿Quién está detrás de Taylor Farms? La empresa de lechuga vinculada por EU al brote de ciclosporiasis",
+      "link": "https://expansion.mx/empresas/2026/07/21/quien-es-dueno-taylor-farms",
+      "source": "Expansion MX",
+      "pub": "Tue, 21 Jul 2026 19:34:52 GMT"
     }
   ]
 }
