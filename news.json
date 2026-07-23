@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T09:29:46.998249+00:00",
+  "updated": "2026-07-23T11:24:24.786953+00:00",
   "colombia": [
     {
       "title": "De la Espriella’s defeat in congress could signal turbulent term in office",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "Porsche planea recortar otros 5,000 puestos de trabajo",
+      "link": "https://expansion.mx/empresas/2026/07/23/porsche-planea-recortar-5000-puestos-trabajo",
+      "source": "Expansion MX",
+      "pub": "Thu, 23 Jul 2026 12:08:47 GMT"
+    },
+    {
+      "title": "La desaceleración económica llega a emprendimientos y reducen apetito por financiamiento",
+      "link": "https://expansion.mx/economia/2026/07/22/la-desaceleracion-economica-llega-a-emprendimientos-y-reducen-apetito-por-financiamiento",
+      "source": "Expansion MX",
+      "pub": "Thu, 23 Jul 2026 01:27:46 GMT"
+    },
+    {
+      "title": "Gruma compensa la debilidad en EU con el crecimiento de Asia, Europa y Centroamérica",
+      "link": "https://expansion.mx/empresas/2026/07/22/gruma-resultados-eu-asia-centroamerica-segundo-trimestre",
+      "source": "Expansion MX",
+      "pub": "Thu, 23 Jul 2026 01:23:14 GMT"
+    },
+    {
+      "title": "¿Qué red es mejor: 5G, 4G LTE o 3G? Así funcionan los símbolos del celular",
+      "link": "https://expansion.mx/tecnologia/2026/07/22/que-red-datos-moviles-es-mejor-5g-4g-o-3g",
+      "source": "Expansion MX",
+      "pub": "Thu, 23 Jul 2026 01:05:05 GMT"
+    },
+    {
       "title": "¿Quién es el dueño de la mayor cadena hotelera de México? Comenzó su imperio empresarial a los 21 años",
       "link": "https://expansion.mx/empresas/2026/07/22/quien-es-el-dueno-de-la-mayor-cadena-hotelera-de-mexico",
       "source": "Expansion MX",
@@ -98,30 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/07/22/chedraui-politica-migratoria-resultados-segundo-trimestre",
       "source": "Expansion MX",
       "pub": "Wed, 22 Jul 2026 23:21:35 GMT"
-    },
-    {
-      "title": "El Mundial no impulsó el consumo como esperaba Walmart y la minorista recorta su pronóstico para 2026",
-      "link": "https://expansion.mx/empresas/2026/07/22/walmart-menor-trafico-resultados-segundo-trimestre-2026",
-      "source": "Expansion MX",
-      "pub": "Wed, 22 Jul 2026 23:04:30 GMT"
-    },
-    {
-      "title": "¿Qué preocupa a las personas a las 3 de la mañana? Salud y dinero lideran las respuestas",
-      "link": "https://expansion.mx/finanzas-personales/2026/07/22/que-te-despierta-3-manana-estudio-preocupaciones",
-      "source": "Expansion MX",
-      "pub": "Wed, 22 Jul 2026 23:03:30 GMT"
-    },
-    {
-      "title": "Alphabet celebra el Mundial 2026: YouTube suma 1,700 millones de usuarios y más ingresos",
-      "link": "https://expansion.mx/tecnologia/2026/07/22/alphabet-celebra-el-mundial-2026-youtube-suma-1-700-millones-de-usuarios-y-mas-ingresos",
-      "source": "Expansion MX",
-      "pub": "Wed, 22 Jul 2026 22:43:11 GMT"
-    },
-    {
-      "title": "Daniel Siad, presunto cómplice de Jeffrey Epstein, es encontrado muerto cerca de París",
-      "link": "https://expansion.mx/mundo/2026/07/22/daniel-siad-presunto-complice-de-jeffrey-epstein-es-encontrado-muerto-cerca-de-paris",
-      "source": "Expansion MX",
-      "pub": "Wed, 22 Jul 2026 22:05:40 GMT"
     }
   ]
 }
