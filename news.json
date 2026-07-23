@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T22:15:00.439240+00:00",
+  "updated": "2026-07-23T23:11:07.349793+00:00",
   "colombia": [
     {
       "title": "De la Espriella’s defeat in congress could signal turbulent term in office",
@@ -64,36 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "¿Por qué en México las transferencias bancarias funcionan las 24 horas y en otros países no?",
-      "link": "https://expansion.mx/economia/2026/07/23/por-que-mexico-transferencias-bancarias-funcionan-24-horas",
-      "source": "Expansion MX",
-      "pub": "Thu, 23 Jul 2026 21:59:55 GMT"
-    },
-    {
-      "title": "La cláusula que debe tener tu seguro para que el auto sea reparado directamente en la agencia",
-      "link": "https://expansion.mx/finanzas-personales/2026/07/23/clausula-seguro-para-auto-sea-reparado-directamente-agencia",
-      "source": "Expansion MX",
-      "pub": "Thu, 23 Jul 2026 21:57:08 GMT"
-    },
-    {
-      "title": "México entra al arancel de 10% de EU por fallas en combate al trabajo forzoso",
-      "link": "https://expansion.mx/economia/2026/07/23/eu-impone-arancel-10-mexico-trabajo-forzoso",
-      "source": "Expansion MX",
-      "pub": "Thu, 23 Jul 2026 21:54:15 GMT"
-    },
-    {
-      "title": "Bebidas sin azúcar ganan terreno, pero no evitan retroceso en las ganancias de Arca Continental",
-      "link": "https://expansion.mx/empresas/2026/07/23/coca-cola-zero-crece-arca-continental-aun-registra-perdidas",
-      "source": "Expansion MX",
-      "pub": "Thu, 23 Jul 2026 21:16:43 GMT"
-    },
-    {
-      "title": "EA Sports FC 27: fecha de lanzamiento, nuevos modos de juego y ligas disponibles",
-      "link": "https://expansion.mx/tecnologia/2026/07/23/ea-sports-fc-27-detalles",
-      "source": "Expansion MX",
-      "pub": "Thu, 23 Jul 2026 21:11:01 GMT"
-    },
-    {
       "title": "Por si se te olvidó tu contraseña: Google lanza un nuevo inicio de sesión con selfie",
       "link": "https://expansion.mx/tecnologia/2026/07/23/google-lanza-un-nuevo-metodo-para-iniciar-sesion",
       "source": "Expansion MX",
@@ -122,6 +92,36 @@
       "link": "https://expansion.mx/empresas/2026/07/23/tesla-aumenta-ventas-pero-gana-menos",
       "source": "Expansion MX",
       "pub": "Thu, 23 Jul 2026 18:04:01 GMT"
+    },
+    {
+      "title": "México crea un biobanco con 100,000 genomas para dejar de depender de datos europeos",
+      "link": "https://expansion.mx/tecnologia/2026/07/23/mexico-base-adn-genomas-entender-salud-personas",
+      "source": "Expansion MX",
+      "pub": "Thu, 23 Jul 2026 18:00:50 GMT"
+    },
+    {
+      "title": "Los terremotos en Venezuela provocan daños por 19,500 mdd, dice el Banco Mundial",
+      "link": "https://expansion.mx/mundo/2026/07/23/los-terremotos-en-venezuela-provocan-danos-por-19-500-mdd-dice-el-banco-mundial",
+      "source": "Expansion MX",
+      "pub": "Thu, 23 Jul 2026 16:47:44 GMT"
+    },
+    {
+      "title": "Este es el monto máximo que puedes pagar en efectivo al comprar un auto",
+      "link": "https://expansion.mx/finanzas-personales/2026/07/23/autos-nissan-kia-toyota-menos-400-mil-pesos-efectivo",
+      "source": "Expansion MX",
+      "pub": "Thu, 23 Jul 2026 16:27:37 GMT"
+    },
+    {
+      "title": "Gilberto Mora rompe récord con su valor: ya está entre los mexicanos más valiosos de la historia",
+      "link": "https://expansion.mx/tendencias/2026/07/23/gilberto-mora-valor-transfermarkt-mexicanos-historicos",
+      "source": "Expansion MX",
+      "pub": "Thu, 23 Jul 2026 16:17:09 GMT"
+    },
+    {
+      "title": "Hyundai traerá su SUV Creta de Vietnam y ajustará motor de Grand i10 para esquivar aranceles y mantener precios",
+      "link": "https://expansion.mx/empresas/2026/07/23/hyundai-mueve-produccion-creta-ajusta-motor-de-grand-i10",
+      "source": "Expansion MX",
+      "pub": "Thu, 23 Jul 2026 16:12:50 GMT"
     }
   ]
 }
