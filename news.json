@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T16:18:42.559419+00:00",
+  "updated": "2026-07-23T17:49:35.584930+00:00",
   "colombia": [
     {
       "title": "De la Espriella’s defeat in congress could signal turbulent term in office",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "La inflación baja a 3.10% en la primera quincena de julio",
+      "link": "https://expansion.mx/economia/2026/07/23/inflacion-baja-310-primera-quincena-julio",
+      "source": "Expansion MX",
+      "pub": "Thu, 23 Jul 2026 13:31:32 GMT"
+    },
+    {
       "title": "Porsche planea recortar otros 5,000 puestos de trabajo",
       "link": "https://expansion.mx/empresas/2026/07/23/porsche-planea-recortar-5000-puestos-trabajo",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/tecnologia/2026/07/22/que-red-datos-moviles-es-mejor-5g-4g-o-3g",
       "source": "Expansion MX",
       "pub": "Thu, 23 Jul 2026 01:05:05 GMT"
-    },
-    {
-      "title": "¿Quién es el dueño de la mayor cadena hotelera de México? Comenzó su imperio empresarial a los 21 años",
-      "link": "https://expansion.mx/empresas/2026/07/22/quien-es-el-dueno-de-la-mayor-cadena-hotelera-de-mexico",
-      "source": "Expansion MX",
-      "pub": "Thu, 23 Jul 2026 00:19:33 GMT"
     }
   ]
 }
