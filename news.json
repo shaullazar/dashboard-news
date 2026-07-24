@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T10:36:45.838015+00:00",
+  "updated": "2026-07-24T12:04:44.703807+00:00",
   "colombia": [
     {
       "title": "De la Espriella’s defeat in congress could signal turbulent term in office",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "Los hutíes amenazan con hacer del mar Rojo otro Ormuz",
+      "link": "https://expansion.mx/mundo/2026/07/24/los-huties-amenazan-con-hacer-del-mar-rojo-otro-ormuz",
+      "source": "Expansion MX",
+      "pub": "Fri, 24 Jul 2026 11:55:52 GMT"
+    },
+    {
+      "title": "El 70% de los mexicanos prefiere a una persona, pero las empresas apuestan por la IA",
+      "link": "https://expansion.mx/tecnologia/2026/07/24/queremos-hablar-humanos-empresas-ia-atencion-a-clientes",
+      "source": "Expansion MX",
+      "pub": "Fri, 24 Jul 2026 11:55:49 GMT"
+    },
+    {
+      "title": "Pemex pierde dinero donde Exxon y Aramco ganan millones",
+      "link": "https://expansion.mx/empresas/2026/07/24/pemex-pierde-dinero-donde-exxon-y-aramco-ganan-millones",
+      "source": "Expansion MX",
+      "pub": "Fri, 24 Jul 2026 11:55:34 GMT"
+    },
+    {
+      "title": "Manufactureras de exportación apuestan por retener inversiones ante aranceles y el T-MEC",
+      "link": "https://expansion.mx/economia/2026/07/24/retener-inversiones-manufactureras-exportacion-arancel-tmec",
+      "source": "Expansion MX",
+      "pub": "Fri, 24 Jul 2026 11:55:20 GMT"
+    },
+    {
       "title": "Casi 40% de los estudiantes no sabe a qué quiere dedicarse",
       "link": "https://expansion.mx/carrera/2026/07/23/4-de-cada-10-estudiantes-no-sabe-a-que-quiere-dedicarse",
       "source": "Expansion MX",
@@ -98,30 +122,6 @@
       "link": "https://expansion.mx/finanzas-personales/2026/07/23/registro-gratuito-dejar-de-recibir-llamadas-de-bancos",
       "source": "Expansion MX",
       "pub": "Fri, 24 Jul 2026 00:00:09 GMT"
-    },
-    {
-      "title": "Hacienda recupera más de 2,500 millones de pesos por acuerdo entre la Fiscalía y Topo Chico",
-      "link": "https://expansion.mx/economia/2026/07/23/topo-chico-paga-sat-2500-millones-pesos-acuerdo-fiscalia",
-      "source": "Expansion MX",
-      "pub": "Thu, 23 Jul 2026 23:53:31 GMT"
-    },
-    {
-      "title": "Bimbo aumenta ventas y rentabilidad pese al consumo débil y fortalece su generación de efectivo",
-      "link": "https://expansion.mx/empresas/2026/07/23/bimbo-resultados-segundo-trimestre-crecimiento",
-      "source": "Expansion MX",
-      "pub": "Thu, 23 Jul 2026 23:44:13 GMT"
-    },
-    {
-      "title": "Tesla se hunde y el petróleo supera los 100 dólares mientras vuelven los aranceles de Trump",
-      "link": "https://expansion.mx/mercados/2026/07/23/tesla-se-hunde-y-el-petroleo-supera-los-100-dolares-mientras-vuelven-los-aranceles-de-trump",
-      "source": "Expansion MX",
-      "pub": "Thu, 23 Jul 2026 23:41:13 GMT"
-    },
-    {
-      "title": "Hoteleros reconocen que el Mundial 2026 no fue lo que esperaban; ahora confían en un impacto de ‘largo plazo’",
-      "link": "https://expansion.mx/empresas/2026/07/23/mundial-2026-hoteles-ingresos-ocupacion-promocion-turistica",
-      "source": "Expansion MX",
-      "pub": "Thu, 23 Jul 2026 23:21:01 GMT"
     }
   ]
 }
