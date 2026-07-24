@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T18:42:40.549135+00:00",
+  "updated": "2026-07-24T20:01:24.730775+00:00",
   "colombia": [
     {
       "title": "How Colombia’s tech ecosystem is meeting rising global cybersecurity standards",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "El auge de la inteligencia artificial pone a prueba la capacidad eléctrica",
+      "link": "https://expansion.mx/bespoke-ad/2026/07/24/el-auge-de-la-inteligencia-artificial-pone-a-prueba-la-capacidad-electrica",
+      "source": "Expansion MX",
+      "pub": "Fri, 24 Jul 2026 18:02:43 GMT"
+    },
+    {
+      "title": "Endeavor reconoce a Koltin por transformar el cuidado de las personas mayores",
+      "link": "https://expansion.mx/bespoke-ad/2026/07/24/endeavor-reconoce-a-koltin-por-transformar-el-cuidado-de-las-personas-mayores",
+      "source": "Expansion MX",
+      "pub": "Fri, 24 Jul 2026 17:15:39 GMT"
+    },
+    {
       "title": "El Vocho 'nació' antes que Volkswagen: la historia del auto que revolucionó la industria automotriz",
       "link": "https://expansion.mx/empresas/2026/07/24/vocho-nacio-antes-volkswagen-historia",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/mundo/2026/07/24/los-huties-amenazan-con-hacer-del-mar-rojo-otro-ormuz",
       "source": "Expansion MX",
       "pub": "Fri, 24 Jul 2026 11:55:52 GMT"
-    },
-    {
-      "title": "El 70% de los mexicanos prefiere a una persona, pero las empresas apuestan por la IA",
-      "link": "https://expansion.mx/tecnologia/2026/07/24/queremos-hablar-humanos-empresas-ia-atencion-a-clientes",
-      "source": "Expansion MX",
-      "pub": "Fri, 24 Jul 2026 11:55:49 GMT"
-    },
-    {
-      "title": "Pemex pierde dinero donde Exxon y Aramco ganan millones",
-      "link": "https://expansion.mx/empresas/2026/07/24/pemex-pierde-dinero-donde-exxon-y-aramco-ganan-millones",
-      "source": "Expansion MX",
-      "pub": "Fri, 24 Jul 2026 11:55:34 GMT"
     }
   ]
 }
