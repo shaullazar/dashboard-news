@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T14:04:28.928098+00:00",
+  "updated": "2026-07-24T15:36:51.924984+00:00",
   "colombia": [
     {
       "title": "De la Espriella’s defeat in congress could signal turbulent term in office",
@@ -64,6 +64,36 @@
   ],
   "mexico": [
     {
+      "title": "La Liga MX regresa a EA Sports FC 27",
+      "link": "https://expansion.mx/tecnologia/2026/07/24/la-liga-mx-regresa-a-ea-sports-fc-27",
+      "source": "Expansion MX",
+      "pub": "Fri, 24 Jul 2026 15:16:35 GMT"
+    },
+    {
+      "title": "¿Quién es el dueño del agua mineral Topo Chico, que cumple 130 años?",
+      "link": "https://expansion.mx/empresas/2026/07/24/quien-es-dueno-topo-chico",
+      "source": "Expansion MX",
+      "pub": "Fri, 24 Jul 2026 15:08:31 GMT"
+    },
+    {
+      "title": "El nuevo miedo laboral tiene nombre y las tecnológicas lo alimentan con IA",
+      "link": "https://expansion.mx/carrera/2026/07/24/fobo-6-cada-10-trabajadores-siente-mexico-miedo-ia",
+      "source": "Expansion MX",
+      "pub": "Fri, 24 Jul 2026 15:00:12 GMT"
+    },
+    {
+      "title": "¿Dónde será el Mundial 2030? Así celebrará la FIFA los 100 años de la Copa del Mundo",
+      "link": "https://expansion.mx/tendencias/2026/07/24/donde-sera-siguiente-mundial-2030-fifa",
+      "source": "Expansion MX",
+      "pub": "Fri, 24 Jul 2026 14:45:24 GMT"
+    },
+    {
+      "title": "La industria de la belleza avanza en el uso responsable del agua",
+      "link": "https://expansion.mx/tendencias/2026/07/24/la-industria-de-la-belleza-avanza-en-el-uso-responsable-del-agua",
+      "source": "Expansion MX",
+      "pub": "Fri, 24 Jul 2026 14:01:34 GMT"
+    },
+    {
       "title": "Los hutíes amenazan con hacer del mar Rojo otro Ormuz",
       "link": "https://expansion.mx/mundo/2026/07/24/los-huties-amenazan-con-hacer-del-mar-rojo-otro-ormuz",
       "source": "Expansion MX",
@@ -92,36 +122,6 @@
       "link": "https://expansion.mx/carrera/2026/07/23/4-de-cada-10-estudiantes-no-sabe-a-que-quiere-dedicarse",
       "source": "Expansion MX",
       "pub": "Fri, 24 Jul 2026 02:41:30 GMT"
-    },
-    {
-      "title": "¿Trabajas en tu día de descanso? Proponen un pago extra equivalente al 50% de la jornada laboral",
-      "link": "https://expansion.mx/empresas/2026/07/23/pago-extra-dia-descanso-50-de-la-jornada-laboral",
-      "source": "Expansion MX",
-      "pub": "Fri, 24 Jul 2026 02:09:07 GMT"
-    },
-    {
-      "title": "Bankaool busca consolidar su negocio y ficha a Francisco Lira",
-      "link": "https://expansion.mx/economia/2026/07/23/bankaool-incorpora-francisco-lira",
-      "source": "Expansion MX",
-      "pub": "Fri, 24 Jul 2026 01:20:20 GMT"
-    },
-    {
-      "title": "La compra de Warner Bros Discovery sigue en pausa y Paramount podría enfrentar un costo millonario",
-      "link": "https://expansion.mx/tecnologia/2026/07/23/paramount-detenida-la-compra-de-warner",
-      "source": "Expansion MX",
-      "pub": "Fri, 24 Jul 2026 01:03:50 GMT"
-    },
-    {
-      "title": "Las ganancias de José Cuervo caen 29% por el tipo de cambio y un menor consumo de tequila",
-      "link": "https://expansion.mx/empresas/2026/07/23/jose-cuervo-ganancias-caen-tipo-cambio-menor-consumo-tequila",
-      "source": "Expansion MX",
-      "pub": "Fri, 24 Jul 2026 00:42:04 GMT"
-    },
-    {
-      "title": "El registro gratuito para dejar de recibir llamadas de bancos y aseguradoras",
-      "link": "https://expansion.mx/finanzas-personales/2026/07/23/registro-gratuito-dejar-de-recibir-llamadas-de-bancos",
-      "source": "Expansion MX",
-      "pub": "Fri, 24 Jul 2026 00:00:09 GMT"
     }
   ]
 }
