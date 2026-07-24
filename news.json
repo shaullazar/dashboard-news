@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T17:09:15.519157+00:00",
+  "updated": "2026-07-24T18:42:40.549135+00:00",
   "colombia": [
     {
       "title": "How Colombia’s tech ecosystem is meeting rising global cybersecurity standards",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "El Vocho 'nació' antes que Volkswagen: la historia del auto que revolucionó la industria automotriz",
+      "link": "https://expansion.mx/empresas/2026/07/24/vocho-nacio-antes-volkswagen-historia",
+      "source": "Expansion MX",
+      "pub": "Fri, 24 Jul 2026 16:52:28 GMT"
+    },
+    {
+      "title": "De Toks a Shake Shack: todos los restaurantes de Grupo Gigante, que ahora va por La Casa de Toño",
+      "link": "https://expansion.mx/empresas/2026/07/24/grupo-gigante-imperio-restaurantes-la-casa-tono",
+      "source": "Expansion MX",
+      "pub": "Fri, 24 Jul 2026 16:33:01 GMT"
+    },
+    {
       "title": "La Liga MX regresa a EA Sports FC 27",
       "link": "https://expansion.mx/tecnologia/2026/07/24/la-liga-mx-regresa-a-ea-sports-fc-27",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/07/24/pemex-pierde-dinero-donde-exxon-y-aramco-ganan-millones",
       "source": "Expansion MX",
       "pub": "Fri, 24 Jul 2026 11:55:34 GMT"
-    },
-    {
-      "title": "Manufactureras de exportación apuestan por retener inversiones ante aranceles y el T-MEC",
-      "link": "https://expansion.mx/economia/2026/07/24/retener-inversiones-manufactureras-exportacion-arancel-tmec",
-      "source": "Expansion MX",
-      "pub": "Fri, 24 Jul 2026 11:55:20 GMT"
-    },
-    {
-      "title": "Casi 40% de los estudiantes no sabe a qué quiere dedicarse",
-      "link": "https://expansion.mx/carrera/2026/07/23/4-de-cada-10-estudiantes-no-sabe-a-que-quiere-dedicarse",
-      "source": "Expansion MX",
-      "pub": "Fri, 24 Jul 2026 02:41:30 GMT"
     }
   ]
 }
