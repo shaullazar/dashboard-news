@@ -1,6 +1,12 @@
 {
-  "updated": "2026-07-24T15:36:51.924984+00:00",
+  "updated": "2026-07-24T17:09:15.519157+00:00",
   "colombia": [
+    {
+      "title": "How Colombia’s tech ecosystem is meeting rising global cybersecurity standards",
+      "link": "https://thebogotapost.com/how-colombias-tech-ecosystem-is-meeting-rising-global-cybersecurity-standards/56641/",
+      "source": "The Bogota Post",
+      "pub": "Fri, 24 Jul 2026 16:57:12 +0000"
+    },
     {
       "title": "De la Espriella’s defeat in congress could signal turbulent term in office",
       "link": "https://thebogotapost.com/de-la-espriellas-defeat-in-congress-could-signal-turbulent-term-in-office/56636/",
@@ -54,12 +60,6 @@
       "link": "https://thebogotapost.com/opinion-colombias-unmatched-world-cup-fever/56589/",
       "source": "The Bogota Post",
       "pub": "Thu, 25 Jun 2026 21:11:49 +0000"
-    },
-    {
-      "title": "Abelardo de la Espriella wins the 2026 Colombian presidential election",
-      "link": "https://thebogotapost.com/de-la-espriella-wins-2026-election/56578/",
-      "source": "The Bogota Post",
-      "pub": "Sun, 21 Jun 2026 22:28:14 +0000"
     }
   ],
   "mexico": [
