@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T22:15:32.977841+00:00",
+  "updated": "2026-07-24T23:16:40.595578+00:00",
   "colombia": [
     {
       "title": "How Colombia’s tech ecosystem is meeting rising global cybersecurity standards",
@@ -64,6 +64,36 @@
   ],
   "mexico": [
     {
+      "title": "CRT va por regulación de los derechos de las audiencias y reabre el debate sobre la libertad de expresión",
+      "link": "https://expansion.mx/empresas/2026/07/24/crt-va-por-regulacion-de-los-derechos-de-las-audiencias",
+      "source": "Expansion MX",
+      "pub": "Fri, 24 Jul 2026 22:46:00 GMT"
+    },
+    {
+      "title": "¿Quién es el dueño del centro comercial Manacar y de su icónica torre de cristal en Insurgentes?",
+      "link": "https://expansion.mx/empresas/2026/07/24/quien-es-dueno-del-centro-comercial-manacar-torre-de-cristal",
+      "source": "Expansion MX",
+      "pub": "Fri, 24 Jul 2026 22:40:04 GMT"
+    },
+    {
+      "title": "SEP oficializa aumento salarial para maestros: de cuánto será y qué prestaciones también subirán",
+      "link": "https://expansion.mx/https:/politica.expansion.mx/mexico/2026/07/24/sep-oficializa-aumentos-salarios-de-profesores",
+      "source": "Expansion MX",
+      "pub": "Fri, 24 Jul 2026 22:00:19 GMT"
+    },
+    {
+      "title": "¿Qué tan difícil es subir de clase social en México? Así opera el \"suelo pegajoso\" de la pobreza",
+      "link": "https://expansion.mx/economia/2026/07/24/cambiar-de-clase-social-mexico-solo-2-de-cada-100-logran",
+      "source": "Expansion MX",
+      "pub": "Fri, 24 Jul 2026 21:04:57 GMT"
+    },
+    {
+      "title": "¿Qué es la Ley 73 del IMSS? Esto pasa cuando te jubilas bajo este esquema de pensión",
+      "link": "https://expansion.mx/finanzas-personales/2026/07/24/que-es-ley-73-imss-esto-pasa-cuando-te-jubilas-esquema",
+      "source": "Expansion MX",
+      "pub": "Fri, 24 Jul 2026 21:03:56 GMT"
+    },
+    {
       "title": "Las fábricas de IA ya llegaron a México y necesitan más ingenieros",
       "link": "https://expansion.mx/economia/2026/07/24/mexico-inteligencia-artificial-ingenieros",
       "source": "Expansion MX",
@@ -92,36 +122,6 @@
       "link": "https://expansion.mx/bespoke-ad/2026/07/24/el-auge-de-la-inteligencia-artificial-pone-a-prueba-la-capacidad-electrica",
       "source": "Expansion MX",
       "pub": "Fri, 24 Jul 2026 18:02:43 GMT"
-    },
-    {
-      "title": "Endeavor reconoce a Koltin por transformar el cuidado de las personas mayores",
-      "link": "https://expansion.mx/bespoke-ad/2026/07/24/endeavor-reconoce-a-koltin-por-transformar-el-cuidado-de-las-personas-mayores",
-      "source": "Expansion MX",
-      "pub": "Fri, 24 Jul 2026 17:15:39 GMT"
-    },
-    {
-      "title": "El Vocho 'nació' antes que Volkswagen: la historia del auto que revolucionó la industria automotriz",
-      "link": "https://expansion.mx/empresas/2026/07/24/vocho-nacio-antes-volkswagen-historia",
-      "source": "Expansion MX",
-      "pub": "Fri, 24 Jul 2026 16:52:28 GMT"
-    },
-    {
-      "title": "De Toks a Shake Shack: todos los restaurantes de Grupo Gigante, que ahora va por La Casa de Toño",
-      "link": "https://expansion.mx/empresas/2026/07/24/grupo-gigante-imperio-restaurantes-la-casa-tono",
-      "source": "Expansion MX",
-      "pub": "Fri, 24 Jul 2026 16:33:01 GMT"
-    },
-    {
-      "title": "La Liga MX regresa a EA Sports FC 27",
-      "link": "https://expansion.mx/tecnologia/2026/07/24/la-liga-mx-regresa-a-ea-sports-fc-27",
-      "source": "Expansion MX",
-      "pub": "Fri, 24 Jul 2026 15:16:35 GMT"
-    },
-    {
-      "title": "¿Quién es el dueño del agua mineral Topo Chico, que cumple 130 años?",
-      "link": "https://expansion.mx/empresas/2026/07/24/quien-es-dueno-topo-chico",
-      "source": "Expansion MX",
-      "pub": "Fri, 24 Jul 2026 15:08:31 GMT"
     }
   ]
 }
