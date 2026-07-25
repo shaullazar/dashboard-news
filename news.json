@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T20:16:17.682498+00:00",
+  "updated": "2026-07-25T21:09:51.699384+00:00",
   "colombia": [
     {
       "title": "De la Espriella eyes inauguration at army base in southern Colombia in break with tradition",
@@ -8,7 +8,7 @@
       "pub": "Fri, 24 Jul 2026 23:47:18 +0000"
     },
     {
-      "title": "How Colombia’s tech ecosystem is meeting rising global cybersecurity standards",
+      "title": "As cyber threats rise, Colombia’s tech sector is leveling up",
       "link": "https://thebogotapost.com/how-colombias-tech-ecosystem-is-meeting-rising-global-cybersecurity-standards/56641/",
       "source": "The Bogota Post",
       "pub": "Fri, 24 Jul 2026 16:57:12 +0000"
@@ -64,18 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Flávio Bolsonaro oficializa su candidatura presidencial en Brasil",
-      "link": "https://expansion.mx/mundo/2026/07/25/flavio-bolsonaro-candidato-elecciones-brasil-lula",
-      "source": "Expansion MX",
-      "pub": "Sat, 25 Jul 2026 19:55:10 GMT"
-    },
-    {
-      "title": "La fintech Mango levanta 6 mdd para crear el primer buró de crédito de la construcción en México",
-      "link": "https://expansion.mx/empresas/2026/07/25/la-fintech-mango-levanta-6-mdd-para-crear-el-primer-buro-de-credito-de-la-construccion-en-mexico",
-      "source": "Expansion MX",
-      "pub": "Sat, 25 Jul 2026 18:47:10 GMT"
-    },
-    {
       "title": "Incendios en España y Francia obligan a evacuar a 260,000 personas",
       "link": "https://expansion.mx/mundo/2026/07/25/incendios-en-espana-y-francia-obligan-a-evacuar-a-260-000-personas",
       "source": "Expansion MX",
@@ -122,6 +110,18 @@
       "link": "https://expansion.mx/empresas/2026/07/24/byd-red-cargadores-flash-5-minutos-mexico",
       "source": "Expansion MX",
       "pub": "Sat, 25 Jul 2026 00:20:52 GMT"
+    },
+    {
+      "title": "CRT va por regulación de los derechos de las audiencias y reabre el debate sobre la libertad de expresión",
+      "link": "https://expansion.mx/empresas/2026/07/24/crt-va-por-regulacion-de-los-derechos-de-las-audiencias",
+      "source": "Expansion MX",
+      "pub": "Fri, 24 Jul 2026 22:46:00 GMT"
+    },
+    {
+      "title": "¿Quién es el dueño del centro comercial Manacar y de su icónica torre de cristal en Insurgentes?",
+      "link": "https://expansion.mx/empresas/2026/07/24/quien-es-dueno-del-centro-comercial-manacar-torre-de-cristal",
+      "source": "Expansion MX",
+      "pub": "Fri, 24 Jul 2026 22:40:04 GMT"
     }
   ]
 }
