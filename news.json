@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T19:22:10.109598+00:00",
+  "updated": "2026-07-25T20:16:17.682498+00:00",
   "colombia": [
     {
       "title": "De la Espriella eyes inauguration at army base in southern Colombia in break with tradition",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Flávio Bolsonaro oficializa su candidatura presidencial en Brasil",
+      "link": "https://expansion.mx/mundo/2026/07/25/flavio-bolsonaro-candidato-elecciones-brasil-lula",
+      "source": "Expansion MX",
+      "pub": "Sat, 25 Jul 2026 19:55:10 GMT"
+    },
+    {
       "title": "La fintech Mango levanta 6 mdd para crear el primer buró de crédito de la construcción en México",
       "link": "https://expansion.mx/empresas/2026/07/25/la-fintech-mango-levanta-6-mdd-para-crear-el-primer-buro-de-credito-de-la-construccion-en-mexico",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/07/24/byd-red-cargadores-flash-5-minutos-mexico",
       "source": "Expansion MX",
       "pub": "Sat, 25 Jul 2026 00:20:52 GMT"
-    },
-    {
-      "title": "CRT va por regulación de los derechos de las audiencias y reabre el debate sobre la libertad de expresión",
-      "link": "https://expansion.mx/empresas/2026/07/24/crt-va-por-regulacion-de-los-derechos-de-las-audiencias",
-      "source": "Expansion MX",
-      "pub": "Fri, 24 Jul 2026 22:46:00 GMT"
     }
   ]
 }
