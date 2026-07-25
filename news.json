@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T16:06:35.841803+00:00",
+  "updated": "2026-07-25T17:11:20.323841+00:00",
   "colombia": [
     {
       "title": "De la Espriella eyes inauguration at army base in southern Colombia in break with tradition",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "EU reabre importación de ganado mexicano tras crisis por gusano barrenador",
+      "link": "https://expansion.mx/empresas/2026/07/25/eu-reabre-importacion-de-ganado-mexicano-tras-crisis-por-gusano-barrenador",
+      "source": "Expansion MX",
+      "pub": "Sat, 25 Jul 2026 16:38:48 GMT"
+    },
+    {
+      "title": "Los siniestros ferroviarios salen del radar oficial tras el accidente mortal del Tren Interoceánico",
+      "link": "https://expansion.mx/empresas/2026/07/25/siniestros-ferroviarios-descarrilamiento-tren-interoceanico",
+      "source": "Expansion MX",
+      "pub": "Sat, 25 Jul 2026 15:30:39 GMT"
+    },
+    {
       "title": "Nu se convierte en banco el 6 de agosto y pausará las transferencias SPEI por unas horas",
       "link": "https://expansion.mx/finanzas-personales/2026/07/24/nu-banco-6-agosto-suspendera-spei",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/https:/politica.expansion.mx/mexico/2026/07/24/sep-oficializa-aumentos-salarios-de-profesores",
       "source": "Expansion MX",
       "pub": "Fri, 24 Jul 2026 22:00:19 GMT"
-    },
-    {
-      "title": "¿Qué tan difícil es subir de clase social en México? Así opera el \"suelo pegajoso\" de la pobreza",
-      "link": "https://expansion.mx/economia/2026/07/24/cambiar-de-clase-social-mexico-solo-2-de-cada-100-logran",
-      "source": "Expansion MX",
-      "pub": "Fri, 24 Jul 2026 21:04:57 GMT"
-    },
-    {
-      "title": "¿Qué es la Ley 73 del IMSS? Esto pasa cuando te jubilas bajo este esquema de pensión",
-      "link": "https://expansion.mx/finanzas-personales/2026/07/24/que-es-ley-73-imss-esto-pasa-cuando-te-jubilas-esquema",
-      "source": "Expansion MX",
-      "pub": "Fri, 24 Jul 2026 21:03:56 GMT"
     }
   ]
 }
