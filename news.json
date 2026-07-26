@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T20:32:04.300905+00:00",
+  "updated": "2026-07-26T21:28:53.853849+00:00",
   "colombia": [
     {
       "title": "De la Espriella eyes inauguration at army base in southern Colombia in break with tradition",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "La policía de Chile arresta al último condenado por el asesinato de Víctor Jara",
+      "link": "https://expansion.mx/mundo/2026/07/26/la-policia-de-chile-arresta-al-ultimo-condenado-por-el-asesinato-de-victor-jara",
+      "source": "Expansion MX",
+      "pub": "Sun, 26 Jul 2026 19:53:53 GMT"
+    },
+    {
       "title": "El tequila fortalece su presencia global tras consolidarse en Estados Unidos",
       "link": "https://expansion.mx/empresas/2026/07/25/tequila-mexicano-expansion-europa-asia-estados-unidos",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/finanzas-personales/2026/07/24/nu-banco-6-agosto-suspendera-spei",
       "source": "Expansion MX",
       "pub": "Sat, 25 Jul 2026 01:38:48 GMT"
-    },
-    {
-      "title": "La pantalla IMAX más grande del mundo sigue sin ser lo que Nolan hubiera querido para La Odisea",
-      "link": "https://expansion.mx/tendencias/2026/07/24/pantalla-imax-mas-grande-del-mundo-ver-la-odisea",
-      "source": "Expansion MX",
-      "pub": "Sat, 25 Jul 2026 01:17:05 GMT"
     }
   ]
 }
