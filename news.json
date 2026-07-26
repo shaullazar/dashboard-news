@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T21:28:53.853849+00:00",
+  "updated": "2026-07-26T22:29:17.541111+00:00",
   "colombia": [
     {
       "title": "De la Espriella eyes inauguration at army base in southern Colombia in break with tradition",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "La policía de Alemania abate al sospechoso de un ataque cerca del Orgullo en Berlín",
+      "link": "https://expansion.mx/mundo/2026/07/26/la-policia-de-alemania-abate-al-sospechoso-de-un-ataque-cerca-del-orgullo-en-berlin",
+      "source": "Expansion MX",
+      "pub": "Sun, 26 Jul 2026 20:51:14 GMT"
+    },
+    {
       "title": "La policía de Chile arresta al último condenado por el asesinato de Víctor Jara",
       "link": "https://expansion.mx/mundo/2026/07/26/la-policia-de-chile-arresta-al-ultimo-condenado-por-el-asesinato-de-victor-jara",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/07/25/siniestros-ferroviarios-descarrilamiento-tren-interoceanico",
       "source": "Expansion MX",
       "pub": "Sat, 25 Jul 2026 15:30:39 GMT"
-    },
-    {
-      "title": "Nu se convierte en banco el 6 de agosto y pausará las transferencias SPEI por unas horas",
-      "link": "https://expansion.mx/finanzas-personales/2026/07/24/nu-banco-6-agosto-suspendera-spei",
-      "source": "Expansion MX",
-      "pub": "Sat, 25 Jul 2026 01:38:48 GMT"
     }
   ]
 }
