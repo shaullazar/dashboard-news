@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T03:50:07.684875+00:00",
+  "updated": "2026-07-26T06:24:54.056112+00:00",
   "colombia": [
     {
       "title": "De la Espriella eyes inauguration at army base in southern Colombia in break with tradition",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Crisis del cacao pierde fuerza, aunque el chocolate seguirá con precios altos",
+      "link": "https://expansion.mx/mercados/2026/07/25/crisis-del-cacao-pierde-fuerza-aunque-el-chocolate-seguira-con-precios-altos",
+      "source": "Expansion MX",
+      "pub": "Sat, 25 Jul 2026 21:35:35 GMT"
+    },
+    {
       "title": "Rebeldes hutíes lanzan misiles contra refinerías saudíes mientras escala el conflicto con Irán",
       "link": "https://expansion.mx/mundo/2026/07/25/huties-atacan-aramco-arabia-saudi-conflicto-iran",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/07/24/restos-del-propulsor-del-starship-de-spacex-vuelven-a-caer-en-el-golfo-de-mexico",
       "source": "Expansion MX",
       "pub": "Sat, 25 Jul 2026 00:49:32 GMT"
-    },
-    {
-      "title": "Hacienda eleva el subsidio para el diésel hasta 71.6%",
-      "link": "https://expansion.mx/economia/2026/07/24/hacienda-eleva-el-subsidio-para-el-diesel-hasta-71-6",
-      "source": "Expansion MX",
-      "pub": "Sat, 25 Jul 2026 00:24:04 GMT"
     }
   ]
 }
