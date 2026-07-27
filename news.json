@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T20:38:33.534541+00:00",
+  "updated": "2026-07-27T21:44:55.041780+00:00",
   "colombia": [
     {
       "title": "De la Espriella eyes inauguration at army base in southern Colombia in break with tradition",
@@ -64,6 +64,36 @@
   ],
   "mexico": [
     {
+      "title": "Crecer el negocio en la era de los shocks permanentes",
+      "link": "https://expansion.mx/opinion/2026/07/27/economia-global-riesgos-empresas-ey-2026",
+      "source": "Expansion MX",
+      "pub": "Mon, 27 Jul 2026 12:00:19 GMT"
+    },
+    {
+      "title": "Tope a combustibles deja al descubierto las desconexiones logísticas en los extremos del país",
+      "link": "https://expansion.mx/empresas/2026/07/27/solo-dos-estados-no-cumplen-pacto-precio-combustibles",
+      "source": "Expansion MX",
+      "pub": "Mon, 27 Jul 2026 11:55:57 GMT"
+    },
+    {
+      "title": "“Es un bombardeo constante”: Las apps de apuestas copian a las redes sociales para engancharte",
+      "link": "https://expansion.mx/tecnologia/2026/07/27/apps-de-apuestas-enganchan-igual-redes-sociales",
+      "source": "Expansion MX",
+      "pub": "Mon, 27 Jul 2026 11:55:41 GMT"
+    },
+    {
+      "title": "China le gana terreno a Estados Unidos en confianza por culpa de Trump",
+      "link": "https://expansion.mx/mundo/2026/07/27/china-le-gana-terreno-a-estados-unidos-en-confianza-por-culpa-de-trump",
+      "source": "Expansion MX",
+      "pub": "Mon, 27 Jul 2026 11:55:35 GMT"
+    },
+    {
+      "title": "México y Canadá sostienen a 149,000 exportadores de EU que urgen certeza en el T-MEC",
+      "link": "https://expansion.mx/economia/2026/07/27/mexico-y-canada-sostienen-empresas-exportadoras-eu-tmec",
+      "source": "Expansion MX",
+      "pub": "Mon, 27 Jul 2026 11:55:31 GMT"
+    },
+    {
       "title": "Irán y Estados Unidos suspenden sus ataques y abren espacio para el diálogo",
       "link": "https://expansion.mx/mundo/2026/07/26/iran-y-estados-unidos-suspenden-sus-ataques-y-abren-espacio-para-el-dialogo",
       "source": "Expansion MX",
@@ -92,36 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/07/25/tequila-mexicano-expansion-europa-asia-estados-unidos",
       "source": "Expansion MX",
       "pub": "Sun, 26 Jul 2026 00:21:24 GMT"
-    },
-    {
-      "title": "Crisis del cacao pierde fuerza, aunque el chocolate seguirá con precios altos",
-      "link": "https://expansion.mx/mercados/2026/07/25/crisis-del-cacao-pierde-fuerza-aunque-el-chocolate-seguira-con-precios-altos",
-      "source": "Expansion MX",
-      "pub": "Sat, 25 Jul 2026 21:35:35 GMT"
-    },
-    {
-      "title": "Rebeldes hutíes lanzan misiles contra refinerías saudíes mientras escala el conflicto con Irán",
-      "link": "https://expansion.mx/mundo/2026/07/25/huties-atacan-aramco-arabia-saudi-conflicto-iran",
-      "source": "Expansion MX",
-      "pub": "Sat, 25 Jul 2026 20:44:18 GMT"
-    },
-    {
-      "title": "Flávio Bolsonaro oficializa su candidatura presidencial en Brasil",
-      "link": "https://expansion.mx/mundo/2026/07/25/flavio-bolsonaro-candidato-elecciones-brasil-lula",
-      "source": "Expansion MX",
-      "pub": "Sat, 25 Jul 2026 19:55:10 GMT"
-    },
-    {
-      "title": "La fintech Mango levanta 6 mdd para crear el primer buró de crédito de la construcción en México",
-      "link": "https://expansion.mx/empresas/2026/07/25/la-fintech-mango-levanta-6-mdd-para-crear-el-primer-buro-de-credito-de-la-construccion-en-mexico",
-      "source": "Expansion MX",
-      "pub": "Sat, 25 Jul 2026 18:47:10 GMT"
-    },
-    {
-      "title": "Incendios en España y Francia obligan a evacuar a 260,000 personas",
-      "link": "https://expansion.mx/mundo/2026/07/25/incendios-en-espana-y-francia-obligan-a-evacuar-a-260-000-personas",
-      "source": "Expansion MX",
-      "pub": "Sat, 25 Jul 2026 17:30:41 GMT"
     }
   ]
 }
