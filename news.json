@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T11:41:05.981645+00:00",
+  "updated": "2026-07-27T13:56:44.970575+00:00",
   "colombia": [
     {
       "title": "De la Espriella eyes inauguration at army base in southern Colombia in break with tradition",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Irán y Estados Unidos suspenden sus ataques y abren espacio para el diálogo",
+      "link": "https://expansion.mx/mundo/2026/07/26/iran-y-estados-unidos-suspenden-sus-ataques-y-abren-espacio-para-el-dialogo",
+      "source": "Expansion MX",
+      "pub": "Mon, 27 Jul 2026 01:06:07 GMT"
+    },
+    {
+      "title": "Milei desata una crisis diplomática con Brasil con su respaldo a Flavio Bolsonaro",
+      "link": "https://expansion.mx/mundo/2026/07/26/milei-desata-una-crisis-diplomatica-con-brasil-con-su-respaldo-a-flavio-bolsonaro",
+      "source": "Expansion MX",
+      "pub": "Sun, 26 Jul 2026 23:56:37 GMT"
+    },
+    {
       "title": "La policía de Alemania abate al sospechoso de un ataque cerca del Orgullo en Berlín",
       "link": "https://expansion.mx/mundo/2026/07/26/la-policia-de-alemania-abate-al-sospechoso-de-un-ataque-cerca-del-orgullo-en-berlin",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/mundo/2026/07/25/incendios-en-espana-y-francia-obligan-a-evacuar-a-260-000-personas",
       "source": "Expansion MX",
       "pub": "Sat, 25 Jul 2026 17:30:41 GMT"
-    },
-    {
-      "title": "EU reabre importación de ganado mexicano tras crisis por gusano barrenador",
-      "link": "https://expansion.mx/empresas/2026/07/25/eu-reabre-importacion-de-ganado-mexicano-tras-crisis-por-gusano-barrenador",
-      "source": "Expansion MX",
-      "pub": "Sat, 25 Jul 2026 16:38:48 GMT"
-    },
-    {
-      "title": "Los siniestros ferroviarios salen del radar oficial tras el accidente mortal del Tren Interoceánico",
-      "link": "https://expansion.mx/empresas/2026/07/25/siniestros-ferroviarios-descarrilamiento-tren-interoceanico",
-      "source": "Expansion MX",
-      "pub": "Sat, 25 Jul 2026 15:30:39 GMT"
     }
   ]
 }
