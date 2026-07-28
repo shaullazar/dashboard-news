@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T16:59:45.224273+00:00",
+  "updated": "2026-07-28T18:14:18.931305+00:00",
   "colombia": [
     {
       "title": "Gabo Awards 2026 pay tribute to journalists killed in Colombia",
@@ -64,36 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Las empresas que confían todo a una IA “subcontratan su forma de pensar” y no sobrevivirán, advierte Satya Nadella",
-      "link": "https://expansion.mx/tecnologia/2026/07/28/ceo-microsoft-lanza-advertencia-empresas-ia",
-      "source": "Expansion MX",
-      "pub": "Tue, 28 Jul 2026 15:00:34 GMT"
-    },
-    {
-      "title": "Terremoto de magnitud 7.1 en Japón deja edificios colapsados y varios desaparecidos",
-      "link": "https://expansion.mx/mundo/2026/07/28/terremoto-japon-hoy-colapso-edificios",
-      "source": "Expansion MX",
-      "pub": "Tue, 28 Jul 2026 14:46:37 GMT"
-    },
-    {
-      "title": "La IA encarece los smartphones y empuja el fin de los teléfonos baratos",
-      "link": "https://expansion.mx/tecnologia/2026/07/28/tu-siguiente-telefono-costara-mas-y-no-sera-gama-alta",
-      "source": "Expansion MX",
-      "pub": "Tue, 28 Jul 2026 11:55:43 GMT"
-    },
-    {
-      "title": "Hacienda prevé eliminar los estímulos al IEPS de gasolinas y diésel en 2027",
-      "link": "https://expansion.mx/economia/2026/07/28/hacienda-adios-a-subsidios-a-magna-diesel-2027",
-      "source": "Expansion MX",
-      "pub": "Tue, 28 Jul 2026 11:55:17 GMT"
-    },
-    {
-      "title": "Keiko Fujimori llega a la presidencia de Perú con pendientes en gobernabilidad y seguridad",
-      "link": "https://expansion.mx/mundo/2026/07/28/keiko-fujimori-presidencia-peru-seguridad-economia-gobierno",
-      "source": "Expansion MX",
-      "pub": "Tue, 28 Jul 2026 11:55:01 GMT"
-    },
-    {
       "title": "CAPUFE moderniza las casetas para avanzar a un esquema de \"Cero Efectivo”",
       "link": "https://expansion.mx/tendencias/2026/07/27/capufe-moderniza-las-casetas-para-avanzar-a-un-esquema-de-cero-efectivo",
       "source": "Expansion MX",
@@ -122,6 +92,36 @@
       "link": "https://expansion.mx/empresas/2026/07/27/sanborns-resultados-segundo-trimestre-2026-ventas-utilidad",
       "source": "Expansion MX",
       "pub": "Tue, 28 Jul 2026 00:14:56 GMT"
+    },
+    {
+      "title": "El Puerto de Liverpool eleva 55% su utilidad con impulso del negocio financiero y de Nordstrom",
+      "link": "https://expansion.mx/empresas/2026/07/27/liverpool-utilidad-segundo-trimestre-2026",
+      "source": "Expansion MX",
+      "pub": "Tue, 28 Jul 2026 00:03:57 GMT"
+    },
+    {
+      "title": "Nicaragua aplaza hasta septiembre aprobación de reforma para excluir a opositores de elecciones",
+      "link": "https://expansion.mx/mundo/2026/07/27/nicaragua-aplaza-reforma-excluir-opositores-elecciones",
+      "source": "Expansion MX",
+      "pub": "Mon, 27 Jul 2026 23:43:16 GMT"
+    },
+    {
+      "title": "Invertir 10,000 pesos en CETES: este es el rendimiento que puedes recibir con las tasas actuales",
+      "link": "https://expansion.mx/finanzas-personales/2026/07/27/invertir-10-000-pesos-en-cetes-rendimiento-tasas-actuales",
+      "source": "Expansion MX",
+      "pub": "Mon, 27 Jul 2026 23:36:51 GMT"
+    },
+    {
+      "title": "El hotel donde dormir una noche cuesta más que un viaje: así es el hospedaje más caro de México",
+      "link": "https://expansion.mx/tendencias/2026/07/27/hotel-noche-cuesta-mas-que-viaje-hospedaje-mas-caro-mexico",
+      "source": "Expansion MX",
+      "pub": "Mon, 27 Jul 2026 23:26:36 GMT"
+    },
+    {
+      "title": "El boom de los seminuevos pierde fuerza mientras los compradores regresan a los autos nuevos",
+      "link": "https://expansion.mx/empresas/2026/07/27/ventas-autos-nuevos-ganan-terreno-seminuevos",
+      "source": "Expansion MX",
+      "pub": "Mon, 27 Jul 2026 23:13:45 GMT"
     }
   ]
 }
