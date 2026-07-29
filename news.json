@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T07:10:13.119217+00:00",
+  "updated": "2026-07-29T09:47:07.278371+00:00",
   "colombia": [
     {
       "title": "Colombia president-elect Abelardo de la Espriella set to be inaugurated in Cali",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "OXXO quiere dejar de ser solo una tienda de conveniencia para competir con los súpers por las compras del hogar",
+      "link": "https://expansion.mx/empresas/2026/07/28/oxxo-despensa-alimentos-productos-basicos",
+      "source": "Expansion MX",
+      "pub": "Tue, 28 Jul 2026 23:52:45 GMT"
+    },
+    {
       "title": "Infantino planea “privatizar” el Mundial y vender acciones; UEFA muestra resistencia a modelo de negocio",
       "link": "https://expansion.mx/tendencias/2026/07/28/infantino-planea-privatizar-mundial-vender-acciones",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/finanzas-personales/2026/07/28/utiles-escolares-mas-baratos-cdmx-2026-profeco-feria",
       "source": "Expansion MX",
       "pub": "Tue, 28 Jul 2026 21:21:27 GMT"
-    },
-    {
-      "title": "Oxxo convierte el Mundial y las estampas Panini en impulso para sus ventas pese al consumo débil",
-      "link": "https://expansion.mx/empresas/2026/07/28/copa-mundial-y-estampas-panini-impulsan-ganancias-oxxo",
-      "source": "Expansion MX",
-      "pub": "Tue, 28 Jul 2026 21:20:39 GMT"
     }
   ]
 }
