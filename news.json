@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T09:47:07.278371+00:00",
+  "updated": "2026-07-29T11:49:51.120487+00:00",
   "colombia": [
     {
       "title": "Colombia president-elect Abelardo de la Espriella set to be inaugurated in Cali",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "Santander supera el billón de pesos en créditos, pero caen tarjetas y financiamientos a empresas",
+      "link": "https://expansion.mx/economia/2026/07/28/santander-billon-pesos-creditos-caen-tarjetas",
+      "source": "Expansion MX",
+      "pub": "Wed, 29 Jul 2026 01:45:39 GMT"
+    },
+    {
+      "title": "El SAT disminuye multas y recargos por más de 5,700 mdp a 36,000 contribuyentes",
+      "link": "https://expansion.mx/economia/2026/07/28/sat-disminuye-multas-recargos-5700-millones",
+      "source": "Expansion MX",
+      "pub": "Wed, 29 Jul 2026 01:22:47 GMT"
+    },
+    {
+      "title": "Crumbl arranca operaciones en México: la historia detrás de las galletas virales de TikTok",
+      "link": "https://expansion.mx/empresas/2026/07/28/crumbl-arranca-operaciones-mexico-historia-detras-galletas",
+      "source": "Expansion MX",
+      "pub": "Wed, 29 Jul 2026 01:16:31 GMT"
+    },
+    {
+      "title": "IMSS e ISSSTE: Así quedan los depósitos de pensión para jubilados en agosto",
+      "link": "https://expansion.mx/finanzas-personales/2026/07/28/imss-issste-asi-quedan-los-depositos-de-pension-para-agosto",
+      "source": "Expansion MX",
+      "pub": "Wed, 29 Jul 2026 01:10:41 GMT"
+    },
+    {
       "title": "OXXO quiere dejar de ser solo una tienda de conveniencia para competir con los súpers por las compras del hogar",
       "link": "https://expansion.mx/empresas/2026/07/28/oxxo-despensa-alimentos-productos-basicos",
       "source": "Expansion MX",
@@ -98,30 +122,6 @@
       "link": "https://expansion.mx/tecnologia/2026/07/28/que-celular-mejor-camara-iphone-17-galaxy-s25-xiaomi-15t",
       "source": "Expansion MX",
       "pub": "Tue, 28 Jul 2026 23:14:29 GMT"
-    },
-    {
-      "title": "Joe Biden reveló información confidencial al escritor de sus memorias, muestran audios",
-      "link": "https://expansion.mx/mundo/2026/07/28/joe-biden-revelo-informacion-confidencial-al-escritor-de-sus-memorias-muestran-audios",
-      "source": "Expansion MX",
-      "pub": "Tue, 28 Jul 2026 23:09:33 GMT"
-    },
-    {
-      "title": "Los 7 países donde opera Grupo Gigante, el conglomerado que analiza comprar La Casa de Toño",
-      "link": "https://expansion.mx/empresas/2026/07/28/grupo-gigante-mexico-opera-seis-paises",
-      "source": "Expansion MX",
-      "pub": "Tue, 28 Jul 2026 22:14:59 GMT"
-    },
-    {
-      "title": "TelevisaUnivision recurre a la IA para doblar telenovelas y acelerar su expansión internacional",
-      "link": "https://expansion.mx/empresas/2026/07/28/televisaunivision-usa-ia-doblaje-telenovelas-vix",
-      "source": "Expansion MX",
-      "pub": "Tue, 28 Jul 2026 21:46:32 GMT"
-    },
-    {
-      "title": "¿Dónde comprar útiles escolares baratos en CDMX? Profeco instalará la feria más grande del país",
-      "link": "https://expansion.mx/finanzas-personales/2026/07/28/utiles-escolares-mas-baratos-cdmx-2026-profeco-feria",
-      "source": "Expansion MX",
-      "pub": "Tue, 28 Jul 2026 21:21:27 GMT"
     }
   ]
 }
