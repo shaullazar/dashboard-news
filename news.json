@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T21:09:37.857436+00:00",
+  "updated": "2026-07-29T22:09:36.135824+00:00",
   "colombia": [
     {
       "title": "Colombia president-elect Abelardo de la Espriella set to be inaugurated in Cali",
@@ -64,24 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Fitch ve a México con grado de inversión, pero alerta por Pemex y bajo crecimiento",
-      "link": "https://expansion.mx/economia/2026/07/29/fitch-mexico-grado-inversion-riesgos",
-      "source": "Expansion MX",
-      "pub": "Wed, 29 Jul 2026 19:40:23 GMT"
-    },
-    {
-      "title": "¿Fuiste víctima de phishing? Las 7 pruebas que debes conservar para tu denuncia",
-      "link": "https://expansion.mx/tecnologia/2026/07/29/phishing-es-delito-cdmx-pruebas-para-denunciar",
-      "source": "Expansion MX",
-      "pub": "Wed, 29 Jul 2026 19:00:43 GMT"
-    },
-    {
-      "title": "La Reserva Federal mantiene tasa de interés, pero crece presión para endurecer la política monetaria",
-      "link": "https://expansion.mx/economia/2026/07/29/fed-mantiene-tasas-y-crece-presion-para-subirlas",
-      "source": "Expansion MX",
-      "pub": "Wed, 29 Jul 2026 18:58:20 GMT"
-    },
-    {
       "title": "Carlos Slim tiene más becas para estudiantes además de Telmex: conoce cuáles son y cómo pedirlas",
       "link": "https://expansion.mx/carrera/2026/07/29/beca-telmex-no-es-unica-carlos-slim-programa-completo",
       "source": "Expansion MX",
@@ -122,6 +104,24 @@
       "link": "https://expansion.mx/carrera/2026/07/29/carreras-unam-sistema-abierto-2026",
       "source": "Expansion MX",
       "pub": "Wed, 29 Jul 2026 15:58:55 GMT"
+    },
+    {
+      "title": "Líderes en IA piden un freno a la industria: ‘Hay un riesgo de que acelere más allá de nuestra comprensión’",
+      "link": "https://expansion.mx/tecnologia/2026/07/29/lideres-anthropic-google-freno-ia-riesgos-comprension",
+      "source": "Expansion MX",
+      "pub": "Wed, 29 Jul 2026 15:00:30 GMT"
+    },
+    {
+      "title": "IMSS e ISSSTE: así quedan los depósitos de pensión para jubilados en agosto",
+      "link": "https://expansion.mx/finanzas-personales/2026/07/29/pago-imss-issste-agosto-2026",
+      "source": "Expansion MX",
+      "pub": "Wed, 29 Jul 2026 14:48:41 GMT"
+    },
+    {
+      "title": "Kia invertirá 649 millones de dólares en México para fabricar el EV3, un vehículo eléctrico que hoy produce en Corea",
+      "link": "https://expansion.mx/empresas/2026/07/29/kia-invertira-649-millones-dolares-mexico-auto-electrico",
+      "source": "Expansion MX",
+      "pub": "Wed, 29 Jul 2026 14:11:26 GMT"
     }
   ]
 }
