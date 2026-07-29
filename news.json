@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T15:26:05.271741+00:00",
+  "updated": "2026-07-29T16:45:27.205715+00:00",
   "colombia": [
     {
       "title": "Colombia president-elect Abelardo de la Espriella set to be inaugurated in Cali",
@@ -64,30 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Solo 1 de cada 20 pacientes deja una reseña en Doctoralia pese a que casi todos las consultan",
-      "link": "https://expansion.mx/tecnologia/2026/07/29/doctoralia-resenas-pacientes-elegir-medico-confiables",
-      "source": "Expansion MX",
-      "pub": "Wed, 29 Jul 2026 11:55:56 GMT"
-    },
-    {
-      "title": "Milei convierte las críticas contra Argentina en una estrategia electoral",
-      "link": "https://expansion.mx/mundo/2026/07/29/milei-convierte-las-criticas-contra-argentina-en-una-estrategia-electoral",
-      "source": "Expansion MX",
-      "pub": "Wed, 29 Jul 2026 11:55:49 GMT"
-    },
-    {
-      "title": "Taiwán gana terreno en la industria de IA en México con escasa IED",
-      "link": "https://expansion.mx/economia/2026/07/29/taiwan-gana-peso-manufactura-mexico-no-en-inversiones",
-      "source": "Expansion MX",
-      "pub": "Wed, 29 Jul 2026 11:55:46 GMT"
-    },
-    {
-      "title": "Ford, Nissan y Renault abren sus plantas a marcas chinas mientras crece alerta por exportaciones desde terceros países",
-      "link": "https://expansion.mx/empresas/2026/07/29/ford-nissan-y-renault-abren-sus-plantas-a-marcas-chinas-mientras-crece-alerta-por-exportaciones-desde-terceros-paises",
-      "source": "Expansion MX",
-      "pub": "Wed, 29 Jul 2026 11:55:01 GMT"
-    },
-    {
       "title": "Santander supera el billón de pesos en créditos, pero caen tarjetas y financiamientos a empresas",
       "link": "https://expansion.mx/economia/2026/07/28/santander-billon-pesos-creditos-caen-tarjetas",
       "source": "Expansion MX",
@@ -122,6 +98,30 @@
       "link": "https://expansion.mx/tendencias/2026/07/28/infantino-planea-privatizar-mundial-vender-acciones",
       "source": "Expansion MX",
       "pub": "Tue, 28 Jul 2026 23:38:55 GMT"
+    },
+    {
+      "title": "La oportunidad para la proveeduría mexicana está en 509,000 mdd de insumos importados",
+      "link": "https://expansion.mx/economia/2026/07/28/mexico-proveeduria-insumos-importados",
+      "source": "Expansion MX",
+      "pub": "Tue, 28 Jul 2026 23:38:20 GMT"
+    },
+    {
+      "title": "Así ha crecido la fortuna de Carlos Slim, Larrea, Baillères y Aramburuzabala: la realidad de los milmillonarios",
+      "link": "https://expansion.mx/economia/2026/07/28/como-ha-crecido-fortuna-slim-larrea-bailleres-aramburuzabala",
+      "source": "Expansion MX",
+      "pub": "Tue, 28 Jul 2026 23:29:02 GMT"
+    },
+    {
+      "title": "La fiebre por la IA encarece 4.52% las computadoras en México en solo 15 días",
+      "link": "https://expansion.mx/economia/2026/07/28/precio-computadoras-mexico-escasez-memoria-ia-inegi",
+      "source": "Expansion MX",
+      "pub": "Tue, 28 Jul 2026 23:25:59 GMT"
+    },
+    {
+      "title": "iPhone 17 vs. Samsung Galaxy S25 vs. Xiaomi 15T: ¿cuál tiene la mejor cámara para tus fotos?",
+      "link": "https://expansion.mx/tecnologia/2026/07/28/que-celular-mejor-camara-iphone-17-galaxy-s25-xiaomi-15t",
+      "source": "Expansion MX",
+      "pub": "Tue, 28 Jul 2026 23:14:29 GMT"
     }
   ]
 }
