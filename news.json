@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T06:02:11.985847+00:00",
+  "updated": "2026-07-30T08:40:12.842912+00:00",
   "colombia": [
     {
       "title": "Colombia president-elect Abelardo de la Espriella set to be inaugurated in Cali",
@@ -64,6 +64,36 @@
   ],
   "mexico": [
     {
+      "title": "Doble SIM vs eSIM: qué diferencias tienen y por qué una tecnología está desplazando a la otra",
+      "link": "https://expansion.mx/tecnologia/2026/07/29/doble-sim-vs-esim-diferencias-una-tecnologia-desplaza-otra",
+      "source": "Expansion MX",
+      "pub": "Thu, 30 Jul 2026 01:04:37 GMT"
+    },
+    {
+      "title": "Fiscalía de Bolivia emite nueva orden de captura contra Evo Morales",
+      "link": "https://expansion.mx/mundo/2026/07/29/fiscalia-bolivia-emite-nueva-orden-captura-evo-morales",
+      "source": "Expansion MX",
+      "pub": "Thu, 30 Jul 2026 00:36:29 GMT"
+    },
+    {
+      "title": "Ni solo gasolina ni solo eléctricos: Kia convierte su planta de Pesquería en una fábrica multienergía",
+      "link": "https://expansion.mx/empresas/2026/07/29/planta-kia-pesqueria-hizo-autos-gasolina-10-anos-transforma",
+      "source": "Expansion MX",
+      "pub": "Thu, 30 Jul 2026 00:36:15 GMT"
+    },
+    {
+      "title": "PepsiCo descarta amenazas o extorsión tras incendio en CeDis de Matamoros",
+      "link": "https://expansion.mx/empresas/2026/07/29/pepsico-descarta-extorsion-incendio-en-cedis-de-matamoros",
+      "source": "Expansion MX",
+      "pub": "Thu, 30 Jul 2026 00:12:45 GMT"
+    },
+    {
+      "title": "F1: el campeonato del mundo que funciona con inversión privada, como desea Infantino",
+      "link": "https://expansion.mx/tendencias/2026/07/29/f1-campeonato-mundo-funciona-inversion-privada",
+      "source": "Expansion MX",
+      "pub": "Thu, 30 Jul 2026 00:08:06 GMT"
+    },
+    {
       "title": "L'Oréal eleva 6.3% sus ventas gracias al auge del cuidado capilar y la belleza dermatológica",
       "link": "https://expansion.mx/empresas/2026/07/29/loreal-crecimiento-cuidado-capilar-belleza-dermatologica",
       "source": "Expansion MX",
@@ -92,36 +122,6 @@
       "link": "https://expansion.mx/mercados/2026/07/29/peso-mexicano-entre-las-monedas-mas-caras-del-mundo-2026",
       "source": "Expansion MX",
       "pub": "Wed, 29 Jul 2026 22:58:35 GMT"
-    },
-    {
-      "title": "Así logran Tiendas 3B y Neto mantener precios bajos en sus productos",
-      "link": "https://expansion.mx/empresas/2026/07/29/tiendas-3b-neto-son-rivales-tiendas-precios-bajos",
-      "source": "Expansion MX",
-      "pub": "Wed, 29 Jul 2026 22:49:02 GMT"
-    },
-    {
-      "title": "¿Puedes volver a trabajar si recibes una pensión del IMSS? Lo que cambia entre la Ley 73 y la Ley 97",
-      "link": "https://expansion.mx/finanzas-personales/2026/07/29/puedes-trabajar-si-recibes-pension-imss-cambia-ley-73-ley-97",
-      "source": "Expansion MX",
-      "pub": "Wed, 29 Jul 2026 22:38:20 GMT"
-    },
-    {
-      "title": "Corona Extra lidera el ranking de las marcas mexicanas más valiosas en 2026",
-      "link": "https://expansion.mx/mercadotecnia/2026/07/29/corona-extra-marcas-mexicanas-mas-valiosas-2026",
-      "source": "Expansion MX",
-      "pub": "Wed, 29 Jul 2026 22:32:04 GMT"
-    },
-    {
-      "title": "Grupo México dispara utilidades por el repunte de los metales y acelera su apuesta minera",
-      "link": "https://expansion.mx/empresas/2026/07/29/grupo-mexico-dispara-utilidades-por-repunte-de-los-metales",
-      "source": "Expansion MX",
-      "pub": "Wed, 29 Jul 2026 22:01:21 GMT"
-    },
-    {
-      "title": "Comisiones y reservas elevan la utilidad de Actinver y acelera su apuesta tecnológica",
-      "link": "https://expansion.mx/mercados/2026/07/29/utilidad-actinver-acelera-apuesta-tecnologica",
-      "source": "Expansion MX",
-      "pub": "Wed, 29 Jul 2026 21:45:51 GMT"
     }
   ]
 }
