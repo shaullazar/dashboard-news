@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T22:39:00.333538+00:00",
+  "updated": "2026-07-30T23:37:56.430085+00:00",
   "colombia": [
     {
       "title": "Colombia president-elect Abelardo de la Espriella set to be inaugurated in Cali",
@@ -64,6 +64,48 @@
   ],
   "mexico": [
     {
+      "title": "¿Cuántos millones le ha generado Miniso a Carlos Slim? Así ha rendido su apuesta desde 2019",
+      "link": "https://expansion.mx/empresas/2026/07/30/carlos-slim-miniso-cuantos-millones-ha-ganado",
+      "source": "Expansion MX",
+      "pub": "Thu, 30 Jul 2026 21:24:48 GMT"
+    },
+    {
+      "title": "Australia busca profesionales para cubrir puestos que su población no alcanza a ocupar",
+      "link": "https://expansion.mx/carrera/2026/07/30/australia-empleo-requisitos-estudiantes-mexicanos",
+      "source": "Expansion MX",
+      "pub": "Thu, 30 Jul 2026 21:22:18 GMT"
+    },
+    {
+      "title": "Nunca antes me habían felicitado por manejar un coche chino",
+      "link": "https://expansion.mx/empresas/2026/07/30/nunca-antes-me-habian-felicitado-por-manejar-coche-chino-zeekr-7x",
+      "source": "Expansion MX",
+      "pub": "Thu, 30 Jul 2026 21:21:52 GMT"
+    },
+    {
+      "title": "Las programadoras junior tienen tres veces más riesgo ante la IA que los varones",
+      "link": "https://expansion.mx/tecnologia/2026/07/30/ia-amenaza-programadoras-junio-tres-veces-mas-riesgo",
+      "source": "Expansion MX",
+      "pub": "Thu, 30 Jul 2026 21:15:21 GMT"
+    },
+    {
+      "title": "Con OXXO o en tu celular: todas las formas de registrar tu línea desde el 1 de agosto si tu número termina en 0",
+      "link": "https://expansion.mx/empresas/2026/07/30/oxxo-todas-formas-de-registrar-linea-si-numero-termina-en-0",
+      "source": "Expansion MX",
+      "pub": "Thu, 30 Jul 2026 21:08:59 GMT"
+    },
+    {
+      "title": "¿Qué está pasando con la FIFA? UEFA y Concacaf frenan la privatización del Mundial",
+      "link": "https://expansion.mx/tendencias/2026/07/30/uefa-amenaza-boicot-torneos-fifa-privatizacion-mundial",
+      "source": "Expansion MX",
+      "pub": "Thu, 30 Jul 2026 20:51:13 GMT"
+    },
+    {
+      "title": "El hackeo de OpenAI y HuggingFace revela la fragilidad de la ciberseguridad ante la IA, alertan expertos",
+      "link": "https://expansion.mx/tecnologia/2026/07/30/nuevos-detalles-del-hackeo-openai-hugging-face",
+      "source": "Expansion MX",
+      "pub": "Thu, 30 Jul 2026 20:50:00 GMT"
+    },
+    {
       "title": "Spotify lanza Running Mode, un modo para correr con música personalizada por IA",
       "link": "https://expansion.mx/tecnologia/2026/07/30/spotify-lanza-running-mode",
       "source": "Expansion MX",
@@ -80,48 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/07/30/aifa-entra-top-10-aeropuertos-mas-viajeros-mexico",
       "source": "Expansion MX",
       "pub": "Thu, 30 Jul 2026 19:09:38 GMT"
-    },
-    {
-      "title": "Cómo registrar tu número celular si termina en 0: requisitos y pasos para hacerlo antes del 15 de agosto",
-      "link": "https://expansion.mx/empresas/2026/07/30/como-registrar-celular-curp-si-termina-0-15-de-agosto",
-      "source": "Expansion MX",
-      "pub": "Thu, 30 Jul 2026 18:53:31 GMT"
-    },
-    {
-      "title": "Milei prohibe la entrada a extranjeros que expresen odio hacia Argentina",
-      "link": "https://expansion.mx/mundo/2026/07/30/milei-prohibe-la-entrada-a-extranjeros-que-expresen-odio-hacia-argentina",
-      "source": "Expansion MX",
-      "pub": "Thu, 30 Jul 2026 18:30:19 GMT"
-    },
-    {
-      "title": "Isuzu entra al negocio de las pickups en México con la D-MAX de 550,000 pesos",
-      "link": "https://expansion.mx/empresas/2026/07/30/isuzu-primera-pickup-mexico-d-max-precio",
-      "source": "Expansion MX",
-      "pub": "Thu, 30 Jul 2026 18:15:31 GMT"
-    },
-    {
-      "title": "¿Cuándo un auto puede ayudarte a pagar menos impuestos? Hacienda explica quiénes pueden deducirlo",
-      "link": "https://expansion.mx/finanzas-personales/2026/07/30/comprar-auto-es-deducible-impuestos-sat",
-      "source": "Expansion MX",
-      "pub": "Thu, 30 Jul 2026 17:48:49 GMT"
-    },
-    {
-      "title": "Los libros se convierten en el nuevo oro de la IA",
-      "link": "https://expansion.mx/tecnologia/2026/07/30/empresas-de-ia-recurren-libros-humanos",
-      "source": "Expansion MX",
-      "pub": "Thu, 30 Jul 2026 17:00:43 GMT"
-    },
-    {
-      "title": "\"Complicidad en terrorismo\": Rusia emite una orden de búsqueda internacional contra el fundador de Telegram",
-      "link": "https://expansion.mx/tecnologia/2026/07/30/rusia-emite-orden-busqueda-fundador-de-telegram",
-      "source": "Expansion MX",
-      "pub": "Thu, 30 Jul 2026 14:30:32 GMT"
-    },
-    {
-      "title": "¿Conviene convertir tu auto a Gas LP? El ahorro puede superar los 6,000 pesos al mes en gasolina",
-      "link": "https://expansion.mx/empresas/2026/07/30/conviene-convertir-auto-a-gas-lp",
-      "source": "Expansion MX",
-      "pub": "Thu, 30 Jul 2026 13:15:08 GMT"
     }
   ]
 }
