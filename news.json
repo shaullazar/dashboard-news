@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T03:21:13.978743+00:00",
+  "updated": "2026-07-30T06:02:11.985847+00:00",
   "colombia": [
     {
       "title": "Colombia president-elect Abelardo de la Espriella set to be inaugurated in Cali",
@@ -64,6 +64,24 @@
   ],
   "mexico": [
     {
+      "title": "L'Oréal eleva 6.3% sus ventas gracias al auge del cuidado capilar y la belleza dermatológica",
+      "link": "https://expansion.mx/empresas/2026/07/29/loreal-crecimiento-cuidado-capilar-belleza-dermatologica",
+      "source": "Expansion MX",
+      "pub": "Wed, 29 Jul 2026 23:57:04 GMT"
+    },
+    {
+      "title": "Pese a los aranceles, autos importados de China e India avanzan entre los 10 más vendidos en México",
+      "link": "https://expansion.mx/empresas/2026/07/29/autos-importados-china-india-ganan-mercado-mexico",
+      "source": "Expansion MX",
+      "pub": "Wed, 29 Jul 2026 23:49:09 GMT"
+    },
+    {
+      "title": "El nuevo mapa laboral, las licenciaturas que impulsarán 170 millones de empleos para 2030",
+      "link": "https://expansion.mx/carrera/2026/07/29/licenciaturas-que-impulsaran-170-millones-empleos-2030",
+      "source": "Expansion MX",
+      "pub": "Wed, 29 Jul 2026 23:25:08 GMT"
+    },
+    {
       "title": "De Gigante a Alsea: las 5 empresas que dominan los restaurantes en México y venden 111,000 mdp",
       "link": "https://expansion.mx/empresas/2026/07/29/de-gigante-a-alsea-5-empresas-reparten-negocio-restaurantes",
       "source": "Expansion MX",
@@ -104,18 +122,6 @@
       "link": "https://expansion.mx/mercados/2026/07/29/utilidad-actinver-acelera-apuesta-tecnologica",
       "source": "Expansion MX",
       "pub": "Wed, 29 Jul 2026 21:45:51 GMT"
-    },
-    {
-      "title": "Estos son seis museos imperdibles en la Ciudad de México",
-      "link": "https://expansion.mx/tendencias/2026/07/29/estos-son-seis-museos-imperdibles-en-la-ciudad-de-mexico",
-      "source": "Expansion MX",
-      "pub": "Wed, 29 Jul 2026 20:45:15 GMT"
-    },
-    {
-      "title": "¿Qué significa el botón O/D en tu auto y cómo puede ayudarte a ahorrar combustible?",
-      "link": "https://expansion.mx/tendencias/2026/07/29/que-significa-boton-o-d-tablero-auto",
-      "source": "Expansion MX",
-      "pub": "Wed, 29 Jul 2026 20:40:50 GMT"
     }
   ]
 }
