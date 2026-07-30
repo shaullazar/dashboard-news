@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T00:08:41.772261+00:00",
+  "updated": "2026-07-30T03:21:13.978743+00:00",
   "colombia": [
     {
       "title": "Colombia president-elect Abelardo de la Espriella set to be inaugurated in Cali",
@@ -64,6 +64,48 @@
   ],
   "mexico": [
     {
+      "title": "De Gigante a Alsea: las 5 empresas que dominan los restaurantes en México y venden 111,000 mdp",
+      "link": "https://expansion.mx/empresas/2026/07/29/de-gigante-a-alsea-5-empresas-reparten-negocio-restaurantes",
+      "source": "Expansion MX",
+      "pub": "Wed, 29 Jul 2026 23:06:17 GMT"
+    },
+    {
+      "title": "México tiene una de las monedas más caras del mundo, solo después del dólar australiano",
+      "link": "https://expansion.mx/mercados/2026/07/29/peso-mexicano-entre-las-monedas-mas-caras-del-mundo-2026",
+      "source": "Expansion MX",
+      "pub": "Wed, 29 Jul 2026 22:58:35 GMT"
+    },
+    {
+      "title": "Así logran Tiendas 3B y Neto mantener precios bajos en sus productos",
+      "link": "https://expansion.mx/empresas/2026/07/29/tiendas-3b-neto-son-rivales-tiendas-precios-bajos",
+      "source": "Expansion MX",
+      "pub": "Wed, 29 Jul 2026 22:49:02 GMT"
+    },
+    {
+      "title": "¿Puedes volver a trabajar si recibes una pensión del IMSS? Lo que cambia entre la Ley 73 y la Ley 97",
+      "link": "https://expansion.mx/finanzas-personales/2026/07/29/puedes-trabajar-si-recibes-pension-imss-cambia-ley-73-ley-97",
+      "source": "Expansion MX",
+      "pub": "Wed, 29 Jul 2026 22:38:20 GMT"
+    },
+    {
+      "title": "Corona Extra lidera el ranking de las marcas mexicanas más valiosas en 2026",
+      "link": "https://expansion.mx/mercadotecnia/2026/07/29/corona-extra-marcas-mexicanas-mas-valiosas-2026",
+      "source": "Expansion MX",
+      "pub": "Wed, 29 Jul 2026 22:32:04 GMT"
+    },
+    {
+      "title": "Grupo México dispara utilidades por el repunte de los metales y acelera su apuesta minera",
+      "link": "https://expansion.mx/empresas/2026/07/29/grupo-mexico-dispara-utilidades-por-repunte-de-los-metales",
+      "source": "Expansion MX",
+      "pub": "Wed, 29 Jul 2026 22:01:21 GMT"
+    },
+    {
+      "title": "Comisiones y reservas elevan la utilidad de Actinver y acelera su apuesta tecnológica",
+      "link": "https://expansion.mx/mercados/2026/07/29/utilidad-actinver-acelera-apuesta-tecnologica",
+      "source": "Expansion MX",
+      "pub": "Wed, 29 Jul 2026 21:45:51 GMT"
+    },
+    {
       "title": "Estos son seis museos imperdibles en la Ciudad de México",
       "link": "https://expansion.mx/tendencias/2026/07/29/estos-son-seis-museos-imperdibles-en-la-ciudad-de-mexico",
       "source": "Expansion MX",
@@ -74,54 +116,6 @@
       "link": "https://expansion.mx/tendencias/2026/07/29/que-significa-boton-o-d-tablero-auto",
       "source": "Expansion MX",
       "pub": "Wed, 29 Jul 2026 20:40:50 GMT"
-    },
-    {
-      "title": "Ignacio Deschamps deja el Consejo de Administración de Banamex",
-      "link": "https://expansion.mx/economia/2026/07/29/ignacio-deschamps-deja-consejo-administracion-banamex",
-      "source": "Expansion MX",
-      "pub": "Wed, 29 Jul 2026 20:38:11 GMT"
-    },
-    {
-      "title": "Estados Unidos consume su colchón petrolero: reservas caen 11 millones de barriles",
-      "link": "https://expansion.mx/economia/2026/07/29/estados-unidos-reservas-petroleo-caen-11-millones-barriles",
-      "source": "Expansion MX",
-      "pub": "Wed, 29 Jul 2026 19:53:04 GMT"
-    },
-    {
-      "title": "Fitch ve a México con grado de inversión, pero alerta por Pemex y bajo crecimiento",
-      "link": "https://expansion.mx/economia/2026/07/29/fitch-mexico-grado-inversion-riesgos",
-      "source": "Expansion MX",
-      "pub": "Wed, 29 Jul 2026 19:40:23 GMT"
-    },
-    {
-      "title": "¿Fuiste víctima de phishing? Las 7 pruebas que debes conservar para tu denuncia",
-      "link": "https://expansion.mx/tecnologia/2026/07/29/phishing-es-delito-cdmx-pruebas-para-denunciar",
-      "source": "Expansion MX",
-      "pub": "Wed, 29 Jul 2026 19:00:43 GMT"
-    },
-    {
-      "title": "La Reserva Federal mantiene tasa de interés, pero crece presión para endurecer la política monetaria",
-      "link": "https://expansion.mx/economia/2026/07/29/fed-mantiene-tasas-y-crece-presion-para-subirlas",
-      "source": "Expansion MX",
-      "pub": "Wed, 29 Jul 2026 18:58:20 GMT"
-    },
-    {
-      "title": "Carlos Slim tiene más becas para estudiantes además de Telmex: conoce cuáles son y cómo pedirlas",
-      "link": "https://expansion.mx/carrera/2026/07/29/beca-telmex-no-es-unica-carlos-slim-programa-completo",
-      "source": "Expansion MX",
-      "pub": "Wed, 29 Jul 2026 18:46:00 GMT"
-    },
-    {
-      "title": "CetesDirecto descarta inversiones en efectivo por su alto costo",
-      "link": "https://expansion.mx/economia/2026/07/29/cetes-por-que-no-se-puede-invertir-con-efectivo",
-      "source": "Expansion MX",
-      "pub": "Wed, 29 Jul 2026 18:02:27 GMT"
-    },
-    {
-      "title": "BBVA México nombra a José Luis Elechiguerra como Country Manager",
-      "link": "https://expansion.mx/economia/2026/07/29/bbva-mexico-nombra-jose-luis-elechiguerra-country-manager",
-      "source": "Expansion MX",
-      "pub": "Wed, 29 Jul 2026 17:38:29 GMT"
     }
   ]
 }
