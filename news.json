@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T20:16:22.871732+00:00",
+  "updated": "2026-07-30T21:33:11.186296+00:00",
   "colombia": [
     {
       "title": "Colombia president-elect Abelardo de la Espriella set to be inaugurated in Cali",
@@ -64,6 +64,48 @@
   ],
   "mexico": [
     {
+      "title": "\"Complicidad en terrorismo\": Rusia emite una orden de búsqueda internacional contra el fundador de Telegram",
+      "link": "https://expansion.mx/tecnologia/2026/07/30/rusia-emite-orden-busqueda-fundador-de-telegram",
+      "source": "Expansion MX",
+      "pub": "Thu, 30 Jul 2026 14:30:32 GMT"
+    },
+    {
+      "title": "¿Conviene convertir tu auto a Gas LP? El ahorro puede superar los 6,000 pesos al mes en gasolina",
+      "link": "https://expansion.mx/empresas/2026/07/30/conviene-convertir-auto-a-gas-lp",
+      "source": "Expansion MX",
+      "pub": "Thu, 30 Jul 2026 13:15:08 GMT"
+    },
+    {
+      "title": "La economía de México crece 1.5% en el segundo trimestre de 2026",
+      "link": "https://expansion.mx/economia/2026/07/30/economia-mexico-pib-crece-segundo-trimestre-2026",
+      "source": "Expansion MX",
+      "pub": "Thu, 30 Jul 2026 12:44:34 GMT"
+    },
+    {
+      "title": "Latinoamérica puede liderar la próxima revolución de las predicciones",
+      "link": "https://expansion.mx/https:/obras.expansion.mx/opinion/2026/07/30/latinoamerica-puede-liderar-la-proxima-revolucion-de-las-predicciones",
+      "source": "Expansion MX",
+      "pub": "Thu, 30 Jul 2026 12:00:45 GMT"
+    },
+    {
+      "title": "Vacaciones sin culpa, la ventaja que nadie explota",
+      "link": "https://expansion.mx/https:/obras.expansion.mx/opinion/2026/07/30/vacaciones-sin-culpa-la-ventaja-que-nadie-explota",
+      "source": "Expansion MX",
+      "pub": "Thu, 30 Jul 2026 12:00:34 GMT"
+    },
+    {
+      "title": "Del laboratorio al maquillaje: así llega la biotecnología a tu vida cotidiana",
+      "link": "https://expansion.mx/tecnologia/2026/07/30/biotecnologia-del-laboratorio-a-tu-vida",
+      "source": "Expansion MX",
+      "pub": "Thu, 30 Jul 2026 11:55:13 GMT"
+    },
+    {
+      "title": "La economía amenaza con complicar las elecciones intermedias de Trump",
+      "link": "https://expansion.mx/mundo/2026/07/30/trump-prometio-costo-de-vida-clave-elecciones-intermedias",
+      "source": "Expansion MX",
+      "pub": "Thu, 30 Jul 2026 11:55:03 GMT"
+    },
+    {
       "title": "Doble SIM vs eSIM: qué diferencias tienen y por qué una tecnología está desplazando a la otra",
       "link": "https://expansion.mx/tecnologia/2026/07/29/doble-sim-vs-esim-diferencias-una-tecnologia-desplaza-otra",
       "source": "Expansion MX",
@@ -80,48 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/07/29/planta-kia-pesqueria-hizo-autos-gasolina-10-anos-transforma",
       "source": "Expansion MX",
       "pub": "Thu, 30 Jul 2026 00:36:15 GMT"
-    },
-    {
-      "title": "PepsiCo descarta amenazas o extorsión tras incendio en CeDis de Matamoros",
-      "link": "https://expansion.mx/empresas/2026/07/29/pepsico-descarta-extorsion-incendio-en-cedis-de-matamoros",
-      "source": "Expansion MX",
-      "pub": "Thu, 30 Jul 2026 00:12:45 GMT"
-    },
-    {
-      "title": "F1: el campeonato del mundo que funciona con inversión privada, como desea Infantino",
-      "link": "https://expansion.mx/tendencias/2026/07/29/f1-campeonato-mundo-funciona-inversion-privada",
-      "source": "Expansion MX",
-      "pub": "Thu, 30 Jul 2026 00:08:06 GMT"
-    },
-    {
-      "title": "L'Oréal eleva 6.3% sus ventas gracias al auge del cuidado capilar y la belleza dermatológica",
-      "link": "https://expansion.mx/empresas/2026/07/29/loreal-crecimiento-cuidado-capilar-belleza-dermatologica",
-      "source": "Expansion MX",
-      "pub": "Wed, 29 Jul 2026 23:57:04 GMT"
-    },
-    {
-      "title": "Pese a los aranceles, autos importados de China e India avanzan entre los 10 más vendidos en México",
-      "link": "https://expansion.mx/empresas/2026/07/29/autos-importados-china-india-ganan-mercado-mexico",
-      "source": "Expansion MX",
-      "pub": "Wed, 29 Jul 2026 23:49:09 GMT"
-    },
-    {
-      "title": "El nuevo mapa laboral, las licenciaturas que impulsarán 170 millones de empleos para 2030",
-      "link": "https://expansion.mx/carrera/2026/07/29/licenciaturas-que-impulsaran-170-millones-empleos-2030",
-      "source": "Expansion MX",
-      "pub": "Wed, 29 Jul 2026 23:25:08 GMT"
-    },
-    {
-      "title": "De Gigante a Alsea: las 5 empresas que dominan los restaurantes en México y venden 111,000 mdp",
-      "link": "https://expansion.mx/empresas/2026/07/29/de-gigante-a-alsea-5-empresas-reparten-negocio-restaurantes",
-      "source": "Expansion MX",
-      "pub": "Wed, 29 Jul 2026 23:06:17 GMT"
-    },
-    {
-      "title": "México tiene una de las monedas más caras del mundo, solo después del dólar australiano",
-      "link": "https://expansion.mx/mercados/2026/07/29/peso-mexicano-entre-las-monedas-mas-caras-del-mundo-2026",
-      "source": "Expansion MX",
-      "pub": "Wed, 29 Jul 2026 22:58:35 GMT"
     }
   ]
 }
