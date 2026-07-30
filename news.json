@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T23:11:04.738782+00:00",
+  "updated": "2026-07-30T00:08:41.772261+00:00",
   "colombia": [
     {
       "title": "Colombia president-elect Abelardo de la Espriella set to be inaugurated in Cali",
@@ -64,18 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Grupo México dispara utilidades por el repunte de los metales y acelera su apuesta minera",
-      "link": "https://expansion.mx/empresas/2026/07/29/grupo-mexico-dispara-utilidades-por-repunte-de-los-metales",
-      "source": "Expansion MX",
-      "pub": "Wed, 29 Jul 2026 22:01:21 GMT"
-    },
-    {
-      "title": "Comisiones y reservas elevan la utilidad de Actinver y acelera su apuesta tecnológica",
-      "link": "https://expansion.mx/mercados/2026/07/29/utilidad-actinver-acelera-apuesta-tecnologica",
-      "source": "Expansion MX",
-      "pub": "Wed, 29 Jul 2026 21:45:51 GMT"
-    },
-    {
       "title": "Estos son seis museos imperdibles en la Ciudad de México",
       "link": "https://expansion.mx/tendencias/2026/07/29/estos-son-seis-museos-imperdibles-en-la-ciudad-de-mexico",
       "source": "Expansion MX",
@@ -116,6 +104,24 @@
       "link": "https://expansion.mx/economia/2026/07/29/fed-mantiene-tasas-y-crece-presion-para-subirlas",
       "source": "Expansion MX",
       "pub": "Wed, 29 Jul 2026 18:58:20 GMT"
+    },
+    {
+      "title": "Carlos Slim tiene más becas para estudiantes además de Telmex: conoce cuáles son y cómo pedirlas",
+      "link": "https://expansion.mx/carrera/2026/07/29/beca-telmex-no-es-unica-carlos-slim-programa-completo",
+      "source": "Expansion MX",
+      "pub": "Wed, 29 Jul 2026 18:46:00 GMT"
+    },
+    {
+      "title": "CetesDirecto descarta inversiones en efectivo por su alto costo",
+      "link": "https://expansion.mx/economia/2026/07/29/cetes-por-que-no-se-puede-invertir-con-efectivo",
+      "source": "Expansion MX",
+      "pub": "Wed, 29 Jul 2026 18:02:27 GMT"
+    },
+    {
+      "title": "BBVA México nombra a José Luis Elechiguerra como Country Manager",
+      "link": "https://expansion.mx/economia/2026/07/29/bbva-mexico-nombra-jose-luis-elechiguerra-country-manager",
+      "source": "Expansion MX",
+      "pub": "Wed, 29 Jul 2026 17:38:29 GMT"
     }
   ]
 }
