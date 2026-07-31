@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T12:05:32.623707+00:00",
+  "updated": "2026-07-31T14:28:27.243226+00:00",
   "colombia": [
     {
       "title": "Colombia president-elect Abelardo de la Espriella set to be inaugurated in Cali",
@@ -64,6 +64,42 @@
   ],
   "mexico": [
     {
+      "title": "Así negocia Donald Trump: presión, halagos y confrontación para lograr acuerdos",
+      "link": "https://expansion.mx/mundo/2026/07/31/asi-negocia-donald-trump-presion-halagos-y-confrontacion-para-lograr-acuerdos",
+      "source": "Expansion MX",
+      "pub": "Fri, 31 Jul 2026 11:55:56 GMT"
+    },
+    {
+      "title": "Así opera la estafa que ofrece dinero por dar \"likes\" en Mercado Libre",
+      "link": "https://expansion.mx/tecnologia/2026/07/31/estafa-whatsapp-mercado-libre-empleos-falsos",
+      "source": "Expansion MX",
+      "pub": "Fri, 31 Jul 2026 11:55:47 GMT"
+    },
+    {
+      "title": "Recaudación del IEPS a refrescos aumenta 59% en el Mundial",
+      "link": "https://expansion.mx/economia/2026/07/31/mundial-disparo-recaudacion-ieps-refrescos-tabaco",
+      "source": "Expansion MX",
+      "pub": "Fri, 31 Jul 2026 11:55:19 GMT"
+    },
+    {
+      "title": "Berries Paradise fortalece exportaciones a Asia y Europa sin dejar de lado a EU y Canadá",
+      "link": "https://expansion.mx/empresas/2026/07/31/berries-paradise-manda-70-fresas-berries-eu-vender-paises",
+      "source": "Expansion MX",
+      "pub": "Fri, 31 Jul 2026 11:53:35 GMT"
+    },
+    {
+      "title": "Si trabajas por tu cuenta, esto debes ahorrar para tener una pensión de 20,000 pesos",
+      "link": "https://expansion.mx/finanzas-personales/2026/07/30/esto-debes-ahorrar-para-tener-una-pension-de-20-000-pesos",
+      "source": "Expansion MX",
+      "pub": "Fri, 31 Jul 2026 01:09:53 GMT"
+    },
+    {
+      "title": "Megacable supera los 6 millones de suscriptores y aumenta 11% su ganancia trimestral",
+      "link": "https://expansion.mx/empresas/2026/07/30/megacable-supera-los-6-millones-de-suscriptores-y-aumenta-11-su-ganancia-trimestral",
+      "source": "Expansion MX",
+      "pub": "Fri, 31 Jul 2026 01:08:12 GMT"
+    },
+    {
       "title": "Constellation Brands enfrenta el reto logístico de llevar por mar su cerveza de Veracruz a Estados Unidos",
       "link": "https://expansion.mx/empresas/2026/07/30/constellation-brands-enfrenta-el-reto-logistico-de-llevar-por-mar-su-cerveza-de-veracruz-a-estados-unidos",
       "source": "Expansion MX",
@@ -86,42 +122,6 @@
       "link": "https://expansion.mx/mundo/2026/07/30/hamas-e-israel-alcanzan-un-acuerdo-para-poner-fin-a-su-conflicto",
       "source": "Expansion MX",
       "pub": "Fri, 31 Jul 2026 00:14:54 GMT"
-    },
-    {
-      "title": "¿Qué diferencias existen entre las modalidades de pensión a las que pueden acceder los jubilados del ISSSTE?",
-      "link": "https://expansion.mx/finanzas-personales/2026/07/30/diferencias-modalidades-pension-jubilados-issste",
-      "source": "Expansion MX",
-      "pub": "Thu, 30 Jul 2026 23:49:52 GMT"
-    },
-    {
-      "title": "Musk destinará grandes donaciones a las campañas republicanas este año",
-      "link": "https://expansion.mx/mundo/2026/07/30/musk-destinara-grandes-donaciones-a-las-campanas-republicanas-este-ano",
-      "source": "Expansion MX",
-      "pub": "Thu, 30 Jul 2026 22:51:20 GMT"
-    },
-    {
-      "title": "Hacienda prevé un crecimiento de la economía de al menos 1.5% para este año",
-      "link": "https://expansion.mx/economia/2026/07/30/hacienda-mayor-crecimiento-economico-2026",
-      "source": "Expansion MX",
-      "pub": "Thu, 30 Jul 2026 22:41:58 GMT"
-    },
-    {
-      "title": "¿Para qué sirven los pequeños agujeros en la parte superior de tu celular?",
-      "link": "https://expansion.mx/tecnologia/2026/07/30/para-que-sirven-pequenos-agujeros-parte-superior-celular",
-      "source": "Expansion MX",
-      "pub": "Thu, 30 Jul 2026 22:34:09 GMT"
-    },
-    {
-      "title": "Trión alcanza 64% con una inversión de 446 millones de dólares en el semestre",
-      "link": "https://expansion.mx/empresas/2026/07/30/trion-avance-desarrollo-64-produccion-2028-woodside",
-      "source": "Expansion MX",
-      "pub": "Thu, 30 Jul 2026 22:30:19 GMT"
-    },
-    {
-      "title": "MacBook Neo es el nuevo gran éxito de Apple; subió las ventas de Mac un 29%",
-      "link": "https://expansion.mx/tecnologia/2026/07/30/macbook-neo-el-nuevo-gran-exito-de-apple",
-      "source": "Expansion MX",
-      "pub": "Thu, 30 Jul 2026 22:30:18 GMT"
     }
   ]
 }
