@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T10:02:22.520079+00:00",
+  "updated": "2026-07-31T12:05:32.623707+00:00",
   "colombia": [
     {
       "title": "Colombia president-elect Abelardo de la Espriella set to be inaugurated in Cali",
@@ -64,18 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Si trabajas por tu cuenta, esto debes ahorrar para tener una pensión de 20,000 pesos",
-      "link": "https://expansion.mx/finanzas-personales/2026/07/30/esto-debes-ahorrar-para-tener-una-pension-de-20-000-pesos",
-      "source": "Expansion MX",
-      "pub": "Fri, 31 Jul 2026 01:09:53 GMT"
-    },
-    {
-      "title": "Megacable supera los 6 millones de suscriptores y aumenta 11% su ganancia trimestral",
-      "link": "https://expansion.mx/empresas/2026/07/30/megacable-supera-los-6-millones-de-suscriptores-y-aumenta-11-su-ganancia-trimestral",
-      "source": "Expansion MX",
-      "pub": "Fri, 31 Jul 2026 01:08:12 GMT"
-    },
-    {
       "title": "Constellation Brands enfrenta el reto logístico de llevar por mar su cerveza de Veracruz a Estados Unidos",
       "link": "https://expansion.mx/empresas/2026/07/30/constellation-brands-enfrenta-el-reto-logistico-de-llevar-por-mar-su-cerveza-de-veracruz-a-estados-unidos",
       "source": "Expansion MX",
@@ -122,6 +110,18 @@
       "link": "https://expansion.mx/tecnologia/2026/07/30/para-que-sirven-pequenos-agujeros-parte-superior-celular",
       "source": "Expansion MX",
       "pub": "Thu, 30 Jul 2026 22:34:09 GMT"
+    },
+    {
+      "title": "Trión alcanza 64% con una inversión de 446 millones de dólares en el semestre",
+      "link": "https://expansion.mx/empresas/2026/07/30/trion-avance-desarrollo-64-produccion-2028-woodside",
+      "source": "Expansion MX",
+      "pub": "Thu, 30 Jul 2026 22:30:19 GMT"
+    },
+    {
+      "title": "MacBook Neo es el nuevo gran éxito de Apple; subió las ventas de Mac un 29%",
+      "link": "https://expansion.mx/tecnologia/2026/07/30/macbook-neo-el-nuevo-gran-exito-de-apple",
+      "source": "Expansion MX",
+      "pub": "Thu, 30 Jul 2026 22:30:18 GMT"
     }
   ]
 }
