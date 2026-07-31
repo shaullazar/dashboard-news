@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T14:28:27.243226+00:00",
+  "updated": "2026-07-31T16:15:44.327217+00:00",
   "colombia": [
     {
       "title": "Colombia president-elect Abelardo de la Espriella set to be inaugurated in Cali",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "Muchos apagan el aire acondicionado para ahorrar gasolina, pero en carretera puede ser un error",
+      "link": "https://expansion.mx/tendencias/2026/07/31/apagan-aire-acondicionado-carro-ahorrar-gasolina-error",
+      "source": "Expansion MX",
+      "pub": "Fri, 31 Jul 2026 13:44:29 GMT"
+    },
+    {
+      "title": "Slim también vive de sus rentas millonarias: así es su imperio de hospitales, escuelas, oficinas y locales",
+      "link": "https://expansion.mx/empresas/2026/07/31/slim-rentas-hospitales-escuelas-locales-carso",
+      "source": "Expansion MX",
+      "pub": "Fri, 31 Jul 2026 13:41:50 GMT"
+    },
+    {
+      "title": "El T-MEC ante su mayor prueba",
+      "link": "https://expansion.mx/opinion/2026/07/31/t-mec-ante-su-mayor-prueba",
+      "source": "Expansion MX",
+      "pub": "Fri, 31 Jul 2026 13:07:11 GMT"
+    },
+    {
+      "title": "Las mil caras de las factureras",
+      "link": "https://expansion.mx/opinion/2026/07/31/caras-de-las-factureras",
+      "source": "Expansion MX",
+      "pub": "Fri, 31 Jul 2026 12:30:24 GMT"
+    },
+    {
       "title": "Así negocia Donald Trump: presión, halagos y confrontación para lograr acuerdos",
       "link": "https://expansion.mx/mundo/2026/07/31/asi-negocia-donald-trump-presion-halagos-y-confrontacion-para-lograr-acuerdos",
       "source": "Expansion MX",
@@ -92,36 +116,6 @@
       "link": "https://expansion.mx/finanzas-personales/2026/07/30/esto-debes-ahorrar-para-tener-una-pension-de-20-000-pesos",
       "source": "Expansion MX",
       "pub": "Fri, 31 Jul 2026 01:09:53 GMT"
-    },
-    {
-      "title": "Megacable supera los 6 millones de suscriptores y aumenta 11% su ganancia trimestral",
-      "link": "https://expansion.mx/empresas/2026/07/30/megacable-supera-los-6-millones-de-suscriptores-y-aumenta-11-su-ganancia-trimestral",
-      "source": "Expansion MX",
-      "pub": "Fri, 31 Jul 2026 01:08:12 GMT"
-    },
-    {
-      "title": "Constellation Brands enfrenta el reto logístico de llevar por mar su cerveza de Veracruz a Estados Unidos",
-      "link": "https://expansion.mx/empresas/2026/07/30/constellation-brands-enfrenta-el-reto-logistico-de-llevar-por-mar-su-cerveza-de-veracruz-a-estados-unidos",
-      "source": "Expansion MX",
-      "pub": "Fri, 31 Jul 2026 00:56:27 GMT"
-    },
-    {
-      "title": "FMF “estudiará” propuesta de Gianni Infantino para el programa FIFA Forward",
-      "link": "https://expansion.mx/tendencias/2026/07/30/fmf-estudiara-propuesta-infantino-programa-fifa-forward",
-      "source": "Expansion MX",
-      "pub": "Fri, 31 Jul 2026 00:35:39 GMT"
-    },
-    {
-      "title": "La universidad privada más cara de México superó a la UNAM entre las mejores de Latinoamérica",
-      "link": "https://expansion.mx/carrera/2026/07/30/universidad-privada-mas-cara-supero-a-unam-latinoamerica",
-      "source": "Expansion MX",
-      "pub": "Fri, 31 Jul 2026 00:19:46 GMT"
-    },
-    {
-      "title": "Hamás e Israel alcanzan un acuerdo para poner fin a su conflicto",
-      "link": "https://expansion.mx/mundo/2026/07/30/hamas-e-israel-alcanzan-un-acuerdo-para-poner-fin-a-su-conflicto",
-      "source": "Expansion MX",
-      "pub": "Fri, 31 Jul 2026 00:14:54 GMT"
     }
   ]
 }
