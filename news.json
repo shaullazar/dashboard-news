@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T16:15:44.327217+00:00",
+  "updated": "2026-07-31T17:53:04.931722+00:00",
   "colombia": [
     {
       "title": "Colombia president-elect Abelardo de la Espriella set to be inaugurated in Cali",
@@ -82,12 +82,6 @@
       "pub": "Fri, 31 Jul 2026 13:07:11 GMT"
     },
     {
-      "title": "Las mil caras de las factureras",
-      "link": "https://expansion.mx/opinion/2026/07/31/caras-de-las-factureras",
-      "source": "Expansion MX",
-      "pub": "Fri, 31 Jul 2026 12:30:24 GMT"
-    },
-    {
       "title": "Así negocia Donald Trump: presión, halagos y confrontación para lograr acuerdos",
       "link": "https://expansion.mx/mundo/2026/07/31/asi-negocia-donald-trump-presion-halagos-y-confrontacion-para-lograr-acuerdos",
       "source": "Expansion MX",
@@ -116,6 +110,12 @@
       "link": "https://expansion.mx/finanzas-personales/2026/07/30/esto-debes-ahorrar-para-tener-una-pension-de-20-000-pesos",
       "source": "Expansion MX",
       "pub": "Fri, 31 Jul 2026 01:09:53 GMT"
+    },
+    {
+      "title": "Megacable supera los 6 millones de suscriptores y aumenta 11% su ganancia trimestral",
+      "link": "https://expansion.mx/empresas/2026/07/30/megacable-supera-los-6-millones-de-suscriptores-y-aumenta-11-su-ganancia-trimestral",
+      "source": "Expansion MX",
+      "pub": "Fri, 31 Jul 2026 01:08:12 GMT"
     }
   ]
 }
