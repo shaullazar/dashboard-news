@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T21:31:43.370365+00:00",
+  "updated": "2026-07-31T22:33:48.395923+00:00",
   "colombia": [
     {
       "title": "Colombia president-elect Abelardo de la Espriella set to be inaugurated in Cali",
@@ -64,6 +64,42 @@
   ],
   "mexico": [
     {
+      "title": "Los mexicanos sí toman vacaciones, pero casi nunca descansan de verdad",
+      "link": "https://expansion.mx/carrera/2026/07/31/pocos-mexicanos-toman-vacaciones-11-dias-reto-empresas",
+      "source": "Expansion MX",
+      "pub": "Fri, 31 Jul 2026 20:00:19 GMT"
+    },
+    {
+      "title": "Mazda BT-50 e Isuzu D-MAX: las diferencias entre dos pickups con el mismo ADN, pero estrategias opuestas",
+      "link": "https://expansion.mx/empresas/2026/07/31/isuzu-d-max-mazda-bt-50-pickups-mexico-algo-las-une",
+      "source": "Expansion MX",
+      "pub": "Fri, 31 Jul 2026 19:37:02 GMT"
+    },
+    {
+      "title": "Viaja como te gusta y obtén más beneficios con la Nueva Tarjeta Inbursa Aeroméxico",
+      "link": "https://expansion.mx/tendencias/2026/07/31/viaja-como-te-gusta-y-obten-mas-beneficios-con-la-nueva-tarjeta-inbursa-aeromexico",
+      "source": "Expansion MX",
+      "pub": "Fri, 31 Jul 2026 19:36:56 GMT"
+    },
+    {
+      "title": "OpenAI supera la marca de los 1,000 millones de usuarios activos",
+      "link": "https://expansion.mx/tecnologia/2026/07/31/openai-supera-los-1-000-millones-usuarios-activos",
+      "source": "Expansion MX",
+      "pub": "Fri, 31 Jul 2026 19:00:49 GMT"
+    },
+    {
+      "title": "Anthropic revela que Claude accedió sin permiso a sistemas informáticos de tres organizaciones",
+      "link": "https://expansion.mx/tecnologia/2026/07/31/anthropic-claude-accedio-sin-permiso-sistemas-informaticos",
+      "source": "Expansion MX",
+      "pub": "Fri, 31 Jul 2026 18:00:31 GMT"
+    },
+    {
+      "title": "Soriana vende menos, pero su utilidad salta 46.8% por un menor costo financiero",
+      "link": "https://expansion.mx/empresas/2026/07/31/soriana-utilidad-crece-ventas-caen-segundo-trimestre-2026",
+      "source": "Expansion MX",
+      "pub": "Fri, 31 Jul 2026 17:59:47 GMT"
+    },
+    {
       "title": "Así se ve la Torre Eiffel en México gracias a la nueva función de IA en Google Earth",
       "link": "https://expansion.mx/tecnologia/2026/07/31/torre-eiffel-mexico-ia-google-earth-nano-banana",
       "source": "Expansion MX",
@@ -86,36 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/07/31/slim-rentas-hospitales-escuelas-locales-carso",
       "source": "Expansion MX",
       "pub": "Fri, 31 Jul 2026 13:41:50 GMT"
-    },
-    {
-      "title": "El T-MEC ante su mayor prueba",
-      "link": "https://expansion.mx/opinion/2026/07/31/t-mec-ante-su-mayor-prueba",
-      "source": "Expansion MX",
-      "pub": "Fri, 31 Jul 2026 13:07:11 GMT"
-    },
-    {
-      "title": "Las mil caras de las factureras",
-      "link": "https://expansion.mx/opinion/2026/07/31/caras-de-las-factureras",
-      "source": "Expansion MX",
-      "pub": "Fri, 31 Jul 2026 12:30:24 GMT"
-    },
-    {
-      "title": "Así negocia Donald Trump: presión, halagos y confrontación para lograr acuerdos",
-      "link": "https://expansion.mx/mundo/2026/07/31/asi-negocia-donald-trump-presion-halagos-y-confrontacion-para-lograr-acuerdos",
-      "source": "Expansion MX",
-      "pub": "Fri, 31 Jul 2026 11:55:56 GMT"
-    },
-    {
-      "title": "Así opera la estafa que ofrece dinero por dar \"likes\" en Mercado Libre",
-      "link": "https://expansion.mx/tecnologia/2026/07/31/estafa-whatsapp-mercado-libre-empleos-falsos",
-      "source": "Expansion MX",
-      "pub": "Fri, 31 Jul 2026 11:55:47 GMT"
-    },
-    {
-      "title": "Recaudación del IEPS a refrescos aumenta 59% en el Mundial",
-      "link": "https://expansion.mx/economia/2026/07/31/mundial-disparo-recaudacion-ieps-refrescos-tabaco",
-      "source": "Expansion MX",
-      "pub": "Fri, 31 Jul 2026 11:55:19 GMT"
     }
   ]
 }
