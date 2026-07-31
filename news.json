@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T17:53:04.931722+00:00",
+  "updated": "2026-07-31T18:59:27.969555+00:00",
   "colombia": [
     {
       "title": "Colombia president-elect Abelardo de la Espriella set to be inaugurated in Cali",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "Anthropic revela que Claude accedió sin permiso a sistemas informáticos de tres organizaciones",
+      "link": "https://expansion.mx/tecnologia/2026/07/31/anthropic-claude-accedio-sin-permiso-sistemas-informaticos",
+      "source": "Expansion MX",
+      "pub": "Fri, 31 Jul 2026 18:00:31 GMT"
+    },
+    {
+      "title": "Soriana vende menos, pero su utilidad salta 46.8% por un menor costo financiero",
+      "link": "https://expansion.mx/empresas/2026/07/31/soriana-utilidad-crece-ventas-caen-segundo-trimestre-2026",
+      "source": "Expansion MX",
+      "pub": "Fri, 31 Jul 2026 17:59:47 GMT"
+    },
+    {
+      "title": "Así se ve la Torre Eiffel en México gracias a la nueva función de IA en Google Earth",
+      "link": "https://expansion.mx/tecnologia/2026/07/31/torre-eiffel-mexico-ia-google-earth-nano-banana",
+      "source": "Expansion MX",
+      "pub": "Fri, 31 Jul 2026 17:07:00 GMT"
+    },
+    {
+      "title": "Pemex eleva sus ingresos, pero el aumento en costos e impuestos desploma 70% sus utilidades",
+      "link": "https://expansion.mx/empresas/2026/07/31/pemex-eleva-sus-ingresos-pero-el-aumento-en-costos-e-impuestos-desploma-70-sus-utilidades",
+      "source": "Expansion MX",
+      "pub": "Fri, 31 Jul 2026 16:55:05 GMT"
+    },
+    {
       "title": "Muchos apagan el aire acondicionado para ahorrar gasolina, pero en carretera puede ser un error",
       "link": "https://expansion.mx/tendencias/2026/07/31/apagan-aire-acondicionado-carro-ahorrar-gasolina-error",
       "source": "Expansion MX",
@@ -82,40 +106,16 @@
       "pub": "Fri, 31 Jul 2026 13:07:11 GMT"
     },
     {
+      "title": "Las mil caras de las factureras",
+      "link": "https://expansion.mx/opinion/2026/07/31/caras-de-las-factureras",
+      "source": "Expansion MX",
+      "pub": "Fri, 31 Jul 2026 12:30:24 GMT"
+    },
+    {
       "title": "Así negocia Donald Trump: presión, halagos y confrontación para lograr acuerdos",
       "link": "https://expansion.mx/mundo/2026/07/31/asi-negocia-donald-trump-presion-halagos-y-confrontacion-para-lograr-acuerdos",
       "source": "Expansion MX",
       "pub": "Fri, 31 Jul 2026 11:55:56 GMT"
-    },
-    {
-      "title": "Así opera la estafa que ofrece dinero por dar \"likes\" en Mercado Libre",
-      "link": "https://expansion.mx/tecnologia/2026/07/31/estafa-whatsapp-mercado-libre-empleos-falsos",
-      "source": "Expansion MX",
-      "pub": "Fri, 31 Jul 2026 11:55:47 GMT"
-    },
-    {
-      "title": "Recaudación del IEPS a refrescos aumenta 59% en el Mundial",
-      "link": "https://expansion.mx/economia/2026/07/31/mundial-disparo-recaudacion-ieps-refrescos-tabaco",
-      "source": "Expansion MX",
-      "pub": "Fri, 31 Jul 2026 11:55:19 GMT"
-    },
-    {
-      "title": "Berries Paradise fortalece exportaciones a Asia y Europa sin dejar de lado a EU y Canadá",
-      "link": "https://expansion.mx/empresas/2026/07/31/berries-paradise-manda-70-fresas-berries-eu-vender-paises",
-      "source": "Expansion MX",
-      "pub": "Fri, 31 Jul 2026 11:53:35 GMT"
-    },
-    {
-      "title": "Si trabajas por tu cuenta, esto debes ahorrar para tener una pensión de 20,000 pesos",
-      "link": "https://expansion.mx/finanzas-personales/2026/07/30/esto-debes-ahorrar-para-tener-una-pension-de-20-000-pesos",
-      "source": "Expansion MX",
-      "pub": "Fri, 31 Jul 2026 01:09:53 GMT"
-    },
-    {
-      "title": "Megacable supera los 6 millones de suscriptores y aumenta 11% su ganancia trimestral",
-      "link": "https://expansion.mx/empresas/2026/07/30/megacable-supera-los-6-millones-de-suscriptores-y-aumenta-11-su-ganancia-trimestral",
-      "source": "Expansion MX",
-      "pub": "Fri, 31 Jul 2026 01:08:12 GMT"
     }
   ]
 }
