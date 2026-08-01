@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T14:11:07.677163+00:00",
+  "updated": "2026-08-01T15:14:51.195498+00:00",
   "colombia": [
     {
       "title": "Colombia president-elect Abelardo de la Espriella set to be inaugurated in Cali",
@@ -64,12 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Fabiano Hideto Ikejiri asume la dirección de MSD Salud Animal en México",
-      "link": "https://expansion.mx/empresas/2026/08/01/fabiano-hideto-ikejiri-director-msd-salud-animal-mexico",
-      "source": "Expansion MX",
-      "pub": "Sat, 01 Aug 2026 14:00:33 GMT"
-    },
-    {
       "title": "Cinépolis lanzó su tarjeta de crédito: siete cosas que debes conocer antes de solicitarla",
       "link": "https://expansion.mx/economia/2026/07/31/cinepolis-tarjeta-de-credito-siete-cosas-que-debes-conocer",
       "source": "Expansion MX",
@@ -122,6 +116,12 @@
       "link": "https://expansion.mx/empresas/2026/07/31/prichos-historia-walmart-compras-de-impulso",
       "source": "Expansion MX",
       "pub": "Fri, 31 Jul 2026 21:37:33 GMT"
+    },
+    {
+      "title": "El iPhone 18 llegará con una caída en ventas y aumentos de precio. Así sufrirá tu bolsillo",
+      "link": "https://expansion.mx/tecnologia/2026/07/31/el-iphone-18-llegara-con-una-caida-en-ventas-y-aumentos-de-precio-asi-sufrira-tu-bolsillo",
+      "source": "Expansion MX",
+      "pub": "Fri, 31 Jul 2026 21:30:52 GMT"
     }
   ]
 }
