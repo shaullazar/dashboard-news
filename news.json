@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T23:34:12.470229+00:00",
+  "updated": "2026-08-01T01:07:13.679785+00:00",
   "colombia": [
     {
       "title": "Colombia president-elect Abelardo de la Espriella set to be inaugurated in Cali",
@@ -64,6 +64,24 @@
   ],
   "mexico": [
     {
+      "title": "Hacienda sube el subsidio al diésel hasta 76%, mientras reduce los de Magna y Premium",
+      "link": "https://expansion.mx/economia/2026/07/31/hacienda-subsidio-diesel-76-reduce-magna-y-premium",
+      "source": "Expansion MX",
+      "pub": "Sat, 01 Aug 2026 00:11:58 GMT"
+    },
+    {
+      "title": "Nu dejará de funcionar por unas horas el 5 de agosto; estas operaciones estarán pausadas",
+      "link": "https://expansion.mx/economia/2026/07/31/app-nu-5-agosto-operaciones-que-estaran-pausadas",
+      "source": "Expansion MX",
+      "pub": "Fri, 31 Jul 2026 23:58:42 GMT"
+    },
+    {
+      "title": "Galerías Insurgentes pertenece a un imperio empresarial detrás de múltiples plazas y es hermana de Perisur",
+      "link": "https://expansion.mx/empresas/2026/07/31/dueno-de-galerias-insurgentes-plaza-de-liverpool",
+      "source": "Expansion MX",
+      "pub": "Fri, 31 Jul 2026 22:37:27 GMT"
+    },
+    {
       "title": "Alfredo Harp Helú: la historia del empresario que llevó a los Diablos Rojos del México a otra dimensión",
       "link": "https://expansion.mx/tendencias/2026/07/31/quien-es-dueno-diablos-rojos-mexico-alfredo-harp-helu",
       "source": "Expansion MX",
@@ -104,24 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/07/31/historia-familia-duena-grupo-gigante",
       "source": "Expansion MX",
       "pub": "Fri, 31 Jul 2026 21:13:07 GMT"
-    },
-    {
-      "title": "Carlos Slim y su imperio educativo: es dueño de 21 campus donde operan Unitec y UVM",
-      "link": "https://expansion.mx/empresas/2026/07/31/carlos-slim-es-dueno-21-campus-universitarios",
-      "source": "Expansion MX",
-      "pub": "Fri, 31 Jul 2026 21:09:15 GMT"
-    },
-    {
-      "title": "Los fondos de inversión se democratizan, pero el reto es convertir cuentas en patrimonio",
-      "link": "https://expansion.mx/mercados/2026/07/31/fondos-inversion-mexico-convertir-dinero-patrimonio-reto",
-      "source": "Expansion MX",
-      "pub": "Fri, 31 Jul 2026 20:52:51 GMT"
-    },
-    {
-      "title": "Efemérides de agosto 2026: ¿Qué se celebra este mes en México y el mundo?",
-      "link": "https://expansion.mx/tendencias/2026/07/31/efemerides-agosto-2026",
-      "source": "Expansion MX",
-      "pub": "Fri, 31 Jul 2026 20:42:01 GMT"
     }
   ]
 }
