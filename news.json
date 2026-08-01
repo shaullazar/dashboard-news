@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T18:09:43.170553+00:00",
+  "updated": "2026-08-01T19:30:10.101775+00:00",
   "colombia": [
     {
       "title": "Colombia president-elect Abelardo de la Espriella set to be inaugurated in Cali",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Ataque con coche bomba en Colombia deja 11 heridos a una semana de investidura de Espriella",
+      "link": "https://expansion.mx/mundo/2026/08/01/ataque-coche-bomba-colombia-deja-11-heridos-semana-espriella",
+      "source": "Expansion MX",
+      "pub": "Sat, 01 Aug 2026 16:44:02 GMT"
+    },
+    {
       "title": "Arquitecto del Tec de Monterrey colaboró en la reconstrucción de Notre Dame",
       "link": "https://expansion.mx/carrera/2026/08/01/arquitecto-del-tec-de-monterrey-colaboro-en-la-reconstruccion-de-notre-dame",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/tendencias/2026/07/31/quien-es-dueno-diablos-rojos-mexico-alfredo-harp-helu",
       "source": "Expansion MX",
       "pub": "Fri, 31 Jul 2026 22:23:08 GMT"
-    },
-    {
-      "title": "El SAT y Aduanas amplían prórroga para presentar Manifestación de Valor Electrónica",
-      "link": "https://expansion.mx/economia/2026/07/31/sat-aduanas-prorroga-manifestacion-valor-electronica",
-      "source": "Expansion MX",
-      "pub": "Fri, 31 Jul 2026 21:46:54 GMT"
     }
   ]
 }
