@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T19:30:10.101775+00:00",
+  "updated": "2026-08-01T20:26:31.720923+00:00",
   "colombia": [
     {
       "title": "Colombia president-elect Abelardo de la Espriella set to be inaugurated in Cali",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Disney+ busca fidelizar suscriptores con descuentos y experiencias ante una competencia cada vez más intensa",
+      "link": "https://expansion.mx/mercadotecnia/2026/08/01/disney-busca-fidelizar-suscriptores-con-beneficios",
+      "source": "Expansion MX",
+      "pub": "Sat, 01 Aug 2026 18:01:37 GMT"
+    },
+    {
+      "title": "Concacaf pide \"revisión integral\" del liderazgo de Gianni Infantino en la FIFA",
+      "link": "https://expansion.mx/tendencias/2026/08/01/concacaf-revision-integral-liderazgo-infantino-fifa",
+      "source": "Expansion MX",
+      "pub": "Sat, 01 Aug 2026 17:19:01 GMT"
+    },
+    {
       "title": "Ataque con coche bomba en Colombia deja 11 heridos a una semana de investidura de Espriella",
       "link": "https://expansion.mx/mundo/2026/08/01/ataque-coche-bomba-colombia-deja-11-heridos-semana-espriella",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/economia/2026/07/31/app-nu-5-agosto-operaciones-que-estaran-pausadas",
       "source": "Expansion MX",
       "pub": "Fri, 31 Jul 2026 23:58:42 GMT"
-    },
-    {
-      "title": "Galerías Insurgentes pertenece a un imperio empresarial detrás de múltiples plazas y es hermana de Perisur",
-      "link": "https://expansion.mx/empresas/2026/07/31/dueno-de-galerias-insurgentes-plaza-de-liverpool",
-      "source": "Expansion MX",
-      "pub": "Fri, 31 Jul 2026 22:37:27 GMT"
-    },
-    {
-      "title": "Alfredo Harp Helú: la historia del empresario que llevó a los Diablos Rojos del México a otra dimensión",
-      "link": "https://expansion.mx/tendencias/2026/07/31/quien-es-dueno-diablos-rojos-mexico-alfredo-harp-helu",
-      "source": "Expansion MX",
-      "pub": "Fri, 31 Jul 2026 22:23:08 GMT"
     }
   ]
 }
