@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T16:13:00.621595+00:00",
+  "updated": "2026-08-01T17:12:57.078169+00:00",
   "colombia": [
     {
       "title": "Colombia president-elect Abelardo de la Espriella set to be inaugurated in Cali",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Arquitecto del Tec de Monterrey colaboró en la reconstrucción de Notre Dame",
+      "link": "https://expansion.mx/carrera/2026/08/01/arquitecto-del-tec-de-monterrey-colaboro-en-la-reconstruccion-de-notre-dame",
+      "source": "Expansion MX",
+      "pub": "Sat, 01 Aug 2026 15:00:54 GMT"
+    },
+    {
       "title": "Fabiano Hideto Ikejiri asume la dirección de MSD Salud Animal en México",
       "link": "https://expansion.mx/empresas/2026/08/01/fabiano-hideto-ikejiri-director-msd-salud-animal-mexico",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/economia/2026/07/31/sat-aduanas-prorroga-manifestacion-valor-electronica",
       "source": "Expansion MX",
       "pub": "Fri, 31 Jul 2026 21:46:54 GMT"
-    },
-    {
-      "title": "La historia detrás de Prichos, el negocio de Walmart para que compres más en cada visita a sus tiendas",
-      "link": "https://expansion.mx/empresas/2026/07/31/prichos-historia-walmart-compras-de-impulso",
-      "source": "Expansion MX",
-      "pub": "Fri, 31 Jul 2026 21:37:33 GMT"
     }
   ]
 }
