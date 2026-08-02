@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T20:28:54.541286+00:00",
+  "updated": "2026-08-02T21:24:10.552475+00:00",
   "colombia": [
     {
       "title": "Colombia president-elect Abelardo de la Espriella set to be inaugurated in Cali",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Lula, de 80 años, oficializa su candidatura a la reelección en Brasil",
+      "link": "https://expansion.mx/mundo/2026/08/02/lula-de-80-anos-oficializa-su-candidatura-a-la-reeleccion-en-brasil",
+      "source": "Expansion MX",
+      "pub": "Sun, 02 Aug 2026 18:27:21 GMT"
+    },
+    {
+      "title": "Trump dice que EU e Israel aplazarán sus ataque contra Irán",
+      "link": "https://expansion.mx/mundo/2026/08/02/trump-dice-que-eu-e-israel-aplazaran-sus-ataque-contra-iran",
+      "source": "Expansion MX",
+      "pub": "Sun, 02 Aug 2026 18:09:21 GMT"
+    },
+    {
       "title": "España vive \"normalidad\" en Ceuta tras retorno de miles de migrantes a Marruecos",
       "link": "https://expansion.mx/mundo/2026/08/01/espana-anuncia-normalidad-ceuta-regreso-miles-migrantes",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/mundo/2026/07/31/que-pasa-espana-llegada-masiva-migrantes-ceuta",
       "source": "Expansion MX",
       "pub": "Sat, 01 Aug 2026 01:23:41 GMT"
-    },
-    {
-      "title": "FIFA anula propuesta del programa Forward para privatizar Mundial",
-      "link": "https://expansion.mx/tendencias/2026/07/31/fifa-anula-propuesta-programa-forward-privatizar-mundial",
-      "source": "Expansion MX",
-      "pub": "Sat, 01 Aug 2026 00:44:31 GMT"
-    },
-    {
-      "title": "Hacienda sube el subsidio al diésel hasta 76%, mientras reduce los de Magna y Premium",
-      "link": "https://expansion.mx/economia/2026/07/31/hacienda-subsidio-diesel-76-reduce-magna-y-premium",
-      "source": "Expansion MX",
-      "pub": "Sat, 01 Aug 2026 00:11:58 GMT"
     }
   ]
 }
