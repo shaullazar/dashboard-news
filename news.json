@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T23:08:05.962055+00:00",
+  "updated": "2026-08-02T00:07:54.415629+00:00",
   "colombia": [
     {
       "title": "Colombia president-elect Abelardo de la Espriella set to be inaugurated in Cali",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "España vive \"normalidad\" en Ceuta tras retorno de miles de migrantes a Marruecos",
+      "link": "https://expansion.mx/mundo/2026/08/01/espana-anuncia-normalidad-ceuta-regreso-miles-migrantes",
+      "source": "Expansion MX",
+      "pub": "Sat, 01 Aug 2026 19:45:17 GMT"
+    },
+    {
       "title": "Disney+ busca fidelizar suscriptores con descuentos y experiencias ante una competencia cada vez más intensa",
       "link": "https://expansion.mx/mercadotecnia/2026/08/01/disney-busca-fidelizar-suscriptores-con-beneficios",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/economia/2026/07/31/hacienda-subsidio-diesel-76-reduce-magna-y-premium",
       "source": "Expansion MX",
       "pub": "Sat, 01 Aug 2026 00:11:58 GMT"
-    },
-    {
-      "title": "Nu dejará de funcionar por unas horas el 5 de agosto; estas operaciones estarán pausadas",
-      "link": "https://expansion.mx/economia/2026/07/31/app-nu-5-agosto-operaciones-que-estaran-pausadas",
-      "source": "Expansion MX",
-      "pub": "Fri, 31 Jul 2026 23:58:42 GMT"
     }
   ]
 }
