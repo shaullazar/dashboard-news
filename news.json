@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T13:23:43.592398+00:00",
+  "updated": "2026-08-03T15:59:05.318443+00:00",
   "colombia": [
     {
       "title": "Colombia president-elect Abelardo de la Espriella set to be inaugurated in Cali",
@@ -64,6 +64,42 @@
   ],
   "mexico": [
     {
+      "title": "Profeco reprueba estas marcas de alimento húmedo para gato que encuentras en Walmart, Coppel y H-E-B",
+      "link": "https://expansion.mx/finanzas-personales/2026/08/03/profeco-reprueba-marcas-alimento-para-gato",
+      "source": "Expansion MX",
+      "pub": "Mon, 03 Aug 2026 14:31:53 GMT"
+    },
+    {
+      "title": "Los duelos del poder del próximo presidente de Colombia",
+      "link": "https://expansion.mx/opinion/2026/08/03/duelos-poder-proximo-presidente-colombia",
+      "source": "Expansion MX",
+      "pub": "Mon, 03 Aug 2026 13:40:37 GMT"
+    },
+    {
+      "title": "La tecnología y el cumplimiento laboral: de la obligación al rediseño operativo",
+      "link": "https://expansion.mx/opinion/2026/08/03/tecnologia-cumplimiento-reforma-laboral",
+      "source": "Expansion MX",
+      "pub": "Mon, 03 Aug 2026 12:06:25 GMT"
+    },
+    {
+      "title": "Más de 11 millones de mexicanos viven en Estados Unidos, ¿dónde están los demás?",
+      "link": "https://expansion.mx/mundo/2026/08/03/mas-11-millones-mexicanos-viven-eu-en-que-otros-paises-viven",
+      "source": "Expansion MX",
+      "pub": "Mon, 03 Aug 2026 11:55:44 GMT"
+    },
+    {
+      "title": "México busca evitar nuevos aranceles de EU por acusación de sobrecapacidad industrial",
+      "link": "https://expansion.mx/economia/2026/08/03/mexico-responde-eu-aranceles-sobrecapacidad",
+      "source": "Expansion MX",
+      "pub": "Mon, 03 Aug 2026 11:55:36 GMT"
+    },
+    {
+      "title": "La inseguridad impulsa el uso de apps para compartir ubicación entre familias",
+      "link": "https://expansion.mx/tecnologia/2026/08/03/el-73-de-las-personas-en-el-pais-apuestan-por-la-tecnologia",
+      "source": "Expansion MX",
+      "pub": "Mon, 03 Aug 2026 11:55:16 GMT"
+    },
+    {
       "title": "Lula, de 80 años, oficializa su candidatura a la reelección en Brasil",
       "link": "https://expansion.mx/mundo/2026/08/02/lula-de-80-anos-oficializa-su-candidatura-a-la-reeleccion-en-brasil",
       "source": "Expansion MX",
@@ -86,42 +122,6 @@
       "link": "https://expansion.mx/mercadotecnia/2026/08/01/disney-busca-fidelizar-suscriptores-con-beneficios",
       "source": "Expansion MX",
       "pub": "Sat, 01 Aug 2026 18:01:37 GMT"
-    },
-    {
-      "title": "Concacaf pide \"revisión integral\" del liderazgo de Gianni Infantino en la FIFA",
-      "link": "https://expansion.mx/tendencias/2026/08/01/concacaf-revision-integral-liderazgo-infantino-fifa",
-      "source": "Expansion MX",
-      "pub": "Sat, 01 Aug 2026 17:19:01 GMT"
-    },
-    {
-      "title": "Ataque con coche bomba en Colombia deja 11 heridos a una semana de investidura de Espriella",
-      "link": "https://expansion.mx/mundo/2026/08/01/ataque-coche-bomba-colombia-deja-11-heridos-semana-espriella",
-      "source": "Expansion MX",
-      "pub": "Sat, 01 Aug 2026 16:44:02 GMT"
-    },
-    {
-      "title": "Arquitecto del Tec de Monterrey colaboró en la reconstrucción de Notre Dame",
-      "link": "https://expansion.mx/carrera/2026/08/01/arquitecto-del-tec-de-monterrey-colaboro-en-la-reconstruccion-de-notre-dame",
-      "source": "Expansion MX",
-      "pub": "Sat, 01 Aug 2026 15:00:54 GMT"
-    },
-    {
-      "title": "Fabiano Hideto Ikejiri asume la dirección de MSD Salud Animal en México",
-      "link": "https://expansion.mx/empresas/2026/08/01/fabiano-hideto-ikejiri-director-msd-salud-animal-mexico",
-      "source": "Expansion MX",
-      "pub": "Sat, 01 Aug 2026 14:00:33 GMT"
-    },
-    {
-      "title": "Cinépolis lanzó su tarjeta de crédito: siete cosas que debes conocer antes de solicitarla",
-      "link": "https://expansion.mx/economia/2026/07/31/cinepolis-tarjeta-de-credito-siete-cosas-que-debes-conocer",
-      "source": "Expansion MX",
-      "pub": "Sat, 01 Aug 2026 01:42:03 GMT"
-    },
-    {
-      "title": "¿Qué pasa en España? Esto se sabe de llegada masiva de migrantes en Ceuta",
-      "link": "https://expansion.mx/mundo/2026/07/31/que-pasa-espana-llegada-masiva-migrantes-ceuta",
-      "source": "Expansion MX",
-      "pub": "Sat, 01 Aug 2026 01:23:41 GMT"
     }
   ]
 }
