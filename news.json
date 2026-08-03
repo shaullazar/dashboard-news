@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T19:11:13.817606+00:00",
+  "updated": "2026-08-03T20:38:12.367013+00:00",
   "colombia": [
     {
       "title": "Colombia president-elect Abelardo de la Espriella set to be inaugurated in Cali",
@@ -64,30 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Seis décadas construyendo un legado",
-      "link": "https://expansion.mx/bespoke-ad/2026/08/03/seis-decadas-construyendo-un-legado",
-      "source": "Expansion MX",
-      "pub": "Mon, 03 Aug 2026 18:34:10 GMT"
-    },
-    {
-      "title": "No llegó ni a 48 horas: Google Earth retira Nano Banana por temor a desinformación",
-      "link": "https://expansion.mx/tecnologia/2026/08/03/no-llego-ni-a-48-horas-google-earth-retira-nano-banana",
-      "source": "Expansion MX",
-      "pub": "Mon, 03 Aug 2026 18:30:16 GMT"
-    },
-    {
-      "title": "Ni Nissan ni Toyota: esta fue la primera marca que instaló una armadora en México",
-      "link": "https://expansion.mx/empresas/2026/08/03/historia-primera-marca-que-instalo-armadora-autos-mexico",
-      "source": "Expansion MX",
-      "pub": "Mon, 03 Aug 2026 18:00:47 GMT"
-    },
-    {
-      "title": "Las fábricas mexicanas venden más, pero las líneas de producción siguen frenadas",
-      "link": "https://expansion.mx/economia/2026/08/03/fabricas-mexico-venden-mas-pero-producen-menos",
-      "source": "Expansion MX",
-      "pub": "Mon, 03 Aug 2026 17:58:28 GMT"
-    },
-    {
       "title": "Nu se prepara para operar como banco",
       "link": "https://expansion.mx/finanzas-personales/2026/08/03/nu-se-prepara-para-operar-como-banco",
       "source": "Expansion MX",
@@ -122,6 +98,30 @@
       "link": "https://expansion.mx/opinion/2026/08/03/tecnologia-cumplimiento-reforma-laboral",
       "source": "Expansion MX",
       "pub": "Mon, 03 Aug 2026 12:06:25 GMT"
+    },
+    {
+      "title": "Más de 11 millones de mexicanos viven en Estados Unidos, ¿dónde están los demás?",
+      "link": "https://expansion.mx/mundo/2026/08/03/mas-11-millones-mexicanos-viven-eu-en-que-otros-paises-viven",
+      "source": "Expansion MX",
+      "pub": "Mon, 03 Aug 2026 11:55:44 GMT"
+    },
+    {
+      "title": "México busca evitar nuevos aranceles de EU por acusación de sobrecapacidad industrial",
+      "link": "https://expansion.mx/economia/2026/08/03/mexico-responde-eu-aranceles-sobrecapacidad",
+      "source": "Expansion MX",
+      "pub": "Mon, 03 Aug 2026 11:55:36 GMT"
+    },
+    {
+      "title": "La inseguridad impulsa el uso de apps para compartir ubicación entre familias",
+      "link": "https://expansion.mx/tecnologia/2026/08/03/el-73-de-las-personas-en-el-pais-apuestan-por-la-tecnologia",
+      "source": "Expansion MX",
+      "pub": "Mon, 03 Aug 2026 11:55:16 GMT"
+    },
+    {
+      "title": "Lula, de 80 años, oficializa su candidatura a la reelección en Brasil",
+      "link": "https://expansion.mx/mundo/2026/08/02/lula-de-80-anos-oficializa-su-candidatura-a-la-reeleccion-en-brasil",
+      "source": "Expansion MX",
+      "pub": "Sun, 02 Aug 2026 18:27:21 GMT"
     }
   ]
 }
