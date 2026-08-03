@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-03T21:45:28.694822+00:00",
+  "updated": "2026-08-03T22:41:24.920215+00:00",
   "colombia": [
+    {
+      "title": "De la Espriella pledges major increase to senior subsidies despite claims of Colombia’s financial ‘disaster’",
+      "link": "https://thebogotapost.com/de-la-espriella-pledges-major-increase-to-senior-subsidies-despite-claims-of-colombias-financial-disaster/56674/",
+      "source": "The Bogota Post",
+      "pub": "Mon, 03 Aug 2026 22:21:08 +0000"
+    },
     {
       "title": "Colombia president-elect Abelardo de la Espriella set to be inaugurated in Cali",
       "link": "https://thebogotapost.com/colombia-president-elect-abelardo-de-la-espriella-set-to-be-inaugurated-in-cali/56671/",
@@ -54,15 +60,21 @@
       "link": "https://thebogotapost.com/meet-the-bogota-posts-best-tech-company-to-work-for-in-colombia-in-2026/56608/",
       "source": "The Bogota Post",
       "pub": "Fri, 03 Jul 2026 18:05:24 +0000"
-    },
-    {
-      "title": "Colombia’s EGC suspends ‘war tax’ as ‘goodwill’ gesture toward President-elect Abelardo de la Espriella",
-      "link": "https://thebogotapost.com/colombias-egc-suspends-war-tax-as-goodwill-gesture-toward-president-elect-abelardo-de-la-espriella/56601/",
-      "source": "The Bogota Post",
-      "pub": "Thu, 02 Jul 2026 18:03:37 +0000"
     }
   ],
   "mexico": [
+    {
+      "title": "EU impone multa histórica de 125 mdd a UBS por fallas contra lavado de dinero",
+      "link": "https://expansion.mx/economia/2026/08/03/ubs-multa-historica-eu-lavado-dinero",
+      "source": "Expansion MX",
+      "pub": "Mon, 03 Aug 2026 20:25:07 GMT"
+    },
+    {
+      "title": "Esta es la ruta del sabor con ECOBICI",
+      "link": "https://expansion.mx/tendencias/2026/08/03/esta-es-la-ruta-del-sabor-con-ecobici",
+      "source": "Expansion MX",
+      "pub": "Mon, 03 Aug 2026 20:00:58 GMT"
+    },
     {
       "title": "Disney+, HBO, Netflix, Prime, y VIX: ¿cuánto gastan los mexicanos en streaming en 2026?",
       "link": "https://expansion.mx/tecnologia/2026/08/03/disney-hbo-y-netflix-cuanto-gastan-mexicanos-streaming-2026",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/finanzas-personales/2026/08/03/nu-se-prepara-para-operar-como-banco",
       "source": "Expansion MX",
       "pub": "Mon, 03 Aug 2026 17:12:34 GMT"
-    },
-    {
-      "title": "Marruecos relajó sus controles migratorios en Ceuta, indican testimonios",
-      "link": "https://expansion.mx/mundo/2026/08/03/marruecos-relajo-sus-controles-migratorios-en-ceuta-indican-testimonios",
-      "source": "Expansion MX",
-      "pub": "Mon, 03 Aug 2026 17:02:51 GMT"
-    },
-    {
-      "title": "Ollamani de Emilio Azcárraga perdió más de 800 millones de pesos por el Mundial; estas fueron las razones",
-      "link": "https://expansion.mx/empresas/2026/08/03/ollamani-azcarraga-perdio-800-millones-por-mundial-2026",
-      "source": "Expansion MX",
-      "pub": "Mon, 03 Aug 2026 16:02:57 GMT"
     }
   ]
 }
