@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T15:42:26.171128+00:00",
+  "updated": "2026-08-04T17:18:56.500319+00:00",
   "colombia": [
     {
       "title": "De la Espriella pledges major increase to senior subsidies despite claims of Colombia’s financial ‘disaster’",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Antes de comprar un auto a crédito, haz esta cuenta con tu sueldo para saber si puedes pagarlo",
+      "link": "https://expansion.mx/finanzas-personales/2026/08/04/credito-automotriz-cuenta-sueldo-confirmar-si-puedes-pagar",
+      "source": "Expansion MX",
+      "pub": "Tue, 04 Aug 2026 16:53:49 GMT"
+    },
+    {
+      "title": "¿Cuánto cuesta hospedarse en el histórico y lujoso Hotel Geneve de Carlos Slim en CDMX?",
+      "link": "https://expansion.mx/empresas/2026/08/04/hotel-geneve-carlos-slim-cdmx-historia-precios-hospedaje",
+      "source": "Expansion MX",
+      "pub": "Tue, 04 Aug 2026 16:22:27 GMT"
+    },
+    {
       "title": "Principal Afore: un aliado para construir tu futuro con confianza",
       "link": "https://expansion.mx/bespoke-ad/2026/08/04/principal-afore-un-aliado-para-construir-tu-futuro-con-confianza",
       "source": "Expansion MX",
@@ -94,6 +106,12 @@
       "pub": "Tue, 04 Aug 2026 01:28:46 GMT"
     },
     {
+      "title": "Guanajuato conquista al turismo de alta gama",
+      "link": "https://expansion.mx/tendencias/2026/08/03/guanajuato-conquista-al-turismo-de-alta-gama",
+      "source": "Expansion MX",
+      "pub": "Tue, 04 Aug 2026 00:33:30 GMT"
+    },
+    {
       "title": "¿Qué marcas de autos usados fallan menos? Toyota, Mazda, Nissan y otras 23 fueron evaluadas",
       "link": "https://expansion.mx/empresas/2026/08/03/que-marcas-de-autos-usados-fallan-menos",
       "source": "Expansion MX",
@@ -104,24 +122,6 @@
       "link": "https://expansion.mx/tendencias/2026/08/03/cuando-es-el-dia-del-abuelo-2026-en-mexico",
       "source": "Expansion MX",
       "pub": "Mon, 03 Aug 2026 23:43:25 GMT"
-    },
-    {
-      "title": "¿Cuánto debes ganar para que un banco te apruebe un crédito hipotecario en México?",
-      "link": "https://expansion.mx/finanzas-personales/2026/08/03/cuanto-debes-ganar-banco-apruebe-credito-hipotecario",
-      "source": "Expansion MX",
-      "pub": "Mon, 03 Aug 2026 23:36:12 GMT"
-    },
-    {
-      "title": "El oro vale más por fiebre de IA, pero México produce 23% menos",
-      "link": "https://expansion.mx/economia/2026/08/03/precio-del-oro-sube-mexico-produce-menos-mina-penasquito",
-      "source": "Expansion MX",
-      "pub": "Mon, 03 Aug 2026 23:15:03 GMT"
-    },
-    {
-      "title": "¿Qué significa la alerta naranja del volcán Puracé en Colombia?",
-      "link": "https://expansion.mx/mundo/2026/08/03/que-significa-la-alerta-naranja-del-volcan-purace-en-colombia",
-      "source": "Expansion MX",
-      "pub": "Mon, 03 Aug 2026 23:13:29 GMT"
     }
   ]
 }
