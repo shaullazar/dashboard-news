@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T21:39:36.137049+00:00",
+  "updated": "2026-08-04T22:41:06.519585+00:00",
   "colombia": [
     {
       "title": "De la Espriella pledges major increase to senior subsidies despite claims of Colombia’s financial ‘disaster’",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Ni el América ni el Estadio Azteca: el negocio más rentable de Azcárraga en Ollamani está en los casinos",
+      "link": "https://expansion.mx/empresas/2026/08/04/negocio-mas-rentable-emilio-azcarraga-ollamani-casinos",
+      "source": "Expansion MX",
+      "pub": "Tue, 04 Aug 2026 21:56:16 GMT"
+    },
+    {
+      "title": "La venta de autos nuevos en México rompe récord y las marcas chinas son las ganadoras",
+      "link": "https://expansion.mx/empresas/2026/08/04/venta-autos-nuevos-rompe-record-marchas-chinas",
+      "source": "Expansion MX",
+      "pub": "Tue, 04 Aug 2026 21:41:10 GMT"
+    },
+    {
       "title": "¿Quién es el dueño del Estadio Alfredo Harp Helú, casa de los Diablos Rojos del México?",
       "link": "https://expansion.mx/tendencias/2026/08/04/quien-es-dueno-estadio-alfredo-harp-helu-casa-diablos-rojos",
       "source": "Expansion MX",
@@ -95,7 +107,7 @@
     },
     {
       "title": "Mientras EU y China se disputan los minerales críticos, México lleva 8 años con el freno puesto",
-      "link": "https://expansion.mx/economia/2026/08/04/eu-acelera-minerales-criticos-mexico-frena",
+      "link": "https://expansion.mx/economia/2026/08/04/mexico-rico-minerales-criticos-desaprovecha-potencial-congela-concesiones",
       "source": "Expansion MX",
       "pub": "Tue, 04 Aug 2026 20:50:19 GMT"
     },
@@ -104,24 +116,6 @@
       "link": "https://expansion.mx/economia/2026/08/04/estados-unidos-sigue-comprando-productos-mexico-exportaciones",
       "source": "Expansion MX",
       "pub": "Tue, 04 Aug 2026 19:55:23 GMT"
-    },
-    {
-      "title": "La IA ya diseña edificios, pero estas habilidades salvarán al arquitecto del reemplazo",
-      "link": "https://expansion.mx/carrera/2026/08/04/ia-reto-arquitectos-ser-indispensables",
-      "source": "Expansion MX",
-      "pub": "Tue, 04 Aug 2026 19:34:27 GMT"
-    },
-    {
-      "title": "El consumidor mexicano mejora su confianza, pero aún teme por el empleo y el ahorro",
-      "link": "https://expansion.mx/economia/2026/08/04/consumidor-mexicano-mejora-confianza-pero-teme-por-empleo",
-      "source": "Expansion MX",
-      "pub": "Tue, 04 Aug 2026 19:16:22 GMT"
-    },
-    {
-      "title": "EU perfila un acuerdo para reabrir el estrecho de Ormuz para antes del miércoles",
-      "link": "https://expansion.mx/mundo/2026/08/04/eu-perfila-acuerdo-reabrir-estrecho-de-ormuz",
-      "source": "Expansion MX",
-      "pub": "Tue, 04 Aug 2026 18:57:26 GMT"
     }
   ]
 }
