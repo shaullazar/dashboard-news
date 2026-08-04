@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T22:41:06.519585+00:00",
+  "updated": "2026-08-04T23:40:25.090392+00:00",
   "colombia": [
     {
       "title": "De la Espriella pledges major increase to senior subsidies despite claims of Colombia’s financial ‘disaster’",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Pemex duplica índice de gravedad de accidentes en el segundo trimestre",
+      "link": "https://expansion.mx/empresas/2026/08/04/pemex-duplica-gravedad-accidentes-en-un-trimestre",
+      "source": "Expansion MX",
+      "pub": "Tue, 04 Aug 2026 22:31:55 GMT"
+    },
+    {
       "title": "Ni el América ni el Estadio Azteca: el negocio más rentable de Azcárraga en Ollamani está en los casinos",
       "link": "https://expansion.mx/empresas/2026/08/04/negocio-mas-rentable-emilio-azcarraga-ollamani-casinos",
       "source": "Expansion MX",
@@ -110,12 +116,6 @@
       "link": "https://expansion.mx/economia/2026/08/04/mexico-rico-minerales-criticos-desaprovecha-potencial-congela-concesiones",
       "source": "Expansion MX",
       "pub": "Tue, 04 Aug 2026 20:50:19 GMT"
-    },
-    {
-      "title": "México vende 298,157 mdd a EU en el primer semestre y amplía su ventaja como proveedor",
-      "link": "https://expansion.mx/economia/2026/08/04/estados-unidos-sigue-comprando-productos-mexico-exportaciones",
-      "source": "Expansion MX",
-      "pub": "Tue, 04 Aug 2026 19:55:23 GMT"
     }
   ]
 }
