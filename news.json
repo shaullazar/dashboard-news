@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T04:24:33.395273+00:00",
+  "updated": "2026-08-04T07:04:56.187176+00:00",
   "colombia": [
     {
       "title": "De la Espriella pledges major increase to senior subsidies despite claims of Colombia’s financial ‘disaster’",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "La carrera de la UNAM que acepta menos aspirantes que Harvard, MIT y Yale",
+      "link": "https://expansion.mx/carrera/2026/08/03/carrera-unam-acepta-menos-aspirantes-harvard-mit-y-yale",
+      "source": "Expansion MX",
+      "pub": "Tue, 04 Aug 2026 01:28:46 GMT"
+    },
+    {
+      "title": "¿Qué marcas de autos usados fallan menos? Toyota, Mazda, Nissan y otras 23 fueron evaluadas",
+      "link": "https://expansion.mx/empresas/2026/08/03/que-marcas-de-autos-usados-fallan-menos",
+      "source": "Expansion MX",
+      "pub": "Mon, 03 Aug 2026 23:54:43 GMT"
+    },
+    {
       "title": "¿Cuándo es el Día del Abuelo 2026 en México?",
       "link": "https://expansion.mx/tendencias/2026/08/03/cuando-es-el-dia-del-abuelo-2026-en-mexico",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/tecnologia/2026/08/03/chatgpt-quintuplico-visitas-tiendas-en-linea",
       "source": "Expansion MX",
       "pub": "Mon, 03 Aug 2026 22:00:37 GMT"
-    },
-    {
-      "title": "Guanajuato conquista al turismo de alta gama",
-      "link": "https://expansion.mx/tendencias/2026/08/03/guanajuato-conquista-al-turismo-de-alta-gama",
-      "source": "Expansion MX",
-      "pub": "Mon, 03 Aug 2026 21:33:30 GMT"
-    },
-    {
-      "title": "Donald Trump asegura que EU está en negociaciones con Irán",
-      "link": "https://expansion.mx/mundo/2026/08/03/donald-trump-asegura-que-eu-esta-en-negociaciones-con-iran",
-      "source": "Expansion MX",
-      "pub": "Mon, 03 Aug 2026 21:27:47 GMT"
     }
   ]
 }
