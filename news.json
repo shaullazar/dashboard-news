@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T11:48:29.027121+00:00",
+  "updated": "2026-08-04T13:26:01.747270+00:00",
   "colombia": [
     {
       "title": "De la Espriella pledges major increase to senior subsidies despite claims of Colombia’s financial ‘disaster’",
@@ -64,6 +64,24 @@
   ],
   "mexico": [
     {
+      "title": "Los electores en EU rechazan a Trump, pero a los demócratas les cuesta capitalizarlo",
+      "link": "https://expansion.mx/mundo/2026/08/04/los-electores-en-eu-rechazan-a-trump-pero-a-los-democratas-les-cuesta-capitalizarlo",
+      "source": "Expansion MX",
+      "pub": "Tue, 04 Aug 2026 11:55:50 GMT"
+    },
+    {
+      "title": "Google, Amazon y Microsoft disparan sus ingresos 'en papel' gracias a Anthropic y OpenAI",
+      "link": "https://expansion.mx/tecnologia/2026/08/04/openai-anthropic-hacen-ganar-mas-google-amazon-y-microsoft",
+      "source": "Expansion MX",
+      "pub": "Tue, 04 Aug 2026 11:55:14 GMT"
+    },
+    {
+      "title": "El PIB de México perderá impulso tras el rebote del Mundial 2026",
+      "link": "https://expansion.mx/economia/2026/08/04/economia-mexicana-sena-recuperacion-no-convence",
+      "source": "Expansion MX",
+      "pub": "Tue, 04 Aug 2026 11:55:12 GMT"
+    },
+    {
       "title": "La carrera de la UNAM que acepta menos aspirantes que Harvard, MIT y Yale",
       "link": "https://expansion.mx/carrera/2026/08/03/carrera-unam-acepta-menos-aspirantes-harvard-mit-y-yale",
       "source": "Expansion MX",
@@ -104,24 +122,6 @@
       "link": "https://expansion.mx/finanzas-personales/2026/08/03/ley-2007-issste-como-jubilarse",
       "source": "Expansion MX",
       "pub": "Mon, 03 Aug 2026 23:02:10 GMT"
-    },
-    {
-      "title": "La razón por la que Tiendas 3B prefirió Wall Street sobre la Bolsa Mexican de Valores",
-      "link": "https://expansion.mx/empresas/2026/08/03/por-que-tiendas-3b-cotiza-acciones-wall-street",
-      "source": "Expansion MX",
-      "pub": "Mon, 03 Aug 2026 22:12:50 GMT"
-    },
-    {
-      "title": "Las ganancias mineras se disparan 21% gracias a altos precios de los metales, pero la inversión cae",
-      "link": "https://expansion.mx/empresas/2026/08/03/ganancias-mineras-se-disparan-21-altos-precios-metales",
-      "source": "Expansion MX",
-      "pub": "Mon, 03 Aug 2026 22:09:00 GMT"
-    },
-    {
-      "title": "ChatGPT quintuplicó las visitas a tiendas en línea, pero la decisión de compra sigue en manos humanas",
-      "link": "https://expansion.mx/tecnologia/2026/08/03/chatgpt-quintuplico-visitas-tiendas-en-linea",
-      "source": "Expansion MX",
-      "pub": "Mon, 03 Aug 2026 22:00:37 GMT"
     }
   ]
 }
