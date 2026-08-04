@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T23:45:52.169736+00:00",
+  "updated": "2026-08-04T01:07:32.359119+00:00",
   "colombia": [
     {
       "title": "De la Espriella pledges major increase to senior subsidies despite claims of Colombia’s financial ‘disaster’",
@@ -64,6 +64,42 @@
   ],
   "mexico": [
     {
+      "title": "¿Qué marcas de autos usados fallan menos? Toyota, Mazda, Nissan y otras 23 fueron evaluadas",
+      "link": "https://expansion.mx/empresas/2026/08/03/que-marcas-de-autos-usados-fallan-menos",
+      "source": "Expansion MX",
+      "pub": "Mon, 03 Aug 2026 23:54:43 GMT"
+    },
+    {
+      "title": "¿Cuándo es el Día del Abuelo 2026 en México?",
+      "link": "https://expansion.mx/tendencias/2026/08/03/cuando-es-el-dia-del-abuelo-2026-en-mexico",
+      "source": "Expansion MX",
+      "pub": "Mon, 03 Aug 2026 23:43:25 GMT"
+    },
+    {
+      "title": "¿Cuánto debes ganar para que un banco te apruebe un crédito hipotecario en México?",
+      "link": "https://expansion.mx/finanzas-personales/2026/08/03/cuanto-debes-ganar-banco-apruebe-credito-hipotecario",
+      "source": "Expansion MX",
+      "pub": "Mon, 03 Aug 2026 23:36:12 GMT"
+    },
+    {
+      "title": "El oro vale más por fiebre de IA, pero México produce 23% menos",
+      "link": "https://expansion.mx/economia/2026/08/03/precio-del-oro-sube-mexico-produce-menos-mina-penasquito",
+      "source": "Expansion MX",
+      "pub": "Mon, 03 Aug 2026 23:15:03 GMT"
+    },
+    {
+      "title": "¿Qué significa la alerta naranja del volcán Puracé en Colombia?",
+      "link": "https://expansion.mx/mundo/2026/08/03/que-significa-la-alerta-naranja-del-volcan-purace-en-colombia",
+      "source": "Expansion MX",
+      "pub": "Mon, 03 Aug 2026 23:13:29 GMT"
+    },
+    {
+      "title": "Los requisitos para jubilarse con la Ley 2007 del ISSSTE y las modalidades que ofrece",
+      "link": "https://expansion.mx/finanzas-personales/2026/08/03/ley-2007-issste-como-jubilarse",
+      "source": "Expansion MX",
+      "pub": "Mon, 03 Aug 2026 23:02:10 GMT"
+    },
+    {
       "title": "La razón por la que Tiendas 3B prefirió Wall Street sobre la Bolsa Mexican de Valores",
       "link": "https://expansion.mx/empresas/2026/08/03/por-que-tiendas-3b-cotiza-acciones-wall-street",
       "source": "Expansion MX",
@@ -86,42 +122,6 @@
       "link": "https://expansion.mx/tendencias/2026/08/03/guanajuato-conquista-al-turismo-de-alta-gama",
       "source": "Expansion MX",
       "pub": "Mon, 03 Aug 2026 21:33:30 GMT"
-    },
-    {
-      "title": "Donald Trump asegura que EU está en negociaciones con Irán",
-      "link": "https://expansion.mx/mundo/2026/08/03/donald-trump-asegura-que-eu-esta-en-negociaciones-con-iran",
-      "source": "Expansion MX",
-      "pub": "Mon, 03 Aug 2026 21:27:47 GMT"
-    },
-    {
-      "title": "¿Qué pasa con WhatsApp? Reportan fallas este 3 de agosto",
-      "link": "https://expansion.mx/tecnologia/2026/08/03/falla-whatsapp-no-puedo-enviar-fotos",
-      "source": "Expansion MX",
-      "pub": "Mon, 03 Aug 2026 21:17:07 GMT"
-    },
-    {
-      "title": "Carlos Slim gana 74,000 millones de pesos gracias a esta empresa: el verdadero negocio de Grupo Carso",
-      "link": "https://expansion.mx/empresas/2026/08/03/carlos-slim-gana-74000-mdp-verdadero-negocio-grupo-carso",
-      "source": "Expansion MX",
-      "pub": "Mon, 03 Aug 2026 21:12:17 GMT"
-    },
-    {
-      "title": "La estrategia que aplicó Atléticos para construir una marca empleadora creíble",
-      "link": "https://expansion.mx/carrera/2026/08/03/ventas-atleticos-cayeros-capacitar-empleados",
-      "source": "Expansion MX",
-      "pub": "Mon, 03 Aug 2026 21:07:52 GMT"
-    },
-    {
-      "title": "Grupo CICE, 35 años impulsando la logística que conecta a México con el mundo",
-      "link": "https://expansion.mx/bespoke-ad/2026/08/03/grupo-cice-35-anos-impulsando-la-logistica-que-conecta-a-mexico-con-el-mundo",
-      "source": "Expansion MX",
-      "pub": "Mon, 03 Aug 2026 20:56:05 GMT"
-    },
-    {
-      "title": "EU impone multa histórica de 125 mdd a UBS por fallas contra lavado de dinero",
-      "link": "https://expansion.mx/economia/2026/08/03/ubs-multa-historica-eu-lavado-dinero",
-      "source": "Expansion MX",
-      "pub": "Mon, 03 Aug 2026 20:25:07 GMT"
     }
   ]
 }
