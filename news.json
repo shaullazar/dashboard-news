@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T16:57:52.336981+00:00",
+  "updated": "2026-08-05T18:17:14.112087+00:00",
   "colombia": [
     {
       "title": "De la Espriella pledges major increase to senior subsidies despite claims of Colombia’s financial ‘disaster’",
@@ -64,6 +64,24 @@
   ],
   "mexico": [
     {
+      "title": "Nu dejará de funcionar por unas horas el 5 de agosto; estas operaciones estarán pausadas",
+      "link": "https://expansion.mx/economia/2026/08/05/app-nu-dejara-funcionar-hoy-transferencias",
+      "source": "Expansion MX",
+      "pub": "Wed, 05 Aug 2026 17:56:42 GMT"
+    },
+    {
+      "title": "Disney se alía con TikTok para permitir los videos oficiales de sus películas",
+      "link": "https://expansion.mx/tecnologia/2026/08/05/disney-tiktok-acuerdo-videos-cortos-peliculas-series",
+      "source": "Expansion MX",
+      "pub": "Wed, 05 Aug 2026 17:33:12 GMT"
+    },
+    {
+      "title": "El primer auto que Nissan fabricó en México llevaba otra marca: así comenzó su historia",
+      "link": "https://expansion.mx/empresas/2026/08/05/primer-auto-nissan-fabrico-mexico-no-llevo-logo-datsun",
+      "source": "Expansion MX",
+      "pub": "Wed, 05 Aug 2026 17:32:55 GMT"
+    },
+    {
       "title": "Irán dice que alcanzó un acuerdo con Omán sobre una nueva ruta de navegación en Ormuz",
       "link": "https://expansion.mx/mundo/2026/08/05/iran-oman-acuerdo-gestion-ormuz",
       "source": "Expansion MX",
@@ -104,24 +122,6 @@
       "link": "https://expansion.mx/economia/2026/08/05/chihuahua-jalisco-concentran-exportaciones-tecnologia-ia",
       "source": "Expansion MX",
       "pub": "Wed, 05 Aug 2026 11:55:17 GMT"
-    },
-    {
-      "title": "Las ciudades sedes del Mundial 2026 en EU reclaman a la FIFA un pago millonario",
-      "link": "https://expansion.mx/mundo/2026/08/04/las-ciudades-sedes-del-mundial-2026-en-eu-reclaman-a-la-fifa-un-pago-millonario",
-      "source": "Expansion MX",
-      "pub": "Wed, 05 Aug 2026 00:58:10 GMT"
-    },
-    {
-      "title": "Caen 1.7 millones de líneas celulares por el registro obligatorio",
-      "link": "https://expansion.mx/empresas/2026/08/04/caen-millones-de-lineas-telefonicas-registro-obligatorio",
-      "source": "Expansion MX",
-      "pub": "Wed, 05 Aug 2026 00:49:50 GMT"
-    },
-    {
-      "title": "HR Ratings duda de la meta fiscal de Hacienda; necesita un superávit de 57,400 mdp este semestre",
-      "link": "https://expansion.mx/economia/2026/08/04/hr-ratings-meta-fiscal-hacienda-superavit",
-      "source": "Expansion MX",
-      "pub": "Tue, 04 Aug 2026 23:50:03 GMT"
     }
   ]
 }
