@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T15:26:22.857006+00:00",
+  "updated": "2026-08-05T16:57:52.336981+00:00",
   "colombia": [
     {
       "title": "De la Espriella pledges major increase to senior subsidies despite claims of Colombia’s financial ‘disaster’",
@@ -64,6 +64,48 @@
   ],
   "mexico": [
     {
+      "title": "Irán dice que alcanzó un acuerdo con Omán sobre una nueva ruta de navegación en Ormuz",
+      "link": "https://expansion.mx/mundo/2026/08/05/iran-oman-acuerdo-gestion-ormuz",
+      "source": "Expansion MX",
+      "pub": "Wed, 05 Aug 2026 16:38:13 GMT"
+    },
+    {
+      "title": "Chevrolet le baja el precio al Aveo hatchback y lo convierte en el segundo auto más barato de México",
+      "link": "https://expansion.mx/empresas/2026/08/05/chevrolet-aveo-hatchback-baja-precio-2026",
+      "source": "Expansion MX",
+      "pub": "Wed, 05 Aug 2026 16:09:15 GMT"
+    },
+    {
+      "title": "SpaceX se desploma en Wall Street tras la publicación de sus resultados",
+      "link": "https://expansion.mx/mercados/2026/08/05/spacex-cae-bolsa-acciones-2026",
+      "source": "Expansion MX",
+      "pub": "Wed, 05 Aug 2026 15:36:37 GMT"
+    },
+    {
+      "title": "Consorcio árabe y yerno de Trump completan la compra de Electronic Arts por 55,000 mdd",
+      "link": "https://expansion.mx/tecnologia/2026/08/05/consorcio-arabe-y-yerno-de-trump-compran-ea",
+      "source": "Expansion MX",
+      "pub": "Wed, 05 Aug 2026 14:06:03 GMT"
+    },
+    {
+      "title": "Ingenieros de datos se convierten en el talento más buscado para la IA en México",
+      "link": "https://expansion.mx/tecnologia/2026/08/05/ingeniero-datos-trabajo-mejor-pagado-mexico-ia",
+      "source": "Expansion MX",
+      "pub": "Wed, 05 Aug 2026 11:55:46 GMT"
+    },
+    {
+      "title": "Trump alterna amenazas y negociación en su estrategia frente a Irán",
+      "link": "https://expansion.mx/mundo/2026/08/05/trump-amenaza-iran-luego-habla-negociacion-postura-cambiante",
+      "source": "Expansion MX",
+      "pub": "Wed, 05 Aug 2026 11:55:42 GMT"
+    },
+    {
+      "title": "Chihuahua y Jalisco dominan 80% del nuevo poder tecnológico exportador",
+      "link": "https://expansion.mx/economia/2026/08/05/chihuahua-jalisco-concentran-exportaciones-tecnologia-ia",
+      "source": "Expansion MX",
+      "pub": "Wed, 05 Aug 2026 11:55:17 GMT"
+    },
+    {
       "title": "Las ciudades sedes del Mundial 2026 en EU reclaman a la FIFA un pago millonario",
       "link": "https://expansion.mx/mundo/2026/08/04/las-ciudades-sedes-del-mundial-2026-en-eu-reclaman-a-la-fifa-un-pago-millonario",
       "source": "Expansion MX",
@@ -71,7 +113,7 @@
     },
     {
       "title": "Caen 1.7 millones de líneas celulares por el registro obligatorio",
-      "link": "https://expansion.mx/empresas/2026/08/04/caen-millones-de-lineas-celulares-por-registro-obligatorio",
+      "link": "https://expansion.mx/empresas/2026/08/04/caen-millones-de-lineas-telefonicas-registro-obligatorio",
       "source": "Expansion MX",
       "pub": "Wed, 05 Aug 2026 00:49:50 GMT"
     },
@@ -80,48 +122,6 @@
       "link": "https://expansion.mx/economia/2026/08/04/hr-ratings-meta-fiscal-hacienda-superavit",
       "source": "Expansion MX",
       "pub": "Tue, 04 Aug 2026 23:50:03 GMT"
-    },
-    {
-      "title": "Solo 4 de cada 10 mexicanos pueden aspirar a comprar una casa",
-      "link": "https://expansion.mx/economia/2026/08/04/solo-4-de-cada-10-mexicanos-pueden-comprar-una-casa",
-      "source": "Expansion MX",
-      "pub": "Tue, 04 Aug 2026 23:38:00 GMT"
-    },
-    {
-      "title": "Crecen depresión y ansiedad entre sectores de la sociedad mexicana",
-      "link": "https://expansion.mx/ciencia-y-salud/2026/08/04/crecen-depresion-ansiedad-entre-sociedad-mexicana",
-      "source": "Expansion MX",
-      "pub": "Tue, 04 Aug 2026 23:21:27 GMT"
-    },
-    {
-      "title": "ChatGPT comprará tus boletos a conciertos en 2030, pero no para Taylor Swift o Bad Bunny",
-      "link": "https://expansion.mx/tecnologia/2026/08/04/chatgpt-comprara-tus-boletos-conciertos-2030",
-      "source": "Expansion MX",
-      "pub": "Tue, 04 Aug 2026 23:00:43 GMT"
-    },
-    {
-      "title": "Nvidia y SpaceX encienden a Wall Street mientras el petróleo cae por debajo de 80 dólares",
-      "link": "https://expansion.mx/mercados/2026/08/04/wall-street-record-petroleo-ia-nvidia-spacex",
-      "source": "Expansion MX",
-      "pub": "Tue, 04 Aug 2026 22:46:01 GMT"
-    },
-    {
-      "title": "El imperio educativo de los Baillères: así nació el ITAM y construyó su influencia en México",
-      "link": "https://expansion.mx/empresas/2026/08/04/itam-imperio-educativo-bailleres-historia",
-      "source": "Expansion MX",
-      "pub": "Tue, 04 Aug 2026 22:42:46 GMT"
-    },
-    {
-      "title": "Pemex duplica índice de gravedad de accidentes en el segundo trimestre",
-      "link": "https://expansion.mx/empresas/2026/08/04/pemex-duplica-gravedad-accidentes-en-un-trimestre",
-      "source": "Expansion MX",
-      "pub": "Tue, 04 Aug 2026 22:31:55 GMT"
-    },
-    {
-      "title": "Ni el América ni el Estadio Azteca: el negocio más rentable de Azcárraga en Ollamani está en los casinos",
-      "link": "https://expansion.mx/empresas/2026/08/04/negocio-mas-rentable-emilio-azcarraga-ollamani-casinos",
-      "source": "Expansion MX",
-      "pub": "Tue, 04 Aug 2026 21:56:16 GMT"
     }
   ]
 }
