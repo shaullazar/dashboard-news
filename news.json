@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T18:17:14.112087+00:00",
+  "updated": "2026-08-05T19:56:57.371197+00:00",
   "colombia": [
     {
       "title": "De la Espriella pledges major increase to senior subsidies despite claims of Colombia’s financial ‘disaster’",
@@ -64,6 +64,24 @@
   ],
   "mexico": [
     {
+      "title": "¡Salud! El consumo de cerveza crece en México: este es el peso de la industria en el PIB y el empleo",
+      "link": "https://expansion.mx/economia/2026/08/05/consumo-cerveza-impulsa-empleo-y-pib-mexico",
+      "source": "Expansion MX",
+      "pub": "Wed, 05 Aug 2026 19:08:52 GMT"
+    },
+    {
+      "title": "Paso a paso para checar mi crédito Infonavit por primera vez",
+      "link": "https://expansion.mx/finanzas-personales/2026/08/05/paso-a-paso-para-revisar-credito-infonavit",
+      "source": "Expansion MX",
+      "pub": "Wed, 05 Aug 2026 19:05:47 GMT"
+    },
+    {
+      "title": "Alerta de seguridad de EU frena embarques de aguacate michoacano para exportación",
+      "link": "https://expansion.mx/economia/2026/08/05/alerta-seguridad-michoacan-exportacion-aguacate",
+      "source": "Expansion MX",
+      "pub": "Wed, 05 Aug 2026 18:29:32 GMT"
+    },
+    {
       "title": "Nu dejará de funcionar por unas horas el 5 de agosto; estas operaciones estarán pausadas",
       "link": "https://expansion.mx/economia/2026/08/05/app-nu-dejara-funcionar-hoy-transferencias",
       "source": "Expansion MX",
@@ -104,24 +122,6 @@
       "link": "https://expansion.mx/tecnologia/2026/08/05/consorcio-arabe-y-yerno-de-trump-compran-ea",
       "source": "Expansion MX",
       "pub": "Wed, 05 Aug 2026 14:06:03 GMT"
-    },
-    {
-      "title": "Ingenieros de datos se convierten en el talento más buscado para la IA en México",
-      "link": "https://expansion.mx/tecnologia/2026/08/05/ingeniero-datos-trabajo-mejor-pagado-mexico-ia",
-      "source": "Expansion MX",
-      "pub": "Wed, 05 Aug 2026 11:55:46 GMT"
-    },
-    {
-      "title": "Trump alterna amenazas y negociación en su estrategia frente a Irán",
-      "link": "https://expansion.mx/mundo/2026/08/05/trump-amenaza-iran-luego-habla-negociacion-postura-cambiante",
-      "source": "Expansion MX",
-      "pub": "Wed, 05 Aug 2026 11:55:42 GMT"
-    },
-    {
-      "title": "Chihuahua y Jalisco dominan 80% del nuevo poder tecnológico exportador",
-      "link": "https://expansion.mx/economia/2026/08/05/chihuahua-jalisco-concentran-exportaciones-tecnologia-ia",
-      "source": "Expansion MX",
-      "pub": "Wed, 05 Aug 2026 11:55:17 GMT"
     }
   ]
 }
