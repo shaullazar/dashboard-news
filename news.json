@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T11:33:14.493448+00:00",
+  "updated": "2026-08-05T13:13:25.922905+00:00",
   "colombia": [
     {
       "title": "De la Espriella pledges major increase to senior subsidies despite claims of Colombia’s financial ‘disaster’",
@@ -64,6 +64,24 @@
   ],
   "mexico": [
     {
+      "title": "Ingenieros de datos se convierten en el talento más buscado para la IA en México",
+      "link": "https://expansion.mx/tecnologia/2026/08/05/ingeniero-datos-trabajo-mejor-pagado-mexico-ia",
+      "source": "Expansion MX",
+      "pub": "Wed, 05 Aug 2026 11:55:46 GMT"
+    },
+    {
+      "title": "Trump alterna amenazas y negociación en su estrategia frente a Irán",
+      "link": "https://expansion.mx/mundo/2026/08/05/trump-amenaza-iran-luego-habla-negociacion-postura-cambiante",
+      "source": "Expansion MX",
+      "pub": "Wed, 05 Aug 2026 11:55:42 GMT"
+    },
+    {
+      "title": "Chihuahua y Jalisco dominan 80% del nuevo poder tecnológico exportador",
+      "link": "https://expansion.mx/economia/2026/08/05/chihuahua-jalisco-concentran-exportaciones-tecnologia-ia",
+      "source": "Expansion MX",
+      "pub": "Wed, 05 Aug 2026 11:55:17 GMT"
+    },
+    {
       "title": "Las ciudades sedes del Mundial 2026 en EU reclaman a la FIFA un pago millonario",
       "link": "https://expansion.mx/mundo/2026/08/04/las-ciudades-sedes-del-mundial-2026-en-eu-reclaman-a-la-fifa-un-pago-millonario",
       "source": "Expansion MX",
@@ -104,24 +122,6 @@
       "link": "https://expansion.mx/mercados/2026/08/04/wall-street-record-petroleo-ia-nvidia-spacex",
       "source": "Expansion MX",
       "pub": "Tue, 04 Aug 2026 22:46:01 GMT"
-    },
-    {
-      "title": "El imperio educativo de los Baillères: así nació el ITAM y construyó su influencia en México",
-      "link": "https://expansion.mx/empresas/2026/08/04/itam-imperio-educativo-bailleres-historia",
-      "source": "Expansion MX",
-      "pub": "Tue, 04 Aug 2026 22:42:46 GMT"
-    },
-    {
-      "title": "Pemex duplica índice de gravedad de accidentes en el segundo trimestre",
-      "link": "https://expansion.mx/empresas/2026/08/04/pemex-duplica-gravedad-accidentes-en-un-trimestre",
-      "source": "Expansion MX",
-      "pub": "Tue, 04 Aug 2026 22:31:55 GMT"
-    },
-    {
-      "title": "Ni el América ni el Estadio Azteca: el negocio más rentable de Azcárraga en Ollamani está en los casinos",
-      "link": "https://expansion.mx/empresas/2026/08/04/negocio-mas-rentable-emilio-azcarraga-ollamani-casinos",
-      "source": "Expansion MX",
-      "pub": "Tue, 04 Aug 2026 21:56:16 GMT"
     }
   ]
 }
