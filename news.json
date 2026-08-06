@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T03:32:45.747409+00:00",
+  "updated": "2026-08-06T06:12:12.093064+00:00",
   "colombia": [
     {
       "title": "De la Espriella pledges major increase to senior subsidies despite claims of Colombia’s financial ‘disaster’",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "La mina más importante de Peñoles: el negocio que genera millones para los Bailleres",
+      "link": "https://expansion.mx/empresas/2026/08/05/mina-mas-importante-penoles-negocio-millones-bailleres",
+      "source": "Expansion MX",
+      "pub": "Thu, 06 Aug 2026 01:31:49 GMT"
+    },
+    {
+      "title": "FIFA reconoce los errores cometidos en la iniciativa FFE",
+      "link": "https://expansion.mx/tendencias/2026/08/05/fifa-reconoce-errores-cometidos-iniciativa-ffe",
+      "source": "Expansion MX",
+      "pub": "Thu, 06 Aug 2026 00:55:17 GMT"
+    },
+    {
       "title": "La marca que ayuda a Walmart a vender más barato sin fabricar un solo producto",
       "link": "https://expansion.mx/empresas/2026/08/05/historia-great-value-marca-walmart-vender-mas-barato",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/08/05/libreta-carlos-slim-fortuna-128-mil-millones",
       "source": "Expansion MX",
       "pub": "Wed, 05 Aug 2026 22:21:01 GMT"
-    },
-    {
-      "title": "La masificación del internet satelital convirtió a Starlink en el motor financiero de SpaceX",
-      "link": "https://expansion.mx/empresas/2026/08/05/starlink-genera-mas-dinero-cohetes-spacex",
-      "source": "Expansion MX",
-      "pub": "Wed, 05 Aug 2026 22:16:26 GMT"
-    },
-    {
-      "title": "“Utilizaron mi cara para promocionar remedios falsos”: influencers hechos con IA venden una falsa idea de bienestar",
-      "link": "https://expansion.mx/tecnologia/2026/08/05/influencers-hechos-ia-venden-idea-falsa-bienestar",
-      "source": "Expansion MX",
-      "pub": "Wed, 05 Aug 2026 22:00:39 GMT"
     }
   ]
 }
