@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T15:10:47.779852+00:00",
+  "updated": "2026-08-07T16:06:54.867462+00:00",
   "colombia": [
     {
       "title": "De la Espriella pledges major increase to senior subsidies despite claims of Colombia’s financial ‘disaster’",
@@ -70,6 +70,12 @@
       "pub": "Sat, 15 Aug 2026 11:55:44 GMT"
     },
     {
+      "title": "El salario mínimo y la jornada de 40 horas presionarán la inflación de servicios",
+      "link": "https://expansion.mx/economia/2026/08/07/el-salario-minimo-y-la-jornada-de-40-horas-presionaran-la-inflacion-de-servicios",
+      "source": "Expansion MX",
+      "pub": "Fri, 07 Aug 2026 11:50:42 GMT"
+    },
+    {
       "title": "Kia apuesta por el EV3 para acelerar su estrategia eléctrica en México con producción local",
       "link": "https://expansion.mx/empresas/2026/08/06/kia-ev3-suv-electrico-mexico-precio-autonomia",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/08/06/daiso-llega-mexico-primeras-tiendas-expansion-2026",
       "source": "Expansion MX",
       "pub": "Thu, 06 Aug 2026 22:32:42 GMT"
-    },
-    {
-      "title": "Hacienda ajusta medio billón de pesos al gasto; Pemex, trenes y Bienestar concentran el 65%",
-      "link": "https://expansion.mx/economia/2026/08/06/pemex-trenes-bienestar-ajuste-gasto-hacienda-medio-billon",
-      "source": "Expansion MX",
-      "pub": "Thu, 06 Aug 2026 22:26:40 GMT"
     }
   ]
 }
