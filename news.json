@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T21:02:58.714707+00:00",
+  "updated": "2026-08-08T21:38:07.478542+00:00",
   "colombia": [
     {
       "title": "De la Espriella pledges major increase to senior subsidies despite claims of Colombia’s financial ‘disaster’",
@@ -70,6 +70,12 @@
       "pub": "Sat, 15 Aug 2026 11:55:44 GMT"
     },
     {
+      "title": "Dos ataques sacuden Colombia en el primer día de gobierno de su nuevo presidente",
+      "link": "https://expansion.mx/mundo/2026/08/08/ataques-explosivos-colombia-nuevo-gobierno",
+      "source": "Expansion MX",
+      "pub": "Sat, 08 Aug 2026 20:45:16 GMT"
+    },
+    {
       "title": "WhatsApp cambia los grupos: ahora puedes llamar la atención de todos con un solo mensaje",
       "link": "https://expansion.mx/tecnologia/2026/08/08/whatsapp-atodos-nuevas-funciones-grupos",
       "source": "Expansion MX",
@@ -110,12 +116,6 @@
       "link": "https://expansion.mx/carrera/2026/08/07/examen-control-unam-carreras-100-aciertos-salarios-egresados",
       "source": "Expansion MX",
       "pub": "Sat, 08 Aug 2026 01:30:11 GMT"
-    },
-    {
-      "title": "DiDi se suma al registro de líneas celulares y pide a usuarios hacerlo antes del plazo",
-      "link": "https://expansion.mx/empresas/2026/08/07/didi-alerta-a-usuarios-sobre-registro-de-lineas-telefonicas",
-      "source": "Expansion MX",
-      "pub": "Sat, 08 Aug 2026 00:24:13 GMT"
     }
   ]
 }
