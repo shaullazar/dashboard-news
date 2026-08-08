@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-08T21:58:53.789514+00:00",
+  "updated": "2026-08-08T22:26:02.421252+00:00",
   "colombia": [
+    {
+      "title": "Goodbye Gus: the end of the Petro presidency",
+      "link": "https://thebogotapost.com/petro-presidency-4-years-done/56682/",
+      "source": "The Bogota Post",
+      "pub": "Sat, 08 Aug 2026 01:38:29 +0000"
+    },
     {
       "title": "De la Espriella pledges major increase to senior subsidies despite claims of Colombia’s financial ‘disaster’",
       "link": "https://thebogotapost.com/de-la-espriella-pledges-major-increase-to-senior-subsidies-despite-claims-of-colombias-financial-disaster/56674/",
@@ -54,12 +60,6 @@
       "link": "https://thebogotapost.com/colombia-switzerland-2026-world-cup/56622/",
       "source": "The Bogota Post",
       "pub": "Tue, 07 Jul 2026 23:00:37 +0000"
-    },
-    {
-      "title": "Meet The Bogota Post’s Best Tech Company to Work for in Colombia in 2026",
-      "link": "https://thebogotapost.com/meet-the-bogota-posts-best-tech-company-to-work-for-in-colombia-in-2026/56608/",
-      "source": "The Bogota Post",
-      "pub": "Fri, 03 Jul 2026 18:05:24 +0000"
     }
   ],
   "mexico": [
@@ -68,6 +68,12 @@
       "link": "https://expansion.mx/mundo/2026/08/15/abelardo-de-la-espriella-cambia-la-paz-total-de-petro-por-una-politica-de-mano-dura-en-colombia",
       "source": "Expansion MX",
       "pub": "Sat, 15 Aug 2026 11:55:44 GMT"
+    },
+    {
+      "title": "Dos ataques sacuden Colombia en el primer día de gobierno de su nuevo presidente",
+      "link": "https://expansion.mx/mundo/2026/08/08/ataques-explosivos-colombia-nuevo-gobierno",
+      "source": "Expansion MX",
+      "pub": "Sat, 08 Aug 2026 20:45:16 GMT"
     },
     {
       "title": "WhatsApp cambia los grupos: ahora puedes llamar la atención de todos con un solo mensaje",
@@ -110,12 +116,6 @@
       "link": "https://expansion.mx/carrera/2026/08/07/examen-control-unam-carreras-100-aciertos-salarios-egresados",
       "source": "Expansion MX",
       "pub": "Sat, 08 Aug 2026 01:30:11 GMT"
-    },
-    {
-      "title": "DiDi se suma al registro de líneas celulares y pide a usuarios hacerlo antes del plazo",
-      "link": "https://expansion.mx/empresas/2026/08/07/didi-alerta-a-usuarios-sobre-registro-de-lineas-telefonicas",
-      "source": "Expansion MX",
-      "pub": "Sat, 08 Aug 2026 00:24:13 GMT"
     }
   ]
 }
