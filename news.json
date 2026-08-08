@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T23:13:49.427775+00:00",
+  "updated": "2026-08-08T23:43:34.889087+00:00",
   "colombia": [
     {
       "title": "Goodbye Gus: the end of the Petro presidency",
@@ -70,18 +70,6 @@
       "pub": "Sat, 15 Aug 2026 11:55:44 GMT"
     },
     {
-      "title": "Dos ataques sacuden Colombia en el primer día de gobierno de su nuevo presidente",
-      "link": "https://expansion.mx/mundo/2026/08/08/ataques-explosivos-colombia-nuevo-gobierno",
-      "source": "Expansion MX",
-      "pub": "Sat, 08 Aug 2026 20:45:16 GMT"
-    },
-    {
-      "title": "WhatsApp cambia los grupos: ahora puedes llamar la atención de todos con un solo mensaje",
-      "link": "https://expansion.mx/tecnologia/2026/08/08/whatsapp-atodos-nuevas-funciones-grupos",
-      "source": "Expansion MX",
-      "pub": "Sat, 08 Aug 2026 18:00:40 GMT"
-    },
-    {
       "title": "Hamás afirma que sigue dispuesto a avanzar con el plan de paz para Gaza",
       "link": "https://expansion.mx/mundo/2026/08/08/hamas-plan-paz-gaza-presion-israel-segunda-fase",
       "source": "Expansion MX",
@@ -116,6 +104,18 @@
       "link": "https://expansion.mx/carrera/2026/08/07/examen-control-unam-carreras-100-aciertos-salarios-egresados",
       "source": "Expansion MX",
       "pub": "Sat, 08 Aug 2026 01:30:11 GMT"
+    },
+    {
+      "title": "DiDi se suma al registro de líneas celulares y pide a usuarios hacerlo antes del plazo",
+      "link": "https://expansion.mx/empresas/2026/08/07/didi-alerta-a-usuarios-sobre-registro-de-lineas-telefonicas",
+      "source": "Expansion MX",
+      "pub": "Sat, 08 Aug 2026 00:24:13 GMT"
+    },
+    {
+      "title": "Hacienda reduce los subsidios para Magna, Premium y diésel",
+      "link": "https://expansion.mx/economia/2026/08/07/hacienda-reduce-subsidios-magna-premium-diesel-agosto",
+      "source": "Expansion MX",
+      "pub": "Fri, 07 Aug 2026 23:53:04 GMT"
     }
   ]
 }
