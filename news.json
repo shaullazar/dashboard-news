@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T14:21:19.969835+00:00",
+  "updated": "2026-08-09T14:56:07.915224+00:00",
   "colombia": [
     {
       "title": "Goodbye Gus: the end of the Petro presidency",
@@ -70,6 +70,18 @@
       "pub": "Sat, 15 Aug 2026 11:55:44 GMT"
     },
     {
+      "title": "Estado Natural ya tiene 50 tiendas y planea su asalto a otras cadenas con productos empacados",
+      "link": "https://expansion.mx/empresas/2026/08/09/estado-natural-50-tiendas-granel-productos-empacados",
+      "source": "Expansion MX",
+      "pub": "Sun, 09 Aug 2026 12:09:01 GMT"
+    },
+    {
+      "title": "De Starlink a Amazon Leo, los nuevos dueños del imperio móvil",
+      "link": "https://expansion.mx/empresas/2026/08/09/starlink-amazon-leo-nuevos-dueno-imperio-telefonia-movil",
+      "source": "Expansion MX",
+      "pub": "Sun, 09 Aug 2026 12:03:54 GMT"
+    },
+    {
       "title": "Dos ataques sacuden Colombia en el primer día de gobierno de su nuevo presidente",
       "link": "https://expansion.mx/mundo/2026/08/08/ataques-explosivos-colombia-nuevo-gobierno",
       "source": "Expansion MX",
@@ -110,12 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/08/07/infiniti-qx65-precio-mexico",
       "source": "Expansion MX",
       "pub": "Sat, 08 Aug 2026 01:32:27 GMT"
-    },
-    {
-      "title": "Examen control UNAM: las carreras que exigen más de 100 aciertos y sus salarios de egresados",
-      "link": "https://expansion.mx/carrera/2026/08/07/examen-control-unam-carreras-100-aciertos-salarios-egresados",
-      "source": "Expansion MX",
-      "pub": "Sat, 08 Aug 2026 01:30:11 GMT"
     }
   ]
 }
