@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T18:17:00.079453+00:00",
+  "updated": "2026-08-09T19:02:52.233774+00:00",
   "colombia": [
     {
       "title": "Goodbye Gus: the end of the Petro presidency",
@@ -70,6 +70,12 @@
       "pub": "Sat, 15 Aug 2026 11:55:44 GMT"
     },
     {
+      "title": "Gobierno licitará una red 5G para operar los nuevos trenes México-Querétaro-Irapuato y Saltillo-Nuevo Laredo",
+      "link": "https://expansion.mx/empresas/2026/08/09/gobierno-licitara-una-red-5g-para-operar-los-nuevos-trenes-mexico-queretaro-irapuato-y-saltillo-nuevo-laredo",
+      "source": "Expansion MX",
+      "pub": "Sun, 09 Aug 2026 18:14:22 GMT"
+    },
+    {
       "title": "Irán advierte que Ormuz permanecerá bloqueado hasta que EU acepte todas sus condiciones",
       "link": "https://expansion.mx/mundo/2026/08/09/iran-advierte-que-ormuz-permanecera-bloqueado-hasta-que-eu-acepte-todas-sus-condiciones",
       "source": "Expansion MX",
@@ -106,22 +112,16 @@
       "pub": "Sun, 09 Aug 2026 12:03:54 GMT"
     },
     {
+      "title": "La ruta de Alstom para construir trenes en Hidalgo",
+      "link": "https://expansion.mx/empresas/2026/08/09/alstom-construir-trenes-hidalgo",
+      "source": "Expansion MX",
+      "pub": "Sun, 09 Aug 2026 11:00:23 GMT"
+    },
+    {
       "title": "Dos ataques sacuden Colombia en el primer día de gobierno de su nuevo presidente",
       "link": "https://expansion.mx/mundo/2026/08/08/ataques-explosivos-colombia-nuevo-gobierno",
       "source": "Expansion MX",
       "pub": "Sat, 08 Aug 2026 20:45:16 GMT"
-    },
-    {
-      "title": "WhatsApp cambia los grupos: ahora puedes llamar la atención de todos con un solo mensaje",
-      "link": "https://expansion.mx/tecnologia/2026/08/08/whatsapp-atodos-nuevas-funciones-grupos",
-      "source": "Expansion MX",
-      "pub": "Sat, 08 Aug 2026 18:00:40 GMT"
-    },
-    {
-      "title": "Hamás afirma que sigue dispuesto a avanzar con el plan de paz para Gaza",
-      "link": "https://expansion.mx/mundo/2026/08/08/hamas-plan-paz-gaza-presion-israel-segunda-fase",
-      "source": "Expansion MX",
-      "pub": "Sat, 08 Aug 2026 17:30:50 GMT"
     }
   ]
 }
