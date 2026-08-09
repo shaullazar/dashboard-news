@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T17:19:03.490771+00:00",
+  "updated": "2026-08-09T17:50:10.643379+00:00",
   "colombia": [
     {
       "title": "Goodbye Gus: the end of the Petro presidency",
@@ -70,6 +70,12 @@
       "pub": "Sat, 15 Aug 2026 11:55:44 GMT"
     },
     {
+      "title": "Irán advierte que Ormuz permanecerá bloqueado hasta que EU acepte todas sus condiciones",
+      "link": "https://expansion.mx/mundo/2026/08/09/iran-advierte-que-ormuz-permanecera-bloqueado-hasta-que-eu-acepte-todas-sus-condiciones",
+      "source": "Expansion MX",
+      "pub": "Sun, 09 Aug 2026 16:54:38 GMT"
+    },
+    {
       "title": "El modo secreto del iPhone para prestarlo sin que revisen tus fotos, chats ni apps privadas",
       "link": "https://expansion.mx/tecnologia/2026/08/09/el-modo-secreto-del-iphone-para-prestarlo-sin-que-revisen-tus-fotos-chats-ni-apps-privadas",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/mundo/2026/08/08/hamas-plan-paz-gaza-presion-israel-segunda-fase",
       "source": "Expansion MX",
       "pub": "Sat, 08 Aug 2026 17:30:50 GMT"
-    },
-    {
-      "title": "España responde a Italia con controles fronterizos a sus viajeros",
-      "link": "https://expansion.mx/mundo/2026/08/08/espana-italia-controles-fronterizos-disputa-migratoria",
-      "source": "Expansion MX",
-      "pub": "Sat, 08 Aug 2026 16:58:57 GMT"
     }
   ]
 }
