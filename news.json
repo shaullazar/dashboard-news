@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T19:40:05.626957+00:00",
+  "updated": "2026-08-09T20:01:41.464784+00:00",
   "colombia": [
     {
       "title": "Goodbye Gus: the end of the Petro presidency",
@@ -70,6 +70,12 @@
       "pub": "Sat, 15 Aug 2026 11:55:44 GMT"
     },
     {
+      "title": "Fallece Maximiliano Leonardo Asturias, fundador de Farmacias del Ahorro",
+      "link": "https://expansion.mx/empresas/2026/08/09/fallece-maximiliano-leonardo-asturias-cofundador-de-farmacias-del-ahorro",
+      "source": "Expansion MX",
+      "pub": "Sun, 09 Aug 2026 19:11:52 GMT"
+    },
+    {
       "title": "Gobierno licitará una red 5G para operar los nuevos trenes México-Querétaro-Irapuato y Saltillo-Nuevo Laredo",
       "link": "https://expansion.mx/empresas/2026/08/09/gobierno-licitara-una-red-5g-para-operar-los-nuevos-trenes-mexico-queretaro-irapuato-y-saltillo-nuevo-laredo",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/08/09/alstom-construir-trenes-hidalgo",
       "source": "Expansion MX",
       "pub": "Sun, 09 Aug 2026 11:00:23 GMT"
-    },
-    {
-      "title": "Dos ataques sacuden Colombia en el primer día de gobierno de su nuevo presidente",
-      "link": "https://expansion.mx/mundo/2026/08/08/ataques-explosivos-colombia-nuevo-gobierno",
-      "source": "Expansion MX",
-      "pub": "Sat, 08 Aug 2026 20:45:16 GMT"
     }
   ]
 }
