@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T22:46:20.490108+00:00",
+  "updated": "2026-08-10T23:19:03.134631+00:00",
   "colombia": [
     {
       "title": "Colombia hit by 7.4 and 4.8-magnitude twin earthquakes",
@@ -70,6 +70,18 @@
       "pub": "Sat, 15 Aug 2026 11:55:44 GMT"
     },
     {
+      "title": "¿Quién es el dueño de las tiendas más baratas de México? El poder detrás de 3B, Neto, Aurrera y Chedraui",
+      "link": "https://expansion.mx/empresas/2026/08/10/duenos-tiendas-baratas-3b-neto-aurrera-chedraui",
+      "source": "Expansion MX",
+      "pub": "Mon, 10 Aug 2026 21:41:06 GMT"
+    },
+    {
+      "title": "De OpenAI a Meta: los incidentes que ponen a prueba la seguridad de los agentes de IA",
+      "link": "https://expansion.mx/tecnologia/2026/08/10/openai-anthropic-meta-agentes-ia-decisiones-seguridad",
+      "source": "Expansion MX",
+      "pub": "Mon, 10 Aug 2026 21:41:02 GMT"
+    },
+    {
       "title": "Samsung Galaxy A37 vs. A56: ¿qué cambia entre los dos celulares y cuánto cuesta cada uno en México?",
       "link": "https://expansion.mx/tecnologia/2026/08/10/samsung-galaxy-a37-vs-a56-que-cambia-entre-los-dos-celulares-y-cuanto-cuesta-cada-uno-en-mexico",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/economia/2026/08/10/china-impone-aranceles-a-nuez-pecana-de-mexico-y-eu",
       "source": "Expansion MX",
       "pub": "Mon, 10 Aug 2026 17:45:00 GMT"
-    },
-    {
-      "title": "¿De qué tamaño es Farmacias del Ahorro, el negocio millonario que fundó Maximiliano Leonardo Asturias?",
-      "link": "https://expansion.mx/empresas/2026/08/10/farmacias-del-ahorro-negocio-de-maximiliano-asturias",
-      "source": "Expansion MX",
-      "pub": "Mon, 10 Aug 2026 17:30:26 GMT"
-    },
-    {
-      "title": "NL concentra 40% de la producción de electrodomésticos de México y apuesta por la IA para no perder competitividad",
-      "link": "https://expansion.mx/empresas/2026/08/10/nuevo-leon-fabrica-40-electrodomesticos-mexico-reto-ia",
-      "source": "Expansion MX",
-      "pub": "Mon, 10 Aug 2026 17:14:23 GMT"
     }
   ]
 }
