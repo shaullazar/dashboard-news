@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T17:23:36.501729+00:00",
+  "updated": "2026-08-10T18:08:00.515186+00:00",
   "colombia": [
     {
       "title": "Colombia hit by 7.4 and 4.8-magnitude twin earthquakes",
@@ -70,12 +70,6 @@
       "pub": "Sat, 15 Aug 2026 11:55:44 GMT"
     },
     {
-      "title": "Meta presenta una nueva IA que podrás ejecutar en tu propia computadora",
-      "link": "https://expansion.mx/tecnologia/2026/08/10/meta-ia-codigo-abierto-computadora-personal",
-      "source": "Expansion MX",
-      "pub": "Mon, 10 Aug 2026 16:45:59 GMT"
-    },
-    {
       "title": "Geely prepara sus primeros híbridos no enchufables para México y va por el mercado dominado por Toyota",
       "link": "https://expansion.mx/empresas/2026/08/10/geely-autos-hibridos-no-enchufables-lanzamiento-mexico",
       "source": "Expansion MX",
@@ -94,7 +88,7 @@
       "pub": "Mon, 10 Aug 2026 14:43:50 GMT"
     },
     {
-      "title": "Videos muestran la fuerza del terremoto en Colombia que ha dejado 70 fallecidos y edificios colapsados",
+      "title": "Videos muestran la fuerza del terremoto en Colombia; hay fallecidos y edificios colapsados",
       "link": "https://expansion.mx/mundo/2026/08/10/terremoto-sacude-colombia-desalojan-edificios-bogota",
       "source": "Expansion MX",
       "pub": "Mon, 10 Aug 2026 13:36:59 GMT"
@@ -122,6 +116,12 @@
       "link": "https://expansion.mx/mundo/2026/08/09/israel-rechaza-el-plan-de-alto-al-fuego-en-gaza-y-se-desmarca-nuevamente-de-trump",
       "source": "Expansion MX",
       "pub": "Sun, 09 Aug 2026 20:14:32 GMT"
+    },
+    {
+      "title": "Fallece Maximiliano Leonardo Asturias, fundador de Farmacias del Ahorro",
+      "link": "https://expansion.mx/empresas/2026/08/09/fallece-maximiliano-leonardo-asturias-cofundador-de-farmacias-del-ahorro",
+      "source": "Expansion MX",
+      "pub": "Sun, 09 Aug 2026 19:11:52 GMT"
     }
   ]
 }
