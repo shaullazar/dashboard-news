@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T18:08:00.515186+00:00",
+  "updated": "2026-08-10T19:11:20.554884+00:00",
   "colombia": [
     {
       "title": "Colombia hit by 7.4 and 4.8-magnitude twin earthquakes",
@@ -70,6 +70,42 @@
       "pub": "Sat, 15 Aug 2026 11:55:44 GMT"
     },
     {
+      "title": "Nuez mexicana entra a China vía México y EU; el golpe de los aranceles antidumping es mayor",
+      "link": "https://expansion.mx/economia/2026/08/10/mexico-pierde-mas-que-eu-arancel-antidumping-china-nuez",
+      "source": "Expansion MX",
+      "pub": "Mon, 10 Aug 2026 18:48:13 GMT"
+    },
+    {
+      "title": "Antes de invertir esta semana: los cuatro focos que pueden mover al mercado",
+      "link": "https://expansion.mx/mercados/2026/08/10/antes-de-invertir-esta-semana-inflacion-petroleo-ia-bonos",
+      "source": "Expansion MX",
+      "pub": "Mon, 10 Aug 2026 18:06:32 GMT"
+    },
+    {
+      "title": "Nuez pecana mexicana enfrenta nuevo arancel en China: empresas pagarán hasta 52% por exportar",
+      "link": "https://expansion.mx/economia/2026/08/10/china-impone-aranceles-a-nuez-pecana-de-mexico-y-eu",
+      "source": "Expansion MX",
+      "pub": "Mon, 10 Aug 2026 17:45:00 GMT"
+    },
+    {
+      "title": "¿De qué tamaño es Farmacias del Ahorro, el negocio millonario que fundó Maximiliano Leonardo Asturias?",
+      "link": "https://expansion.mx/empresas/2026/08/10/farmacias-del-ahorro-negocio-de-maximiliano-asturias",
+      "source": "Expansion MX",
+      "pub": "Mon, 10 Aug 2026 17:30:26 GMT"
+    },
+    {
+      "title": "NL concentra 40% de la producción de electrodomésticos de México y apuesta por la IA para no perder competitividad",
+      "link": "https://expansion.mx/empresas/2026/08/10/nuevo-leon-fabrica-40-electrodomesticos-mexico-reto-ia",
+      "source": "Expansion MX",
+      "pub": "Mon, 10 Aug 2026 17:14:23 GMT"
+    },
+    {
+      "title": "Meta presenta una nueva IA que podrás ejecutar en tu propia computadora",
+      "link": "https://expansion.mx/tecnologia/2026/08/10/meta-ia-codigo-abierto-computadora-personal",
+      "source": "Expansion MX",
+      "pub": "Mon, 10 Aug 2026 16:45:59 GMT"
+    },
+    {
       "title": "Geely prepara sus primeros híbridos no enchufables para México y va por el mercado dominado por Toyota",
       "link": "https://expansion.mx/empresas/2026/08/10/geely-autos-hibridos-no-enchufables-lanzamiento-mexico",
       "source": "Expansion MX",
@@ -86,42 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/08/10/caen-millones-de-lineas-telefonicas-registro-obligatorio",
       "source": "Expansion MX",
       "pub": "Mon, 10 Aug 2026 14:43:50 GMT"
-    },
-    {
-      "title": "Videos muestran la fuerza del terremoto en Colombia; hay fallecidos y edificios colapsados",
-      "link": "https://expansion.mx/mundo/2026/08/10/terremoto-sacude-colombia-desalojan-edificios-bogota",
-      "source": "Expansion MX",
-      "pub": "Mon, 10 Aug 2026 13:36:59 GMT"
-    },
-    {
-      "title": "Pemex aumenta 140% sus pérdidas por robo de combustible en tres meses",
-      "link": "https://expansion.mx/empresas/2026/08/10/pemex-eleva-perdidas-por-robo-de-combustible-en-tres-meses",
-      "source": "Expansion MX",
-      "pub": "Mon, 10 Aug 2026 11:55:52 GMT"
-    },
-    {
-      "title": "Audible quiere conquistar al lector mexicano con más audiolibros en español",
-      "link": "https://expansion.mx/tecnologia/2026/08/10/la-ofensiva-de-audible-por-el-lector-mexicano",
-      "source": "Expansion MX",
-      "pub": "Mon, 10 Aug 2026 11:55:27 GMT"
-    },
-    {
-      "title": "Lecheros de EU presionan a México en el T-MEC por los nombres de los quesos",
-      "link": "https://expansion.mx/economia/2026/08/10/lecheros-eu-mexico-nombres-quesos-tmec",
-      "source": "Expansion MX",
-      "pub": "Mon, 10 Aug 2026 11:55:07 GMT"
-    },
-    {
-      "title": "Israel rechaza el plan de alto al fuego en Gaza y se desmarca nuevamente de Trump",
-      "link": "https://expansion.mx/mundo/2026/08/09/israel-rechaza-el-plan-de-alto-al-fuego-en-gaza-y-se-desmarca-nuevamente-de-trump",
-      "source": "Expansion MX",
-      "pub": "Sun, 09 Aug 2026 20:14:32 GMT"
-    },
-    {
-      "title": "Fallece Maximiliano Leonardo Asturias, fundador de Farmacias del Ahorro",
-      "link": "https://expansion.mx/empresas/2026/08/09/fallece-maximiliano-leonardo-asturias-cofundador-de-farmacias-del-ahorro",
-      "source": "Expansion MX",
-      "pub": "Sun, 09 Aug 2026 19:11:52 GMT"
     }
   ]
 }
