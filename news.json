@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T19:11:20.554884+00:00",
+  "updated": "2026-08-10T19:58:58.503237+00:00",
   "colombia": [
     {
       "title": "Colombia hit by 7.4 and 4.8-magnitude twin earthquakes",
@@ -70,18 +70,6 @@
       "pub": "Sat, 15 Aug 2026 11:55:44 GMT"
     },
     {
-      "title": "Nuez mexicana entra a China vía México y EU; el golpe de los aranceles antidumping es mayor",
-      "link": "https://expansion.mx/economia/2026/08/10/mexico-pierde-mas-que-eu-arancel-antidumping-china-nuez",
-      "source": "Expansion MX",
-      "pub": "Mon, 10 Aug 2026 18:48:13 GMT"
-    },
-    {
-      "title": "Antes de invertir esta semana: los cuatro focos que pueden mover al mercado",
-      "link": "https://expansion.mx/mercados/2026/08/10/antes-de-invertir-esta-semana-inflacion-petroleo-ia-bonos",
-      "source": "Expansion MX",
-      "pub": "Mon, 10 Aug 2026 18:06:32 GMT"
-    },
-    {
       "title": "Nuez pecana mexicana enfrenta nuevo arancel en China: empresas pagarán hasta 52% por exportar",
       "link": "https://expansion.mx/economia/2026/08/10/china-impone-aranceles-a-nuez-pecana-de-mexico-y-eu",
       "source": "Expansion MX",
@@ -122,6 +110,18 @@
       "link": "https://expansion.mx/empresas/2026/08/10/caen-millones-de-lineas-telefonicas-registro-obligatorio",
       "source": "Expansion MX",
       "pub": "Mon, 10 Aug 2026 14:43:50 GMT"
+    },
+    {
+      "title": "Videos muestran la fuerza del terremoto en Colombia que ha dejado 70 fallecidos y edificios colapsados",
+      "link": "https://expansion.mx/mundo/2026/08/10/terremoto-sacude-colombia-desalojan-edificios-bogota",
+      "source": "Expansion MX",
+      "pub": "Mon, 10 Aug 2026 13:36:59 GMT"
+    },
+    {
+      "title": "Pemex aumenta 140% sus pérdidas por robo de combustible en tres meses",
+      "link": "https://expansion.mx/empresas/2026/08/10/pemex-eleva-perdidas-por-robo-de-combustible-en-tres-meses",
+      "source": "Expansion MX",
+      "pub": "Mon, 10 Aug 2026 11:55:52 GMT"
     }
   ]
 }
