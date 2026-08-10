@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T20:40:02.929408+00:00",
+  "updated": "2026-08-10T21:24:04.337726+00:00",
   "colombia": [
     {
       "title": "Colombia hit by 7.4 and 4.8-magnitude twin earthquakes",
@@ -70,18 +70,6 @@
       "pub": "Sat, 15 Aug 2026 11:55:44 GMT"
     },
     {
-      "title": "El sueldo pesa al aceptar un empleo, pero otras razones hacen que el talento se quede",
-      "link": "https://expansion.mx/carrera/2026/08/10/trabajadores-mexicanos-sacrificarian-aumento-por-tiempo",
-      "source": "Expansion MX",
-      "pub": "Mon, 10 Aug 2026 19:24:55 GMT"
-    },
-    {
-      "title": "Hacienda publica nuevas reglas para la prevención de lavado de dinero, ¿a quiénes aplican?",
-      "link": "https://expansion.mx/economia/2026/08/10/hacienda-nuevas-reglas-prevencion-lavado-dinero",
-      "source": "Expansion MX",
-      "pub": "Mon, 10 Aug 2026 19:17:41 GMT"
-    },
-    {
       "title": "Nuez mexicana entra a China vía México y EU; el golpe de los aranceles antidumping es mayor",
       "link": "https://expansion.mx/economia/2026/08/10/mexico-pierde-mas-que-eu-arancel-antidumping-china-nuez",
       "source": "Expansion MX",
@@ -122,6 +110,18 @@
       "link": "https://expansion.mx/empresas/2026/08/10/geely-autos-hibridos-no-enchufables-lanzamiento-mexico",
       "source": "Expansion MX",
       "pub": "Mon, 10 Aug 2026 15:42:19 GMT"
+    },
+    {
+      "title": "Nissan vuelve a utilidades y da un respiro al mexicano Iván Espinosa tras presión de los accionistas",
+      "link": "https://expansion.mx/empresas/2026/08/10/primer-mexicano-dirigir-nissan-peticiones-renuncia-resultado",
+      "source": "Expansion MX",
+      "pub": "Mon, 10 Aug 2026 15:10:29 GMT"
+    },
+    {
+      "title": "Caen 1.7 millones de líneas celulares por el registro obligatorio",
+      "link": "https://expansion.mx/empresas/2026/08/10/caen-millones-de-lineas-telefonicas-registro-obligatorio",
+      "source": "Expansion MX",
+      "pub": "Mon, 10 Aug 2026 14:43:50 GMT"
     }
   ]
 }
