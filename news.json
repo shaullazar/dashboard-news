@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T07:22:25.029519+00:00",
+  "updated": "2026-08-11T08:27:29.548586+00:00",
   "colombia": [
     {
       "title": "Colombia hit by 7.4 and 4.8-magnitude twin earthquakes",
@@ -70,6 +70,12 @@
       "pub": "Sat, 15 Aug 2026 11:55:44 GMT"
     },
     {
+      "title": "Muere Miguel Mancera Aguayo, primer gobernador de Banxico",
+      "link": "https://expansion.mx/economia/2026/08/10/muere-miguel-mancera-primer-gobernador-banxico",
+      "source": "Expansion MX",
+      "pub": "Tue, 11 Aug 2026 04:13:52 GMT"
+    },
+    {
       "title": "El empleo formal camina a dos velocidades: Baja California crece mientras Campeche se hunde",
       "link": "https://expansion.mx/economia/2026/08/10/empleo-formal-julio-2026-imss",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/economia/2026/08/10/sat-recaudacion-auditorias-programa-regularizacion-2027",
       "source": "Expansion MX",
       "pub": "Mon, 10 Aug 2026 22:27:56 GMT"
-    },
-    {
-      "title": "Trump disparó la conversación sobre aranceles entre las empresas de EU",
-      "link": "https://expansion.mx/economia/2026/08/10/aranceles-trump-impacto-empresas-eu",
-      "source": "Expansion MX",
-      "pub": "Mon, 10 Aug 2026 22:19:30 GMT"
     }
   ]
 }
