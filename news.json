@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T18:27:10.479026+00:00",
+  "updated": "2026-08-11T19:32:20.645198+00:00",
   "colombia": [
     {
       "title": "Colombia hit by 7.4 and 4.8-magnitude twin earthquakes",
@@ -70,24 +70,6 @@
       "pub": "Sat, 15 Aug 2026 11:55:44 GMT"
     },
     {
-      "title": "Bumble cambia su regla más famosa: las mujeres ya no tendrán que enviar el primer mensaje",
-      "link": "https://expansion.mx/tecnologia/2026/08/11/bumble-cambia-regla-mujeres-primer-mensaje",
-      "source": "Expansion MX",
-      "pub": "Tue, 11 Aug 2026 17:40:57 GMT"
-    },
-    {
-      "title": "La IA se vuelve más barata: China presiona a OpenAI, Anthropic y Meta",
-      "link": "https://expansion.mx/tecnologia/2026/08/11/ia-mas-barata-china-presiona-openai-meta",
-      "source": "Expansion MX",
-      "pub": "Tue, 11 Aug 2026 15:00:55 GMT"
-    },
-    {
-      "title": "Imágenes del terremoto en Colombia: la destrucción que deja 169 muertos y una búsqueda contrarreloj",
-      "link": "https://expansion.mx/mundo/2026/08/11/aumenta-cifra-fallecidos-terremoto-colombia-sobrevivientes",
-      "source": "Expansion MX",
-      "pub": "Tue, 11 Aug 2026 13:59:49 GMT"
-    },
-    {
       "title": "“La FIFA cometería un terrible error”: Trump mete las manos por Infantino para frenar su posible destitución",
       "link": "https://expansion.mx/mundo/2026/08/11/trump-respalda-a-infantino-en-crisis-de-la-fifa",
       "source": "Expansion MX",
@@ -107,7 +89,7 @@
     },
     {
       "title": "Multiva busca financiar proyectos por 250,000 mdp en infraestructura y energía",
-      "link": "https://expansion.mx/economia/2026/08/11/tamara-caballero-directora-general-banco-multiva-financiar-proyectos",
+      "link": "https://expansion.mx/economia/2026/08/11/multiva-proyectos-250000-mdp-infraestructura-energia",
       "source": "Expansion MX",
       "pub": "Tue, 11 Aug 2026 11:55:30 GMT"
     },
@@ -122,6 +104,24 @@
       "link": "https://expansion.mx/economia/2026/08/10/muere-miguel-mancera-primer-gobernador-banxico",
       "source": "Expansion MX",
       "pub": "Tue, 11 Aug 2026 04:13:52 GMT"
+    },
+    {
+      "title": "El empleo formal camina a dos velocidades: Baja California crece mientras Campeche se hunde",
+      "link": "https://expansion.mx/economia/2026/08/10/empleo-formal-julio-2026-imss",
+      "source": "Expansion MX",
+      "pub": "Tue, 11 Aug 2026 02:28:49 GMT"
+    },
+    {
+      "title": "¿Dr. Guali es el “Dr. Simi” de Perú? Las similitudes que hicieron viral a esta farmacia",
+      "link": "https://expansion.mx/tendencias/2026/08/10/dr-guali-es-el-dr-simi-de-peru-las-similitudes-que-hicieron-viral-a-esta-farmacia",
+      "source": "Expansion MX",
+      "pub": "Tue, 11 Aug 2026 01:33:22 GMT"
+    },
+    {
+      "title": "Estadio GNP Seguros: la inversión que lo llevó a convertirse en uno de los mejores del mundo",
+      "link": "https://expansion.mx/tendencias/2026/08/10/estadio-gnp-seguros-inversion-convertirse-uno-mejores-mundo",
+      "source": "Expansion MX",
+      "pub": "Tue, 11 Aug 2026 00:48:26 GMT"
     }
   ]
 }
