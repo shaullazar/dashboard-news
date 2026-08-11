@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T15:43:18.820914+00:00",
+  "updated": "2026-08-11T16:35:14.004003+00:00",
   "colombia": [
     {
       "title": "Colombia hit by 7.4 and 4.8-magnitude twin earthquakes",
@@ -70,6 +70,12 @@
       "pub": "Sat, 15 Aug 2026 11:55:44 GMT"
     },
     {
+      "title": "La IA se vuelve más barata: China presiona a OpenAI, Anthropic y Meta",
+      "link": "https://expansion.mx/tecnologia/2026/08/11/ia-mas-barata-china-presiona-openai-meta",
+      "source": "Expansion MX",
+      "pub": "Tue, 11 Aug 2026 15:00:55 GMT"
+    },
+    {
       "title": "Imágenes del terremoto en Colombia: la destrucción que deja 169 muertos y una búsqueda contrarreloj",
       "link": "https://expansion.mx/mundo/2026/08/11/aumenta-cifra-fallecidos-terremoto-colombia-sobrevivientes",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/economia/2026/08/10/empleo-formal-julio-2026-imss",
       "source": "Expansion MX",
       "pub": "Tue, 11 Aug 2026 02:28:49 GMT"
-    },
-    {
-      "title": "¿Dr. Guali es el “Dr. Simi” de Perú? Las similitudes que hicieron viral a esta farmacia",
-      "link": "https://expansion.mx/tendencias/2026/08/10/dr-guali-es-el-dr-simi-de-peru-las-similitudes-que-hicieron-viral-a-esta-farmacia",
-      "source": "Expansion MX",
-      "pub": "Tue, 11 Aug 2026 01:33:22 GMT"
     }
   ]
 }
