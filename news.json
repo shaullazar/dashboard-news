@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T00:39:02.961644+00:00",
+  "updated": "2026-08-11T02:38:26.374984+00:00",
   "colombia": [
     {
       "title": "Colombia hit by 7.4 and 4.8-magnitude twin earthquakes",
@@ -70,6 +70,30 @@
       "pub": "Sat, 15 Aug 2026 11:55:44 GMT"
     },
     {
+      "title": "El empleo formal camina a dos velocidades: Baja California crece mientras Campeche se hunde",
+      "link": "https://expansion.mx/economia/2026/08/10/empleo-formal-julio-2026-imss",
+      "source": "Expansion MX",
+      "pub": "Tue, 11 Aug 2026 02:28:49 GMT"
+    },
+    {
+      "title": "¿Dr. Guali es el “Dr. Simi” de Perú? Las similitudes que hicieron viral a esta farmacia",
+      "link": "https://expansion.mx/tendencias/2026/08/10/dr-guali-es-el-dr-simi-de-peru-las-similitudes-que-hicieron-viral-a-esta-farmacia",
+      "source": "Expansion MX",
+      "pub": "Tue, 11 Aug 2026 01:33:22 GMT"
+    },
+    {
+      "title": "Estadio GNP Seguros: la inversión que lo llevó a convertirse en uno de los mejores del mundo",
+      "link": "https://expansion.mx/tendencias/2026/08/10/estadio-gnp-seguros-inversion-convertirse-uno-mejores-mundo",
+      "source": "Expansion MX",
+      "pub": "Tue, 11 Aug 2026 00:48:26 GMT"
+    },
+    {
+      "title": "La mejor universidad de Latinoamérica cuesta menos que el Tec de Monterrey",
+      "link": "https://expansion.mx/carrera/2026/08/10/mejor-universidad-de-latinoamerica-cuesta-menos-el-tec",
+      "source": "Expansion MX",
+      "pub": "Tue, 11 Aug 2026 00:20:46 GMT"
+    },
+    {
       "title": "Starlink deja de ser una amenaza y se declara rival de las grandes telefónicas",
       "link": "https://expansion.mx/empresas/2026/08/10/starlink-va-clientes-america-movil-telefonicas-internet",
       "source": "Expansion MX",
@@ -98,30 +122,6 @@
       "link": "https://expansion.mx/economia/2026/08/10/aranceles-trump-impacto-empresas-eu",
       "source": "Expansion MX",
       "pub": "Mon, 10 Aug 2026 22:19:30 GMT"
-    },
-    {
-      "title": "Terremoto en Colombia deja 111 muertos, edificios colapsados y cientos de personas afectadas",
-      "link": "https://expansion.mx/mundo/2026/08/10/terremoto-colombia-muertos-zonas-afectadas",
-      "source": "Expansion MX",
-      "pub": "Mon, 10 Aug 2026 22:03:10 GMT"
-    },
-    {
-      "title": "¿Quién es el dueño de las tiendas más baratas de México? El poder detrás de 3B, Neto, Aurrera y Chedraui",
-      "link": "https://expansion.mx/empresas/2026/08/10/duenos-tiendas-baratas-3b-neto-aurrera-chedraui",
-      "source": "Expansion MX",
-      "pub": "Mon, 10 Aug 2026 21:41:06 GMT"
-    },
-    {
-      "title": "De OpenAI a Meta: los incidentes que ponen a prueba la seguridad de los agentes de IA",
-      "link": "https://expansion.mx/tecnologia/2026/08/10/openai-anthropic-meta-agentes-ia-decisiones-seguridad",
-      "source": "Expansion MX",
-      "pub": "Mon, 10 Aug 2026 21:41:02 GMT"
-    },
-    {
-      "title": "Samsung Galaxy A37 vs. A56: ¿qué cambia entre los dos celulares y cuánto cuesta cada uno en México?",
-      "link": "https://expansion.mx/tecnologia/2026/08/10/samsung-galaxy-a37-vs-a56-que-cambia-entre-los-dos-celulares-y-cuanto-cuesta-cada-uno-en-mexico",
-      "source": "Expansion MX",
-      "pub": "Mon, 10 Aug 2026 20:42:39 GMT"
     }
   ]
 }
