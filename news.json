@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T19:36:20.711206+00:00",
+  "updated": "2026-08-12T20:18:53.873279+00:00",
   "colombia": [
     {
       "title": "Colombia hit by 7.4 and 4.8-magnitude twin earthquakes",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "¿Vas a pagar la colegiatura? Revisa las quejas que tiene la escuela ante Profeco antes de inscribir",
+      "link": "https://expansion.mx/finanzas-personales/2026/08/12/como-revisar-quejas-escuela-privada-profeco",
+      "source": "Expansion MX",
+      "pub": "Wed, 12 Aug 2026 18:48:23 GMT"
+    },
+    {
       "title": "Flix, la competencia de ADO y ETN, va por su expansión nacional con alianzas",
       "link": "https://expansion.mx/empresas/2026/08/12/flix-plan-expansion-autobuses-mexico-competir-ado-etn",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/tecnologia/2026/08/12/mexico-clave-renacer-intel-talento-local",
       "source": "Expansion MX",
       "pub": "Wed, 12 Aug 2026 11:55:37 GMT"
-    },
-    {
-      "title": "Volkswagen actualiza Taigun con nueva transmisión y diseño para competir en el mercado de SUV subcompactos",
-      "link": "https://expansion.mx/empresas/2026/08/11/volkswagen-taigun-precio-mexico",
-      "source": "Expansion MX",
-      "pub": "Wed, 12 Aug 2026 02:34:58 GMT"
     }
   ]
 }
