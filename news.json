@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T16:35:31.698076+00:00",
+  "updated": "2026-08-12T17:34:15.936634+00:00",
   "colombia": [
     {
       "title": "Colombia hit by 7.4 and 4.8-magnitude twin earthquakes",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Restaurantes enfrentan alzas de hasta 40% en insumos que presionan sus márgenes ante un menor consumo",
+      "link": "https://expansion.mx/empresas/2026/08/12/restaurantes-alzas-40-insumos-precios-platillos",
+      "source": "Expansion MX",
+      "pub": "Wed, 12 Aug 2026 16:09:32 GMT"
+    },
+    {
       "title": "Google Pixel 11 no sube de precio, pero elimina las opciones de 128 GB de entrada",
       "link": "https://expansion.mx/tecnologia/2026/08/12/google-pixel-11-precio-caracteristicas",
       "source": "Expansion MX",
@@ -77,13 +83,13 @@
     },
     {
       "title": "La relevancia de la gestión de riesgos para la sostenibilidad empresarial",
-      "link": "https://expansion.mx/https:/obras.expansion.mx/opinion/2026/08/12/la-relevancia-de-la-gestion-de-riesgos-para-la-sostenibilidad-empresarial",
+      "link": "https://expansion.mx/opinion/2026/08/12/la-relevancia-de-la-gestion-de-riesgos-para-la-sostenibilidad-empresarial",
       "source": "Expansion MX",
       "pub": "Wed, 12 Aug 2026 12:11:44 GMT"
     },
     {
       "title": "El fin de la burbuja emprendedora: valuaciones reales, 'due diligence' y el retorno a los fundamentos.",
-      "link": "https://expansion.mx/https:/obras.expansion.mx/opinion/2026/08/12/el-fin-de-la-burbuja-emprendedora-valuaciones-reales-due-diligence-y-el-retorno-a-los-fundamentos",
+      "link": "https://expansion.mx/opinion/2026/08/12/el-fin-de-la-burbuja-emprendedora-valuaciones-reales-due-diligence-y-el-retorno-a-los-fundamentos",
       "source": "Expansion MX",
       "pub": "Wed, 12 Aug 2026 12:04:36 GMT"
     },
@@ -100,7 +106,7 @@
       "pub": "Wed, 12 Aug 2026 11:55:37 GMT"
     },
     {
-      "title": "Volkswagen actualiza Taigun con nueva transmisión y diseño para competir en el mercado de SUV subcompactas",
+      "title": "Volkswagen actualiza Taigun con nueva transmisión y diseño para competir en el mercado de SUV subcompactos",
       "link": "https://expansion.mx/empresas/2026/08/11/volkswagen-taigun-precio-mexico",
       "source": "Expansion MX",
       "pub": "Wed, 12 Aug 2026 02:34:58 GMT"
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/carrera/2026/08/11/ia-habilidades-esperan-empresas-mexicanas",
       "source": "Expansion MX",
       "pub": "Wed, 12 Aug 2026 01:04:25 GMT"
-    },
-    {
-      "title": "Equipo infantil de futbol de Tijuana pide ayuda para salir tras terremoto en Colombia",
-      "link": "https://expansion.mx/mundo/2026/08/11/equipo-infantil-futbol-tijuana-ayuda-salir-colombia-sismo",
-      "source": "Expansion MX",
-      "pub": "Tue, 11 Aug 2026 23:54:25 GMT"
     }
   ]
 }
