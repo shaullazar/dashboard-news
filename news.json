@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T23:55:03.479628+00:00",
+  "updated": "2026-08-12T00:52:44.535613+00:00",
   "colombia": [
     {
       "title": "Colombia hit by 7.4 and 4.8-magnitude twin earthquakes",
@@ -64,10 +64,28 @@
   ],
   "mexico": [
     {
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "link": "https://expansion.mx/mundo/2026/08/15/abelardo-de-la-espriella-cambia-la-paz-total-de-petro-por-una-politica-de-mano-dura-en-colombia",
+      "title": "Del imperio de Garza Sada a una institución nacional: quién controla al Tec de Monterrey",
+      "link": "https://expansion.mx/empresas/2026/08/11/historia-tec-de-monterrey-eugenio-garza-sada-dueno",
       "source": "Expansion MX",
-      "pub": "Sat, 15 Aug 2026 11:55:44 GMT"
+      "pub": "Tue, 11 Aug 2026 23:40:20 GMT"
+    },
+    {
+      "title": "Prohibir redes sociales a infancias violaría la Constitución, advierten analistas",
+      "link": "https://expansion.mx/tecnologia/2026/08/11/prohibir-redes-sociales-ninos-adolescentes-constitucion",
+      "source": "Expansion MX",
+      "pub": "Tue, 11 Aug 2026 23:00:33 GMT"
+    },
+    {
+      "title": "De Chevrolet a Kia: los autos eléctricos que ya se fabrican en México y cuánto cuestan en 2026",
+      "link": "https://expansion.mx/empresas/2026/08/11/autos-electricos-fabricados-mexico-2026",
+      "source": "Expansion MX",
+      "pub": "Tue, 11 Aug 2026 22:48:28 GMT"
+    },
+    {
+      "title": "Pemex quema casi una quinta parte del gas que produce en medio de la dependencia de EU",
+      "link": "https://expansion.mx/empresas/2026/08/11/mexico-importa-70-gas-natural-pemex-quema-produce",
+      "source": "Expansion MX",
+      "pub": "Tue, 11 Aug 2026 22:34:39 GMT"
     },
     {
       "title": "Spotify etiquetará a los artistas creados con IA para distinguirlos de personas reales",
@@ -104,24 +122,6 @@
       "link": "https://expansion.mx/mercadotecnia/2026/08/11/ia-agencias-publicidad-pone-jaque-modelo-cobro",
       "source": "Expansion MX",
       "pub": "Tue, 11 Aug 2026 19:28:29 GMT"
-    },
-    {
-      "title": "Desastres naturales cuestan 100,000 mdd al mundo; terremoto de Venezuela lidera",
-      "link": "https://expansion.mx/economia/2026/08/11/swissre-perdidas-economicas-catastrofes-naturales-costo",
-      "source": "Expansion MX",
-      "pub": "Tue, 11 Aug 2026 19:05:49 GMT"
-    },
-    {
-      "title": "SPEI mueve 600 billones de pesos y va por el trono de las tarjetas",
-      "link": "https://expansion.mx/economia/2026/08/11/transferencias-spei-superan-pago-tarjetas-mexico",
-      "source": "Expansion MX",
-      "pub": "Tue, 11 Aug 2026 18:42:14 GMT"
-    },
-    {
-      "title": "Carlos Slim compró estas fábricas en CDMX y las convirtió en plazas comerciales que hoy son parte de su imperio",
-      "link": "https://expansion.mx/empresas/2026/08/11/terrenos-de-carlos-slim-pertenecieron-hernan-cortes-plazas",
-      "source": "Expansion MX",
-      "pub": "Tue, 11 Aug 2026 18:23:40 GMT"
     }
   ]
 }
