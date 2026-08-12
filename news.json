@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T06:19:14.187298+00:00",
+  "updated": "2026-08-12T07:55:13.001841+00:00",
   "colombia": [
     {
       "title": "Colombia hit by 7.4 and 4.8-magnitude twin earthquakes",
@@ -64,24 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Volkswagen actualiza Taigun con nueva transmisión y diseño para competir en el mercado de SUV subcompactas",
-      "link": "https://expansion.mx/empresas/2026/08/11/volkswagen-taigun-precio-mexico",
-      "source": "Expansion MX",
-      "pub": "Wed, 12 Aug 2026 02:34:58 GMT"
-    },
-    {
-      "title": "¿Cuándo son las elecciones intermedias de Estados Unidos 2026?",
-      "link": "https://expansion.mx/mundo/2026/08/11/cuando-son-elecciones-intermedias-estados-unidos-2026",
-      "source": "Expansion MX",
-      "pub": "Wed, 12 Aug 2026 01:09:54 GMT"
-    },
-    {
-      "title": "Más allá de la IA: estas son las habilidades que las empresas consideran esenciales",
-      "link": "https://expansion.mx/carrera/2026/08/11/ia-habilidades-esperan-empresas-mexicanas",
-      "source": "Expansion MX",
-      "pub": "Wed, 12 Aug 2026 01:04:25 GMT"
-    },
-    {
       "title": "Equipo infantil de futbol de Tijuana pide ayuda para salir tras terremoto en Colombia",
       "link": "https://expansion.mx/mundo/2026/08/11/equipo-infantil-futbol-tijuana-ayuda-salir-colombia-sismo",
       "source": "Expansion MX",
@@ -122,6 +104,24 @@
       "link": "https://expansion.mx/economia/2026/08/11/mexico-antidumping-europa-insumos-plasticos",
       "source": "Expansion MX",
       "pub": "Tue, 11 Aug 2026 21:47:46 GMT"
+    },
+    {
+      "title": "La IA amenaza el primer empleo formal de 3 millones de mexicanos",
+      "link": "https://expansion.mx/economia/2026/08/11/ia-amenaza-primer-empleo-formal-jovenes-mexico",
+      "source": "Expansion MX",
+      "pub": "Tue, 11 Aug 2026 21:47:07 GMT"
+    },
+    {
+      "title": "¿Cuándo puedes pagar impuestos por tus ahorros en Cajitas de Nu? Esto debes saber sobre el ISR",
+      "link": "https://expansion.mx/finanzas-personales/2026/08/11/cajitas-nu-pagan-isr-nubank",
+      "source": "Expansion MX",
+      "pub": "Tue, 11 Aug 2026 20:35:02 GMT"
+    },
+    {
+      "title": "Sony y TSMC invertirán 4,700 millones de dólares en sensores de imagen de nueva generación",
+      "link": "https://expansion.mx/tecnologia/2026/08/11/sony-tsmc-invertiran-4700-millones-sensores-imagen",
+      "source": "Expansion MX",
+      "pub": "Tue, 11 Aug 2026 19:45:35 GMT"
     }
   ]
 }
