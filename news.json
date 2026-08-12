@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T21:06:06.742715+00:00",
+  "updated": "2026-08-12T21:56:25.742215+00:00",
   "colombia": [
     {
       "title": "Colombia hit by 7.4 and 4.8-magnitude twin earthquakes",
@@ -64,6 +64,24 @@
   ],
   "mexico": [
     {
+      "title": "Subaru prepara la llegada de su primer SUV eléctrico a México",
+      "link": "https://expansion.mx/tendencias/2026/08/12/subaru-prepara-la-llegada-de-su-primer-suv-electrico-a-mexico",
+      "source": "Expansion MX",
+      "pub": "Wed, 12 Aug 2026 21:04:43 GMT"
+    },
+    {
+      "title": "Citi anticipa que los ajustes al gasto público definan Paquete Económico de 2027",
+      "link": "https://expansion.mx/economia/2026/08/12/citi-ajustes-gasto-publico-paquete-economico-2027",
+      "source": "Expansion MX",
+      "pub": "Wed, 12 Aug 2026 20:44:55 GMT"
+    },
+    {
+      "title": "BYD Racco, el auto eléctrico de Japón que recuerda a Olinia por su tamaño y enfoque urbano",
+      "link": "https://expansion.mx/empresas/2026/08/12/byd-racco-electrico-parecido-olinia-tamano-urbano",
+      "source": "Expansion MX",
+      "pub": "Wed, 12 Aug 2026 20:31:37 GMT"
+    },
+    {
       "title": "EU alista un “pasaporte digital” para vigilar el comercio de chips y minerales en el Canal de Panamá",
       "link": "https://expansion.mx/economia/2026/08/12/eu-rastreara-chips-minerales-canal-panama",
       "source": "Expansion MX",
@@ -104,24 +122,6 @@
       "link": "https://expansion.mx/mundo/2026/08/12/daniela-rescatada-escombros-terremoto-colombia",
       "source": "Expansion MX",
       "pub": "Wed, 12 Aug 2026 13:45:48 GMT"
-    },
-    {
-      "title": "La relevancia de la gestión de riesgos para la sostenibilidad empresarial",
-      "link": "https://expansion.mx/opinion/2026/08/12/la-relevancia-de-la-gestion-de-riesgos-para-la-sostenibilidad-empresarial",
-      "source": "Expansion MX",
-      "pub": "Wed, 12 Aug 2026 12:11:44 GMT"
-    },
-    {
-      "title": "El fin de la burbuja emprendedora: valuaciones reales, 'due diligence' y el retorno a los fundamentos.",
-      "link": "https://expansion.mx/opinion/2026/08/12/el-fin-de-la-burbuja-emprendedora-valuaciones-reales-due-diligence-y-el-retorno-a-los-fundamentos",
-      "source": "Expansion MX",
-      "pub": "Wed, 12 Aug 2026 12:04:36 GMT"
-    },
-    {
-      "title": "La informalidad en México tiene un potencial recaudatorio de hasta 1.42 billones de pesos",
-      "link": "https://expansion.mx/economia/2026/08/12/mexico-busca-ingresos-informalidad-billones-pesos",
-      "source": "Expansion MX",
-      "pub": "Wed, 12 Aug 2026 11:56:39 GMT"
     }
   ]
 }
