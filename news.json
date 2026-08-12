@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T14:52:41.092084+00:00",
+  "updated": "2026-08-12T15:43:36.190993+00:00",
   "colombia": [
     {
       "title": "Colombia hit by 7.4 and 4.8-magnitude twin earthquakes",
@@ -64,30 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "La relevancia de la gestión de riesgos para la sostenibilidad empresarial",
-      "link": "https://expansion.mx/https:/obras.expansion.mx/opinion/2026/08/12/la-relevancia-de-la-gestion-de-riesgos-para-la-sostenibilidad-empresarial",
-      "source": "Expansion MX",
-      "pub": "Wed, 12 Aug 2026 12:11:44 GMT"
-    },
-    {
-      "title": "El fin de la burbuja emprendedora: valuaciones reales, 'due diligence' y el retorno a los fundamentos.",
-      "link": "https://expansion.mx/https:/obras.expansion.mx/opinion/2026/08/12/el-fin-de-la-burbuja-emprendedora-valuaciones-reales-due-diligence-y-el-retorno-a-los-fundamentos",
-      "source": "Expansion MX",
-      "pub": "Wed, 12 Aug 2026 12:04:36 GMT"
-    },
-    {
-      "title": "La informalidad en México tiene un potencial recaudatorio de hasta 1.42 billones de pesos",
-      "link": "https://expansion.mx/economia/2026/08/12/mexico-busca-ingresos-informalidad-billones-pesos",
-      "source": "Expansion MX",
-      "pub": "Wed, 12 Aug 2026 11:56:39 GMT"
-    },
-    {
-      "title": "El renacer de Intel se diseña en México: el talento local impulsa el futuro de IA en EU",
-      "link": "https://expansion.mx/tecnologia/2026/08/12/mexico-clave-renacer-intel-talento-local",
-      "source": "Expansion MX",
-      "pub": "Wed, 12 Aug 2026 11:55:37 GMT"
-    },
-    {
       "title": "Volkswagen actualiza Taigun con nueva transmisión y diseño para competir en el mercado de SUV subcompactas",
       "link": "https://expansion.mx/empresas/2026/08/11/volkswagen-taigun-precio-mexico",
       "source": "Expansion MX",
@@ -122,6 +98,30 @@
       "link": "https://expansion.mx/tecnologia/2026/08/11/prohibir-redes-sociales-ninos-adolescentes-constitucion",
       "source": "Expansion MX",
       "pub": "Tue, 11 Aug 2026 23:00:33 GMT"
+    },
+    {
+      "title": "De Chevrolet a Kia: los autos eléctricos que ya se fabrican en México y cuánto cuestan en 2026",
+      "link": "https://expansion.mx/empresas/2026/08/11/autos-electricos-fabricados-mexico-2026",
+      "source": "Expansion MX",
+      "pub": "Tue, 11 Aug 2026 22:48:28 GMT"
+    },
+    {
+      "title": "Pemex quema casi una quinta parte del gas que produce en medio de la dependencia de EU",
+      "link": "https://expansion.mx/empresas/2026/08/11/mexico-importa-70-gas-natural-pemex-quema-produce",
+      "source": "Expansion MX",
+      "pub": "Tue, 11 Aug 2026 22:34:39 GMT"
+    },
+    {
+      "title": "Spotify etiquetará a los artistas creados con IA para distinguirlos de personas reales",
+      "link": "https://expansion.mx/tecnologia/2026/08/11/spotify-etiquetara-artistas-creados-con-ia",
+      "source": "Expansion MX",
+      "pub": "Tue, 11 Aug 2026 22:18:47 GMT"
+    },
+    {
+      "title": "México encara dos medidas antidumping en Europa por insumos para plásticos",
+      "link": "https://expansion.mx/economia/2026/08/11/mexico-antidumping-europa-insumos-plasticos",
+      "source": "Expansion MX",
+      "pub": "Tue, 11 Aug 2026 21:47:46 GMT"
     }
   ]
 }
