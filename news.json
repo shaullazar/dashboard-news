@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T21:56:25.742215+00:00",
+  "updated": "2026-08-12T22:30:43.111057+00:00",
   "colombia": [
     {
       "title": "Colombia hit by 7.4 and 4.8-magnitude twin earthquakes",
@@ -64,54 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Subaru prepara la llegada de su primer SUV eléctrico a México",
-      "link": "https://expansion.mx/tendencias/2026/08/12/subaru-prepara-la-llegada-de-su-primer-suv-electrico-a-mexico",
-      "source": "Expansion MX",
-      "pub": "Wed, 12 Aug 2026 21:04:43 GMT"
-    },
-    {
-      "title": "Citi anticipa que los ajustes al gasto público definan Paquete Económico de 2027",
-      "link": "https://expansion.mx/economia/2026/08/12/citi-ajustes-gasto-publico-paquete-economico-2027",
-      "source": "Expansion MX",
-      "pub": "Wed, 12 Aug 2026 20:44:55 GMT"
-    },
-    {
-      "title": "BYD Racco, el auto eléctrico de Japón que recuerda a Olinia por su tamaño y enfoque urbano",
-      "link": "https://expansion.mx/empresas/2026/08/12/byd-racco-electrico-parecido-olinia-tamano-urbano",
-      "source": "Expansion MX",
-      "pub": "Wed, 12 Aug 2026 20:31:37 GMT"
-    },
-    {
-      "title": "EU alista un “pasaporte digital” para vigilar el comercio de chips y minerales en el Canal de Panamá",
-      "link": "https://expansion.mx/economia/2026/08/12/eu-rastreara-chips-minerales-canal-panama",
-      "source": "Expansion MX",
-      "pub": "Wed, 12 Aug 2026 20:13:51 GMT"
-    },
-    {
-      "title": "¿Vas a pagar la colegiatura? Revisa las quejas que tiene la escuela ante Profeco antes de inscribir",
-      "link": "https://expansion.mx/finanzas-personales/2026/08/12/como-revisar-quejas-escuela-privada-profeco",
-      "source": "Expansion MX",
-      "pub": "Wed, 12 Aug 2026 18:48:23 GMT"
-    },
-    {
-      "title": "Flix, la competencia de ADO y ETN, va por su expansión nacional con alianzas",
-      "link": "https://expansion.mx/empresas/2026/08/12/flix-plan-expansion-autobuses-mexico-competir-ado-etn",
-      "source": "Expansion MX",
-      "pub": "Wed, 12 Aug 2026 17:40:43 GMT"
-    },
-    {
-      "title": "Gemini alcanza los 1,000 millones de usuarios",
-      "link": "https://expansion.mx/tecnologia/2026/08/12/gemini-alcanza-1-000-millones-usuarios",
-      "source": "Expansion MX",
-      "pub": "Wed, 12 Aug 2026 17:28:34 GMT"
-    },
-    {
-      "title": "Restaurantes enfrentan alzas de hasta 40% en insumos que presionan sus márgenes ante un menor consumo",
-      "link": "https://expansion.mx/empresas/2026/08/12/restaurantes-alzas-40-insumos-precios-platillos",
-      "source": "Expansion MX",
-      "pub": "Wed, 12 Aug 2026 16:09:32 GMT"
-    },
-    {
       "title": "Google Pixel 11 no sube de precio, pero elimina las opciones de 128 GB de entrada",
       "link": "https://expansion.mx/tecnologia/2026/08/12/google-pixel-11-precio-caracteristicas",
       "source": "Expansion MX",
@@ -122,6 +74,54 @@
       "link": "https://expansion.mx/mundo/2026/08/12/daniela-rescatada-escombros-terremoto-colombia",
       "source": "Expansion MX",
       "pub": "Wed, 12 Aug 2026 13:45:48 GMT"
+    },
+    {
+      "title": "La relevancia de la gestión de riesgos para la sostenibilidad empresarial",
+      "link": "https://expansion.mx/opinion/2026/08/12/la-relevancia-de-la-gestion-de-riesgos-para-la-sostenibilidad-empresarial",
+      "source": "Expansion MX",
+      "pub": "Wed, 12 Aug 2026 12:11:44 GMT"
+    },
+    {
+      "title": "El fin de la burbuja emprendedora: valuaciones reales, 'due diligence' y el retorno a los fundamentos.",
+      "link": "https://expansion.mx/opinion/2026/08/12/el-fin-de-la-burbuja-emprendedora-valuaciones-reales-due-diligence-y-el-retorno-a-los-fundamentos",
+      "source": "Expansion MX",
+      "pub": "Wed, 12 Aug 2026 12:04:36 GMT"
+    },
+    {
+      "title": "La informalidad en México tiene un potencial recaudatorio de hasta 1.42 billones de pesos",
+      "link": "https://expansion.mx/economia/2026/08/12/mexico-busca-ingresos-informalidad-billones-pesos",
+      "source": "Expansion MX",
+      "pub": "Wed, 12 Aug 2026 11:56:39 GMT"
+    },
+    {
+      "title": "El renacer de Intel se diseña en México: el talento local impulsa el futuro de IA en EU",
+      "link": "https://expansion.mx/tecnologia/2026/08/12/mexico-clave-renacer-intel-talento-local",
+      "source": "Expansion MX",
+      "pub": "Wed, 12 Aug 2026 11:55:37 GMT"
+    },
+    {
+      "title": "Volkswagen actualiza Taigun con nueva transmisión y diseño para competir en el mercado de SUV subcompactos",
+      "link": "https://expansion.mx/empresas/2026/08/11/volkswagen-taigun-precio-mexico",
+      "source": "Expansion MX",
+      "pub": "Wed, 12 Aug 2026 02:34:58 GMT"
+    },
+    {
+      "title": "¿Cuándo son las elecciones intermedias de Estados Unidos 2026?",
+      "link": "https://expansion.mx/mundo/2026/08/11/cuando-son-elecciones-intermedias-estados-unidos-2026",
+      "source": "Expansion MX",
+      "pub": "Wed, 12 Aug 2026 01:09:54 GMT"
+    },
+    {
+      "title": "Más allá de la IA: estas son las habilidades que las empresas consideran esenciales",
+      "link": "https://expansion.mx/carrera/2026/08/11/ia-habilidades-esperan-empresas-mexicanas",
+      "source": "Expansion MX",
+      "pub": "Wed, 12 Aug 2026 01:04:25 GMT"
+    },
+    {
+      "title": "Equipo infantil de futbol de Tijuana pide ayuda para salir tras terremoto en Colombia",
+      "link": "https://expansion.mx/mundo/2026/08/11/equipo-infantil-futbol-tijuana-ayuda-salir-colombia-sismo",
+      "source": "Expansion MX",
+      "pub": "Tue, 11 Aug 2026 23:54:25 GMT"
     }
   ]
 }
