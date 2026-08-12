@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T20:18:53.873279+00:00",
+  "updated": "2026-08-12T21:06:06.742715+00:00",
   "colombia": [
     {
       "title": "Colombia hit by 7.4 and 4.8-magnitude twin earthquakes",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "EU alista un “pasaporte digital” para vigilar el comercio de chips y minerales en el Canal de Panamá",
+      "link": "https://expansion.mx/economia/2026/08/12/eu-rastreara-chips-minerales-canal-panama",
+      "source": "Expansion MX",
+      "pub": "Wed, 12 Aug 2026 20:13:51 GMT"
+    },
+    {
       "title": "¿Vas a pagar la colegiatura? Revisa las quejas que tiene la escuela ante Profeco antes de inscribir",
       "link": "https://expansion.mx/finanzas-personales/2026/08/12/como-revisar-quejas-escuela-privada-profeco",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/economia/2026/08/12/mexico-busca-ingresos-informalidad-billones-pesos",
       "source": "Expansion MX",
       "pub": "Wed, 12 Aug 2026 11:56:39 GMT"
-    },
-    {
-      "title": "El renacer de Intel se diseña en México: el talento local impulsa el futuro de IA en EU",
-      "link": "https://expansion.mx/tecnologia/2026/08/12/mexico-clave-renacer-intel-talento-local",
-      "source": "Expansion MX",
-      "pub": "Wed, 12 Aug 2026 11:55:37 GMT"
     }
   ]
 }
