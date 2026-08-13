@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T20:54:39.124813+00:00",
+  "updated": "2026-08-13T21:31:37.431478+00:00",
   "colombia": [
     {
       "title": "Colombia hit by 7.4 and 4.8-magnitude twin earthquakes",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "FEMSA quiere destronar a Tiendas 3B: Bara, el “primo” de Oxxo, acelera su expansión en México",
+      "link": "https://expansion.mx/empresas/2026/08/13/femsa-bara-primo-de-oxxo-que-compite-tiendas-3b",
+      "source": "Expansion MX",
+      "pub": "Thu, 13 Aug 2026 21:01:29 GMT"
+    },
+    {
+      "title": "Los trabajadores de SK Hynix crean un sindicato y van por su parte del negocio de la IA",
+      "link": "https://expansion.mx/tecnologia/2026/08/13/trabajadores-sk-hynix-sindicato-ganancias-chips-ia",
+      "source": "Expansion MX",
+      "pub": "Thu, 13 Aug 2026 19:34:14 GMT"
+    },
+    {
       "title": "El 15 de agosto es la fecha límite del registro de celular: qué líneas podrían quedar sin servicio",
       "link": "https://expansion.mx/empresas/2026/08/13/15-agosto-fecha-limite-regisro-linea-celular",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/opinion/2026/08/13/la-tecnologia-no-necesita-mas-innovacion-necesita-menos-complejidad",
       "source": "Expansion MX",
       "pub": "Thu, 13 Aug 2026 12:09:32 GMT"
-    },
-    {
-      "title": "Antes de los beneficios, la factura: el reto financiero de la IA",
-      "link": "https://expansion.mx/opinion/2026/08/13/antes-de-los-beneficios-la-factura-el-reto-financiero-de-la-ia",
-      "source": "Expansion MX",
-      "pub": "Thu, 13 Aug 2026 12:08:32 GMT"
-    },
-    {
-      "title": "México domina envíos a EU por 298,000 mdd, pero Taiwán y Vietnam le acortan distancia",
-      "link": "https://expansion.mx/economia/2026/08/13/mexico-domina-ventas-eu-taiwan-vietnam-aceleran",
-      "source": "Expansion MX",
-      "pub": "Thu, 13 Aug 2026 11:55:48 GMT"
     }
   ]
 }
