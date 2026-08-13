@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T15:34:11.372127+00:00",
+  "updated": "2026-08-13T16:28:01.936345+00:00",
   "colombia": [
     {
       "title": "Colombia hit by 7.4 and 4.8-magnitude twin earthquakes",
@@ -64,6 +64,42 @@
   ],
   "mexico": [
     {
+      "title": "Colombia llega al límite de las 72 horas tras terremoto: 265 muertos y 500 desaparecidos bajo escombros",
+      "link": "https://expansion.mx/mundo/2026/08/13/terremoto-colombia-265-muertos-500-desaparecidos",
+      "source": "Expansion MX",
+      "pub": "Thu, 13 Aug 2026 13:44:25 GMT"
+    },
+    {
+      "title": "La tecnología no necesita más innovación; necesita menos complejidad",
+      "link": "https://expansion.mx/opinion/2026/08/13/la-tecnologia-no-necesita-mas-innovacion-necesita-menos-complejidad",
+      "source": "Expansion MX",
+      "pub": "Thu, 13 Aug 2026 12:09:32 GMT"
+    },
+    {
+      "title": "Antes de los beneficios, la factura: el reto financiero de la IA",
+      "link": "https://expansion.mx/opinion/2026/08/13/antes-de-los-beneficios-la-factura-el-reto-financiero-de-la-ia",
+      "source": "Expansion MX",
+      "pub": "Thu, 13 Aug 2026 12:08:32 GMT"
+    },
+    {
+      "title": "México domina envíos a EU por 298,000 mdd, pero Taiwán y Vietnam le acortan distancia",
+      "link": "https://expansion.mx/economia/2026/08/13/mexico-domina-ventas-eu-taiwan-vietnam-aceleran",
+      "source": "Expansion MX",
+      "pub": "Thu, 13 Aug 2026 11:55:48 GMT"
+    },
+    {
+      "title": "“La cautela no debe interpretarse como una salida de inversión”, señala el presidente del Consejo de Empresas Globales",
+      "link": "https://expansion.mx/empresas/2026/08/13/la-cautela-no-debe-interpretarse-como-una-salida-de-inversion-senala-el-presidente-del-consejo-de-empresas-globales",
+      "source": "Expansion MX",
+      "pub": "Thu, 13 Aug 2026 11:55:46 GMT"
+    },
+    {
+      "title": "Los NFT generan 24 mdd en el Mundial tras el colapso del mercado",
+      "link": "https://expansion.mx/tecnologia/2026/08/13/mundial-2026-revivio-nft-y-genero-24-mdd",
+      "source": "Expansion MX",
+      "pub": "Thu, 13 Aug 2026 11:55:30 GMT"
+    },
+    {
       "title": "Economistas se unen para plantear a Hacienda cómo acelerar el crecimiento de México",
       "link": "https://expansion.mx/economia/2026/08/12/economistas-propuestas-crecimiento-mexico-hacienda-2027",
       "source": "Expansion MX",
@@ -86,42 +122,6 @@
       "link": "https://expansion.mx/finanzas-personales/2026/08/12/huelga-monte-de-piedad-que-pasa-con-empenos-ya-pagados",
       "source": "Expansion MX",
       "pub": "Wed, 12 Aug 2026 23:35:38 GMT"
-    },
-    {
-      "title": "Colombia niega rechazo de ayuda internacional, pero solo recibe apoyo de EUA, Israel, El Salvador y Ecuador",
-      "link": "https://expansion.mx/mundo/2026/08/12/colombia-niega-rechazo-ayuda-internacional",
-      "source": "Expansion MX",
-      "pub": "Wed, 12 Aug 2026 23:10:36 GMT"
-    },
-    {
-      "title": "No solo gas: especialistas proponen incluir petróleo en la estrategia de fracking en México",
-      "link": "https://expansion.mx/empresas/2026/08/12/no-solo-gas-especialistas-proponen-incluir-petroleo-en-la-estrategia-de-fracking-en-mexico",
-      "source": "Expansion MX",
-      "pub": "Wed, 12 Aug 2026 22:57:45 GMT"
-    },
-    {
-      "title": "Mexicana vs. Volaris y Viva: ¿cómo compite la aerolínea estatal por los pasajeros de bajo costo?",
-      "link": "https://expansion.mx/empresas/2026/08/12/mexicana-vs-volaris-y-viva-que-aerolinea-tiene-mas-vuelos",
-      "source": "Expansion MX",
-      "pub": "Wed, 12 Aug 2026 22:47:00 GMT"
-    },
-    {
-      "title": "De Android a iPhone, por qué el USB-C terminó ganando la batalla de los cargadores",
-      "link": "https://expansion.mx/tecnologia/2026/08/12/por-que-usb-c-es-cargador-android-iphone",
-      "source": "Expansion MX",
-      "pub": "Wed, 12 Aug 2026 22:46:28 GMT"
-    },
-    {
-      "title": "¿Cuánto ha aumentado la pensión del IMSS con Ley 73? La cifra que reciben los jubilados en 2026",
-      "link": "https://expansion.mx/finanzas-personales/2026/08/12/cuanto-aumentado-pension-imss-ley-73-cifra-jubilados-2026",
-      "source": "Expansion MX",
-      "pub": "Wed, 12 Aug 2026 22:19:12 GMT"
-    },
-    {
-      "title": "No todo son ganancias para Carlos Slim: sus empresas también registran miles de millones en impuestos",
-      "link": "https://expansion.mx/empresas/2026/08/12/carlos-slim-gana-millones-empresas-pagan-impuestos",
-      "source": "Expansion MX",
-      "pub": "Wed, 12 Aug 2026 21:57:11 GMT"
     }
   ]
 }
