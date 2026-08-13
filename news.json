@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T03:31:17.949335+00:00",
+  "updated": "2026-08-13T05:18:11.698657+00:00",
   "colombia": [
     {
       "title": "Colombia hit by 7.4 and 4.8-magnitude twin earthquakes",
@@ -64,8 +64,38 @@
   ],
   "mexico": [
     {
-      "title": "No solo gas: especialistas proponen incluir petróleo en la estrategia de vacunación fracking en México",
-      "link": "https://expansion.mx/empresas/2026/08/12/no-solo-gas-especialistas-proponen-incluir-petroleo-en-la-estrategia-de-vacunacion-fracking-en-mexico",
+      "title": "Economistas se unen para plantear a Hacienda cómo acelerar el crecimiento de México",
+      "link": "https://expansion.mx/economia/2026/08/12/economistas-propuestas-crecimiento-mexico-hacienda-2027",
+      "source": "Expansion MX",
+      "pub": "Thu, 13 Aug 2026 00:40:45 GMT"
+    },
+    {
+      "title": "UBS ve al origen del capital como el nuevo filtro del T-MEC",
+      "link": "https://expansion.mx/economia/2026/08/12/ubs-t-mec-origen-capital-inversion-china-mexico",
+      "source": "Expansion MX",
+      "pub": "Thu, 13 Aug 2026 00:15:59 GMT"
+    },
+    {
+      "title": "México cuestiona el criterio con el que EU prepara nuevos aranceles por sobrecapacidad",
+      "link": "https://expansion.mx/economia/2026/08/12/mexico-cuestiona-aranceles-eu-sobrecapacidad",
+      "source": "Expansion MX",
+      "pub": "Wed, 12 Aug 2026 23:57:51 GMT"
+    },
+    {
+      "title": "A casi un año de huelga, Monte de Piedad explica qué pasa con las prendas de empeños ya pagados",
+      "link": "https://expansion.mx/finanzas-personales/2026/08/12/huelga-monte-de-piedad-que-pasa-con-empenos-ya-pagados",
+      "source": "Expansion MX",
+      "pub": "Wed, 12 Aug 2026 23:35:38 GMT"
+    },
+    {
+      "title": "Colombia niega rechazo de ayuda internacional, pero solo recibe apoyo de EUA, Israel, El Salvador y Ecuador",
+      "link": "https://expansion.mx/mundo/2026/08/12/colombia-niega-rechazo-ayuda-internacional",
+      "source": "Expansion MX",
+      "pub": "Wed, 12 Aug 2026 23:10:36 GMT"
+    },
+    {
+      "title": "No solo gas: especialistas proponen incluir petróleo en la estrategia de fracking en México",
+      "link": "https://expansion.mx/empresas/2026/08/12/no-solo-gas-especialistas-proponen-incluir-petroleo-en-la-estrategia-de-fracking-en-mexico",
       "source": "Expansion MX",
       "pub": "Wed, 12 Aug 2026 22:57:45 GMT"
     },
@@ -92,36 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/08/12/carlos-slim-gana-millones-empresas-pagan-impuestos",
       "source": "Expansion MX",
       "pub": "Wed, 12 Aug 2026 21:57:11 GMT"
-    },
-    {
-      "title": "Las juntas después de las 8 de la noche aumentan 16%: la hiperconectividad borra el fin de la jornada laboral",
-      "link": "https://expansion.mx/carrera/2026/08/12/hiperconectividad-mensajes-fuera-horario-burnout-digital",
-      "source": "Expansion MX",
-      "pub": "Wed, 12 Aug 2026 21:49:29 GMT"
-    },
-    {
-      "title": "Nos pagan 6 pesos por paquete”: la experiencia real de convertir una tiendita en punto Mercado Libre",
-      "link": "https://expansion.mx/tecnologia/2026/08/12/mercado-libre-nos-da-6-pesos-por-paquete-tienditas",
-      "source": "Expansion MX",
-      "pub": "Wed, 12 Aug 2026 21:35:42 GMT"
-    },
-    {
-      "title": "Subaru prepara la llegada de su primer SUV eléctrico a México",
-      "link": "https://expansion.mx/tendencias/2026/08/12/subaru-prepara-la-llegada-de-su-primer-suv-electrico-a-mexico",
-      "source": "Expansion MX",
-      "pub": "Wed, 12 Aug 2026 21:04:43 GMT"
-    },
-    {
-      "title": "Citi anticipa que los ajustes al gasto público definan Paquete Económico de 2027",
-      "link": "https://expansion.mx/economia/2026/08/12/citi-ajustes-gasto-publico-paquete-economico-2027",
-      "source": "Expansion MX",
-      "pub": "Wed, 12 Aug 2026 20:44:55 GMT"
-    },
-    {
-      "title": "BYD Racco, el auto eléctrico de Japón que recuerda a Olinia por su tamaño y enfoque urbano",
-      "link": "https://expansion.mx/empresas/2026/08/12/byd-racco-electrico-parecido-olinia-tamano-urbano",
-      "source": "Expansion MX",
-      "pub": "Wed, 12 Aug 2026 20:31:37 GMT"
     }
   ]
 }
