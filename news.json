@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T17:27:16.639750+00:00",
+  "updated": "2026-08-13T18:24:20.015473+00:00",
   "colombia": [
     {
       "title": "Colombia hit by 7.4 and 4.8-magnitude twin earthquakes",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Carlos Slim compró estas fábricas en CDMX y las convirtió en plazas comerciales que hoy son parte de su imperio",
+      "link": "https://expansion.mx/empresas/2026/08/13/terrenos-de-carlos-slim-pertenecieron-hernan-cortes-plazas",
+      "source": "Expansion MX",
+      "pub": "Thu, 13 Aug 2026 16:59:40 GMT"
+    },
+    {
       "title": "México enciende las alertas por El Niño: hay 69% de probabilidad de un fenómeno histórico en 2026",
       "link": "https://expansion.mx/mundo/2026/08/13/super-nino-alertas-mexico-fenomeno-historico-2026",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/economia/2026/08/12/ubs-t-mec-origen-capital-inversion-china-mexico",
       "source": "Expansion MX",
       "pub": "Thu, 13 Aug 2026 00:15:59 GMT"
-    },
-    {
-      "title": "México cuestiona el criterio con el que EU prepara nuevos aranceles por sobrecapacidad",
-      "link": "https://expansion.mx/economia/2026/08/12/mexico-cuestiona-aranceles-eu-sobrecapacidad",
-      "source": "Expansion MX",
-      "pub": "Wed, 12 Aug 2026 23:57:51 GMT"
     }
   ]
 }
