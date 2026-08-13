@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T20:04:35.086129+00:00",
+  "updated": "2026-08-13T20:54:39.124813+00:00",
   "colombia": [
     {
       "title": "Colombia hit by 7.4 and 4.8-magnitude twin earthquakes",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "El 15 de agosto es la fecha límite del registro de celular: qué líneas podrían quedar sin servicio",
+      "link": "https://expansion.mx/empresas/2026/08/13/15-agosto-fecha-limite-regisro-linea-celular",
+      "source": "Expansion MX",
+      "pub": "Thu, 13 Aug 2026 19:19:44 GMT"
+    },
+    {
+      "title": "Seis SUVs que puedes comprar en México por menos de 600,000 pesos",
+      "link": "https://expansion.mx/empresas/2026/08/13/seis-suv-por-menos-600-000-pesos-mexico",
+      "source": "Expansion MX",
+      "pub": "Thu, 13 Aug 2026 19:02:50 GMT"
+    },
+    {
+      "title": "EU acusa triangulación de mercancías chinas vía México para esquivar aranceles",
+      "link": "https://expansion.mx/economia/2026/08/13/mexico-triangulacion-productos-china-eu",
+      "source": "Expansion MX",
+      "pub": "Thu, 13 Aug 2026 18:40:37 GMT"
+    },
+    {
+      "title": "El meme de Shakira que Epson convirtió en campaña 29 años después",
+      "link": "https://expansion.mx/mercadotecnia/2026/08/13/epson-isla-revive-meme-shakira-computadora",
+      "source": "Expansion MX",
+      "pub": "Thu, 13 Aug 2026 18:34:18 GMT"
+    },
+    {
       "title": "Carlos Slim compró estas fábricas en CDMX y las convirtió en plazas comerciales que hoy son parte de su imperio",
       "link": "https://expansion.mx/empresas/2026/08/13/terrenos-de-carlos-slim-pertenecieron-hernan-cortes-plazas",
       "source": "Expansion MX",
@@ -98,30 +122,6 @@
       "link": "https://expansion.mx/economia/2026/08/13/mexico-domina-ventas-eu-taiwan-vietnam-aceleran",
       "source": "Expansion MX",
       "pub": "Thu, 13 Aug 2026 11:55:48 GMT"
-    },
-    {
-      "title": "“La cautela no debe interpretarse como una salida de inversión”, señala el presidente del Consejo de Empresas Globales",
-      "link": "https://expansion.mx/empresas/2026/08/13/la-cautela-no-debe-interpretarse-como-una-salida-de-inversion-senala-el-presidente-del-consejo-de-empresas-globales",
-      "source": "Expansion MX",
-      "pub": "Thu, 13 Aug 2026 11:55:46 GMT"
-    },
-    {
-      "title": "Los NFT generan 24 mdd en el Mundial tras el colapso del mercado",
-      "link": "https://expansion.mx/tecnologia/2026/08/13/mundial-2026-revivio-nft-y-genero-24-mdd",
-      "source": "Expansion MX",
-      "pub": "Thu, 13 Aug 2026 11:55:30 GMT"
-    },
-    {
-      "title": "Economistas se unen para plantear a Hacienda cómo acelerar el crecimiento de México",
-      "link": "https://expansion.mx/economia/2026/08/12/economistas-propuestas-crecimiento-mexico-hacienda-2027",
-      "source": "Expansion MX",
-      "pub": "Thu, 13 Aug 2026 00:40:45 GMT"
-    },
-    {
-      "title": "UBS ve al origen del capital como el nuevo filtro del T-MEC",
-      "link": "https://expansion.mx/economia/2026/08/12/ubs-t-mec-origen-capital-inversion-china-mexico",
-      "source": "Expansion MX",
-      "pub": "Thu, 13 Aug 2026 00:15:59 GMT"
     }
   ]
 }
