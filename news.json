@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T21:31:37.431478+00:00",
+  "updated": "2026-08-13T22:19:15.711093+00:00",
   "colombia": [
     {
       "title": "Colombia hit by 7.4 and 4.8-magnitude twin earthquakes",
@@ -64,12 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "FEMSA quiere destronar a Tiendas 3B: Bara, el “primo” de Oxxo, acelera su expansión en México",
-      "link": "https://expansion.mx/empresas/2026/08/13/femsa-bara-primo-de-oxxo-que-compite-tiendas-3b",
-      "source": "Expansion MX",
-      "pub": "Thu, 13 Aug 2026 21:01:29 GMT"
-    },
-    {
       "title": "Los trabajadores de SK Hynix crean un sindicato y van por su parte del negocio de la IA",
       "link": "https://expansion.mx/tecnologia/2026/08/13/trabajadores-sk-hynix-sindicato-ganancias-chips-ia",
       "source": "Expansion MX",
@@ -122,6 +116,12 @@
       "link": "https://expansion.mx/opinion/2026/08/13/la-tecnologia-no-necesita-mas-innovacion-necesita-menos-complejidad",
       "source": "Expansion MX",
       "pub": "Thu, 13 Aug 2026 12:09:32 GMT"
+    },
+    {
+      "title": "Antes de los beneficios, la factura: el reto financiero de la IA",
+      "link": "https://expansion.mx/opinion/2026/08/13/antes-de-los-beneficios-la-factura-el-reto-financiero-de-la-ia",
+      "source": "Expansion MX",
+      "pub": "Thu, 13 Aug 2026 12:08:32 GMT"
     }
   ]
 }
