@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T16:28:01.936345+00:00",
+  "updated": "2026-08-13T17:27:16.639750+00:00",
   "colombia": [
     {
       "title": "Colombia hit by 7.4 and 4.8-magnitude twin earthquakes",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "México enciende las alertas por El Niño: hay 69% de probabilidad de un fenómeno histórico en 2026",
+      "link": "https://expansion.mx/mundo/2026/08/13/super-nino-alertas-mexico-fenomeno-historico-2026",
+      "source": "Expansion MX",
+      "pub": "Thu, 13 Aug 2026 14:40:53 GMT"
+    },
+    {
       "title": "Colombia llega al límite de las 72 horas tras terremoto: 265 muertos y 500 desaparecidos bajo escombros",
       "link": "https://expansion.mx/mundo/2026/08/13/terremoto-colombia-265-muertos-500-desaparecidos",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/economia/2026/08/12/mexico-cuestiona-aranceles-eu-sobrecapacidad",
       "source": "Expansion MX",
       "pub": "Wed, 12 Aug 2026 23:57:51 GMT"
-    },
-    {
-      "title": "A casi un año de huelga, Monte de Piedad explica qué pasa con las prendas de empeños ya pagados",
-      "link": "https://expansion.mx/finanzas-personales/2026/08/12/huelga-monte-de-piedad-que-pasa-con-empenos-ya-pagados",
-      "source": "Expansion MX",
-      "pub": "Wed, 12 Aug 2026 23:35:38 GMT"
     }
   ]
 }
