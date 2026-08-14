@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T16:06:29.362903+00:00",
+  "updated": "2026-08-14T17:04:17.536226+00:00",
   "colombia": [
     {
       "title": "Colombia hit by 7.4 and 4.8-magnitude twin earthquakes",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Las líneas sin registrar pasarán por un proceso de suspensión y después a reciclaje",
+      "link": "https://expansion.mx/empresas/2026/08/14/que-pasa-si-no-vinculo-mi-linea-registro-celulares",
+      "source": "Expansion MX",
+      "pub": "Fri, 14 Aug 2026 15:13:49 GMT"
+    },
+    {
       "title": "Volkswagen apuesta todo por el ‘controvertido’ motor 1.0 turbo en Taigun",
       "link": "https://expansion.mx/empresas/2026/08/14/volkswagen-mantiene-controvertido-motor-1-0-turbo-taigun",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/tendencias/2026/08/13/que-significa-letra-b-palanca-cambios-auto-automatico",
       "source": "Expansion MX",
       "pub": "Thu, 13 Aug 2026 23:36:50 GMT"
-    },
-    {
-      "title": "Peso mexicano cierra en 17.04 por dólar, su mejor nivel desde 2024",
-      "link": "https://expansion.mx/mercados/2026/08/13/peso-mexicano-cierra-17-04-por-dolar-hoy",
-      "source": "Expansion MX",
-      "pub": "Thu, 13 Aug 2026 23:17:40 GMT"
     }
   ]
 }
