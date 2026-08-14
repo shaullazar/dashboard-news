@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T22:44:13.574857+00:00",
+  "updated": "2026-08-14T22:59:44.352014+00:00",
   "colombia": [
     {
       "title": "Colombia hit by 7.4 and 4.8-magnitude twin earthquakes",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "El peso se fortalece a 17 por dólar, pero estos riesgos amenazan el rally",
+      "link": "https://expansion.mx/mercados/2026/08/14/peso-17-por-dolar-pero-estos-riesgos-amenazan-el-rally",
+      "source": "Expansion MX",
+      "pub": "Fri, 14 Aug 2026 22:12:51 GMT"
+    },
+    {
+      "title": "¿Por qué el dueño de Walmart, Aurrera y Sam’s Club pone tiendas tan cerca sin quitarse clientes entre sí?",
+      "link": "https://expansion.mx/empresas/2026/08/14/walmart-tiendas-cerca-aurrera-sams-club-clientes",
+      "source": "Expansion MX",
+      "pub": "Fri, 14 Aug 2026 20:36:29 GMT"
+    },
+    {
       "title": "Los 7 autos híbridos más accesibles que puedes comprar en México durante agosto de 2026",
       "link": "https://expansion.mx/empresas/2026/08/14/autos-hibridos-mas-economicos-en-mexico-2026",
       "source": "Expansion MX",
@@ -104,18 +116,6 @@
       "link": "https://expansion.mx/mercadotecnia/2026/08/14/nfl-elige-burson-agencia-comunicacion-mexico",
       "source": "Expansion MX",
       "pub": "Fri, 14 Aug 2026 16:30:33 GMT"
-    },
-    {
-      "title": "Las líneas sin registrar pasarán por un proceso de suspensión y después a reciclaje",
-      "link": "https://expansion.mx/empresas/2026/08/14/que-pasa-si-no-vinculo-mi-linea-registro-celulares",
-      "source": "Expansion MX",
-      "pub": "Fri, 14 Aug 2026 15:13:49 GMT"
-    },
-    {
-      "title": "Volkswagen apuesta todo por el ‘controvertido’ motor 1.0 turbo en Taigun",
-      "link": "https://expansion.mx/empresas/2026/08/14/volkswagen-mantiene-controvertido-motor-1-0-turbo-taigun",
-      "source": "Expansion MX",
-      "pub": "Fri, 14 Aug 2026 14:37:46 GMT"
     }
   ]
 }
