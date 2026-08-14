@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T04:59:17.353019+00:00",
+  "updated": "2026-08-14T06:12:14.005287+00:00",
   "colombia": [
     {
       "title": "Colombia hit by 7.4 and 4.8-magnitude twin earthquakes",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "¿Quién es el dueño del Palacio de los Deportes, sede del examen de control que aplica la UNAM?",
+      "link": "https://expansion.mx/tendencias/2026/08/13/quien-es-dueno-palacio-deportes-sede-examen-control-unam",
+      "source": "Expansion MX",
+      "pub": "Fri, 14 Aug 2026 01:14:55 GMT"
+    },
+    {
+      "title": "Los empresarios mexicanos que hicieron millones al vender sus empresas",
+      "link": "https://expansion.mx/empresas/2026/08/13/empresarios-mexicanos-hicieron-millones-vender-sus-empresas",
+      "source": "Expansion MX",
+      "pub": "Fri, 14 Aug 2026 00:51:01 GMT"
+    },
+    {
       "title": "Pemex y CFE elevan sus pasivos laborales a 2.06 billones de pesos",
       "link": "https://expansion.mx/empresas/2026/08/13/pemex-cfe-acumulan-pasivos-laborales",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/08/13/mexicana-nuevos-aviones-embraer-como-son",
       "source": "Expansion MX",
       "pub": "Thu, 13 Aug 2026 21:59:58 GMT"
-    },
-    {
-      "title": "¿Cómo ayudar a Colombia? Centros de acopio habilitados en México tras terremoto magnitud 7.4",
-      "link": "https://expansion.mx/mundo/2026/08/13/como-ayudar-colombia-centros-acopio-habilitados-sismo-7-4",
-      "source": "Expansion MX",
-      "pub": "Thu, 13 Aug 2026 21:57:22 GMT"
-    },
-    {
-      "title": "FEMSA quiere destronar a Tiendas 3B: Bara, el “primo” de Oxxo, acelera su expansión en México",
-      "link": "https://expansion.mx/empresas/2026/08/13/femsa-bara-primo-de-oxxo-que-compite-tiendas-3b",
-      "source": "Expansion MX",
-      "pub": "Thu, 13 Aug 2026 21:01:29 GMT"
     }
   ]
 }
