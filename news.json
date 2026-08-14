@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T20:06:58.218531+00:00",
+  "updated": "2026-08-14T20:39:29.006630+00:00",
   "colombia": [
     {
       "title": "Colombia hit by 7.4 and 4.8-magnitude twin earthquakes",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Los 7 autos híbridos más accesibles que puedes comprar en México durante agosto de 2026",
+      "link": "https://expansion.mx/empresas/2026/08/14/autos-hibridos-mas-economicos-en-mexico-2026",
+      "source": "Expansion MX",
+      "pub": "Fri, 14 Aug 2026 19:30:42 GMT"
+    },
+    {
+      "title": "¿Tienes eSIM? Lo que debes saber sobre el registro de tu línea telefónica con CURP en México",
+      "link": "https://expansion.mx/empresas/2026/08/14/debo-registrarme-si-tengo-esim-vinculacion-lineas",
+      "source": "Expansion MX",
+      "pub": "Fri, 14 Aug 2026 19:09:28 GMT"
+    },
+    {
       "title": "Carlos Slim no para en Polanco: tiene tres proyectos en marcha con una inversión de 17,300 mdp",
       "link": "https://expansion.mx/empresas/2026/08/14/carlos-slim-inversion-polanco-inmuebles-carso",
       "source": "Expansion MX",
@@ -104,24 +116,6 @@
       "link": "https://expansion.mx/empresas/2026/08/14/volkswagen-mantiene-controvertido-motor-1-0-turbo-taigun",
       "source": "Expansion MX",
       "pub": "Fri, 14 Aug 2026 14:37:46 GMT"
-    },
-    {
-      "title": "Colombia enfrenta una tragedia tras terremoto: 281 muertos y 379 desaparecidos entre los escombros",
-      "link": "https://expansion.mx/mundo/2026/08/14/terremoto-colombia-suma-281-muertos-y-379-desaparecidos",
-      "source": "Expansion MX",
-      "pub": "Fri, 14 Aug 2026 13:57:36 GMT"
-    },
-    {
-      "title": "La IA no empieza con el modelo. Empieza con los datos",
-      "link": "https://expansion.mx/opinion/2026/08/13/la-ia-no-empieza-con-el-modelo-empieza-con-los-datos",
-      "source": "Expansion MX",
-      "pub": "Fri, 14 Aug 2026 12:12:51 GMT"
-    },
-    {
-      "title": "La diferencia entre sobrevivir y crecer en una pyme mexicana está en la previsión y estrategia",
-      "link": "https://expansion.mx/opinion/2026/08/14/la-diferencia-entre-sobrevivir-y-crecer-en-una-pyme-mexicana-esta-en-la-prevision-y-estrategia",
-      "source": "Expansion MX",
-      "pub": "Fri, 14 Aug 2026 12:09:50 GMT"
     }
   ]
 }
