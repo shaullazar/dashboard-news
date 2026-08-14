@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T19:38:49.740022+00:00",
+  "updated": "2026-08-14T20:06:58.218531+00:00",
   "colombia": [
     {
       "title": "Colombia hit by 7.4 and 4.8-magnitude twin earthquakes",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "Carlos Slim no para en Polanco: tiene tres proyectos en marcha con una inversión de 17,300 mdp",
+      "link": "https://expansion.mx/empresas/2026/08/14/carlos-slim-inversion-polanco-inmuebles-carso",
+      "source": "Expansion MX",
+      "pub": "Fri, 14 Aug 2026 18:43:31 GMT"
+    },
+    {
+      "title": "La directora de ética de OpenAI se va en plena fuga de ejecutivos",
+      "link": "https://expansion.mx/tecnologia/2026/08/14/directora-etica-openai-se-va-fuga-ejecutivos",
+      "source": "Expansion MX",
+      "pub": "Fri, 14 Aug 2026 18:30:34 GMT"
+    },
+    {
+      "title": "La industria del empaque está en busca de nuevos materiales sostenibles",
+      "link": "https://expansion.mx/tendencias/2026/08/14/la-industria-del-empaque-esta-en-busca-de-nuevos-materiales-sostenibles",
+      "source": "Expansion MX",
+      "pub": "Fri, 14 Aug 2026 17:50:44 GMT"
+    },
+    {
+      "title": "Instagram cambia de imagen después de una década",
+      "link": "https://expansion.mx/tecnologia/2026/08/14/instagram-cambia-de-imagen-despues-de-una-decada",
+      "source": "Expansion MX",
+      "pub": "Fri, 14 Aug 2026 17:27:57 GMT"
+    },
+    {
       "title": "La NFL ficha a Burson para ampliar su comunidad de aficionados en México",
       "link": "https://expansion.mx/mercadotecnia/2026/08/14/nfl-elige-burson-agencia-comunicacion-mexico",
       "source": "Expansion MX",
@@ -98,30 +122,6 @@
       "link": "https://expansion.mx/opinion/2026/08/14/la-diferencia-entre-sobrevivir-y-crecer-en-una-pyme-mexicana-esta-en-la-prevision-y-estrategia",
       "source": "Expansion MX",
       "pub": "Fri, 14 Aug 2026 12:09:50 GMT"
-    },
-    {
-      "title": "El marketing del futuro ya cobró vida",
-      "link": "https://expansion.mx/opinion/2026/08/14/el-marketing-del-futuro-ya-cobro-vida",
-      "source": "Expansion MX",
-      "pub": "Fri, 14 Aug 2026 12:04:19 GMT"
-    },
-    {
-      "title": "Se descubrió el preconsciente de la IA: se llama J-Space",
-      "link": "https://expansion.mx/opinion/2026/08/14/se-descubrio-el-preconsciente-de-la-ia-se-llama-j-space",
-      "source": "Expansion MX",
-      "pub": "Fri, 14 Aug 2026 12:03:46 GMT"
-    },
-    {
-      "title": "El pago de intereses de la deuda casi duplica el dinero para la inversión en infraestructura",
-      "link": "https://expansion.mx/economia/2026/08/14/costo-deuda-casi-duplica-dinero-inversion-en-infraestructura",
-      "source": "Expansion MX",
-      "pub": "Fri, 14 Aug 2026 11:55:27 GMT"
-    },
-    {
-      "title": "¿Quién es el dueño del Palacio de los Deportes, sede del examen de control que aplica la UNAM?",
-      "link": "https://expansion.mx/tendencias/2026/08/13/quien-es-dueno-palacio-deportes-sede-examen-control-unam",
-      "source": "Expansion MX",
-      "pub": "Fri, 14 Aug 2026 01:14:55 GMT"
     }
   ]
 }
