@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T14:27:59.498820+00:00",
+  "updated": "2026-08-14T15:15:36.843035+00:00",
   "colombia": [
     {
       "title": "Colombia hit by 7.4 and 4.8-magnitude twin earthquakes",
@@ -64,18 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "La diferencia entre sobrevivir y crecer en una pyme mexicana está en la previsión y estrategia",
-      "link": "https://expansion.mx/opinion/2026/08/14/la-diferencia-entre-sobrevivir-y-crecer-en-una-pyme-mexicana-esta-en-la-prevision-y-estrategia",
-      "source": "Expansion MX",
-      "pub": "Fri, 14 Aug 2026 12:09:50 GMT"
-    },
-    {
-      "title": "El pago de intereses de la deuda casi duplica el dinero para la inversión en infraestructura",
-      "link": "https://expansion.mx/economia/2026/08/14/costo-deuda-casi-duplica-dinero-inversion-en-infraestructura",
-      "source": "Expansion MX",
-      "pub": "Fri, 14 Aug 2026 11:55:27 GMT"
-    },
-    {
       "title": "¿Quién es el dueño del Palacio de los Deportes, sede del examen de control que aplica la UNAM?",
       "link": "https://expansion.mx/tendencias/2026/08/13/quien-es-dueno-palacio-deportes-sede-examen-control-unam",
       "source": "Expansion MX",
@@ -122,6 +110,18 @@
       "link": "https://expansion.mx/empresas/2026/08/13/padron-telefonia-tres-intentos-desvincular-numero",
       "source": "Expansion MX",
       "pub": "Thu, 13 Aug 2026 22:48:15 GMT"
+    },
+    {
+      "title": "Las universidades del cibercrimen: el negocio que profesionaliza a los nuevos delincuentes digitales",
+      "link": "https://expansion.mx/tecnologia/2026/08/13/universidades-cibercrimen-forman-nuevos-ciberdelincuentes",
+      "source": "Expansion MX",
+      "pub": "Thu, 13 Aug 2026 22:30:00 GMT"
+    },
+    {
+      "title": "Mexicana tiene nuevos aviones Embraer: todas sus características y cuántos pasajeros transportan",
+      "link": "https://expansion.mx/empresas/2026/08/13/mexicana-nuevos-aviones-embraer-como-son",
+      "source": "Expansion MX",
+      "pub": "Thu, 13 Aug 2026 21:59:58 GMT"
     }
   ]
 }
