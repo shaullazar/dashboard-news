@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T20:59:56.908737+00:00",
+  "updated": "2026-08-14T21:25:03.708697+00:00",
   "colombia": [
     {
       "title": "Colombia hit by 7.4 and 4.8-magnitude twin earthquakes",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "¿Por qué el dueño de Walmart, Aurrera y Sam’s Club pone tiendas tan cerca sin quitarse clientes entre sí?",
+      "link": "https://expansion.mx/empresas/2026/08/14/walmart-tiendas-cerca-aurrera-sams-club-clientes",
+      "source": "Expansion MX",
+      "pub": "Fri, 14 Aug 2026 20:36:29 GMT"
+    },
+    {
       "title": "Los 7 autos híbridos más accesibles que puedes comprar en México durante agosto de 2026",
       "link": "https://expansion.mx/empresas/2026/08/14/autos-hibridos-mas-economicos-en-mexico-2026",
       "source": "Expansion MX",
@@ -110,12 +116,6 @@
       "link": "https://expansion.mx/empresas/2026/08/14/que-pasa-si-no-vinculo-mi-linea-registro-celulares",
       "source": "Expansion MX",
       "pub": "Fri, 14 Aug 2026 15:13:49 GMT"
-    },
-    {
-      "title": "Volkswagen apuesta todo por el ‘controvertido’ motor 1.0 turbo en Taigun",
-      "link": "https://expansion.mx/empresas/2026/08/14/volkswagen-mantiene-controvertido-motor-1-0-turbo-taigun",
-      "source": "Expansion MX",
-      "pub": "Fri, 14 Aug 2026 14:37:46 GMT"
     }
   ]
 }
