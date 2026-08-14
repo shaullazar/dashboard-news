@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T22:59:44.352014+00:00",
+  "updated": "2026-08-14T23:21:14.498166+00:00",
   "colombia": [
     {
       "title": "Colombia hit by 7.4 and 4.8-magnitude twin earthquakes",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Luigi Mangione admite haber matado al CEO de UnitedHealthcare y cuenta ante una jueza por qué lo hizo",
+      "link": "https://expansion.mx/mundo/2026/08/14/luigi-mangione-admite-asesinato-ceo-unitedhealthcare-53",
+      "source": "Expansion MX",
+      "pub": "Fri, 14 Aug 2026 23:16:01 GMT"
+    },
+    {
+      "title": "Los fondos anticrisis de México operan con menos del 55% de sus máximos históricos",
+      "link": "https://expansion.mx/economia/2026/08/14/fondos-anticrisis-mexico-55-maximos-historicos",
+      "source": "Expansion MX",
+      "pub": "Fri, 14 Aug 2026 22:56:08 GMT"
+    },
+    {
       "title": "El peso se fortalece a 17 por dólar, pero estos riesgos amenazan el rally",
       "link": "https://expansion.mx/mercados/2026/08/14/peso-17-por-dolar-pero-estos-riesgos-amenazan-el-rally",
       "source": "Expansion MX",
@@ -104,18 +116,6 @@
       "link": "https://expansion.mx/tendencias/2026/08/14/la-industria-del-empaque-esta-en-busca-de-nuevos-materiales-sostenibles",
       "source": "Expansion MX",
       "pub": "Fri, 14 Aug 2026 17:50:44 GMT"
-    },
-    {
-      "title": "Instagram cambia de imagen después de una década",
-      "link": "https://expansion.mx/tecnologia/2026/08/14/instagram-cambia-de-imagen-despues-de-una-decada",
-      "source": "Expansion MX",
-      "pub": "Fri, 14 Aug 2026 17:27:57 GMT"
-    },
-    {
-      "title": "La NFL ficha a Burson para ampliar su comunidad de aficionados en México",
-      "link": "https://expansion.mx/mercadotecnia/2026/08/14/nfl-elige-burson-agencia-comunicacion-mexico",
-      "source": "Expansion MX",
-      "pub": "Fri, 14 Aug 2026 16:30:33 GMT"
     }
   ]
 }
