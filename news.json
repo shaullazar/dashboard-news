@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T17:04:17.536226+00:00",
+  "updated": "2026-08-14T17:58:16.807121+00:00",
   "colombia": [
     {
       "title": "Colombia hit by 7.4 and 4.8-magnitude twin earthquakes",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Instagram cambia de imagen después de una década",
+      "link": "https://expansion.mx/tecnologia/2026/08/14/instagram-cambia-de-imagen-despues-de-una-decada",
+      "source": "Expansion MX",
+      "pub": "Fri, 14 Aug 2026 17:27:57 GMT"
+    },
+    {
+      "title": "La NFL ficha a Burson para ampliar su comunidad de aficionados en México",
+      "link": "https://expansion.mx/mercadotecnia/2026/08/14/nfl-elige-burson-agencia-comunicacion-mexico",
+      "source": "Expansion MX",
+      "pub": "Fri, 14 Aug 2026 16:30:33 GMT"
+    },
+    {
       "title": "Las líneas sin registrar pasarán por un proceso de suspensión y después a reciclaje",
       "link": "https://expansion.mx/empresas/2026/08/14/que-pasa-si-no-vinculo-mi-linea-registro-celulares",
       "source": "Expansion MX",
@@ -82,46 +94,34 @@
       "pub": "Fri, 14 Aug 2026 13:57:36 GMT"
     },
     {
+      "title": "La IA no empieza con el modelo. Empieza con los datos",
+      "link": "https://expansion.mx/opinion/2026/08/13/la-ia-no-empieza-con-el-modelo-empieza-con-los-datos",
+      "source": "Expansion MX",
+      "pub": "Fri, 14 Aug 2026 12:12:51 GMT"
+    },
+    {
       "title": "La diferencia entre sobrevivir y crecer en una pyme mexicana está en la previsión y estrategia",
       "link": "https://expansion.mx/opinion/2026/08/14/la-diferencia-entre-sobrevivir-y-crecer-en-una-pyme-mexicana-esta-en-la-prevision-y-estrategia",
       "source": "Expansion MX",
       "pub": "Fri, 14 Aug 2026 12:09:50 GMT"
     },
     {
+      "title": "El marketing del futuro ya cobró vida",
+      "link": "https://expansion.mx/opinion/2026/08/14/el-marketing-del-futuro-ya-cobro-vida",
+      "source": "Expansion MX",
+      "pub": "Fri, 14 Aug 2026 12:04:19 GMT"
+    },
+    {
+      "title": "Se descubrió el preconsciente de la IA: se llama J-Space",
+      "link": "https://expansion.mx/opinion/2026/08/14/se-descubrio-el-preconsciente-de-la-ia-se-llama-j-space",
+      "source": "Expansion MX",
+      "pub": "Fri, 14 Aug 2026 12:03:46 GMT"
+    },
+    {
       "title": "El pago de intereses de la deuda casi duplica el dinero para la inversión en infraestructura",
       "link": "https://expansion.mx/economia/2026/08/14/costo-deuda-casi-duplica-dinero-inversion-en-infraestructura",
       "source": "Expansion MX",
       "pub": "Fri, 14 Aug 2026 11:55:27 GMT"
-    },
-    {
-      "title": "¿Quién es el dueño del Palacio de los Deportes, sede del examen de control que aplica la UNAM?",
-      "link": "https://expansion.mx/tendencias/2026/08/13/quien-es-dueno-palacio-deportes-sede-examen-control-unam",
-      "source": "Expansion MX",
-      "pub": "Fri, 14 Aug 2026 01:14:55 GMT"
-    },
-    {
-      "title": "Los empresarios mexicanos que hicieron millones al vender sus empresas",
-      "link": "https://expansion.mx/empresas/2026/08/13/empresarios-mexicanos-hicieron-millones-vender-sus-empresas",
-      "source": "Expansion MX",
-      "pub": "Fri, 14 Aug 2026 00:51:01 GMT"
-    },
-    {
-      "title": "Pemex y CFE elevan sus pasivos laborales a 2.06 billones de pesos",
-      "link": "https://expansion.mx/empresas/2026/08/13/pemex-cfe-acumulan-pasivos-laborales",
-      "source": "Expansion MX",
-      "pub": "Fri, 14 Aug 2026 00:05:17 GMT"
-    },
-    {
-      "title": "La escuela de McDonald’s donde se forman sus gerentes y franquiciatarios",
-      "link": "https://expansion.mx/carrera/2026/08/13/mcdonalds-universidad-hamburguesa-licenciaturas-cursos",
-      "source": "Expansion MX",
-      "pub": "Thu, 13 Aug 2026 23:43:55 GMT"
-    },
-    {
-      "title": "¿Qué significa la letra B en la palanca de cambios de un auto automático y cuándo debes usarla?",
-      "link": "https://expansion.mx/tendencias/2026/08/13/que-significa-letra-b-palanca-cambios-auto-automatico",
-      "source": "Expansion MX",
-      "pub": "Thu, 13 Aug 2026 23:36:50 GMT"
     }
   ]
 }
