@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T17:39:56.506047+00:00",
+  "updated": "2026-08-15T17:54:49.826046+00:00",
   "colombia": [
     {
       "title": "Quibdó after the quake: Residents mobilize amid state abandonment",
@@ -64,12 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Más de 40 muertos tras el terremoto de magnitud 7.7 en Indonesia",
-      "link": "https://expansion.mx/mundo/2026/08/15/40-muertos-tras-el-terremoto-en-indonesia",
-      "source": "Expansion MX",
-      "pub": "Sat, 15 Aug 2026 16:45:50 GMT"
-    },
-    {
       "title": "Hacienda actualiza impuestos IEPS a gasolinas, usuarios pagarán aumento de más de 1 peso por cada litro",
       "link": "https://expansion.mx/economia/2026/08/14/hacienda-impuestos-gasolinas-1-peso-por-litro",
       "source": "Expansion MX",
@@ -116,6 +110,12 @@
       "link": "https://expansion.mx/empresas/2026/08/14/autos-hibridos-mas-economicos-en-mexico-2026",
       "source": "Expansion MX",
       "pub": "Fri, 14 Aug 2026 19:30:42 GMT"
+    },
+    {
+      "title": "¿Tienes eSIM? Lo que debes saber sobre el registro de tu línea telefónica con CURP en México",
+      "link": "https://expansion.mx/empresas/2026/08/14/debo-registrarme-si-tengo-esim-vinculacion-lineas",
+      "source": "Expansion MX",
+      "pub": "Fri, 14 Aug 2026 19:09:28 GMT"
     }
   ]
 }
