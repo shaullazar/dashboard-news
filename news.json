@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T17:58:16.551767+00:00",
+  "updated": "2026-08-16T18:22:14.233108+00:00",
   "colombia": [
     {
       "title": "Quibdó after the quake: Residents mobilize amid state abandonment",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "El huracán Lala se debilita a tormenta tropical tras golpear la Isla Grande de Hawái",
+      "link": "https://expansion.mx/mundo/2026/08/16/huracan-lala-tormenta-tropical-golpear-isla-grande-de-hawai",
+      "source": "Expansion MX",
+      "pub": "Sun, 16 Aug 2026 17:15:10 GMT"
+    },
+    {
       "title": "¿Quién es el dueño de Bacardí? La familia que mantiene el control del imperio del famoso murciélago",
       "link": "https://expansion.mx/empresas/2026/08/16/quien-es-el-dueno-de-bacardi-la-familia-que-mantiene-el-control-del-imperio-del-famoso-murcielago",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/mundo/2026/08/14/sismo-magnitud-7-7-sacude-indonesia-emiten-alerta-tsunami",
       "source": "Expansion MX",
       "pub": "Fri, 14 Aug 2026 23:42:52 GMT"
-    },
-    {
-      "title": "El Mundial no solo dejó goles: los matches en Tinder crecieron 96.5% en México",
-      "link": "https://expansion.mx/tecnologia/2026/08/14/tinder-matches-crecieron-mundial-2026-mexico",
-      "source": "Expansion MX",
-      "pub": "Fri, 14 Aug 2026 23:23:55 GMT"
     }
   ]
 }
