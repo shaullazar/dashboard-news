@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T20:01:04.304880+00:00",
+  "updated": "2026-08-16T20:26:42.928852+00:00",
   "colombia": [
     {
       "title": "Quibdó after the quake: Residents mobilize amid state abandonment",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "¿Dónde vivirán el rey Carlos III y la reina Camila? No habitarán Buckingham tras su renovación",
+      "link": "https://expansion.mx/mundo/2026/08/16/donde-viviran-el-rey-carlos-iii-y-la-reina-camila-no-habitaran-buckingham-tras-su-renovacion",
+      "source": "Expansion MX",
+      "pub": "Sun, 16 Aug 2026 18:50:24 GMT"
+    },
+    {
       "title": "El huracán Lala se debilita a tormenta tropical tras golpear la Isla Grande de Hawái",
       "link": "https://expansion.mx/mundo/2026/08/16/huracan-lala-tormenta-tropical-golpear-isla-grande-de-hawai",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/economia/2026/08/14/hacienda-impuestos-gasolinas-1-peso-por-litro",
       "source": "Expansion MX",
       "pub": "Sat, 15 Aug 2026 00:04:57 GMT"
-    },
-    {
-      "title": "Sismo magnitud 7.7 sacude Indonesia; emiten alerta de tsunami",
-      "link": "https://expansion.mx/mundo/2026/08/14/sismo-magnitud-7-7-sacude-indonesia-emiten-alerta-tsunami",
-      "source": "Expansion MX",
-      "pub": "Fri, 14 Aug 2026 23:42:52 GMT"
     }
   ]
 }
