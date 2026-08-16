@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T20:58:11.996621+00:00",
+  "updated": "2026-08-16T21:15:29.311143+00:00",
   "colombia": [
     {
       "title": "Quibdó after the quake: Residents mobilize amid state abandonment",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "La empresa familiar que convirtió a Charly en una marca que viste a equipos de la Liga MX",
+      "link": "https://expansion.mx/empresas/2026/08/16/empresa-familiar-charly-marca-viste-a-equipos-de-la-liga-mx",
+      "source": "Expansion MX",
+      "pub": "Sun, 16 Aug 2026 20:36:10 GMT"
+    },
+    {
       "title": "Colombia pide a Trump suspender aranceles mientras remueve escombros del terremoto",
       "link": "https://expansion.mx/mundo/2026/08/16/colombia-pide-a-trump-suspender-aranceles-mientras-remueve-escombros-del-terremoto",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/08/15/comision-nacional-antimonopolios-aprueba-en-mexico-la-fusion-de-paramount-y-warner-bros",
       "source": "Expansion MX",
       "pub": "Sat, 15 Aug 2026 18:31:12 GMT"
-    },
-    {
-      "title": "Más de 40 muertos tras el terremoto de magnitud 7.7 en Indonesia",
-      "link": "https://expansion.mx/mundo/2026/08/15/40-muertos-tras-el-terremoto-en-indonesia",
-      "source": "Expansion MX",
-      "pub": "Sat, 15 Aug 2026 16:45:50 GMT"
     }
   ]
 }
