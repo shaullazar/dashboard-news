@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T21:34:06.384148+00:00",
+  "updated": "2026-08-16T21:48:33.709018+00:00",
   "colombia": [
     {
       "title": "Quibdó after the quake: Residents mobilize amid state abandonment",
@@ -64,12 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Colombia pide a Trump suspender aranceles mientras remueve escombros del terremoto",
-      "link": "https://expansion.mx/mundo/2026/08/16/colombia-pide-a-trump-suspender-aranceles-mientras-remueve-escombros-del-terremoto",
-      "source": "Expansion MX",
-      "pub": "Sun, 16 Aug 2026 20:00:30 GMT"
-    },
-    {
       "title": "¿Dónde vivirán el rey Carlos III y la reina Camila? No habitarán Buckingham tras su renovación",
       "link": "https://expansion.mx/mundo/2026/08/16/donde-viviran-el-rey-carlos-iii-y-la-reina-camila-no-habitaran-buckingham-tras-su-renovacion",
       "source": "Expansion MX",
@@ -122,6 +116,12 @@
       "link": "https://expansion.mx/mundo/2026/08/15/40-muertos-tras-el-terremoto-en-indonesia",
       "source": "Expansion MX",
       "pub": "Sat, 15 Aug 2026 16:45:50 GMT"
+    },
+    {
+      "title": "Hacienda actualiza impuestos IEPS a gasolinas, usuarios pagarán aumento de más de 1 peso por cada litro",
+      "link": "https://expansion.mx/economia/2026/08/14/hacienda-impuestos-gasolinas-1-peso-por-litro",
+      "source": "Expansion MX",
+      "pub": "Sat, 15 Aug 2026 00:04:57 GMT"
     }
   ]
 }
