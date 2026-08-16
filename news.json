@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T21:48:33.709018+00:00",
+  "updated": "2026-08-16T21:58:32.508259+00:00",
   "colombia": [
     {
       "title": "Quibdó after the quake: Residents mobilize amid state abandonment",
@@ -64,6 +64,24 @@
   ],
   "mexico": [
     {
+      "title": "Hamás pide a la Junta de Paz que obligue a Israel a aceptar el plan de alto al fuego en Gaza",
+      "link": "https://expansion.mx/mundo/2026/08/16/hamas-pide-a-la-junta-de-paz-que-obligue-a-israel-a-aceptar-el-plan-de-alto-al-fuego-en-gaza",
+      "source": "Expansion MX",
+      "pub": "Sun, 16 Aug 2026 20:58:54 GMT"
+    },
+    {
+      "title": "La empresa familiar que convirtió a Charly en una marca que viste a equipos de la Liga MX",
+      "link": "https://expansion.mx/empresas/2026/08/16/empresa-familiar-charly-marca-viste-a-equipos-de-la-liga-mx",
+      "source": "Expansion MX",
+      "pub": "Sun, 16 Aug 2026 20:36:10 GMT"
+    },
+    {
+      "title": "Colombia pide a Trump suspender aranceles mientras remueve escombros del terremoto",
+      "link": "https://expansion.mx/mundo/2026/08/16/colombia-pide-a-trump-suspender-aranceles-mientras-remueve-escombros-del-terremoto",
+      "source": "Expansion MX",
+      "pub": "Sun, 16 Aug 2026 20:00:30 GMT"
+    },
+    {
       "title": "¿Dónde vivirán el rey Carlos III y la reina Camila? No habitarán Buckingham tras su renovación",
       "link": "https://expansion.mx/mundo/2026/08/16/donde-viviran-el-rey-carlos-iii-y-la-reina-camila-no-habitaran-buckingham-tras-su-renovacion",
       "source": "Expansion MX",
@@ -104,24 +122,6 @@
       "link": "https://expansion.mx/mercados/2026/08/15/como-deportistas-construyen-su-fortuna-tras-el-deporte",
       "source": "Expansion MX",
       "pub": "Sat, 15 Aug 2026 22:17:42 GMT"
-    },
-    {
-      "title": "Comisión Nacional Antimonopolios aprueba en México la fusión de Paramount y Warner Bros",
-      "link": "https://expansion.mx/empresas/2026/08/15/comision-nacional-antimonopolios-aprueba-en-mexico-la-fusion-de-paramount-y-warner-bros",
-      "source": "Expansion MX",
-      "pub": "Sat, 15 Aug 2026 18:31:12 GMT"
-    },
-    {
-      "title": "Más de 40 muertos tras el terremoto de magnitud 7.7 en Indonesia",
-      "link": "https://expansion.mx/mundo/2026/08/15/40-muertos-tras-el-terremoto-en-indonesia",
-      "source": "Expansion MX",
-      "pub": "Sat, 15 Aug 2026 16:45:50 GMT"
-    },
-    {
-      "title": "Hacienda actualiza impuestos IEPS a gasolinas, usuarios pagarán aumento de más de 1 peso por cada litro",
-      "link": "https://expansion.mx/economia/2026/08/14/hacienda-impuestos-gasolinas-1-peso-por-litro",
-      "source": "Expansion MX",
-      "pub": "Sat, 15 Aug 2026 00:04:57 GMT"
     }
   ]
 }
