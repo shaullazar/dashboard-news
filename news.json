@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T13:15:19.017952+00:00",
+  "updated": "2026-08-16T13:45:14.958573+00:00",
   "colombia": [
     {
       "title": "Quibdó after the quake: Residents mobilize amid state abandonment",
@@ -64,12 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Un PIB estancado: por qué México no crece",
-      "link": "https://expansion.mx/economia/2026/08/16/por-que-mexico-no-crece-pib",
-      "source": "Expansion MX",
-      "pub": "Sun, 16 Aug 2026 12:16:19 GMT"
-    },
-    {
       "title": "LeBron James, Messi y Cristiano Ronaldo: cómo construyen su fortuna tras el deporte",
       "link": "https://expansion.mx/mercados/2026/08/15/como-deportistas-construyen-su-fortuna-tras-el-deporte",
       "source": "Expansion MX",
@@ -122,6 +116,12 @@
       "link": "https://expansion.mx/mercados/2026/08/14/peso-17-por-dolar-pero-estos-riesgos-amenazan-el-rally",
       "source": "Expansion MX",
       "pub": "Fri, 14 Aug 2026 22:12:51 GMT"
+    },
+    {
+      "title": "¿Por qué el dueño de Walmart, Aurrera y Sam’s Club pone tiendas tan cerca sin quitarse clientes entre sí?",
+      "link": "https://expansion.mx/empresas/2026/08/14/walmart-tiendas-cerca-aurrera-sams-club-clientes",
+      "source": "Expansion MX",
+      "pub": "Fri, 14 Aug 2026 20:36:29 GMT"
     }
   ]
 }
