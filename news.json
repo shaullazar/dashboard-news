@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T20:47:28.605642+00:00",
+  "updated": "2026-08-17T21:04:51.405907+00:00",
   "colombia": [
     {
       "title": "Quibdó after the quake: Residents mobilize amid state abandonment",
@@ -64,12 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "No es tu internet: los ciberataques que pueden dejarte sin servicio se disparan 519%",
-      "link": "https://expansion.mx/tecnologia/2026/08/17/ataques-ddos-crecen-519-por-ciento-dejarte-sin-servicio",
-      "source": "Expansion MX",
-      "pub": "Mon, 17 Aug 2026 18:53:34 GMT"
-    },
-    {
       "title": "Calendario de registro de líneas telefónicas: fecha límite según la terminación de tu número celular",
       "link": "https://expansion.mx/empresas/2026/08/17/calendario-registro-lineas-fecha-limite",
       "source": "Expansion MX",
@@ -116,6 +110,12 @@
       "link": "https://expansion.mx/opinion/2026/08/17/mexico-entre-norteamerica-y-europa-una-nueva-plataforma-para-la-inversion-estrategica",
       "source": "Expansion MX",
       "pub": "Mon, 17 Aug 2026 11:59:24 GMT"
+    },
+    {
+      "title": "La preparación del talento: el factor decisivo para aprovechar el potencial de la IA",
+      "link": "https://expansion.mx/opinion/2026/08/17/la-preparacion-del-talento-el-factor-decisivo-para-aprovechar-el-potencial-de-la-ia",
+      "source": "Expansion MX",
+      "pub": "Mon, 17 Aug 2026 11:59:17 GMT"
     }
   ]
 }
