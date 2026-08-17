@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T00:36:38.583618+00:00",
+  "updated": "2026-08-17T02:06:24.604342+00:00",
   "colombia": [
     {
       "title": "Quibdó after the quake: Residents mobilize amid state abandonment",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Tener un testamento no siempre asegura una herencia: estos casos pueden dejarlo sin efecto",
+      "link": "https://expansion.mx/finanzas-personales/2026/08/16/tener-testamento-no-asegura-herencia-casos-sin-efecto",
+      "source": "Expansion MX",
+      "pub": "Mon, 17 Aug 2026 00:53:06 GMT"
+    },
+    {
       "title": "Trump anuncia la reducción de los ejercicios militares con Corea del Sur por su buena relación con Kim Jong Un",
       "link": "https://expansion.mx/mundo/2026/08/16/trump-anunciareduccion-ejercicios-militares-corea-del-sur",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/tecnologia/2026/08/16/brian-chesky-los-desafios-de-vivienda-son-mas-grandes-que-airbnb",
       "source": "Expansion MX",
       "pub": "Sun, 16 Aug 2026 12:20:30 GMT"
-    },
-    {
-      "title": "Un PIB estancado: por qué México no crece",
-      "link": "https://expansion.mx/economia/2026/08/16/por-que-mexico-no-crece-pib",
-      "source": "Expansion MX",
-      "pub": "Sun, 16 Aug 2026 12:16:19 GMT"
     }
   ]
 }
