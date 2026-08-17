@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T11:49:25.204152+00:00",
+  "updated": "2026-08-17T12:02:11.537917+00:00",
   "colombia": [
     {
       "title": "Quibdó after the quake: Residents mobilize amid state abandonment",
@@ -64,18 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Las restricciones a las mujeres agravan el costo económico para Afganistán",
-      "link": "https://expansion.mx/mundo/2026/08/17/como-cambio-vida-mujeres-cinco-anos-ascenso-talibanes",
-      "source": "Expansion MX",
-      "pub": "Mon, 17 Aug 2026 10:55:53 GMT"
-    },
-    {
-      "title": "México exporta 10 veces más bienes que servicios",
-      "link": "https://expansion.mx/economia/2026/08/17/mexico-potencia-exportadora-rezago-servicios",
-      "source": "Expansion MX",
-      "pub": "Mon, 17 Aug 2026 10:55:19 GMT"
-    },
-    {
       "title": "Tener un testamento no siempre asegura una herencia: estos casos pueden dejarlo sin efecto",
       "link": "https://expansion.mx/finanzas-personales/2026/08/16/tener-testamento-no-asegura-herencia-casos-sin-efecto",
       "source": "Expansion MX",
@@ -122,6 +110,18 @@
       "link": "https://expansion.mx/empresas/2026/08/16/quien-es-el-dueno-de-bacardi-la-familia-que-mantiene-el-control-del-imperio-del-famoso-murcielago",
       "source": "Expansion MX",
       "pub": "Sun, 16 Aug 2026 15:14:36 GMT"
+    },
+    {
+      "title": "Mexicana de Aviación, la historia detrás de su caída, concurso mercantil, quiebra y regreso a los cielos",
+      "link": "https://expansion.mx/empresas/2026/08/16/mexicana-aviacion-volar-4t-concurso-mercantil-perdio",
+      "source": "Expansion MX",
+      "pub": "Sun, 16 Aug 2026 15:03:55 GMT"
+    },
+    {
+      "title": "Brian Chesky: \"Los desafíos de vivienda son más grandes que Airbnb\"",
+      "link": "https://expansion.mx/tecnologia/2026/08/16/brian-chesky-los-desafios-de-vivienda-son-mas-grandes-que-airbnb",
+      "source": "Expansion MX",
+      "pub": "Sun, 16 Aug 2026 12:20:30 GMT"
     }
   ]
 }
