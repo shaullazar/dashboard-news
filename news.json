@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T20:21:59.965186+00:00",
+  "updated": "2026-08-17T20:47:28.605642+00:00",
   "colombia": [
     {
       "title": "Quibdó after the quake: Residents mobilize amid state abandonment",
@@ -64,12 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Inversión de EU en México exige reglas fiscales claras: AmSoc",
-      "link": "https://expansion.mx/economia/2026/08/17/conflicto-fiscal-empresas-eu-mexico-amsoc",
-      "source": "Expansion MX",
-      "pub": "Mon, 17 Aug 2026 19:19:50 GMT"
-    },
-    {
       "title": "No es tu internet: los ciberataques que pueden dejarte sin servicio se disparan 519%",
       "link": "https://expansion.mx/tecnologia/2026/08/17/ataques-ddos-crecen-519-por-ciento-dejarte-sin-servicio",
       "source": "Expansion MX",
@@ -116,6 +110,12 @@
       "link": "https://expansion.mx/opinion/2026/08/17/diversidad-generacional-el-nuevo-motor-del-desarrollo-profesional",
       "source": "Expansion MX",
       "pub": "Mon, 17 Aug 2026 12:02:25 GMT"
+    },
+    {
+      "title": "México entre Norteamérica y Europa: Una nueva plataforma para la inversión estratégica",
+      "link": "https://expansion.mx/opinion/2026/08/17/mexico-entre-norteamerica-y-europa-una-nueva-plataforma-para-la-inversion-estrategica",
+      "source": "Expansion MX",
+      "pub": "Mon, 17 Aug 2026 11:59:24 GMT"
     }
   ]
 }
