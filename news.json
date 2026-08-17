@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-17T21:34:02.909016+00:00",
+  "updated": "2026-08-17T21:52:32.458719+00:00",
   "colombia": [
+    {
+      "title": "A nation united: Colombia’s earthquake sparks wave of solidarity",
+      "link": "https://thebogotapost.com/a-nation-united-colombias-earthquake-sparks-wave-of-solidarity/56694/",
+      "source": "The Bogota Post",
+      "pub": "Mon, 17 Aug 2026 21:42:13 +0000"
+    },
     {
       "title": "Quibdó after the quake: Residents mobilize amid state abandonment",
       "link": "https://thebogotapost.com/quibdo-after-the-quake-residents-mobilize-amid-state-abandonment/56690/",
@@ -54,15 +60,27 @@
       "link": "https://thebogotapost.com/de-la-espriellas-defeat-in-congress-could-signal-turbulent-term-in-office/56636/",
       "source": "The Bogota Post",
       "pub": "Tue, 21 Jul 2026 23:26:49 +0000"
-    },
-    {
-      "title": "Meet the incoming cabinet appointed by Colombia’s next president",
-      "link": "https://thebogotapost.com/meet-the-incoming-cabinet-appointed-by-colombias-next-president/56632/",
-      "source": "The Bogota Post",
-      "pub": "Mon, 20 Jul 2026 18:09:12 +0000"
     }
   ],
   "mexico": [
+    {
+      "title": "Coca-Cola encontró cómo impulsar su versión sin azúcar sin cambiar la fórmula",
+      "link": "https://expansion.mx/mercadotecnia/2026/08/17/coca-cola-nueva-imagen-version-sin-azucar-mexico",
+      "source": "Expansion MX",
+      "pub": "Mon, 17 Aug 2026 20:38:45 GMT"
+    },
+    {
+      "title": "México aprueba las tabletas Wegovy de Novo Nordisk para bajar de peso",
+      "link": "https://expansion.mx/empresas/2026/08/17/mexico-aprueba-semaglutida-oral-novo-nordisk-wegovy",
+      "source": "Expansion MX",
+      "pub": "Mon, 17 Aug 2026 20:37:17 GMT"
+    },
+    {
+      "title": "¿Cuántas personas mueren atropelladas en México? Las cifras que muestran el riesgo para los peatones",
+      "link": "https://expansion.mx/tendencias/2026/08/17/peatones-representan-17-muertes-viales-mexico",
+      "source": "Expansion MX",
+      "pub": "Mon, 17 Aug 2026 20:30:42 GMT"
+    },
     {
       "title": "La IA puede dejar una marca en lo que entregas, aunque tú no la veas",
       "link": "https://expansion.mx/tecnologia/2026/08/17/ia-marca-agua-textos-chatgpt-claude",
@@ -98,24 +116,6 @@
       "link": "https://expansion.mx/empresas/2026/08/17/mexicana-estrena-embraer-aifa-avion",
       "source": "Expansion MX",
       "pub": "Mon, 17 Aug 2026 14:47:16 GMT"
-    },
-    {
-      "title": "Carlos Slim no para en Polanco: tiene tres proyectos en marcha con una inversión de 17,300 mdp",
-      "link": "https://expansion.mx/empresas/2026/08/17/carlos-slim-inversion-polanco-inmuebles-carso",
-      "source": "Expansion MX",
-      "pub": "Mon, 17 Aug 2026 14:38:31 GMT"
-    },
-    {
-      "title": "Casi 300 muertos y 140 desaparecidos, la tragedia que deja el terremoto de Colombia una semana después",
-      "link": "https://expansion.mx/mundo/2026/08/17/terremoto-colombia-muertos-desaparecidos-una-semana",
-      "source": "Expansion MX",
-      "pub": "Mon, 17 Aug 2026 13:55:38 GMT"
-    },
-    {
-      "title": "La IA salió del laboratorio. ¿El inicio del fin o el fin de nuestra ingenuidad?",
-      "link": "https://expansion.mx/opinion/2026/08/17/la-ia-salio-del-laboratorio-el-inicio-del-fin-o-el-fin-de-nuestra-ingenuidad",
-      "source": "Expansion MX",
-      "pub": "Mon, 17 Aug 2026 12:03:09 GMT"
     }
   ]
 }
