@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T23:10:03.259117+00:00",
+  "updated": "2026-08-17T23:33:22.082896+00:00",
   "colombia": [
     {
       "title": "A nation united: Colombia’s earthquake sparks wave of solidarity",
@@ -64,7 +64,13 @@
   ],
   "mexico": [
     {
-      "title": "Cox anuncia construcción de desaladora en México por 304 millones de dólares",
+      "title": "El primer plazo del registro telefónico arrancó con reclamos, líneas suspendidas y plataformas saturadas",
+      "link": "https://expansion.mx/empresas/2026/08/17/hice-registro-de-todas-formas-mi-linea-fue-suspendida",
+      "source": "Expansion MX",
+      "pub": "Mon, 17 Aug 2026 23:12:19 GMT"
+    },
+    {
+      "title": "Cox anuncia construcción de desaladora en México con una inversión de 304 millones de dólares",
       "link": "https://expansion.mx/empresas/2026/08/17/cox-anuncia-construccion-desaladora-en-mexico-por-304-mdd",
       "source": "Expansion MX",
       "pub": "Mon, 17 Aug 2026 22:49:54 GMT"
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/tendencias/2026/08/17/peatones-representan-17-muertes-viales-mexico",
       "source": "Expansion MX",
       "pub": "Mon, 17 Aug 2026 20:30:42 GMT"
-    },
-    {
-      "title": "La IA puede dejar una marca en lo que entregas, aunque tú no la veas",
-      "link": "https://expansion.mx/tecnologia/2026/08/17/ia-marca-agua-textos-chatgpt-claude",
-      "source": "Expansion MX",
-      "pub": "Mon, 17 Aug 2026 20:00:57 GMT"
     }
   ]
 }
