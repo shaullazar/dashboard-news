@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T15:16:34.008115+00:00",
+  "updated": "2026-08-17T15:41:46.709709+00:00",
   "colombia": [
     {
       "title": "Quibdó after the quake: Residents mobilize amid state abandonment",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "La suspensión de tu línea telefónica puede ser usada para engañarte y robar tus datos y acceso a WhatsApp",
+      "link": "https://expansion.mx/empresas/2026/08/17/suspension-lineas-telefonicas-registro-riesgo",
+      "source": "Expansion MX",
+      "pub": "Mon, 17 Aug 2026 15:03:41 GMT"
+    },
+    {
       "title": "Mexicana estrena Embraer en el AIFA: el avión que promete más comodidad y menos ruido a bordo",
       "link": "https://expansion.mx/empresas/2026/08/17/mexicana-estrena-embraer-aifa-avion",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/economia/2026/08/17/mexico-potencia-exportadora-rezago-servicios",
       "source": "Expansion MX",
       "pub": "Mon, 17 Aug 2026 10:55:19 GMT"
-    },
-    {
-      "title": "Tener un testamento no siempre asegura una herencia: estos casos pueden dejarlo sin efecto",
-      "link": "https://expansion.mx/finanzas-personales/2026/08/16/tener-testamento-no-asegura-herencia-casos-sin-efecto",
-      "source": "Expansion MX",
-      "pub": "Mon, 17 Aug 2026 00:53:06 GMT"
     }
   ]
 }
