@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T23:33:22.082896+00:00",
+  "updated": "2026-08-17T23:49:48.874604+00:00",
   "colombia": [
     {
       "title": "A nation united: Colombia’s earthquake sparks wave of solidarity",
@@ -64,6 +64,24 @@
   ],
   "mexico": [
     {
+      "title": "¿Tienes una prenda en Monte de Piedad? Profeco explica cómo reclamar si ya pagaste",
+      "link": "https://expansion.mx/finanzas-personales/2026/08/17/recuperar-prenda-nacional-monte-piedad-profeco-ayuda",
+      "source": "Expansion MX",
+      "pub": "Mon, 17 Aug 2026 23:39:05 GMT"
+    },
+    {
+      "title": "La Corte Suprema rechaza de nuevo una apelación de Trump en caso de la escritora E. Jean Carroll",
+      "link": "https://expansion.mx/mundo/2026/08/17/la-corte-suprema-rechaza-de-nuevo-una-apelacion-de-trump-en-caso-de-la-escritora-e-jean-carroll",
+      "source": "Expansion MX",
+      "pub": "Mon, 17 Aug 2026 23:28:19 GMT"
+    },
+    {
+      "title": "Los contadores descartan nuevos impuestos para 2027, pero advierten sobre más fiscalización",
+      "link": "https://expansion.mx/economia/2026/08/17/contadores-nuevos-impuestos-2027-advierten-mas-fiscalizacion",
+      "source": "Expansion MX",
+      "pub": "Mon, 17 Aug 2026 23:27:42 GMT"
+    },
+    {
       "title": "El primer plazo del registro telefónico arrancó con reclamos, líneas suspendidas y plataformas saturadas",
       "link": "https://expansion.mx/empresas/2026/08/17/hice-registro-de-todas-formas-mi-linea-fue-suspendida",
       "source": "Expansion MX",
@@ -104,24 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/08/17/super-empresas-para-mujeres-ranking-2026",
       "source": "Expansion MX",
       "pub": "Mon, 17 Aug 2026 22:11:23 GMT"
-    },
-    {
-      "title": "Coca-Cola encontró cómo impulsar su versión sin azúcar sin cambiar la fórmula",
-      "link": "https://expansion.mx/mercadotecnia/2026/08/17/coca-cola-nueva-imagen-version-sin-azucar-mexico",
-      "source": "Expansion MX",
-      "pub": "Mon, 17 Aug 2026 20:38:45 GMT"
-    },
-    {
-      "title": "México aprueba las tabletas Wegovy de Novo Nordisk para bajar de peso",
-      "link": "https://expansion.mx/empresas/2026/08/17/mexico-aprueba-semaglutida-oral-novo-nordisk-wegovy",
-      "source": "Expansion MX",
-      "pub": "Mon, 17 Aug 2026 20:37:17 GMT"
-    },
-    {
-      "title": "¿Cuántas personas mueren atropelladas en México? Las cifras que muestran el riesgo para los peatones",
-      "link": "https://expansion.mx/tendencias/2026/08/17/peatones-representan-17-muertes-viales-mexico",
-      "source": "Expansion MX",
-      "pub": "Mon, 17 Aug 2026 20:30:42 GMT"
     }
   ]
 }
