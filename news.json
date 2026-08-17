@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T21:04:51.405907+00:00",
+  "updated": "2026-08-17T21:34:02.909016+00:00",
   "colombia": [
     {
       "title": "Quibdó after the quake: Residents mobilize amid state abandonment",
@@ -64,6 +64,24 @@
   ],
   "mexico": [
     {
+      "title": "La IA puede dejar una marca en lo que entregas, aunque tú no la veas",
+      "link": "https://expansion.mx/tecnologia/2026/08/17/ia-marca-agua-textos-chatgpt-claude",
+      "source": "Expansion MX",
+      "pub": "Mon, 17 Aug 2026 20:00:57 GMT"
+    },
+    {
+      "title": "Inversión de EU en México exige reglas fiscales claras: AmSoc",
+      "link": "https://expansion.mx/economia/2026/08/17/conflicto-fiscal-empresas-eu-mexico-amsoc",
+      "source": "Expansion MX",
+      "pub": "Mon, 17 Aug 2026 19:19:50 GMT"
+    },
+    {
+      "title": "No es tu internet: los ciberataques que pueden dejarte sin servicio se disparan 519%",
+      "link": "https://expansion.mx/tecnologia/2026/08/17/ataques-ddos-crecen-519-por-ciento-dejarte-sin-servicio",
+      "source": "Expansion MX",
+      "pub": "Mon, 17 Aug 2026 18:53:34 GMT"
+    },
+    {
       "title": "Calendario de registro de líneas telefónicas: fecha límite según la terminación de tu número celular",
       "link": "https://expansion.mx/empresas/2026/08/17/calendario-registro-lineas-fecha-limite",
       "source": "Expansion MX",
@@ -98,24 +116,6 @@
       "link": "https://expansion.mx/opinion/2026/08/17/la-ia-salio-del-laboratorio-el-inicio-del-fin-o-el-fin-de-nuestra-ingenuidad",
       "source": "Expansion MX",
       "pub": "Mon, 17 Aug 2026 12:03:09 GMT"
-    },
-    {
-      "title": "Diversidad generacional: el nuevo motor del desarrollo profesional",
-      "link": "https://expansion.mx/opinion/2026/08/17/diversidad-generacional-el-nuevo-motor-del-desarrollo-profesional",
-      "source": "Expansion MX",
-      "pub": "Mon, 17 Aug 2026 12:02:25 GMT"
-    },
-    {
-      "title": "México entre Norteamérica y Europa: Una nueva plataforma para la inversión estratégica",
-      "link": "https://expansion.mx/opinion/2026/08/17/mexico-entre-norteamerica-y-europa-una-nueva-plataforma-para-la-inversion-estrategica",
-      "source": "Expansion MX",
-      "pub": "Mon, 17 Aug 2026 11:59:24 GMT"
-    },
-    {
-      "title": "La preparación del talento: el factor decisivo para aprovechar el potencial de la IA",
-      "link": "https://expansion.mx/opinion/2026/08/17/la-preparacion-del-talento-el-factor-decisivo-para-aprovechar-el-potencial-de-la-ia",
-      "source": "Expansion MX",
-      "pub": "Mon, 17 Aug 2026 11:59:17 GMT"
     }
   ]
 }
