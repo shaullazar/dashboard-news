@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T15:13:16.845006+00:00",
+  "updated": "2026-08-18T15:45:08.071723+00:00",
   "colombia": [
     {
       "title": "A nation united: Colombia’s earthquake sparks wave of solidarity",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "INFINITI apuesta al lujo que elige diferente con la nueva QX65",
+      "link": "https://expansion.mx/empresas/2026/08/18/infiniti-apuesta-al-lujo-que-elige-diferente-con-la-nueva-qx65",
+      "source": "Expansion MX",
+      "pub": "Tue, 18 Aug 2026 14:49:29 GMT"
+    },
+    {
       "title": "La transformación del marketing tradicional a la omnicanalidad en farma",
       "link": "https://expansion.mx/opinion/2026/08/18/la-transformacion-del-marketing-tradicional-a-la-omnicanalidad-en-farma",
       "source": "Expansion MX",
@@ -104,18 +110,6 @@
       "link": "https://expansion.mx/tecnologia/2026/08/17/sobrecargos-app-para-revisar-nomina-pagos",
       "source": "Expansion MX",
       "pub": "Tue, 18 Aug 2026 00:00:04 GMT"
-    },
-    {
-      "title": "Grupo Modelo y Heineken vuelven a chocar por Michelob y Amstel Ultra: la pelea llega otra vez a la SCJN",
-      "link": "https://expansion.mx/empresas/2026/08/17/grupo-modelo-heineken-choca-michelob-amstel-ultra-pelea-scjn",
-      "source": "Expansion MX",
-      "pub": "Mon, 17 Aug 2026 23:43:02 GMT"
-    },
-    {
-      "title": "¿Tienes una prenda en Monte de Piedad? Profeco explica cómo reclamar si ya pagaste",
-      "link": "https://expansion.mx/finanzas-personales/2026/08/17/recuperar-prenda-nacional-monte-piedad-profeco-ayuda",
-      "source": "Expansion MX",
-      "pub": "Mon, 17 Aug 2026 23:39:05 GMT"
     }
   ]
 }
