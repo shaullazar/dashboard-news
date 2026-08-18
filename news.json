@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T21:49:09.413878+00:00",
+  "updated": "2026-08-18T22:00:32.721890+00:00",
   "colombia": [
     {
       "title": "Why Colombia’s ex-President Petro had to get senate approval to leave the country",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Estados Unidos sanciona a la presidenta Corte Penal Internacional, Tomoko Akane",
+      "link": "https://expansion.mx/mundo/2026/08/18/estados-unidos-sanciona-tomoko-akane-cpi",
+      "source": "Expansion MX",
+      "pub": "Tue, 18 Aug 2026 21:23:48 GMT"
+    },
+    {
       "title": "48% de las empresas en México usan IA, pero Amazon advierte que casi nadie sabe medir sus ganancias",
       "link": "https://expansion.mx/tecnologia/2026/08/18/empresas-usan-ia-pero-no-sabe-medir-ganancias-amazon",
       "source": "Expansion MX",
@@ -110,12 +116,6 @@
       "link": "https://expansion.mx/empresas/2026/08/18/infiniti-apuesta-al-lujo-que-elige-diferente-con-la-nueva-qx65",
       "source": "Expansion MX",
       "pub": "Tue, 18 Aug 2026 14:49:29 GMT"
-    },
-    {
-      "title": "La transformación del marketing tradicional a la omnicanalidad en farma",
-      "link": "https://expansion.mx/opinion/2026/08/18/la-transformacion-del-marketing-tradicional-a-la-omnicanalidad-en-farma",
-      "source": "Expansion MX",
-      "pub": "Tue, 18 Aug 2026 12:18:43 GMT"
     }
   ]
 }
