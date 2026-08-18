@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T23:01:07.978024+00:00",
+  "updated": "2026-08-18T23:25:35.406439+00:00",
   "colombia": [
     {
       "title": "Why Colombia’s ex-President Petro had to get senate approval to leave the country",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Los Baillères compraron dos aseguradoras y hoy son los reyes de los seguros en México con ventas millonarias",
+      "link": "https://expansion.mx/empresas/2026/08/18/como-bailleres-construyeron-gnp-seguros-historia",
+      "source": "Expansion MX",
+      "pub": "Tue, 18 Aug 2026 22:40:44 GMT"
+    },
+    {
       "title": "El terremoto de Colombia provoca daños por 9,570 millones de dólares",
       "link": "https://expansion.mx/mundo/2026/08/18/terremoto-en-colombia-danos-9570-millones-dolares",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/mundo/2026/08/18/no-hay-mas-terremotos-pero-si-mas-danos",
       "source": "Expansion MX",
       "pub": "Tue, 18 Aug 2026 17:02:09 GMT"
-    },
-    {
-      "title": "¿Quién es el dueño de Ediciones Era? La editorial que cierra tras 66 años y una crisis de ventas",
-      "link": "https://expansion.mx/tendencias/2026/08/18/quien-es-dueno-ediciones-era-cierra-operaciones",
-      "source": "Expansion MX",
-      "pub": "Tue, 18 Aug 2026 16:44:15 GMT"
     }
   ]
 }
