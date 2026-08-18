@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-18T19:32:08.709475+00:00",
+  "updated": "2026-08-18T19:50:18.299157+00:00",
   "colombia": [
+    {
+      "title": "Why Colombia’s ex-President Petro had to get senate approval to leave the country",
+      "link": "https://thebogotapost.com/why-colombias-ex-president-petro-had-to-get-senate-approval-to-leave-the-country/56711/",
+      "source": "The Bogota Post",
+      "pub": "Tue, 18 Aug 2026 19:37:00 +0000"
+    },
     {
       "title": "A nation united: Colombia’s earthquake sparks wave of solidarity",
       "link": "https://thebogotapost.com/a-nation-united-colombias-earthquake-sparks-wave-of-solidarity/56694/",
@@ -54,15 +60,15 @@
       "link": "https://thebogotapost.com/how-colombias-tech-ecosystem-is-meeting-rising-global-cybersecurity-standards/56641/",
       "source": "The Bogota Post",
       "pub": "Fri, 24 Jul 2026 16:57:12 +0000"
-    },
-    {
-      "title": "De la Espriella’s defeat in congress could signal turbulent term in office",
-      "link": "https://thebogotapost.com/de-la-espriellas-defeat-in-congress-could-signal-turbulent-term-in-office/56636/",
-      "source": "The Bogota Post",
-      "pub": "Tue, 21 Jul 2026 23:26:49 +0000"
     }
   ],
   "mexico": [
+    {
+      "title": "Aeroméxico y Volaris abren nuevas rutas: las ciudades que ganan vuelos directos este año",
+      "link": "https://expansion.mx/empresas/2026/08/18/volaris-aeromexico-nuevas-rutas-2026",
+      "source": "Expansion MX",
+      "pub": "Tue, 18 Aug 2026 19:31:49 GMT"
+    },
     {
       "title": "Los terremotos no son más frecuentes, pero sí más costosos de enfrentar",
       "link": "https://expansion.mx/mundo/2026/08/18/no-hay-mas-terremotos-pero-si-mas-danos",
@@ -104,12 +110,6 @@
       "link": "https://expansion.mx/opinion/2026/08/18/la-transformacion-del-marketing-tradicional-a-la-omnicanalidad-en-farma",
       "source": "Expansion MX",
       "pub": "Tue, 18 Aug 2026 12:18:43 GMT"
-    },
-    {
-      "title": "Nuevo 'modus operandi' del cibercrimen en México: Hackers llevan la extorsión hasta las impresoras",
-      "link": "https://expansion.mx/tecnologia/2026/08/18/ackers-impresoras-extorsion-empresas-mexico-ransomware",
-      "source": "Expansion MX",
-      "pub": "Tue, 18 Aug 2026 11:55:51 GMT"
     }
   ]
 }
