@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T00:01:27.339624+00:00",
+  "updated": "2026-08-18T01:27:08.915123+00:00",
   "colombia": [
     {
       "title": "A nation united: Colombia’s earthquake sparks wave of solidarity",
@@ -64,6 +64,24 @@
   ],
   "mexico": [
     {
+      "title": "Piden vetar a Infantino de reelección de la FIFA",
+      "link": "https://expansion.mx/tendencias/2026/08/17/piden-vetar-infantino-reeleccion-fifa",
+      "source": "Expansion MX",
+      "pub": "Tue, 18 Aug 2026 00:37:27 GMT"
+    },
+    {
+      "title": "¿Te están pagando completo? La app que creó un sobrecargo para revisar tu nómina",
+      "link": "https://expansion.mx/tecnologia/2026/08/17/sobrecargos-app-para-revisar-nomina-pagos",
+      "source": "Expansion MX",
+      "pub": "Tue, 18 Aug 2026 00:00:04 GMT"
+    },
+    {
+      "title": "Grupo Modelo y Heineken vuelven a chocar por Michelob y Amstel Ultra: la pelea llega otra vez a la SCJN",
+      "link": "https://expansion.mx/empresas/2026/08/17/grupo-modelo-heineken-choca-michelob-amstel-ultra-pelea-scjn",
+      "source": "Expansion MX",
+      "pub": "Mon, 17 Aug 2026 23:43:02 GMT"
+    },
+    {
       "title": "¿Tienes una prenda en Monte de Piedad? Profeco explica cómo reclamar si ya pagaste",
       "link": "https://expansion.mx/finanzas-personales/2026/08/17/recuperar-prenda-nacional-monte-piedad-profeco-ayuda",
       "source": "Expansion MX",
@@ -80,12 +98,6 @@
       "link": "https://expansion.mx/economia/2026/08/17/contadores-nuevos-impuestos-2027-advierten-mas-fiscalizacion",
       "source": "Expansion MX",
       "pub": "Mon, 17 Aug 2026 23:27:42 GMT"
-    },
-    {
-      "title": "El primer plazo del registro telefónico arrancó con reclamos, líneas suspendidas y plataformas saturadas",
-      "link": "https://expansion.mx/empresas/2026/08/17/hice-registro-de-todas-formas-mi-linea-fue-suspendida",
-      "source": "Expansion MX",
-      "pub": "Mon, 17 Aug 2026 23:12:19 GMT"
     },
     {
       "title": "Cox anuncia construcción de desaladora en México con una inversión de 304 millones de dólares",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/08/17/se-cayo-telcel-fallas-en-recargas-senal-e-internet",
       "source": "Expansion MX",
       "pub": "Mon, 17 Aug 2026 22:28:37 GMT"
-    },
-    {
-      "title": "De Petro a De Moraes, ¿a qué líderes latinoamericanos EU les han revocado la visa?",
-      "link": "https://expansion.mx/mundo/2026/08/17/lideres-latinoamericanos-eu-les-ha-quitado-visa",
-      "source": "Expansion MX",
-      "pub": "Mon, 17 Aug 2026 22:27:43 GMT"
-    },
-    {
-      "title": "Más que un sueldo: las 10 empresas con mejores prestaciones y condiciones para mujeres en México",
-      "link": "https://expansion.mx/empresas/2026/08/17/super-empresas-para-mujeres-ranking-2026",
-      "source": "Expansion MX",
-      "pub": "Mon, 17 Aug 2026 22:11:23 GMT"
     }
   ]
 }
