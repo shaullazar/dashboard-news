@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T20:28:47.103687+00:00",
+  "updated": "2026-08-18T20:48:59.253283+00:00",
   "colombia": [
     {
       "title": "Why Colombia’s ex-President Petro had to get senate approval to leave the country",
@@ -63,6 +63,12 @@
     }
   ],
   "mexico": [
+    {
+      "title": "48% de las empresas en México usan IA, pero Amazon advierte que casi nadie sabe medir sus ganancias",
+      "link": "https://expansion.mx/tecnologia/2026/08/18/empresas-usan-ia-pero-no-sabe-medir-ganancias-amazon",
+      "source": "Expansion MX",
+      "pub": "Tue, 18 Aug 2026 20:00:15 GMT"
+    },
     {
       "title": "Aeroméxico y Volaris abren nuevas rutas: las ciudades que ganan vuelos directos este año",
       "link": "https://expansion.mx/empresas/2026/08/18/volaris-aeromexico-nuevas-rutas-2026",
