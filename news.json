@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T17:01:39.475156+00:00",
+  "updated": "2026-08-18T17:32:13.036784+00:00",
   "colombia": [
     {
       "title": "A nation united: Colombia’s earthquake sparks wave of solidarity",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "¿Quién es el dueño de Ediciones Era? La editorial que cierra tras 66 años y una crisis de ventas",
+      "link": "https://expansion.mx/tendencias/2026/08/18/quien-es-dueno-ediciones-era-cierra-operaciones",
+      "source": "Expansion MX",
+      "pub": "Tue, 18 Aug 2026 16:44:15 GMT"
+    },
+    {
       "title": "Factureras: El ciclo oculto del lavado de dinero",
       "link": "https://expansion.mx/opinion/2026/08/18/factureras-el-ciclo-oculto-del-lavado-de-dinero",
       "source": "Expansion MX",
@@ -104,12 +110,6 @@
       "link": "https://expansion.mx/mundo/2026/08/18/los-terremotos-no-son-mas-frecuentes-pero-si-mas-costosos-de-enfrentar",
       "source": "Expansion MX",
       "pub": "Tue, 18 Aug 2026 11:55:09 GMT"
-    },
-    {
-      "title": "Tu nómina puede darte más que un sueldo; estos bancos ofrecen seguros, cashback y créditos",
-      "link": "https://expansion.mx/finanzas-personales/2026/08/17/cambiar-banco-nomina-bancos-seguros-cashback-creditos",
-      "source": "Expansion MX",
-      "pub": "Tue, 18 Aug 2026 01:29:10 GMT"
     }
   ]
 }
