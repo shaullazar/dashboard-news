@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T12:48:08.016529+00:00",
+  "updated": "2026-08-18T13:31:04.342399+00:00",
   "colombia": [
     {
       "title": "A nation united: Colombia’s earthquake sparks wave of solidarity",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "La transformación del marketing tradicional a la omnicanalidad en farma",
+      "link": "https://expansion.mx/opinion/2026/08/18/la-transformacion-del-marketing-tradicional-a-la-omnicanalidad-en-farma",
+      "source": "Expansion MX",
+      "pub": "Tue, 18 Aug 2026 12:18:43 GMT"
+    },
+    {
+      "title": "Nuevo 'modus operandi' del cibercrimen en México: Hackers llevan la extorsión hasta las impresoras",
+      "link": "https://expansion.mx/tecnologia/2026/08/18/ackers-impresoras-extorsion-empresas-mexico-ransomware",
+      "source": "Expansion MX",
+      "pub": "Tue, 18 Aug 2026 11:55:51 GMT"
+    },
+    {
+      "title": "Vietnam duplica sus exportaciones a México entre alertas por triangulación china",
+      "link": "https://expansion.mx/economia/2026/08/18/vietnam-exportaciones-mexico-triangulacion-china",
+      "source": "Expansion MX",
+      "pub": "Tue, 18 Aug 2026 11:55:25 GMT"
+    },
+    {
+      "title": "Los terremotos no son más frecuentes, pero sí más costosos de enfrentar",
+      "link": "https://expansion.mx/mundo/2026/08/18/los-terremotos-no-son-mas-frecuentes-pero-si-mas-costosos-de-enfrentar",
+      "source": "Expansion MX",
+      "pub": "Tue, 18 Aug 2026 11:55:09 GMT"
+    },
+    {
       "title": "Tu nómina puede darte más que un sueldo; estos bancos ofrecen seguros, cashback y créditos",
       "link": "https://expansion.mx/finanzas-personales/2026/08/17/cambiar-banco-nomina-bancos-seguros-cashback-creditos",
       "source": "Expansion MX",
@@ -92,36 +116,6 @@
       "link": "https://expansion.mx/finanzas-personales/2026/08/17/recuperar-prenda-nacional-monte-piedad-profeco-ayuda",
       "source": "Expansion MX",
       "pub": "Mon, 17 Aug 2026 23:39:05 GMT"
-    },
-    {
-      "title": "La Corte Suprema rechaza de nuevo una apelación de Trump en caso de la escritora E. Jean Carroll",
-      "link": "https://expansion.mx/mundo/2026/08/17/la-corte-suprema-rechaza-de-nuevo-una-apelacion-de-trump-en-caso-de-la-escritora-e-jean-carroll",
-      "source": "Expansion MX",
-      "pub": "Mon, 17 Aug 2026 23:28:19 GMT"
-    },
-    {
-      "title": "Los contadores descartan nuevos impuestos para 2027, pero advierten sobre más fiscalización",
-      "link": "https://expansion.mx/economia/2026/08/17/contadores-nuevos-impuestos-2027-advierten-mas-fiscalizacion",
-      "source": "Expansion MX",
-      "pub": "Mon, 17 Aug 2026 23:27:42 GMT"
-    },
-    {
-      "title": "Cox anuncia construcción de desaladora en México con una inversión de 304 millones de dólares",
-      "link": "https://expansion.mx/empresas/2026/08/17/cox-anuncia-construccion-desaladora-en-mexico-por-304-mdd",
-      "source": "Expansion MX",
-      "pub": "Mon, 17 Aug 2026 22:49:54 GMT"
-    },
-    {
-      "title": "Millennials necesitan ganar 85,800 pesos para comprar casa en CDMX, menos del 4% lo logra",
-      "link": "https://expansion.mx/economia/2026/08/17/millennials-necesitan-ganar-85800-pesos-comprar-casa-cdmx",
-      "source": "Expansion MX",
-      "pub": "Mon, 17 Aug 2026 22:45:38 GMT"
-    },
-    {
-      "title": "De botarga a empresario musical: cómo el Doctor Simi llegó a tener su propio festival en México",
-      "link": "https://expansion.mx/tendencias/2026/08/17/como-doctor-simi-llego-tener-propio-festival-simifest",
-      "source": "Expansion MX",
-      "pub": "Mon, 17 Aug 2026 22:45:38 GMT"
     }
   ]
 }
