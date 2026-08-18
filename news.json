@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T17:32:13.036784+00:00",
+  "updated": "2026-08-18T17:55:51.268821+00:00",
   "colombia": [
     {
       "title": "A nation united: Colombia’s earthquake sparks wave of solidarity",
@@ -64,10 +64,22 @@
   ],
   "mexico": [
     {
+      "title": "Los terremotos no son más frecuentes, pero sí más costosos de enfrentar",
+      "link": "https://expansion.mx/mundo/2026/08/18/no-hay-mas-terremotos-pero-si-mas-danos",
+      "source": "Expansion MX",
+      "pub": "Tue, 18 Aug 2026 17:02:09 GMT"
+    },
+    {
       "title": "¿Quién es el dueño de Ediciones Era? La editorial que cierra tras 66 años y una crisis de ventas",
       "link": "https://expansion.mx/tendencias/2026/08/18/quien-es-dueno-ediciones-era-cierra-operaciones",
       "source": "Expansion MX",
       "pub": "Tue, 18 Aug 2026 16:44:15 GMT"
+    },
+    {
+      "title": "ExxonMobil lidera la conversación sobre innovación y lubricación avanzada",
+      "link": "https://expansion.mx/tendencias/2026/08/18/exxonmobil-conversacion-sobre-innovacion-y-lubricacion",
+      "source": "Expansion MX",
+      "pub": "Tue, 18 Aug 2026 16:30:37 GMT"
     },
     {
       "title": "Factureras: El ciclo oculto del lavado de dinero",
@@ -98,18 +110,6 @@
       "link": "https://expansion.mx/tecnologia/2026/08/18/ackers-impresoras-extorsion-empresas-mexico-ransomware",
       "source": "Expansion MX",
       "pub": "Tue, 18 Aug 2026 11:55:51 GMT"
-    },
-    {
-      "title": "Vietnam duplica sus exportaciones a México entre alertas por triangulación china",
-      "link": "https://expansion.mx/economia/2026/08/18/vietnam-exportaciones-mexico-triangulacion-china",
-      "source": "Expansion MX",
-      "pub": "Tue, 18 Aug 2026 11:55:25 GMT"
-    },
-    {
-      "title": "Los terremotos no son más frecuentes, pero sí más costosos de enfrentar",
-      "link": "https://expansion.mx/mundo/2026/08/18/los-terremotos-no-son-mas-frecuentes-pero-si-mas-costosos-de-enfrentar",
-      "source": "Expansion MX",
-      "pub": "Tue, 18 Aug 2026 11:55:09 GMT"
     }
   ]
 }
