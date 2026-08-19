@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T12:15:01.324369+00:00",
+  "updated": "2026-08-19T13:08:34.262912+00:00",
   "colombia": [
     {
       "title": "Why Colombia’s ex-President Petro had to get senate approval to leave the country",
@@ -64,10 +64,46 @@
   ],
   "mexico": [
     {
+      "title": "La preparación del talento: el factor decisivo para aprovechar el potencial de la IA",
+      "link": "https://expansion.mx/opinion/2026/08/19/la-preparacion-del-talento-el-factor-decisivo-para-aprovechar-el-potencial-de-la-ia",
+      "source": "Expansion MX",
+      "pub": "Wed, 19 Aug 2026 12:06:19 GMT"
+    },
+    {
+      "title": "La IA y sus riesgos ya entraron a tu empresa (y nadie te avisó)",
+      "link": "https://expansion.mx/opinion/2026/08/19/ia-riesgos-empresa-y-nadie-te-aviso",
+      "source": "Expansion MX",
+      "pub": "Wed, 19 Aug 2026 12:06:04 GMT"
+    },
+    {
+      "title": "El burnout también tiene costo en la salud sexual",
+      "link": "https://expansion.mx/opinion/2026/08/19/el-burnout-tambien-tiene-costo-en-la-salud-sexual",
+      "source": "Expansion MX",
+      "pub": "Wed, 19 Aug 2026 12:05:10 GMT"
+    },
+    {
       "title": "Del peonaje al algoritmo: El desafío del Tecno-Feudalismo y la ruta hacia la autonomía",
       "link": "https://expansion.mx/opinion/2026/08/19/del-peonaje-al-algoritmo-el-desafio-del-tecno-feudalismo-y-la-ruta-hacia-la-autonomia",
       "source": "Expansion MX",
       "pub": "Wed, 19 Aug 2026 12:04:57 GMT"
+    },
+    {
+      "title": "BanBajío busca duplicar su negocio empresarial en CDMX para 2030",
+      "link": "https://expansion.mx/economia/2026/08/19/banbajio-quiere-colocar-mitad-negocio-cdmx",
+      "source": "Expansion MX",
+      "pub": "Wed, 19 Aug 2026 11:55:47 GMT"
+    },
+    {
+      "title": "Trump pierde margen de maniobra en la guerra entre EU e Irán",
+      "link": "https://expansion.mx/mundo/2026/08/19/trump-pierde-margen-de-maniobra-en-la-guerra-entre-eu-e-iran",
+      "source": "Expansion MX",
+      "pub": "Wed, 19 Aug 2026 11:55:28 GMT"
+    },
+    {
+      "title": "“Reparar no es explicar”: la UNAM aún debe esclarecer qué falló en su examen",
+      "link": "https://expansion.mx/tecnologia/2026/08/19/fallas-examen-unam-2026-explicar-que-ocurrio",
+      "source": "Expansion MX",
+      "pub": "Wed, 19 Aug 2026 11:55:05 GMT"
     },
     {
       "title": "EU da golpe preliminar a la fresa mexicana con tasa antidumping de hasta 5.28%",
@@ -86,42 +122,6 @@
       "link": "https://expansion.mx/finanzas-personales/2026/08/18/lista-de-utiles-2026-cuadernos-mochilas-ya-cuestan-mas",
       "source": "Expansion MX",
       "pub": "Wed, 19 Aug 2026 01:35:09 GMT"
-    },
-    {
-      "title": "UNAM vs. Tec: la diferencia de 1.4 millones por estudiar en las mejores universidades de México",
-      "link": "https://expansion.mx/carrera/2026/08/18/unam-tec-1-4-millones-estudiar-mejores-universidades-mexico",
-      "source": "Expansion MX",
-      "pub": "Wed, 19 Aug 2026 00:47:56 GMT"
-    },
-    {
-      "title": "Meta enfrenta su “momento tabacalera”: el juicio que puede cambiar el negocio de las redes sociales",
-      "link": "https://expansion.mx/tecnologia/2026/08/18/meta-enfrenta-su-momento-tabacalero",
-      "source": "Expansion MX",
-      "pub": "Wed, 19 Aug 2026 00:19:02 GMT"
-    },
-    {
-      "title": "Quién es Natalie Harp, la funcionaria cercana a Trump que saltó al ojo público",
-      "link": "https://expansion.mx/mundo/2026/08/18/quien-es-natalie-harp-cercana-a-trump",
-      "source": "Expansion MX",
-      "pub": "Tue, 18 Aug 2026 23:56:25 GMT"
-    },
-    {
-      "title": "¿Es posible aumentar pensión para beneficiarios de la Ley 73 del IMSS? Esto dice amparo",
-      "link": "https://expansion.mx/finanzas-personales/2026/08/18/es-posible-aumentar-pension-beneficiarios-ley-73-imss-amparo",
-      "source": "Expansion MX",
-      "pub": "Tue, 18 Aug 2026 23:55:58 GMT"
-    },
-    {
-      "title": "Casi 3 de cada 10 consultoras de belleza tienen licenciatura, pero enfrentan problemas para analizar datos",
-      "link": "https://expansion.mx/carrera/2026/08/18/consultoras-natura-dificultades-para-analizar-datos",
-      "source": "Expansion MX",
-      "pub": "Tue, 18 Aug 2026 23:40:37 GMT"
-    },
-    {
-      "title": "¿Te regalaron dinero? El depósito que puede llamar la atención del SAT y cómo evitar problemas",
-      "link": "https://expansion.mx/finanzas-personales/2026/08/18/deposito-dinero-efectivo-problemas-sat",
-      "source": "Expansion MX",
-      "pub": "Tue, 18 Aug 2026 23:34:50 GMT"
     }
   ]
 }
