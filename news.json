@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T22:36:53.805337+00:00",
+  "updated": "2026-08-19T22:55:27.609048+00:00",
   "colombia": [
     {
       "title": "Why Colombia’s ex-President Petro had to get senate approval to leave the country",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Huawei lleva 7 años vetado de Google: ¿qué tan lejos está de Android en 2026?",
+      "link": "https://expansion.mx/tecnologia/2026/08/19/huawei-veto-google-ecosistema-movil-veto",
+      "source": "Expansion MX",
+      "pub": "Wed, 19 Aug 2026 22:15:11 GMT"
+    },
+    {
+      "title": "Palacio de Hierro tiene 488 millones en puntos sin canjear; ¿por qué no es algo negativo para la empresa?",
+      "link": "https://expansion.mx/empresas/2026/08/19/palacio-de-hierro-puntos-sin-canjear-488-millones",
+      "source": "Expansion MX",
+      "pub": "Wed, 19 Aug 2026 21:57:12 GMT"
+    },
+    {
       "title": "La historia detrás de Anforama, la cadena mexicana que cierra sucursales y remata mercancía",
       "link": "https://expansion.mx/empresas/2026/08/19/anforama-cierra-sucursales-historia",
       "source": "Expansion MX",
@@ -104,18 +116,6 @@
       "link": "https://expansion.mx/mercados/2026/08/19/peso-mexicano-rompe-barrera-17-cotiza-16-95-dolar",
       "source": "Expansion MX",
       "pub": "Wed, 19 Aug 2026 14:19:02 GMT"
-    },
-    {
-      "title": "OpenAI frena su IA más avanzada después de que un agente escapó y lanzó un ataque por su cuenta",
-      "link": "https://expansion.mx/tecnologia/2026/08/19/openai-frena-ia-avanzada-tras-ataque-autonomo",
-      "source": "Expansion MX",
-      "pub": "Wed, 19 Aug 2026 13:49:48 GMT"
-    },
-    {
-      "title": "El verdadero valor de un medicamento",
-      "link": "https://expansion.mx/https:/obras.expansion.mx/opinion/2026/08/19/verdadero-valor-de-un-medicamento",
-      "source": "Expansion MX",
-      "pub": "Wed, 19 Aug 2026 12:36:19 GMT"
     }
   ]
 }
