@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T18:51:36.163347+00:00",
+  "updated": "2026-08-19T19:13:17.415579+00:00",
   "colombia": [
     {
       "title": "Why Colombia’s ex-President Petro had to get senate approval to leave the country",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "Brote de ébola deja más de 2,000 muertos: \"La epidemia no está bajo control”",
+      "link": "https://expansion.mx/mundo/2026/08/19/oms-brote-de-ebola-deja-mas-2-000-muertos",
+      "source": "Expansion MX",
+      "pub": "Wed, 19 Aug 2026 18:34:48 GMT"
+    },
+    {
+      "title": "¿Cómo analizar el costo-beneficio de la consolidación de deudas?",
+      "link": "https://expansion.mx/bespoke-ad/2026/08/19/como-analizar-el-costo-beneficio-de-la-consolidacion-de-deudas",
+      "source": "Expansion MX",
+      "pub": "Wed, 19 Aug 2026 18:04:59 GMT"
+    },
+    {
+      "title": "La cuota antidumping a la fresa mexicana puede ser solo el principio, advierte el CNA",
+      "link": "https://expansion.mx/economia/2026/08/19/cuota-antidumping-fresa-mexicana-riesgo-campo-cna",
+      "source": "Expansion MX",
+      "pub": "Wed, 19 Aug 2026 17:21:59 GMT"
+    },
+    {
+      "title": "Campañas que venden hoy, pero dejan de generar valor cuando termina la inversión publicitaria",
+      "link": "https://expansion.mx/opinion/2026/08/19/campana-publicitaria-activos-atencion-rentada",
+      "source": "Expansion MX",
+      "pub": "Wed, 19 Aug 2026 17:09:28 GMT"
+    },
+    {
       "title": "Líneas telefónicas 0 ya fueron suspendidas por no registrarse; esta es la fecha para los números 1",
       "link": "https://expansion.mx/empresas/2026/08/19/lineas-telefonicas-1-fecha-registro-suspension",
       "source": "Expansion MX",
@@ -82,46 +106,16 @@
       "pub": "Wed, 19 Aug 2026 13:49:48 GMT"
     },
     {
-      "title": "La preparación del talento: el factor decisivo para aprovechar el potencial de la IA",
-      "link": "https://expansion.mx/opinion/2026/08/19/la-preparacion-del-talento-el-factor-decisivo-para-aprovechar-el-potencial-de-la-ia",
+      "title": "El verdadero valor de un medicamento",
+      "link": "https://expansion.mx/https:/obras.expansion.mx/opinion/2026/08/19/verdadero-valor-de-un-medicamento",
       "source": "Expansion MX",
-      "pub": "Wed, 19 Aug 2026 12:06:19 GMT"
+      "pub": "Wed, 19 Aug 2026 12:36:19 GMT"
     },
     {
-      "title": "La IA y sus riesgos ya entraron a tu empresa (y nadie te avisó)",
-      "link": "https://expansion.mx/opinion/2026/08/19/ia-riesgos-empresa-y-nadie-te-aviso",
+      "title": "Aprovechemos todo el valor del momento de la IA",
+      "link": "https://expansion.mx/opinion/2026/08/21/aprovechemos-todo-el-valor-del-momento-de-la-ia",
       "source": "Expansion MX",
-      "pub": "Wed, 19 Aug 2026 12:06:04 GMT"
-    },
-    {
-      "title": "El burnout también tiene costo en la salud sexual",
-      "link": "https://expansion.mx/opinion/2026/08/19/el-burnout-tambien-tiene-costo-en-la-salud-sexual",
-      "source": "Expansion MX",
-      "pub": "Wed, 19 Aug 2026 12:05:10 GMT"
-    },
-    {
-      "title": "Del peonaje al algoritmo: El desafío del Tecno-Feudalismo y la ruta hacia la autonomía",
-      "link": "https://expansion.mx/opinion/2026/08/19/del-peonaje-al-algoritmo-el-desafio-del-tecno-feudalismo-y-la-ruta-hacia-la-autonomia",
-      "source": "Expansion MX",
-      "pub": "Wed, 19 Aug 2026 12:04:57 GMT"
-    },
-    {
-      "title": "BanBajío busca duplicar su negocio empresarial en CDMX para 2030",
-      "link": "https://expansion.mx/economia/2026/08/19/banbajio-quiere-colocar-mitad-negocio-cdmx",
-      "source": "Expansion MX",
-      "pub": "Wed, 19 Aug 2026 11:55:47 GMT"
-    },
-    {
-      "title": "Trump pierde margen de maniobra en la guerra entre EU e Irán",
-      "link": "https://expansion.mx/mundo/2026/08/19/trump-pierde-margen-de-maniobra-en-la-guerra-entre-eu-e-iran",
-      "source": "Expansion MX",
-      "pub": "Wed, 19 Aug 2026 11:55:28 GMT"
-    },
-    {
-      "title": "“Reparar no es explicar”: la UNAM aún debe esclarecer qué falló en su examen",
-      "link": "https://expansion.mx/tecnologia/2026/08/19/fallas-examen-unam-2026-explicar-que-ocurrio",
-      "source": "Expansion MX",
-      "pub": "Wed, 19 Aug 2026 11:55:05 GMT"
+      "pub": "Wed, 19 Aug 2026 12:07:27 GMT"
     }
   ]
 }
