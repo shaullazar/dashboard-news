@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T15:48:54.069967+00:00",
+  "updated": "2026-08-19T16:11:55.961797+00:00",
   "colombia": [
     {
       "title": "Why Colombia’s ex-President Petro had to get senate approval to leave the country",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Peso mexicano rompe la barrera de 17 y cotiza en 16.95 por dólar",
+      "link": "https://expansion.mx/mercados/2026/08/19/peso-mexicano-rompe-barrera-17-cotiza-16-95-dolar",
+      "source": "Expansion MX",
+      "pub": "Wed, 19 Aug 2026 14:19:02 GMT"
+    },
+    {
+      "title": "OpenAI frena su IA más avanzada después de que un agente escapó y lanzó un ataque por su cuenta",
+      "link": "https://expansion.mx/tecnologia/2026/08/19/openai-frena-ia-avanzada-tras-ataque-autonomo",
+      "source": "Expansion MX",
+      "pub": "Wed, 19 Aug 2026 13:49:48 GMT"
+    },
+    {
       "title": "La preparación del talento: el factor decisivo para aprovechar el potencial de la IA",
       "link": "https://expansion.mx/opinion/2026/08/19/la-preparacion-del-talento-el-factor-decisivo-para-aprovechar-el-potencial-de-la-ia",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/economia/2026/08/18/eu-da-golpe-preliminar-fresa-mexicana-cuota-antidumping",
       "source": "Expansion MX",
       "pub": "Wed, 19 Aug 2026 04:30:49 GMT"
-    },
-    {
-      "title": "Trump da tres días a Canadá ante aranceles de 50% y revive un oleoducto",
-      "link": "https://expansion.mx/economia/2026/08/18/trump-aplaza-aranceles-canada-oleoducto-keystone-xl",
-      "source": "Expansion MX",
-      "pub": "Wed, 19 Aug 2026 04:02:43 GMT"
-    },
-    {
-      "title": "Revisa tu lista de útiles 2026: los cuadernos y mochilas ya cuestan 23% más que el año pasado",
-      "link": "https://expansion.mx/finanzas-personales/2026/08/18/lista-de-utiles-2026-cuadernos-mochilas-ya-cuestan-mas",
-      "source": "Expansion MX",
-      "pub": "Wed, 19 Aug 2026 01:35:09 GMT"
     }
   ]
 }
