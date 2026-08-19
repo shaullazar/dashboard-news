@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T17:02:52.194976+00:00",
+  "updated": "2026-08-19T17:33:13.798109+00:00",
   "colombia": [
     {
       "title": "Why Colombia’s ex-President Petro had to get senate approval to leave the country",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Campañas que venden hoy, pero dejan de generar valor cuando termina la inversión publicitaria",
+      "link": "https://expansion.mx/opinion/2026/08/19/campana-publicitaria-activos-atencion-rentada",
+      "source": "Expansion MX",
+      "pub": "Wed, 19 Aug 2026 17:09:28 GMT"
+    },
+    {
       "title": "Líneas telefónicas 0 ya fueron suspendidas por no registrarse; esta es la fecha para los números 1",
       "link": "https://expansion.mx/empresas/2026/08/19/lineas-telefonicas-1-fecha-registro-suspension",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/mundo/2026/08/19/trump-pierde-margen-de-maniobra-en-la-guerra-entre-eu-e-iran",
       "source": "Expansion MX",
       "pub": "Wed, 19 Aug 2026 11:55:28 GMT"
-    },
-    {
-      "title": "“Reparar no es explicar”: la UNAM aún debe esclarecer qué falló en su examen",
-      "link": "https://expansion.mx/tecnologia/2026/08/19/fallas-examen-unam-2026-explicar-que-ocurrio",
-      "source": "Expansion MX",
-      "pub": "Wed, 19 Aug 2026 11:55:05 GMT"
     }
   ]
 }
