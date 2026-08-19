@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T04:24:12.729340+00:00",
+  "updated": "2026-08-19T04:57:23.436676+00:00",
   "colombia": [
     {
       "title": "Why Colombia’s ex-President Petro had to get senate approval to leave the country",
@@ -70,6 +70,12 @@
       "pub": "Wed, 19 Aug 2026 12:04:57 GMT"
     },
     {
+      "title": "Trump da tres días a Canadá ante aranceles de 50% y revive un oleoducto",
+      "link": "https://expansion.mx/economia/2026/08/18/trump-aplaza-aranceles-canada-oleoducto-keystone-xl",
+      "source": "Expansion MX",
+      "pub": "Wed, 19 Aug 2026 04:02:43 GMT"
+    },
+    {
       "title": "Revisa tu lista de útiles 2026: los cuadernos y mochilas ya cuestan 23% más que el año pasado",
       "link": "https://expansion.mx/finanzas-personales/2026/08/18/lista-de-utiles-2026-cuadernos-mochilas-ya-cuestan-mas",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/08/18/como-bailleres-construyeron-gnp-seguros-historia",
       "source": "Expansion MX",
       "pub": "Tue, 18 Aug 2026 22:40:44 GMT"
-    },
-    {
-      "title": "El terremoto de Colombia provoca daños por 9,570 millones de dólares",
-      "link": "https://expansion.mx/mundo/2026/08/18/terremoto-en-colombia-danos-9570-millones-dolares",
-      "source": "Expansion MX",
-      "pub": "Tue, 18 Aug 2026 22:18:52 GMT"
     }
   ]
 }
