@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T19:13:17.415579+00:00",
+  "updated": "2026-08-19T19:37:50.632781+00:00",
   "colombia": [
     {
       "title": "Why Colombia’s ex-President Petro had to get senate approval to leave the country",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "La historia detrás de Anforama, la cadena mexicana que cierra sucursales y remata mercancía",
+      "link": "https://expansion.mx/empresas/2026/08/19/anforama-cierra-sucursales-historia",
+      "source": "Expansion MX",
+      "pub": "Wed, 19 Aug 2026 19:00:42 GMT"
+    },
+    {
       "title": "Brote de ébola deja más de 2,000 muertos: \"La epidemia no está bajo control”",
       "link": "https://expansion.mx/mundo/2026/08/19/oms-brote-de-ebola-deja-mas-2-000-muertos",
       "source": "Expansion MX",
@@ -110,12 +116,6 @@
       "link": "https://expansion.mx/https:/obras.expansion.mx/opinion/2026/08/19/verdadero-valor-de-un-medicamento",
       "source": "Expansion MX",
       "pub": "Wed, 19 Aug 2026 12:36:19 GMT"
-    },
-    {
-      "title": "Aprovechemos todo el valor del momento de la IA",
-      "link": "https://expansion.mx/opinion/2026/08/21/aprovechemos-todo-el-valor-del-momento-de-la-ia",
-      "source": "Expansion MX",
-      "pub": "Wed, 19 Aug 2026 12:07:27 GMT"
     }
   ]
 }
