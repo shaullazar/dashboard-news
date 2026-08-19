@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T03:09:11.361920+00:00",
+  "updated": "2026-08-19T03:55:07.410442+00:00",
   "colombia": [
     {
       "title": "Why Colombia’s ex-President Petro had to get senate approval to leave the country",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Del peonaje al algoritmo: El desafío del Tecno-Feudalismo y la ruta hacia la autonomía",
+      "link": "https://expansion.mx/opinion/2026/08/19/del-peonaje-al-algoritmo-el-desafio-del-tecno-feudalismo-y-la-ruta-hacia-la-autonomia",
+      "source": "Expansion MX",
+      "pub": "Wed, 19 Aug 2026 12:04:57 GMT"
+    },
+    {
+      "title": "Revisa tu lista de útiles 2026: los cuadernos y mochilas ya cuestan 23% más que el año pasado",
+      "link": "https://expansion.mx/finanzas-personales/2026/08/18/lista-de-utiles-2026-cuadernos-mochilas-ya-cuestan-mas",
+      "source": "Expansion MX",
+      "pub": "Wed, 19 Aug 2026 01:35:09 GMT"
+    },
+    {
       "title": "UNAM vs. Tec: la diferencia de 1.4 millones por estudiar en las mejores universidades de México",
       "link": "https://expansion.mx/carrera/2026/08/18/unam-tec-1-4-millones-estudiar-mejores-universidades-mexico",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/mundo/2026/08/18/terremoto-en-colombia-danos-9570-millones-dolares",
       "source": "Expansion MX",
       "pub": "Tue, 18 Aug 2026 22:18:52 GMT"
-    },
-    {
-      "title": "Harry Styles deja 2,094 mdp en CDMX, casi lo mismo que costarán 500 nuevos autobuses RTP",
-      "link": "https://expansion.mx/tendencias/2026/08/18/conciertos-harry-styles-cdmx-equivalente-500-autobuses-rtp",
-      "source": "Expansion MX",
-      "pub": "Tue, 18 Aug 2026 21:58:18 GMT"
-    },
-    {
-      "title": "EU endurece regla de inglés y pone en riesgo a 9,000 camioneros al año",
-      "link": "https://expansion.mx/economia/2026/08/18/comercio-mexico-eu-nuevo-riesgo-camioneros-no-hablen-ingles",
-      "source": "Expansion MX",
-      "pub": "Tue, 18 Aug 2026 21:55:24 GMT"
     }
   ]
 }
