@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T23:12:27.042420+00:00",
+  "updated": "2026-08-19T23:34:39.104567+00:00",
   "colombia": [
     {
       "title": "Why Colombia’s ex-President Petro had to get senate approval to leave the country",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Herramientas tecnológicas impulsan hasta 97% el cumplimiento con el SAT",
+      "link": "https://expansion.mx/economia/2026/08/19/tecnologia-eleva-cumplimiento-obligaciones-sat",
+      "source": "Expansion MX",
+      "pub": "Wed, 19 Aug 2026 23:07:41 GMT"
+    },
+    {
       "title": "Cruz Azul nació como una fábrica de cal, casi desaparece y hoy la cooperativa vuelve a su antigua casa",
       "link": "https://expansion.mx/empresas/2026/08/19/cruz-azul-historia-cooperativa-nacio-hidalgo",
       "source": "Expansion MX",
@@ -110,12 +116,6 @@
       "link": "https://expansion.mx/opinion/2026/08/19/campana-publicitaria-activos-atencion-rentada",
       "source": "Expansion MX",
       "pub": "Wed, 19 Aug 2026 17:09:28 GMT"
-    },
-    {
-      "title": "Líneas telefónicas 0 ya fueron suspendidas por no registrarse; esta es la fecha para los números 1",
-      "link": "https://expansion.mx/empresas/2026/08/19/lineas-telefonicas-1-fecha-registro-suspension",
-      "source": "Expansion MX",
-      "pub": "Wed, 19 Aug 2026 16:05:13 GMT"
     }
   ]
 }
