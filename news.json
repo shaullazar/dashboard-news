@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T16:11:55.961797+00:00",
+  "updated": "2026-08-19T16:44:47.756854+00:00",
   "colombia": [
     {
       "title": "Why Colombia’s ex-President Petro had to get senate approval to leave the country",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Líneas telefónicas 0 ya fueron suspendidas por no registrarse; esta es la fecha para los números 1",
+      "link": "https://expansion.mx/empresas/2026/08/19/lineas-telefonicas-1-fecha-registro-suspension",
+      "source": "Expansion MX",
+      "pub": "Wed, 19 Aug 2026 16:05:13 GMT"
+    },
+    {
       "title": "Peso mexicano rompe la barrera de 17 y cotiza en 16.95 por dólar",
       "link": "https://expansion.mx/mercados/2026/08/19/peso-mexicano-rompe-barrera-17-cotiza-16-95-dolar",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/tecnologia/2026/08/19/fallas-examen-unam-2026-explicar-que-ocurrio",
       "source": "Expansion MX",
       "pub": "Wed, 19 Aug 2026 11:55:05 GMT"
-    },
-    {
-      "title": "EU da golpe preliminar a la fresa mexicana con tasa antidumping de hasta 5.28%",
-      "link": "https://expansion.mx/economia/2026/08/18/eu-da-golpe-preliminar-fresa-mexicana-cuota-antidumping",
-      "source": "Expansion MX",
-      "pub": "Wed, 19 Aug 2026 04:30:49 GMT"
     }
   ]
 }
