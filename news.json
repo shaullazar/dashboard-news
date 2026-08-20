@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T21:28:27.884546+00:00",
+  "updated": "2026-08-20T21:53:09.509832+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,24 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Un sismo magnitud 6.7 sacude Perú",
-      "link": "https://expansion.mx/mundo/2026/08/20/un-sismo-magnitud-6-7-sacude-peru",
-      "source": "Expansion MX",
-      "pub": "Thu, 20 Aug 2026 19:10:12 GMT"
-    },
-    {
-      "title": "Olinia Van, el modelo que falta para completar la nueva familia de autos eléctricos mexicanos",
-      "link": "https://expansion.mx/empresas/2026/08/20/autos-olinia-van-carga-modelos-carro-electrico-mexicano",
-      "source": "Expansion MX",
-      "pub": "Thu, 20 Aug 2026 19:07:24 GMT"
-    },
-    {
-      "title": "Banxico advierte que los conflictos geopolíticos, servicios y clima presionan al alza de precios",
-      "link": "https://expansion.mx/economia/2026/08/20/banxico-conflictos-geopoliticos-servicios-clima-inflacion",
-      "source": "Expansion MX",
-      "pub": "Thu, 20 Aug 2026 18:39:40 GMT"
-    },
-    {
       "title": "Nissan reduce a 30 meses el desarrollo de autos y apuesta por híbridos; eléctricos los hará con socios",
       "link": "https://expansion.mx/empresas/2026/08/20/nissan-se-hace-pequena-para-sobrevivir-ceo-revela-plan",
       "source": "Expansion MX",
@@ -122,6 +104,24 @@
       "link": "https://expansion.mx/opinion/2026/08/20/liderar-en-la-disrupcion-la-nueva-agenda-estrategica-de-la-industria-de-consumo-y-retail",
       "source": "Expansion MX",
       "pub": "Thu, 20 Aug 2026 12:03:01 GMT"
+    },
+    {
+      "title": "Súper Empresas para Mujeres: entre lo que se puede ofrecer y lo que se necesita",
+      "link": "https://expansion.mx/opinion/2026/08/20/super-empresas-para-mujeres-entre-lo-que-se-puede-ofrecer-y-lo-que-se-necesita",
+      "source": "Expansion MX",
+      "pub": "Thu, 20 Aug 2026 11:59:48 GMT"
+    },
+    {
+      "title": "El liderazgo financiero detrás del crecimiento de las empresas",
+      "link": "https://expansion.mx/opinion/2026/08/20/el-liderazgo-financiero-detras-del-crecimiento-de-las-empresas",
+      "source": "Expansion MX",
+      "pub": "Thu, 20 Aug 2026 11:59:01 GMT"
+    },
+    {
+      "title": "Trabajo infantil baja, pero 138 millones de niños aún laboran en el mundo",
+      "link": "https://expansion.mx/mundo/2026/08/20/trabajo-infantil-baja-pero-138-millones-de-ninos-aun-laboran-en-el-mundo",
+      "source": "Expansion MX",
+      "pub": "Thu, 20 Aug 2026 11:55:39 GMT"
     }
   ]
 }
