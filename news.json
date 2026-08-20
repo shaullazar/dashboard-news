@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T21:53:09.509832+00:00",
+  "updated": "2026-08-20T22:11:29.503067+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,6 +64,48 @@
   ],
   "mexico": [
     {
+      "title": "“La parte económica no fue la que esperábamos”: Azcárraga reconoce pérdidas millonarias por el Mundial 2026",
+      "link": "https://expansion.mx/empresas/2026/08/20/azcarraga-reconoce-perdidas-millonarias-por-mundial-2026",
+      "source": "Expansion MX",
+      "pub": "Thu, 20 Aug 2026 21:36:47 GMT"
+    },
+    {
+      "title": "Adiós a la gasolina: esta es la nueva oferta de pick-ups electrificadas en México",
+      "link": "https://expansion.mx/empresas/2026/08/20/adios-gasolina-nueva-oferta-pick-ups-electrificadas-mexico",
+      "source": "Expansion MX",
+      "pub": "Thu, 20 Aug 2026 21:21:25 GMT"
+    },
+    {
+      "title": "Prime Video invertirá más de 2,000 mdd para producciones originales en Latinoamérica; México será clave",
+      "link": "https://expansion.mx/empresas/2026/08/20/prime-video-invertira-mas-2000-mdd-producciones-originales",
+      "source": "Expansion MX",
+      "pub": "Thu, 20 Aug 2026 21:09:42 GMT"
+    },
+    {
+      "title": "Xbox cumple 25 años: la fiesta llega en medio de la peor crisis de la marca",
+      "link": "https://expansion.mx/tecnologia/2026/08/20/xbox-cumple-25-anos-peor-crisis",
+      "source": "Expansion MX",
+      "pub": "Thu, 20 Aug 2026 20:00:55 GMT"
+    },
+    {
+      "title": "Un sismo magnitud 6.7 sacude Perú",
+      "link": "https://expansion.mx/mundo/2026/08/20/un-sismo-magnitud-6-7-sacude-peru",
+      "source": "Expansion MX",
+      "pub": "Thu, 20 Aug 2026 19:10:12 GMT"
+    },
+    {
+      "title": "Olinia Van, el modelo que falta para completar la nueva familia de autos eléctricos mexicanos",
+      "link": "https://expansion.mx/empresas/2026/08/20/autos-olinia-van-carga-modelos-carro-electrico-mexicano",
+      "source": "Expansion MX",
+      "pub": "Thu, 20 Aug 2026 19:07:24 GMT"
+    },
+    {
+      "title": "Banxico advierte que los conflictos geopolíticos, servicios y clima presionan el alza de precios",
+      "link": "https://expansion.mx/economia/2026/08/20/banxico-conflictos-geopoliticos-servicios-clima-inflacion",
+      "source": "Expansion MX",
+      "pub": "Thu, 20 Aug 2026 18:39:40 GMT"
+    },
+    {
       "title": "Nissan reduce a 30 meses el desarrollo de autos y apuesta por híbridos; eléctricos los hará con socios",
       "link": "https://expansion.mx/empresas/2026/08/20/nissan-se-hace-pequena-para-sobrevivir-ceo-revela-plan",
       "source": "Expansion MX",
@@ -80,48 +122,6 @@
       "link": "https://expansion.mx/tecnologia/2026/08/20/google-pixel-11-mexico-cuando-salen-precio",
       "source": "Expansion MX",
       "pub": "Thu, 20 Aug 2026 17:00:20 GMT"
-    },
-    {
-      "title": "Evergrande: China manda a prisión de por vida al magnate que construyó un imperio inmobiliario con deuda",
-      "link": "https://expansion.mx/mundo/2026/08/20/evergrande-china-condena-a-su-fundador-a-cadena-perpetua",
-      "source": "Expansion MX",
-      "pub": "Thu, 20 Aug 2026 14:29:15 GMT"
-    },
-    {
-      "title": "Sheinbaum presenta el nuevo Olinia de carga: ¿cuánto costará, cuándo llegará al mercado y qué tendrá?",
-      "link": "https://expansion.mx/empresas/2026/08/20/sheinbaum-olinia-carga-costo-llegara-mercado-que-tendra",
-      "source": "Expansion MX",
-      "pub": "Thu, 20 Aug 2026 14:13:09 GMT"
-    },
-    {
-      "title": "Los números que explican por qué el T-MEC no se puede descarrilar",
-      "link": "https://expansion.mx/opinion/2026/08/20/numeros-tmec-no-se-puede-descarrilar",
-      "source": "Expansion MX",
-      "pub": "Thu, 20 Aug 2026 12:06:53 GMT"
-    },
-    {
-      "title": "Liderar en la disrupción: la nueva agenda estratégica de la industria de consumo y retail",
-      "link": "https://expansion.mx/opinion/2026/08/20/liderar-en-la-disrupcion-la-nueva-agenda-estrategica-de-la-industria-de-consumo-y-retail",
-      "source": "Expansion MX",
-      "pub": "Thu, 20 Aug 2026 12:03:01 GMT"
-    },
-    {
-      "title": "Súper Empresas para Mujeres: entre lo que se puede ofrecer y lo que se necesita",
-      "link": "https://expansion.mx/opinion/2026/08/20/super-empresas-para-mujeres-entre-lo-que-se-puede-ofrecer-y-lo-que-se-necesita",
-      "source": "Expansion MX",
-      "pub": "Thu, 20 Aug 2026 11:59:48 GMT"
-    },
-    {
-      "title": "El liderazgo financiero detrás del crecimiento de las empresas",
-      "link": "https://expansion.mx/opinion/2026/08/20/el-liderazgo-financiero-detras-del-crecimiento-de-las-empresas",
-      "source": "Expansion MX",
-      "pub": "Thu, 20 Aug 2026 11:59:01 GMT"
-    },
-    {
-      "title": "Trabajo infantil baja, pero 138 millones de niños aún laboran en el mundo",
-      "link": "https://expansion.mx/mundo/2026/08/20/trabajo-infantil-baja-pero-138-millones-de-ninos-aun-laboran-en-el-mundo",
-      "source": "Expansion MX",
-      "pub": "Thu, 20 Aug 2026 11:55:39 GMT"
     }
   ]
 }
