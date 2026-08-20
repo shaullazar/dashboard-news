@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T23:51:33.046825+00:00",
+  "updated": "2026-08-20T00:23:31.311559+00:00",
   "colombia": [
     {
       "title": "Why Colombia’s ex-President Petro had to get senate approval to leave the country",
@@ -64,36 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Israel admite que disparó contra el auto donde iba Hind Rajab, una niña palestina",
-      "link": "https://expansion.mx/mundo/2026/08/19/israel-admite-que-disparo-contra-hind-rajab",
-      "source": "Expansion MX",
-      "pub": "Wed, 19 Aug 2026 23:39:15 GMT"
-    },
-    {
-      "title": "La prepa que cuesta más de 500,000 pesos al año y otras de las más caras de México",
-      "link": "https://expansion.mx/carrera/2026/08/19/prepa-cuesta-mas-de-500-000-pesos-las-mas-caras-de-mexico",
-      "source": "Expansion MX",
-      "pub": "Wed, 19 Aug 2026 23:29:45 GMT"
-    },
-    {
-      "title": "Herramientas tecnológicas impulsan hasta 97% el cumplimiento con el SAT",
-      "link": "https://expansion.mx/economia/2026/08/19/tecnologia-eleva-cumplimiento-obligaciones-sat",
-      "source": "Expansion MX",
-      "pub": "Wed, 19 Aug 2026 23:07:41 GMT"
-    },
-    {
-      "title": "Cruz Azul nació como una fábrica de cal, casi desaparece y hoy la cooperativa vuelve a su antigua casa",
-      "link": "https://expansion.mx/empresas/2026/08/19/cruz-azul-historia-cooperativa-nacio-hidalgo",
-      "source": "Expansion MX",
-      "pub": "Wed, 19 Aug 2026 22:51:10 GMT"
-    },
-    {
-      "title": "Huawei lleva 7 años vetado de Google: ¿qué tan lejos está de Android en 2026?",
-      "link": "https://expansion.mx/tecnologia/2026/08/19/huawei-veto-google-ecosistema-movil-veto",
-      "source": "Expansion MX",
-      "pub": "Wed, 19 Aug 2026 22:15:11 GMT"
-    },
-    {
       "title": "Palacio de Hierro tiene 488 millones en puntos sin canjear; ¿por qué no es algo negativo para la empresa?",
       "link": "https://expansion.mx/empresas/2026/08/19/palacio-de-hierro-puntos-sin-canjear-488-millones",
       "source": "Expansion MX",
@@ -116,6 +86,36 @@
       "link": "https://expansion.mx/bespoke-ad/2026/08/19/como-analizar-el-costo-beneficio-de-la-consolidacion-de-deudas",
       "source": "Expansion MX",
       "pub": "Wed, 19 Aug 2026 18:04:59 GMT"
+    },
+    {
+      "title": "La cuota antidumping a la fresa mexicana puede ser solo el principio, advierte el CNA",
+      "link": "https://expansion.mx/economia/2026/08/19/cuota-antidumping-fresa-mexicana-riesgo-campo-cna",
+      "source": "Expansion MX",
+      "pub": "Wed, 19 Aug 2026 17:21:59 GMT"
+    },
+    {
+      "title": "Campañas que venden hoy, pero dejan de generar valor cuando termina la inversión publicitaria",
+      "link": "https://expansion.mx/opinion/2026/08/19/campana-publicitaria-activos-atencion-rentada",
+      "source": "Expansion MX",
+      "pub": "Wed, 19 Aug 2026 17:09:28 GMT"
+    },
+    {
+      "title": "Líneas telefónicas 0 ya fueron suspendidas por no registrarse; esta es la fecha para los números 1",
+      "link": "https://expansion.mx/empresas/2026/08/19/lineas-telefonicas-1-fecha-registro-suspension",
+      "source": "Expansion MX",
+      "pub": "Wed, 19 Aug 2026 16:05:13 GMT"
+    },
+    {
+      "title": "Peso mexicano rompe la barrera de 17 y cotiza en 16.95 por dólar",
+      "link": "https://expansion.mx/mercados/2026/08/19/peso-mexicano-rompe-barrera-17-cotiza-16-95-dolar",
+      "source": "Expansion MX",
+      "pub": "Wed, 19 Aug 2026 14:19:02 GMT"
+    },
+    {
+      "title": "OpenAI frena su IA más avanzada después de que un agente escapó y lanzó un ataque por su cuenta",
+      "link": "https://expansion.mx/tecnologia/2026/08/19/openai-frena-ia-avanzada-tras-ataque-autonomo",
+      "source": "Expansion MX",
+      "pub": "Wed, 19 Aug 2026 13:49:48 GMT"
     }
   ]
 }
