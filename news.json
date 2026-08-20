@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T17:59:43.709108+00:00",
+  "updated": "2026-08-20T18:38:14.116208+00:00",
   "colombia": [
     {
       "title": "Why Colombia’s ex-President Petro had to get senate approval to leave the country",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Nissan reduce a 30 meses el desarrollo de autos y apuesta por híbridos; eléctricos los hará con socios",
+      "link": "https://expansion.mx/empresas/2026/08/20/nissan-se-hace-pequena-para-sobrevivir-ceo-revela-plan",
+      "source": "Expansion MX",
+      "pub": "Thu, 20 Aug 2026 18:33:35 GMT"
+    },
+    {
+      "title": "Donald Trump cambia de estrategia con Irán y va por una “guerra económica”",
+      "link": "https://expansion.mx/mundo/2026/08/20/trump-giro-guerra-economica-contra-iran",
+      "source": "Expansion MX",
+      "pub": "Thu, 20 Aug 2026 18:17:52 GMT"
+    },
+    {
       "title": "Google Pixel 11 ya tiene fecha para México y viene con toda la artillería de Gemini",
       "link": "https://expansion.mx/tecnologia/2026/08/20/google-pixel-11-mexico-cuando-salen-precio",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/mundo/2026/08/20/trabajo-infantil-baja-pero-138-millones-de-ninos-aun-laboran-en-el-mundo",
       "source": "Expansion MX",
       "pub": "Thu, 20 Aug 2026 11:55:39 GMT"
-    },
-    {
-      "title": "Ex Google advierte a México sobre el riesgo de acumular datos para la identidad digital",
-      "link": "https://expansion.mx/tecnologia/2026/08/20/identidad-digital-mexico-curp-registro-telefonia",
-      "source": "Expansion MX",
-      "pub": "Thu, 20 Aug 2026 11:55:37 GMT"
-    },
-    {
-      "title": "Hubo un momento en que los autos eléctricos costaban más que un auto de lujo, hasta que los chinos cambiaron eso",
-      "link": "https://expansion.mx/empresas/2026/08/20/autos-electricos-eran-lujo-hasta-que-llegaron-marcas-chinas",
-      "source": "Expansion MX",
-      "pub": "Thu, 20 Aug 2026 11:55:37 GMT"
     }
   ]
 }
