@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T17:38:41.865075+00:00",
+  "updated": "2026-08-20T17:59:43.709108+00:00",
   "colombia": [
     {
       "title": "Why Colombia’s ex-President Petro had to get senate approval to leave the country",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Google Pixel 11 ya tiene fecha para México y viene con toda la artillería de Gemini",
+      "link": "https://expansion.mx/tecnologia/2026/08/20/google-pixel-11-mexico-cuando-salen-precio",
+      "source": "Expansion MX",
+      "pub": "Thu, 20 Aug 2026 17:00:20 GMT"
+    },
+    {
       "title": "Evergrande: China manda a prisión de por vida al magnate que construyó un imperio inmobiliario con deuda",
       "link": "https://expansion.mx/mundo/2026/08/20/evergrande-china-condena-a-su-fundador-a-cadena-perpetua",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/08/20/autos-electricos-eran-lujo-hasta-que-llegaron-marcas-chinas",
       "source": "Expansion MX",
       "pub": "Thu, 20 Aug 2026 11:55:37 GMT"
-    },
-    {
-      "title": "La riqueza que heredará la Generación Z en México puede ampliar la desigualdad",
-      "link": "https://expansion.mx/economia/2026/08/20/gen-z-herencia-mexico-3-por-ciento",
-      "source": "Expansion MX",
-      "pub": "Thu, 20 Aug 2026 11:55:05 GMT"
     }
   ]
 }
