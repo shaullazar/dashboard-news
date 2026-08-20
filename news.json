@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T16:43:51.083835+00:00",
+  "updated": "2026-08-20T17:05:48.566977+00:00",
   "colombia": [
     {
       "title": "Why Colombia’s ex-President Petro had to get senate approval to leave the country",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Evergrande: China manda a prisión de por vida al magnate que construyó un imperio inmobiliario con deuda",
+      "link": "https://expansion.mx/mundo/2026/08/20/evergrande-china-condena-a-su-fundador-a-cadena-perpetua",
+      "source": "Expansion MX",
+      "pub": "Thu, 20 Aug 2026 14:29:15 GMT"
+    },
+    {
       "title": "Sheinbaum presenta el nuevo Olinia de carga: ¿cuánto costará, cuándo llegará al mercado y qué tendrá?",
       "link": "https://expansion.mx/empresas/2026/08/20/sheinbaum-olinia-carga-costo-llegara-mercado-que-tendra",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/economia/2026/08/20/gen-z-herencia-mexico-3-por-ciento",
       "source": "Expansion MX",
       "pub": "Thu, 20 Aug 2026 11:55:05 GMT"
-    },
-    {
-      "title": "Por qué los celulares dejaron de traer cargador y puerto para audífonos y qué hay detrás del cambio",
-      "link": "https://expansion.mx/tecnologia/2026/08/19/por-que-celulares-dejaron-cargador-puerto-audifonos-cambio",
-      "source": "Expansion MX",
-      "pub": "Thu, 20 Aug 2026 01:20:04 GMT"
     }
   ]
 }
