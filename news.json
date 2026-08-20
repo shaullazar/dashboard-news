@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T21:00:04.155509+00:00",
+  "updated": "2026-08-20T21:28:27.884546+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,12 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Xbox cumple 25 años: la fiesta llega en medio de la peor crisis de la marca",
-      "link": "https://expansion.mx/tecnologia/2026/08/20/xbox-cumple-25-anos-peor-crisis",
-      "source": "Expansion MX",
-      "pub": "Thu, 20 Aug 2026 20:00:55 GMT"
-    },
-    {
       "title": "Un sismo magnitud 6.7 sacude Perú",
       "link": "https://expansion.mx/mundo/2026/08/20/un-sismo-magnitud-6-7-sacude-peru",
       "source": "Expansion MX",
@@ -82,7 +76,7 @@
       "pub": "Thu, 20 Aug 2026 19:07:24 GMT"
     },
     {
-      "title": "Banxico advierte que los conflictos geopolíticos, servicios y clima presionan el alza de precios",
+      "title": "Banxico advierte que los conflictos geopolíticos, servicios y clima presionan al alza de precios",
       "link": "https://expansion.mx/economia/2026/08/20/banxico-conflictos-geopoliticos-servicios-clima-inflacion",
       "source": "Expansion MX",
       "pub": "Thu, 20 Aug 2026 18:39:40 GMT"
@@ -122,6 +116,12 @@
       "link": "https://expansion.mx/opinion/2026/08/20/numeros-tmec-no-se-puede-descarrilar",
       "source": "Expansion MX",
       "pub": "Thu, 20 Aug 2026 12:06:53 GMT"
+    },
+    {
+      "title": "Liderar en la disrupción: la nueva agenda estratégica de la industria de consumo y retail",
+      "link": "https://expansion.mx/opinion/2026/08/20/liderar-en-la-disrupcion-la-nueva-agenda-estrategica-de-la-industria-de-consumo-y-retail",
+      "source": "Expansion MX",
+      "pub": "Thu, 20 Aug 2026 12:03:01 GMT"
     }
   ]
 }
