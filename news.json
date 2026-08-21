@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T20:00:50.267246+00:00",
+  "updated": "2026-08-21T20:28:31.741243+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,12 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Trump reduce los aranceles a la carne previo a elecciones de noviembre",
-      "link": "https://expansion.mx/economia/2026/08/21/trump-aranceles-carne-elecciones",
-      "source": "Expansion MX",
-      "pub": "Fri, 21 Aug 2026 19:19:22 GMT"
-    },
-    {
       "title": "Triangulación china desde México no rebasa 1%; “se los vamos a demostrar”: Ebrard",
       "link": "https://expansion.mx/economia/2026/08/21/ebrard-niega-triangulacion-china-mexico-estados-unidos",
       "source": "Expansion MX",
@@ -122,6 +116,12 @@
       "link": "https://expansion.mx/opinion/2026/08/21/semiconductores-y-cptpp-la-oportunidad-que-mexico-y-norteamerica-no-debe-desaprovechar",
       "source": "Expansion MX",
       "pub": "Fri, 21 Aug 2026 11:59:15 GMT"
+    },
+    {
+      "title": "Narcotráfico y minería ilegal sobreviven a la salida de Maduro en Venezuela",
+      "link": "https://expansion.mx/mundo/2026/08/21/narcotrafico-y-mineria-ilegal-sobreviven-a-la-salida-de-maduro-en-venezuela",
+      "source": "Expansion MX",
+      "pub": "Fri, 21 Aug 2026 11:55:57 GMT"
     }
   ]
 }
