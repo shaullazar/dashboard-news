@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T12:16:27.488513+00:00",
+  "updated": "2026-08-21T13:11:56.158153+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "Semiconductores y CPTPP: la oportunidad que México —y Norteamérica— no debe desaprovechar",
+      "link": "https://expansion.mx/opinion/2026/08/21/semiconductores-y-cptpp-la-oportunidad-que-mexico-y-norteamerica-no-debe-desaprovechar",
+      "source": "Expansion MX",
+      "pub": "Fri, 21 Aug 2026 11:59:15 GMT"
+    },
+    {
+      "title": "Narcotráfico y minería ilegal sobreviven a la salida de Maduro en Venezuela",
+      "link": "https://expansion.mx/mundo/2026/08/21/narcotrafico-y-mineria-ilegal-sobreviven-a-la-salida-de-maduro-en-venezuela",
+      "source": "Expansion MX",
+      "pub": "Fri, 21 Aug 2026 11:55:57 GMT"
+    },
+    {
+      "title": "El SAT gana menos juicios, pero recupera más dinero de los contribuyentes",
+      "link": "https://expansion.mx/economia/2026/08/21/sat-gana-mas-dinero-contribuyentes-pese-a-menos-juicios",
+      "source": "Expansion MX",
+      "pub": "Fri, 21 Aug 2026 11:55:36 GMT"
+    },
+    {
+      "title": "Fusión Paramount-Warner enfrenta riesgos de concentración y mayores precios para usuarios del streaming en México",
+      "link": "https://expansion.mx/empresas/2026/08/21/cna-aprobo-fusion-paramount-warner-mexico",
+      "source": "Expansion MX",
+      "pub": "Fri, 21 Aug 2026 11:55:15 GMT"
+    },
+    {
       "title": "México se encamina a otra década perdida de crecimiento económico: Cepal",
       "link": "https://expansion.mx/economia/2026/08/20/mexico-se-encamina-a-otra-decada-perdida-de-crecimiento-economico-cepal",
       "source": "Expansion MX",
@@ -98,30 +122,6 @@
       "link": "https://expansion.mx/tecnologia/2026/08/20/kio-it-services-ficha-a-exdirector-de-microsoft",
       "source": "Expansion MX",
       "pub": "Thu, 20 Aug 2026 23:00:06 GMT"
-    },
-    {
-      "title": "Pokémon no vive solo de los videojuegos: la estrategia que mantiene vigente a la franquicia después de 30 años",
-      "link": "https://expansion.mx/tecnologia/2026/08/20/pokemon-videojuegos-estrategia-negocios-30-anos",
-      "source": "Expansion MX",
-      "pub": "Thu, 20 Aug 2026 22:48:28 GMT"
-    },
-    {
-      "title": "México mueve pasajeros y mercancías en camiones y autobuses de hasta 20 años, cuatro veces la edad recomendada",
-      "link": "https://expansion.mx/empresas/2026/08/20/mexico-autobuses-y-camiones-20-anos",
-      "source": "Expansion MX",
-      "pub": "Thu, 20 Aug 2026 22:22:39 GMT"
-    },
-    {
-      "title": "EU sanciona una red de narcotráfico Ecuador relacionada con cárteles mexicanos",
-      "link": "https://expansion.mx/mundo/2026/08/20/eu-sanciona-una-red-de-narcotrafico-ecuador-relacionada-con-carteles-mexicanos",
-      "source": "Expansion MX",
-      "pub": "Thu, 20 Aug 2026 22:01:17 GMT"
-    },
-    {
-      "title": "“La parte económica no fue la que esperábamos”: Azcárraga reconoce pérdidas millonarias por el Mundial 2026",
-      "link": "https://expansion.mx/empresas/2026/08/20/azcarraga-reconoce-perdidas-millonarias-por-mundial-2026",
-      "source": "Expansion MX",
-      "pub": "Thu, 20 Aug 2026 21:36:47 GMT"
     }
   ]
 }
