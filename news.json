@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T02:03:00.398277+00:00",
+  "updated": "2026-08-21T03:10:47.877008+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,18 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Cotizas para el ISSSTE, pero no alcanzas una pensión: ¿qué pasa con el dinero de tu Afore?",
-      "link": "https://expansion.mx/finanzas-personales/2026/08/20/cotizas-issste-no-alcanzas-pension-que-pasa-dinero-afore",
-      "source": "Expansion MX",
-      "pub": "Fri, 21 Aug 2026 00:23:22 GMT"
-    },
-    {
-      "title": "Registro telefónico deja 4.4 millones de líneas desconectadas en su primer corte",
-      "link": "https://expansion.mx/empresas/2026/08/20/registro-telefonico-deja-4-4-millones-lineas-desconectadas",
-      "source": "Expansion MX",
-      "pub": "Thu, 20 Aug 2026 23:49:14 GMT"
-    },
-    {
       "title": "Kio It Services ficha a exdirector de Microsoft México para acelerar su negocio de IA y nube",
       "link": "https://expansion.mx/tecnologia/2026/08/20/kio-it-services-ficha-a-exdirector-de-microsoft",
       "source": "Expansion MX",
@@ -122,6 +110,18 @@
       "link": "https://expansion.mx/tecnologia/2026/08/20/xbox-cumple-25-anos-peor-crisis",
       "source": "Expansion MX",
       "pub": "Thu, 20 Aug 2026 20:00:55 GMT"
+    },
+    {
+      "title": "Un sismo magnitud 6.7 sacude Perú",
+      "link": "https://expansion.mx/mundo/2026/08/20/un-sismo-magnitud-6-7-sacude-peru",
+      "source": "Expansion MX",
+      "pub": "Thu, 20 Aug 2026 19:10:12 GMT"
+    },
+    {
+      "title": "Olinia Van, el modelo que falta para completar la nueva familia de autos eléctricos mexicanos",
+      "link": "https://expansion.mx/empresas/2026/08/20/autos-olinia-van-carga-modelos-carro-electrico-mexicano",
+      "source": "Expansion MX",
+      "pub": "Thu, 20 Aug 2026 19:07:24 GMT"
     }
   ]
 }
