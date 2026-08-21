@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T23:50:35.642832+00:00",
+  "updated": "2026-08-21T00:25:16.066828+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Registro telefónico deja 4.4 millones de líneas desconectadas en su primer corte",
+      "link": "https://expansion.mx/empresas/2026/08/20/registro-telefonico-deja-4-4-millones-lineas-desconectadas",
+      "source": "Expansion MX",
+      "pub": "Thu, 20 Aug 2026 23:49:14 GMT"
+    },
+    {
       "title": "Kio It Services ficha a exdirector de Microsoft México para acelerar su negocio de IA y nube",
       "link": "https://expansion.mx/tecnologia/2026/08/20/kio-it-services-ficha-a-exdirector-de-microsoft",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/mundo/2026/08/20/un-sismo-magnitud-6-7-sacude-peru",
       "source": "Expansion MX",
       "pub": "Thu, 20 Aug 2026 19:10:12 GMT"
-    },
-    {
-      "title": "Olinia Van, el modelo que falta para completar la nueva familia de autos eléctricos mexicanos",
-      "link": "https://expansion.mx/empresas/2026/08/20/autos-olinia-van-carga-modelos-carro-electrico-mexicano",
-      "source": "Expansion MX",
-      "pub": "Thu, 20 Aug 2026 19:07:24 GMT"
     }
   ]
 }
