@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T18:30:51.546489+00:00",
+  "updated": "2026-08-21T19:06:53.271917+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Triangulación china desde México no rebasa 1%; “se los vamos a demostrar”: Ebrard",
+      "link": "https://expansion.mx/economia/2026/08/21/ebrard-niega-triangulacion-china-mexico-estados-unidos",
+      "source": "Expansion MX",
+      "pub": "Fri, 21 Aug 2026 18:57:31 GMT"
+    },
+    {
       "title": "Kia cambia su estrategia tras el EV6 y apuesta con el EV3 para ir por los clientes de BYD y Volvo",
       "link": "https://expansion.mx/empresas/2026/08/21/kia-aprendio-tropiezo-ev-6-apuesta-auto-ev3",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/mundo/2026/08/21/narcotrafico-y-mineria-ilegal-sobreviven-a-la-salida-de-maduro-en-venezuela",
       "source": "Expansion MX",
       "pub": "Fri, 21 Aug 2026 11:55:57 GMT"
-    },
-    {
-      "title": "Fusión Paramount-Warner enfrenta riesgos de concentración y mayores precios para usuarios del streaming en México",
-      "link": "https://expansion.mx/empresas/2026/08/21/cna-aprobo-fusion-paramount-warner-mexico",
-      "source": "Expansion MX",
-      "pub": "Fri, 21 Aug 2026 11:55:15 GMT"
     }
   ]
 }
