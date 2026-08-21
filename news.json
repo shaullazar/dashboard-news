@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T19:49:25.648031+00:00",
+  "updated": "2026-08-21T20:00:50.267246+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,12 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "El plan de Emilio Azcárraga para llenar estadios: copiar al Harp Helú y vender algo más que futbol",
-      "link": "https://expansion.mx/empresas/2026/08/21/azcarraga-quiere-llevar-el-modelo-del-harp-helu-al-futbol",
-      "source": "Expansion MX",
-      "pub": "Fri, 21 Aug 2026 19:41:30 GMT"
-    },
-    {
       "title": "Trump reduce los aranceles a la carne previo a elecciones de noviembre",
       "link": "https://expansion.mx/economia/2026/08/21/trump-aranceles-carne-elecciones",
       "source": "Expansion MX",
@@ -122,6 +116,12 @@
       "link": "https://expansion.mx/mundo/2026/08/21/trump-edad-de-oro-cohetes-espaciales-rumbo-a-la-luna-y-marte",
       "source": "Expansion MX",
       "pub": "Fri, 21 Aug 2026 14:15:04 GMT"
+    },
+    {
+      "title": "Semiconductores y CPTPP: la oportunidad que México —y Norteamérica— no debe desaprovechar",
+      "link": "https://expansion.mx/opinion/2026/08/21/semiconductores-y-cptpp-la-oportunidad-que-mexico-y-norteamerica-no-debe-desaprovechar",
+      "source": "Expansion MX",
+      "pub": "Fri, 21 Aug 2026 11:59:15 GMT"
     }
   ]
 }
