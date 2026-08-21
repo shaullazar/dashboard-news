@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T03:57:51.735092+00:00",
+  "updated": "2026-08-21T04:32:30.146507+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,6 +64,36 @@
   ],
   "mexico": [
     {
+      "title": "México se encamina a otra década perdida de crecimiento económico: Cepal",
+      "link": "https://expansion.mx/economia/2026/08/20/mexico-se-encamina-a-otra-decada-perdida-de-crecimiento-economico-cepal",
+      "source": "Expansion MX",
+      "pub": "Fri, 21 Aug 2026 02:01:58 GMT"
+    },
+    {
+      "title": "No solo es el rey del cobre, Germán Larrea también tiene dos de los trenes turísticos más populares",
+      "link": "https://expansion.mx/empresas/2026/08/20/german-larrea-tiene-dos-trenes-turisticos-populares",
+      "source": "Expansion MX",
+      "pub": "Fri, 21 Aug 2026 01:48:20 GMT"
+    },
+    {
+      "title": "GTA VI no puede detener las filtraciones: Rockstar es incapaz de proteger a la propiedad más cara de la historia",
+      "link": "https://expansion.mx/tecnologia/2026/08/20/gta-vi-puede-detener-filtraciones-rockstar-incapaz-proteger",
+      "source": "Expansion MX",
+      "pub": "Fri, 21 Aug 2026 01:31:51 GMT"
+    },
+    {
+      "title": "Cotizas para el ISSSTE, pero no alcanzas una pensión: ¿qué pasa con el dinero de tu Afore?",
+      "link": "https://expansion.mx/finanzas-personales/2026/08/20/cotizas-issste-no-alcanzas-pension-que-pasa-dinero-afore",
+      "source": "Expansion MX",
+      "pub": "Fri, 21 Aug 2026 00:23:22 GMT"
+    },
+    {
+      "title": "Registro telefónico deja 4.4 millones de líneas desconectadas en su primer corte",
+      "link": "https://expansion.mx/empresas/2026/08/20/registro-telefonico-deja-4-4-millones-lineas-desconectadas",
+      "source": "Expansion MX",
+      "pub": "Thu, 20 Aug 2026 23:49:14 GMT"
+    },
+    {
       "title": "Kio It Services ficha a exdirector de Microsoft México para acelerar su negocio de IA y nube",
       "link": "https://expansion.mx/tecnologia/2026/08/20/kio-it-services-ficha-a-exdirector-de-microsoft",
       "source": "Expansion MX",
@@ -92,36 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/08/20/azcarraga-reconoce-perdidas-millonarias-por-mundial-2026",
       "source": "Expansion MX",
       "pub": "Thu, 20 Aug 2026 21:36:47 GMT"
-    },
-    {
-      "title": "Adiós a la gasolina: esta es la nueva oferta de pick-ups electrificadas en México",
-      "link": "https://expansion.mx/empresas/2026/08/20/adios-gasolina-nueva-oferta-pick-ups-electrificadas-mexico",
-      "source": "Expansion MX",
-      "pub": "Thu, 20 Aug 2026 21:21:25 GMT"
-    },
-    {
-      "title": "Prime Video invertirá más de 2,000 mdd para producciones originales en Latinoamérica; México será clave",
-      "link": "https://expansion.mx/empresas/2026/08/20/prime-video-invertira-mas-2000-mdd-producciones-originales",
-      "source": "Expansion MX",
-      "pub": "Thu, 20 Aug 2026 21:09:42 GMT"
-    },
-    {
-      "title": "Xbox cumple 25 años: la fiesta llega en medio de la peor crisis de la marca",
-      "link": "https://expansion.mx/tecnologia/2026/08/20/xbox-cumple-25-anos-peor-crisis",
-      "source": "Expansion MX",
-      "pub": "Thu, 20 Aug 2026 20:00:55 GMT"
-    },
-    {
-      "title": "Un sismo magnitud 6.7 sacude Perú",
-      "link": "https://expansion.mx/mundo/2026/08/20/un-sismo-magnitud-6-7-sacude-peru",
-      "source": "Expansion MX",
-      "pub": "Thu, 20 Aug 2026 19:10:12 GMT"
-    },
-    {
-      "title": "Olinia Van, el modelo que falta para completar la nueva familia de autos eléctricos mexicanos",
-      "link": "https://expansion.mx/empresas/2026/08/20/autos-olinia-van-carga-modelos-carro-electrico-mexicano",
-      "source": "Expansion MX",
-      "pub": "Thu, 20 Aug 2026 19:07:24 GMT"
     }
   ]
 }
