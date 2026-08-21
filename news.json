@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T21:03:24.050210+00:00",
+  "updated": "2026-08-21T21:32:08.032325+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,42 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "¿Qué pasa si no alcanzo pensión en el IMSS? El trámite para recibir los recursos de la cuenta Afore",
-      "link": "https://expansion.mx/finanzas-personales/2026/08/21/que-hacer-no-alcanzas-pension-imss-negativa",
-      "source": "Expansion MX",
-      "pub": "Fri, 21 Aug 2026 20:08:43 GMT"
-    },
-    {
-      "title": "El plan de Emilio Azcárraga para llenar estadios: copiar al Harp Helú y vender algo más que futbol",
-      "link": "https://expansion.mx/empresas/2026/08/21/azcarraga-quiere-llevar-el-modelo-del-harp-helu-al-futbol",
-      "source": "Expansion MX",
-      "pub": "Fri, 21 Aug 2026 19:41:30 GMT"
-    },
-    {
-      "title": "Trump reduce los aranceles a la carne previo a elecciones de noviembre",
-      "link": "https://expansion.mx/economia/2026/08/21/trump-aranceles-carne-elecciones",
-      "source": "Expansion MX",
-      "pub": "Fri, 21 Aug 2026 19:19:22 GMT"
-    },
-    {
-      "title": "Triangulación china desde México no rebasa 1%; “se los vamos a demostrar”: Ebrard",
-      "link": "https://expansion.mx/economia/2026/08/21/ebrard-niega-triangulacion-china-mexico-estados-unidos",
-      "source": "Expansion MX",
-      "pub": "Fri, 21 Aug 2026 18:57:31 GMT"
-    },
-    {
-      "title": "Kia cambia su estrategia tras el EV6 y apuesta con el EV3 para ir por los clientes de BYD y Volvo",
-      "link": "https://expansion.mx/empresas/2026/08/21/kia-aprendio-tropiezo-ev-6-apuesta-auto-ev3",
-      "source": "Expansion MX",
-      "pub": "Fri, 21 Aug 2026 18:25:17 GMT"
-    },
-    {
-      "title": "¿Qué pasa con el registro al comprar un chip nuevo? Hicimos el ejercicio con dos líneas telefónicas",
-      "link": "https://expansion.mx/empresas/2026/08/21/comprar-nuevo-chip-evita-registro-telefonico",
-      "source": "Expansion MX",
-      "pub": "Fri, 21 Aug 2026 17:46:34 GMT"
-    },
-    {
       "title": "Netflix quiere quedarse con tu atención y asegura que ya tiene una ventaja",
       "link": "https://expansion.mx/tecnologia/2026/08/21/netflix-atencion-generacion-z-anuncios-ia",
       "source": "Expansion MX",
@@ -122,6 +86,42 @@
       "link": "https://expansion.mx/empresas/2026/08/21/gasolina-acuerdo-gobierno-gasolineros-precio-seis-meses",
       "source": "Expansion MX",
       "pub": "Fri, 21 Aug 2026 14:16:20 GMT"
+    },
+    {
+      "title": "Trump prepara una ofensiva espacial con hasta 1,000 lanzamientos al año y la Luna y Marte en la mira",
+      "link": "https://expansion.mx/mundo/2026/08/21/trump-edad-de-oro-cohetes-espaciales-rumbo-a-la-luna-y-marte",
+      "source": "Expansion MX",
+      "pub": "Fri, 21 Aug 2026 14:15:04 GMT"
+    },
+    {
+      "title": "Semiconductores y CPTPP: la oportunidad que México —y Norteamérica— no debe desaprovechar",
+      "link": "https://expansion.mx/opinion/2026/08/21/semiconductores-y-cptpp-la-oportunidad-que-mexico-y-norteamerica-no-debe-desaprovechar",
+      "source": "Expansion MX",
+      "pub": "Fri, 21 Aug 2026 11:59:15 GMT"
+    },
+    {
+      "title": "Narcotráfico y minería ilegal sobreviven a la salida de Maduro en Venezuela",
+      "link": "https://expansion.mx/mundo/2026/08/21/narcotrafico-y-mineria-ilegal-sobreviven-a-la-salida-de-maduro-en-venezuela",
+      "source": "Expansion MX",
+      "pub": "Fri, 21 Aug 2026 11:55:57 GMT"
+    },
+    {
+      "title": "Fusión Paramount-Warner enfrenta riesgos de concentración y mayores precios para usuarios del streaming en México",
+      "link": "https://expansion.mx/empresas/2026/08/21/cna-aprobo-fusion-paramount-warner-mexico",
+      "source": "Expansion MX",
+      "pub": "Fri, 21 Aug 2026 11:55:15 GMT"
+    },
+    {
+      "title": "México se encamina a otra década perdida de crecimiento económico: Cepal",
+      "link": "https://expansion.mx/economia/2026/08/20/mexico-se-encamina-a-otra-decada-perdida-de-crecimiento-economico-cepal",
+      "source": "Expansion MX",
+      "pub": "Fri, 21 Aug 2026 02:01:58 GMT"
+    },
+    {
+      "title": "No solo es el rey del cobre, Germán Larrea también tiene dos de los trenes turísticos más populares",
+      "link": "https://expansion.mx/empresas/2026/08/20/german-larrea-tiene-dos-trenes-turisticos-populares",
+      "source": "Expansion MX",
+      "pub": "Fri, 21 Aug 2026 01:48:20 GMT"
     }
   ]
 }
