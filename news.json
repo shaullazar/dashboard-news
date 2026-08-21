@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T23:35:14.585539+00:00",
+  "updated": "2026-08-21T23:52:51.209426+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,12 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "México busca convertir la innovación en patentes y riqueza",
-      "link": "https://expansion.mx/economia/2026/08/21/mexico-busca-convertir-la-innovacion-en-patentes-y-riqueza",
-      "source": "Expansion MX",
-      "pub": "Fri, 21 Aug 2026 22:15:00 GMT"
-    },
-    {
       "title": "De Cyberpunk 2077 a GTA: los videojuegos más caros de la historia",
       "link": "https://expansion.mx/tecnologia/2026/08/21/cyberpunk-2077-gta-los-videojuegos-mas-caros-historia",
       "source": "Expansion MX",
@@ -122,6 +116,12 @@
       "link": "https://expansion.mx/tecnologia/2026/08/21/netflix-atencion-generacion-z-anuncios-ia",
       "source": "Expansion MX",
       "pub": "Fri, 21 Aug 2026 16:38:31 GMT"
+    },
+    {
+      "title": "Turquía ordena detener a Netanyahu; Israel responde y llama a Erdogan “dictador antisemita”",
+      "link": "https://expansion.mx/mundo/2026/08/21/turquia-ordena-detener-a-netanyahu-israel-responde",
+      "source": "Expansion MX",
+      "pub": "Fri, 21 Aug 2026 16:17:00 GMT"
     }
   ]
 }
