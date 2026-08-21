@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T17:32:53.423621+00:00",
+  "updated": "2026-08-21T17:58:18.729271+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Turquía ordena detener a Netanyahu; Israel responde y llama a Erdogan “dictador antisemita”",
+      "link": "https://expansion.mx/mundo/2026/08/21/turquia-ordena-detener-a-netanyahu-israel-responde",
+      "source": "Expansion MX",
+      "pub": "Fri, 21 Aug 2026 16:17:00 GMT"
+    },
+    {
+      "title": "El SAT gana menos juicios, pero recupera más dinero de los contribuyentes",
+      "link": "https://expansion.mx/economia/2026/08/21/aunque-sat-enfrenta-menos-juicios-si-gana-mas-dinero",
+      "source": "Expansion MX",
+      "pub": "Fri, 21 Aug 2026 15:47:36 GMT"
+    },
+    {
       "title": "La gasolina no subirá de 24 pesos por seis meses más tras acuerdo del gobierno con gasolineros",
       "link": "https://expansion.mx/empresas/2026/08/21/gasolina-acuerdo-gobierno-gasolineros-precio-seis-meses",
       "source": "Expansion MX",
@@ -88,12 +100,6 @@
       "pub": "Fri, 21 Aug 2026 11:55:57 GMT"
     },
     {
-      "title": "El SAT gana menos juicios, pero recupera más dinero de los contribuyentes",
-      "link": "https://expansion.mx/economia/2026/08/21/sat-gana-mas-dinero-contribuyentes-pese-a-menos-juicios",
-      "source": "Expansion MX",
-      "pub": "Fri, 21 Aug 2026 11:55:36 GMT"
-    },
-    {
       "title": "Fusión Paramount-Warner enfrenta riesgos de concentración y mayores precios para usuarios del streaming en México",
       "link": "https://expansion.mx/empresas/2026/08/21/cna-aprobo-fusion-paramount-warner-mexico",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/tecnologia/2026/08/20/gta-vi-puede-detener-filtraciones-rockstar-incapaz-proteger",
       "source": "Expansion MX",
       "pub": "Fri, 21 Aug 2026 01:31:51 GMT"
-    },
-    {
-      "title": "Cotizas para el ISSSTE, pero no alcanzas una pensión: ¿qué pasa con el dinero de tu Afore?",
-      "link": "https://expansion.mx/finanzas-personales/2026/08/20/cotizas-issste-no-alcanzas-pension-que-pasa-dinero-afore",
-      "source": "Expansion MX",
-      "pub": "Fri, 21 Aug 2026 00:23:22 GMT"
     }
   ]
 }
