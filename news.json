@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T21:51:09.154470+00:00",
+  "updated": "2026-08-21T22:03:42.108758+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,12 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "De Cyberpunk 2077 a GTA: los videojuegos más caros de la historia",
-      "link": "https://expansion.mx/tecnologia/2026/08/21/cyberpunk-2077-gta-los-videojuegos-mas-caros-historia",
-      "source": "Expansion MX",
-      "pub": "Fri, 21 Aug 2026 21:07:12 GMT"
-    },
-    {
       "title": "Hershey’s dejó atrás su campaña polémica y ahora quiere llegar a más mexicanos con La vida es dura",
       "link": "https://expansion.mx/mercadotecnia/2026/08/21/hersheys-paso-vender-momentos-felices-vida-real-mexicanos",
       "source": "Expansion MX",
@@ -122,6 +116,12 @@
       "link": "https://expansion.mx/mundo/2026/08/21/turquia-ordena-detener-a-netanyahu-israel-responde",
       "source": "Expansion MX",
       "pub": "Fri, 21 Aug 2026 16:17:00 GMT"
+    },
+    {
+      "title": "El SAT gana menos juicios, pero recupera más dinero de los contribuyentes",
+      "link": "https://expansion.mx/economia/2026/08/21/aunque-sat-enfrenta-menos-juicios-si-gana-mas-dinero",
+      "source": "Expansion MX",
+      "pub": "Fri, 21 Aug 2026 15:47:36 GMT"
     }
   ]
 }
