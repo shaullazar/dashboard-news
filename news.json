@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T19:58:18.051442+00:00",
+  "updated": "2026-08-22T20:17:46.902385+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,18 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Cómo reiniciar el algoritmo cuando TikTok, Netflix o Spotify te encasillan",
-      "link": "https://expansion.mx/tecnologia/2026/08/22/reiniciar-algoritmo-tiktok-netflix-spotify",
-      "source": "Expansion MX",
-      "pub": "Sat, 22 Aug 2026 18:45:38 GMT"
-    },
-    {
-      "title": "La nacionalidad bastaba para negar la residencia en EU; una jueza anula la regla de Trump",
-      "link": "https://expansion.mx/mundo/2026/08/22/eu-reactiva-visas-residencia-75-paises",
-      "source": "Expansion MX",
-      "pub": "Sat, 22 Aug 2026 17:32:11 GMT"
-    },
-    {
       "title": "Computrabajo identifica 10 empleos sin título universitario, pero conseguirlos exige demostrar experiencia",
       "link": "https://expansion.mx/carrera/2026/08/22/10-empleos-sin-titulo-universitario-experiencia",
       "source": "Expansion MX",
@@ -116,6 +104,18 @@
       "link": "https://expansion.mx/economia/2026/08/21/mexico-busca-convertir-la-innovacion-en-patentes-y-riqueza",
       "source": "Expansion MX",
       "pub": "Fri, 21 Aug 2026 22:15:00 GMT"
+    },
+    {
+      "title": "De Cyberpunk 2077 a GTA: los videojuegos más caros de la historia",
+      "link": "https://expansion.mx/tecnologia/2026/08/21/cyberpunk-2077-gta-los-videojuegos-mas-caros-historia",
+      "source": "Expansion MX",
+      "pub": "Fri, 21 Aug 2026 21:07:12 GMT"
+    },
+    {
+      "title": "Hershey’s dejó atrás su campaña polémica y ahora quiere llegar a más mexicanos con La vida es dura",
+      "link": "https://expansion.mx/mercadotecnia/2026/08/21/hersheys-paso-vender-momentos-felices-vida-real-mexicanos",
+      "source": "Expansion MX",
+      "pub": "Fri, 21 Aug 2026 20:49:08 GMT"
     }
   ]
 }
