@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T23:52:51.209426+00:00",
+  "updated": "2026-08-22T00:24:05.330320+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "Las prepas y CCH de la UNAM que más rechazaron alumnos en ECOEMS; una dejó fuera a 9 de cada 10",
+      "link": "https://expansion.mx/carrera/2026/08/21/prepas-unam-escuelas-mas-aspirantes-rechazan",
+      "source": "Expansion MX",
+      "pub": "Fri, 21 Aug 2026 23:59:11 GMT"
+    },
+    {
+      "title": "El peso cierra en 16.92 por dólar, pero la economía no levanta",
+      "link": "https://expansion.mx/mercados/2026/08/21/peso-dolar-mexico-16-economia",
+      "source": "Expansion MX",
+      "pub": "Fri, 21 Aug 2026 23:30:57 GMT"
+    },
+    {
+      "title": "De los likes al “aura”: así cambia la forma de medir el estatus en internet",
+      "link": "https://expansion.mx/tecnologia/2026/08/21/farmear-aura-redes-carisma-metrica-social",
+      "source": "Expansion MX",
+      "pub": "Fri, 21 Aug 2026 23:22:21 GMT"
+    },
+    {
+      "title": "México busca convertir la innovación en patentes y riqueza",
+      "link": "https://expansion.mx/economia/2026/08/21/mexico-busca-convertir-la-innovacion-en-patentes-y-riqueza",
+      "source": "Expansion MX",
+      "pub": "Fri, 21 Aug 2026 22:15:00 GMT"
+    },
+    {
       "title": "De Cyberpunk 2077 a GTA: los videojuegos más caros de la historia",
       "link": "https://expansion.mx/tecnologia/2026/08/21/cyberpunk-2077-gta-los-videojuegos-mas-caros-historia",
       "source": "Expansion MX",
@@ -98,30 +122,6 @@
       "link": "https://expansion.mx/economia/2026/08/21/ebrard-niega-triangulacion-china-mexico-estados-unidos",
       "source": "Expansion MX",
       "pub": "Fri, 21 Aug 2026 18:57:31 GMT"
-    },
-    {
-      "title": "Kia cambia su estrategia tras el EV6 y apuesta con el EV3 para ir por los clientes de BYD y Volvo",
-      "link": "https://expansion.mx/empresas/2026/08/21/kia-aprendio-tropiezo-ev-6-apuesta-auto-ev3",
-      "source": "Expansion MX",
-      "pub": "Fri, 21 Aug 2026 18:25:17 GMT"
-    },
-    {
-      "title": "¿Qué pasa con el registro al comprar un chip nuevo? Hicimos el ejercicio con dos líneas telefónicas",
-      "link": "https://expansion.mx/empresas/2026/08/21/comprar-nuevo-chip-evita-registro-telefonico",
-      "source": "Expansion MX",
-      "pub": "Fri, 21 Aug 2026 17:46:34 GMT"
-    },
-    {
-      "title": "Netflix quiere quedarse con tu atención y asegura que ya tiene una ventaja",
-      "link": "https://expansion.mx/tecnologia/2026/08/21/netflix-atencion-generacion-z-anuncios-ia",
-      "source": "Expansion MX",
-      "pub": "Fri, 21 Aug 2026 16:38:31 GMT"
-    },
-    {
-      "title": "Turquía ordena detener a Netanyahu; Israel responde y llama a Erdogan “dictador antisemita”",
-      "link": "https://expansion.mx/mundo/2026/08/21/turquia-ordena-detener-a-netanyahu-israel-responde",
-      "source": "Expansion MX",
-      "pub": "Fri, 21 Aug 2026 16:17:00 GMT"
     }
   ]
 }
