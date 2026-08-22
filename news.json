@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T15:49:45.478529+00:00",
+  "updated": "2026-08-22T15:59:53.351931+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,18 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Computrabajo identifica 10 empleos sin título universitario, pero conseguirlos exige demostrar experiencia",
-      "link": "https://expansion.mx/carrera/2026/08/22/10-empleos-sin-titulo-universitario-experiencia",
-      "source": "Expansion MX",
-      "pub": "Sat, 22 Aug 2026 15:00:00 GMT"
-    },
-    {
-      "title": "EU y Canadá rozaron un acuerdo, pero las negociaciones fracasaron y llegó el arancel de 50%",
-      "link": "https://expansion.mx/economia/2026/08/22/eu-canada-fracasa-acuerdo-arancel-50",
-      "source": "Expansion MX",
-      "pub": "Sat, 22 Aug 2026 14:56:16 GMT"
-    },
-    {
       "title": "Diésel tendrá el impuesto más bajo del año, Hacienda da subsidio de 83%",
       "link": "https://expansion.mx/economia/2026/08/21/diesel-gasolinas-impuesto-ieps",
       "source": "Expansion MX",
@@ -116,6 +104,18 @@
       "link": "https://expansion.mx/mercadotecnia/2026/08/21/hersheys-paso-vender-momentos-felices-vida-real-mexicanos",
       "source": "Expansion MX",
       "pub": "Fri, 21 Aug 2026 20:49:08 GMT"
+    },
+    {
+      "title": "¿Qué pasa si no alcanzo pensión en el IMSS? El trámite para recibir los recursos de la cuenta Afore",
+      "link": "https://expansion.mx/finanzas-personales/2026/08/21/que-hacer-no-alcanzas-pension-imss-negativa",
+      "source": "Expansion MX",
+      "pub": "Fri, 21 Aug 2026 20:08:43 GMT"
+    },
+    {
+      "title": "El plan de Emilio Azcárraga para llenar estadios: copiar al Harp Helú y vender algo más que futbol",
+      "link": "https://expansion.mx/empresas/2026/08/21/azcarraga-quiere-llevar-el-modelo-del-harp-helu-al-futbol",
+      "source": "Expansion MX",
+      "pub": "Fri, 21 Aug 2026 19:41:30 GMT"
     }
   ]
 }
