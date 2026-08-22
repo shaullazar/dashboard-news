@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T00:24:05.330320+00:00",
+  "updated": "2026-08-22T01:54:29.647314+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Diésel tendrá el impuesto más bajo del año, Hacienda da subsidio de 83%",
+      "link": "https://expansion.mx/economia/2026/08/21/diesel-gasolinas-impuesto-ieps",
+      "source": "Expansion MX",
+      "pub": "Sat, 22 Aug 2026 00:25:58 GMT"
+    },
+    {
       "title": "Las prepas y CCH de la UNAM que más rechazaron alumnos en ECOEMS; una dejó fuera a 9 de cada 10",
       "link": "https://expansion.mx/carrera/2026/08/21/prepas-unam-escuelas-mas-aspirantes-rechazan",
       "source": "Expansion MX",
@@ -110,18 +116,6 @@
       "link": "https://expansion.mx/empresas/2026/08/21/azcarraga-quiere-llevar-el-modelo-del-harp-helu-al-futbol",
       "source": "Expansion MX",
       "pub": "Fri, 21 Aug 2026 19:41:30 GMT"
-    },
-    {
-      "title": "Trump reduce los aranceles a la carne previo a elecciones de noviembre",
-      "link": "https://expansion.mx/economia/2026/08/21/trump-aranceles-carne-elecciones",
-      "source": "Expansion MX",
-      "pub": "Fri, 21 Aug 2026 19:19:22 GMT"
-    },
-    {
-      "title": "Triangulación china desde México no rebasa 1%; “se los vamos a demostrar”: Ebrard",
-      "link": "https://expansion.mx/economia/2026/08/21/ebrard-niega-triangulacion-china-mexico-estados-unidos",
-      "source": "Expansion MX",
-      "pub": "Fri, 21 Aug 2026 18:57:31 GMT"
     }
   ]
 }
