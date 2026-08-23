@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T00:36:30.467944+00:00",
+  "updated": "2026-08-23T02:11:07.453322+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,12 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "México voltea hacia América Latina ante la fragmentación del comercio mundial",
-      "link": "https://expansion.mx/economia/2026/08/22/mexico-integracion-america-latina-comercio",
-      "source": "Expansion MX",
-      "pub": "Sat, 22 Aug 2026 23:25:34 GMT"
-    },
-    {
       "title": "Irán amenaza con represalias a países que apoyen las sanciones de EU",
       "link": "https://expansion.mx/mundo/2026/08/22/iran-amenaza-represalias-sanciones-eu",
       "source": "Expansion MX",
@@ -116,6 +110,12 @@
       "link": "https://expansion.mx/mercados/2026/08/21/peso-dolar-mexico-16-economia",
       "source": "Expansion MX",
       "pub": "Fri, 21 Aug 2026 23:30:57 GMT"
+    },
+    {
+      "title": "De los likes al “aura”: así cambia la forma de medir el estatus en internet",
+      "link": "https://expansion.mx/tecnologia/2026/08/21/farmear-aura-redes-carisma-metrica-social",
+      "source": "Expansion MX",
+      "pub": "Fri, 21 Aug 2026 23:22:21 GMT"
     }
   ]
 }
