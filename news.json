@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T17:58:34.793010+00:00",
+  "updated": "2026-08-23T18:24:22.661165+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -70,6 +70,12 @@
       "pub": "Sun, 23 Aug 2026 12:45:54 GMT"
     },
     {
+      "title": "Del reloj de Porfirio Díaz a los celulares: la historia de Nacional Monte de Piedad, Dondé y Luz Saviñón",
+      "link": "https://expansion.mx/finanzas-personales/2026/08/23/historia-de-nacional-monte-de-piedad-donde-y-luz-savinon",
+      "source": "Expansion MX",
+      "pub": "Sun, 23 Aug 2026 12:23:26 GMT"
+    },
+    {
       "title": "Cómo monetiza la música",
       "link": "https://expansion.mx/tecnologia/2026/08/23/tener-millones-reproducciones-no-garantiza-vivir-musica",
       "source": "Expansion MX",
@@ -110,12 +116,6 @@
       "link": "https://expansion.mx/economia/2026/08/22/eu-canada-fracasa-acuerdo-arancel-50",
       "source": "Expansion MX",
       "pub": "Sat, 22 Aug 2026 14:56:16 GMT"
-    },
-    {
-      "title": "Diésel tendrá el impuesto más bajo del año, Hacienda da subsidio de 83%",
-      "link": "https://expansion.mx/economia/2026/08/21/diesel-gasolinas-impuesto-ieps",
-      "source": "Expansion MX",
-      "pub": "Sat, 22 Aug 2026 00:25:58 GMT"
     }
   ]
 }
