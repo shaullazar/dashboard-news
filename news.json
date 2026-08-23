@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T14:02:41.124198+00:00",
+  "updated": "2026-08-23T14:30:33.385577+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "De la matriz de Scribe a Smurfit Westrock: los gigantes que dominan el negocio del papel en México",
+      "link": "https://expansion.mx/empresas/2026/08/23/3-empresas-lideran-papel-libretas-carton",
+      "source": "Expansion MX",
+      "pub": "Sun, 23 Aug 2026 12:45:54 GMT"
+    },
+    {
+      "title": "Cómo monetiza la música",
+      "link": "https://expansion.mx/tecnologia/2026/08/23/tener-millones-reproducciones-no-garantiza-vivir-musica",
+      "source": "Expansion MX",
+      "pub": "Sun, 23 Aug 2026 12:00:20 GMT"
+    },
+    {
       "title": "México voltea hacia América Latina ante la fragmentación del comercio mundial",
       "link": "https://expansion.mx/economia/2026/08/22/mexico-integracion-america-latina-comercio",
       "source": "Expansion MX",
@@ -104,18 +116,6 @@
       "link": "https://expansion.mx/economia/2026/08/21/diesel-gasolinas-impuesto-ieps",
       "source": "Expansion MX",
       "pub": "Sat, 22 Aug 2026 00:25:58 GMT"
-    },
-    {
-      "title": "Las prepas y CCH de la UNAM que más rechazaron alumnos en ECOEMS; una dejó fuera a 9 de cada 10",
-      "link": "https://expansion.mx/carrera/2026/08/21/prepas-unam-escuelas-mas-aspirantes-rechazan",
-      "source": "Expansion MX",
-      "pub": "Fri, 21 Aug 2026 23:59:11 GMT"
-    },
-    {
-      "title": "El peso cierra en 16.92 por dólar, pero la economía no levanta",
-      "link": "https://expansion.mx/mercados/2026/08/21/peso-dolar-mexico-16-economia",
-      "source": "Expansion MX",
-      "pub": "Fri, 21 Aug 2026 23:30:57 GMT"
     }
   ]
 }
