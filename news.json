@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T20:41:31.525957+00:00",
+  "updated": "2026-08-23T20:57:17.368961+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,28 +64,10 @@
   ],
   "mexico": [
     {
-      "title": "De CDMX a Estados Unidos en autobús: Flix y Greyhound tienen una red que cruza la frontera",
-      "link": "https://expansion.mx/empresas/2026/08/23/cdmx-estados-unidos-autobus-flix-precios-ciudades-requisitos",
-      "source": "Expansion MX",
-      "pub": "Sun, 23 Aug 2026 20:12:31 GMT"
-    },
-    {
-      "title": "25 millones de líneas podrían desaparecer del registro: la CRT explica cuáles serán depuradas",
-      "link": "https://expansion.mx/empresas/2026/08/23/las-lineas-que-podrian-desaparecer-del-registro-la-crt",
-      "source": "Expansion MX",
-      "pub": "Sun, 23 Aug 2026 18:33:43 GMT"
-    },
-    {
       "title": "De la matriz de Scribe a Smurfit Westrock: los gigantes que dominan el negocio del papel en México",
       "link": "https://expansion.mx/empresas/2026/08/23/3-empresas-lideran-papel-libretas-carton",
       "source": "Expansion MX",
       "pub": "Sun, 23 Aug 2026 12:45:54 GMT"
-    },
-    {
-      "title": "Del reloj de Porfirio Díaz a los celulares: la historia de Nacional Monte de Piedad, Dondé y Luz Saviñón",
-      "link": "https://expansion.mx/finanzas-personales/2026/08/23/historia-de-nacional-monte-de-piedad-donde-y-luz-savinon",
-      "source": "Expansion MX",
-      "pub": "Sun, 23 Aug 2026 12:23:26 GMT"
     },
     {
       "title": "Cómo monetiza la música",
@@ -122,6 +104,18 @@
       "link": "https://expansion.mx/carrera/2026/08/22/10-empleos-sin-titulo-universitario-experiencia",
       "source": "Expansion MX",
       "pub": "Sat, 22 Aug 2026 15:00:00 GMT"
+    },
+    {
+      "title": "EU y Canadá rozaron un acuerdo, pero las negociaciones fracasaron y llegó el arancel de 50%",
+      "link": "https://expansion.mx/economia/2026/08/22/eu-canada-fracasa-acuerdo-arancel-50",
+      "source": "Expansion MX",
+      "pub": "Sat, 22 Aug 2026 14:56:16 GMT"
+    },
+    {
+      "title": "Diésel tendrá el impuesto más bajo del año, Hacienda da subsidio de 83%",
+      "link": "https://expansion.mx/economia/2026/08/21/diesel-gasolinas-impuesto-ieps",
+      "source": "Expansion MX",
+      "pub": "Sat, 22 Aug 2026 00:25:58 GMT"
     }
   ]
 }
