@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T09:52:49.621066+00:00",
+  "updated": "2026-08-23T10:08:35.853961+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,24 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "México voltea hacia América Latina ante la fragmentación del comercio mundial",
-      "link": "https://expansion.mx/economia/2026/08/22/mexico-integracion-america-latina-comercio",
-      "source": "Expansion MX",
-      "pub": "Sat, 22 Aug 2026 23:25:34 GMT"
-    },
-    {
-      "title": "Irán amenaza con represalias a países que apoyen las sanciones de EU",
-      "link": "https://expansion.mx/mundo/2026/08/22/iran-amenaza-represalias-sanciones-eu",
-      "source": "Expansion MX",
-      "pub": "Sat, 22 Aug 2026 21:16:49 GMT"
-    },
-    {
-      "title": "Cómo reiniciar el algoritmo cuando TikTok, Netflix o Spotify te encasillan",
-      "link": "https://expansion.mx/tecnologia/2026/08/22/reiniciar-algoritmo-tiktok-netflix-spotify",
-      "source": "Expansion MX",
-      "pub": "Sat, 22 Aug 2026 18:45:38 GMT"
-    },
-    {
       "title": "La nacionalidad bastaba para negar la residencia en EU; una jueza anula la regla de Trump",
       "link": "https://expansion.mx/mundo/2026/08/22/eu-reactiva-visas-residencia-75-paises",
       "source": "Expansion MX",
@@ -116,6 +98,24 @@
       "link": "https://expansion.mx/mercados/2026/08/21/peso-dolar-mexico-16-economia",
       "source": "Expansion MX",
       "pub": "Fri, 21 Aug 2026 23:30:57 GMT"
+    },
+    {
+      "title": "De los likes al “aura”: así cambia la forma de medir el estatus en internet",
+      "link": "https://expansion.mx/tecnologia/2026/08/21/farmear-aura-redes-carisma-metrica-social",
+      "source": "Expansion MX",
+      "pub": "Fri, 21 Aug 2026 23:22:21 GMT"
+    },
+    {
+      "title": "México busca convertir la innovación en patentes y riqueza",
+      "link": "https://expansion.mx/economia/2026/08/21/mexico-busca-convertir-la-innovacion-en-patentes-y-riqueza",
+      "source": "Expansion MX",
+      "pub": "Fri, 21 Aug 2026 22:15:00 GMT"
+    },
+    {
+      "title": "De Cyberpunk 2077 a GTA: los videojuegos más caros de la historia",
+      "link": "https://expansion.mx/tecnologia/2026/08/21/cyberpunk-2077-gta-los-videojuegos-mas-caros-historia",
+      "source": "Expansion MX",
+      "pub": "Fri, 21 Aug 2026 21:07:12 GMT"
     }
   ]
 }
