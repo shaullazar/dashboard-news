@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T23:36:10.257475+00:00",
+  "updated": "2026-08-23T23:52:10.052567+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "La Luna de sangre aparecerá este jueves 27 de agosto, ¿se podrá ver en México?",
+      "link": "https://expansion.mx/tendencias/2026/08/23/eclipse-luna-de-sangre-jueves-27-agosto-ver-mexico",
+      "source": "Expansion MX",
+      "pub": "Sun, 23 Aug 2026 22:43:00 GMT"
+    },
+    {
       "title": "De CDMX a Estados Unidos en autobús: Flix y Greyhound tienen una red que cruza la frontera",
       "link": "https://expansion.mx/empresas/2026/08/23/cdmx-estados-unidos-autobus-flix-precios-ciudades-requisitos",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/mundo/2026/08/22/eu-reactiva-visas-residencia-75-paises",
       "source": "Expansion MX",
       "pub": "Sat, 22 Aug 2026 17:32:11 GMT"
-    },
-    {
-      "title": "Computrabajo identifica 10 empleos sin título universitario, pero conseguirlos exige demostrar experiencia",
-      "link": "https://expansion.mx/carrera/2026/08/22/10-empleos-sin-titulo-universitario-experiencia",
-      "source": "Expansion MX",
-      "pub": "Sat, 22 Aug 2026 15:00:00 GMT"
     }
   ]
 }
