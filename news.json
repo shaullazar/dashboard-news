@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T23:32:11.644521+00:00",
+  "updated": "2026-08-24T23:48:52.790739+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,18 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "La carrera universitaria que cuesta más de 2 millones y tardas más de 100 meses en recuperar el dinero",
-      "link": "https://expansion.mx/carrera/2026/08/24/carrera-cuesta-2-millones-tardas-ocho-anos-recuperar",
-      "source": "Expansion MX",
-      "pub": "Mon, 24 Aug 2026 22:55:40 GMT"
-    },
-    {
-      "title": "¿Tu wifi tiene dos redes y una dice 5G? Esto es lo que significa realmente y cuál deberías usar",
-      "link": "https://expansion.mx/tecnologia/2026/08/24/por-que-wifi-tiene-dos-redes",
-      "source": "Expansion MX",
-      "pub": "Mon, 24 Aug 2026 22:50:29 GMT"
-    },
-    {
       "title": "Amazon, Meta y Oracle despiden por miles, pero otras empresas aún pagan 63,875 dólares anuales por talento escaso",
       "link": "https://expansion.mx/carrera/2026/08/24/despidos-tecnologicas-empresas-pagan-dolares-talento",
       "source": "Expansion MX",
@@ -116,6 +104,12 @@
       "link": "https://expansion.mx/empresas/2026/08/24/bait-alia-oxxo-recargas",
       "source": "Expansion MX",
       "pub": "Mon, 24 Aug 2026 18:05:40 GMT"
+    },
+    {
+      "title": "Nueva Zelanda busca sacar a los menores de 16 de TikTok, Instagram y Facebook",
+      "link": "https://expansion.mx/tecnologia/2026/08/24/nueva-zelanda-redes-sociales-menores-16-anos",
+      "source": "Expansion MX",
+      "pub": "Mon, 24 Aug 2026 16:44:36 GMT"
     }
   ]
 }
