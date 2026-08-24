@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T14:19:53.142627+00:00",
+  "updated": "2026-08-24T15:03:43.550288+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "PIB de México crece 1.4% en segundo trimestre, menos de lo previsto",
+      "link": "https://expansion.mx/economia/2026/08/24/pib-mexico-crece-1-4-segundo-trimestre-menos-previsto-inegi",
+      "source": "Expansion MX",
+      "pub": "Mon, 24 Aug 2026 13:29:19 GMT"
+    },
+    {
+      "title": "México frente al boom del juego digital: un mercado que crece más rápido que sus reglas",
+      "link": "https://expansion.mx/opinion/2026/08/24/mexico-frente-al-boom-del-juego-digital-un-mercado-que-crece-mas-rapido-que-sus-reglas",
+      "source": "Expansion MX",
+      "pub": "Mon, 24 Aug 2026 12:18:57 GMT"
+    },
+    {
+      "title": "La Taxonomía Sostenible de México busca llevar la Agenda 2030 al financiamiento",
+      "link": "https://expansion.mx/opinion/2026/08/24/la-taxonomia-sostenible-de-mexico-busca-llevar-la-agenda-2030-al-financiamiento",
+      "source": "Expansion MX",
+      "pub": "Mon, 24 Aug 2026 11:59:54 GMT"
+    },
+    {
+      "title": "Pimiento, arándano, pepino y calabacita enfrentan presión de EU por el T-MEC",
+      "link": "https://expansion.mx/economia/2026/08/24/eu-mira-pimiento-arandano-pepino-calabacita-mexicanos",
+      "source": "Expansion MX",
+      "pub": "Mon, 24 Aug 2026 11:55:14 GMT"
+    },
+    {
       "title": "México tiene al Tec y la UNAM, pero Brasil mete cuatro universidades en el top 10 de QS 2026",
       "link": "https://expansion.mx/carrera/2026/08/23/mexico-tec-unam-brasil-tiene-mejores-cuatro-universidades",
       "source": "Expansion MX",
@@ -98,30 +122,6 @@
       "link": "https://expansion.mx/finanzas-personales/2026/08/23/historia-de-nacional-monte-de-piedad-donde-y-luz-savinon",
       "source": "Expansion MX",
       "pub": "Sun, 23 Aug 2026 12:23:26 GMT"
-    },
-    {
-      "title": "Cómo monetiza la música",
-      "link": "https://expansion.mx/tecnologia/2026/08/23/tener-millones-reproducciones-no-garantiza-vivir-musica",
-      "source": "Expansion MX",
-      "pub": "Sun, 23 Aug 2026 12:00:20 GMT"
-    },
-    {
-      "title": "México voltea hacia América Latina ante la fragmentación del comercio mundial",
-      "link": "https://expansion.mx/economia/2026/08/22/mexico-integracion-america-latina-comercio",
-      "source": "Expansion MX",
-      "pub": "Sat, 22 Aug 2026 23:25:34 GMT"
-    },
-    {
-      "title": "Irán amenaza con represalias a países que apoyen las sanciones de EU",
-      "link": "https://expansion.mx/mundo/2026/08/22/iran-amenaza-represalias-sanciones-eu",
-      "source": "Expansion MX",
-      "pub": "Sat, 22 Aug 2026 21:16:49 GMT"
-    },
-    {
-      "title": "Cómo reiniciar el algoritmo cuando TikTok, Netflix o Spotify te encasillan",
-      "link": "https://expansion.mx/tecnologia/2026/08/22/reiniciar-algoritmo-tiktok-netflix-spotify",
-      "source": "Expansion MX",
-      "pub": "Sat, 22 Aug 2026 18:45:38 GMT"
     }
   ]
 }
