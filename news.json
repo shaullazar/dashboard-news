@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T22:29:45.358160+00:00",
+  "updated": "2026-08-24T22:53:49.799476+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,6 +64,36 @@
   ],
   "mexico": [
     {
+      "title": "Amazon, Meta y Oracle despiden por miles, pero otras empresas aún pagan 63,875 dólares anuales por talento escaso",
+      "link": "https://expansion.mx/carrera/2026/08/24/despidos-tecnologicas-empresas-pagan-dolares-talento",
+      "source": "Expansion MX",
+      "pub": "Mon, 24 Aug 2026 21:27:46 GMT"
+    },
+    {
+      "title": "Olinia Carga llegará en 2027, pero ya tiene rivales desde 25,000 pesos y con hasta 700 kg de carga",
+      "link": "https://expansion.mx/empresas/2026/08/24/olinia-carga-rivales-desde-25-000-pesos",
+      "source": "Expansion MX",
+      "pub": "Mon, 24 Aug 2026 20:03:15 GMT"
+    },
+    {
+      "title": "IED alcanza récord de 34,968 mdd en México en primer semestre, pero modera su crecimiento",
+      "link": "https://expansion.mx/economia/2026/08/24/ied-mexico-record-primer-semestre-2026",
+      "source": "Expansion MX",
+      "pub": "Mon, 24 Aug 2026 19:19:38 GMT"
+    },
+    {
+      "title": "Estudio muestra que la Generación Z sí quiere casarse y tener hijos, pero el dinero frena sus planes de vida",
+      "link": "https://expansion.mx/finanzas-personales/2026/08/24/generacion-z-casarse-tener-hijos-estudiar-dinero-la-frena",
+      "source": "Expansion MX",
+      "pub": "Mon, 24 Aug 2026 19:10:18 GMT"
+    },
+    {
+      "title": "¿Buscas laptop para el regreso a clases? Estas opciones cuestan menos de 7,000 pesos",
+      "link": "https://expansion.mx/tecnologia/2026/08/24/computadoras-regreso-a-clases-menos-7-000-pesos",
+      "source": "Expansion MX",
+      "pub": "Mon, 24 Aug 2026 19:04:43 GMT"
+    },
+    {
       "title": "Profeco revela cuánto cuestan los uniformes escolares y en qué productos sí conviene gastar más",
       "link": "https://expansion.mx/finanzas-personales/2026/08/24/utiles-uniformes-escolares-cuando-ahorrar-cuando-gastar",
       "source": "Expansion MX",
@@ -86,36 +116,6 @@
       "link": "https://expansion.mx/mundo/2026/08/24/de-venezuela-costa-rica-sismos",
       "source": "Expansion MX",
       "pub": "Mon, 24 Aug 2026 15:18:04 GMT"
-    },
-    {
-      "title": "Trump endurece el golpe a Canadá: autos, autopartes y acero enfrentarán arancel de 50%",
-      "link": "https://expansion.mx/economia/2026/08/24/trump-endurece-arancel-50-autos-acero-canada",
-      "source": "Expansion MX",
-      "pub": "Mon, 24 Aug 2026 15:01:38 GMT"
-    },
-    {
-      "title": "¿Qué pasa con el registro al comprar un chip nuevo? Hicimos el ejercicio con dos líneas telefónicas",
-      "link": "https://expansion.mx/empresas/2026/08/24/comprar-nuevo-chip-evita-registro-telefonico",
-      "source": "Expansion MX",
-      "pub": "Mon, 24 Aug 2026 14:44:34 GMT"
-    },
-    {
-      "title": "UNAM vs. Tec: la diferencia de 1.4 millones por estudiar en las mejores universidades de México",
-      "link": "https://expansion.mx/carrera/2026/08/24/unam-tec-1-4-millones-estudiar-mejores-universidades-mexico",
-      "source": "Expansion MX",
-      "pub": "Mon, 24 Aug 2026 14:42:56 GMT"
-    },
-    {
-      "title": "Shein busca recaudar 1,700 millones de dólares con salida en la Bolsa de Hong Kong",
-      "link": "https://expansion.mx/mercados/2026/08/24/shein-recaudar-1-700-millones-dolares-bolsa",
-      "source": "Expansion MX",
-      "pub": "Mon, 24 Aug 2026 14:24:55 GMT"
-    },
-    {
-      "title": "No es solo Tesla: 8 automotrices chinas retiran millones de autos por una falla que podría atraparte durante un choque",
-      "link": "https://expansion.mx/empresas/2026/08/24/tesla-8-automotrices-chinas-retiran-autos-falla-choque",
-      "source": "Expansion MX",
-      "pub": "Mon, 24 Aug 2026 14:19:41 GMT"
     }
   ]
 }
