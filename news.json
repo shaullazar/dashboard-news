@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T15:48:39.285809+00:00",
+  "updated": "2026-08-24T16:17:16.929675+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Inflación llega a 3.26% en la primera quincena de agosto, por debajo de lo esperado",
+      "link": "https://expansion.mx/economia/2026/08/24/inflacion-primera-quincena-agosto-inegi",
+      "source": "Expansion MX",
+      "pub": "Mon, 24 Aug 2026 13:45:14 GMT"
+    },
+    {
+      "title": "PIB de México crece 1.4% en segundo trimestre, menos de lo previsto",
+      "link": "https://expansion.mx/economia/2026/08/24/pib-mexico-crece-1-4-segundo-trimestre-menos-previsto-inegi",
+      "source": "Expansion MX",
+      "pub": "Mon, 24 Aug 2026 13:29:19 GMT"
+    },
+    {
       "title": "México frente al boom del juego digital: un mercado que crece más rápido que sus reglas",
       "link": "https://expansion.mx/opinion/2026/08/24/mexico-frente-al-boom-del-juego-digital-un-mercado-que-crece-mas-rapido-que-sus-reglas",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/08/23/3-empresas-lideran-papel-libretas-carton",
       "source": "Expansion MX",
       "pub": "Sun, 23 Aug 2026 12:45:54 GMT"
-    },
-    {
-      "title": "Del reloj de Porfirio Díaz a los celulares: la historia de Nacional Monte de Piedad, Dondé y Luz Saviñón",
-      "link": "https://expansion.mx/finanzas-personales/2026/08/23/historia-de-nacional-monte-de-piedad-donde-y-luz-savinon",
-      "source": "Expansion MX",
-      "pub": "Sun, 23 Aug 2026 12:23:26 GMT"
-    },
-    {
-      "title": "Cómo monetiza la música",
-      "link": "https://expansion.mx/tecnologia/2026/08/23/tener-millones-reproducciones-no-garantiza-vivir-musica",
-      "source": "Expansion MX",
-      "pub": "Sun, 23 Aug 2026 12:00:20 GMT"
     }
   ]
 }
