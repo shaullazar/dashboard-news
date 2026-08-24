@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T21:44:05.100067+00:00",
+  "updated": "2026-08-24T22:01:08.433504+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Amazon, Meta y Oracle despiden por miles, pero otras empresas aún pagan 63,875 dólares anuales por talento escaso",
+      "link": "https://expansion.mx/carrera/2026/08/24/despidos-tecnologicas-empresas-pagan-dolares-talento",
+      "source": "Expansion MX",
+      "pub": "Mon, 24 Aug 2026 21:27:46 GMT"
+    },
+    {
       "title": "Olinia Carga llegará en 2027, pero ya tiene rivales desde 25,000 pesos y con hasta 700 kg de carga",
       "link": "https://expansion.mx/empresas/2026/08/24/olinia-carga-rivales-desde-25-000-pesos",
       "source": "Expansion MX",
@@ -110,12 +116,6 @@
       "link": "https://expansion.mx/mundo/2026/08/24/de-venezuela-costa-rica-sismos",
       "source": "Expansion MX",
       "pub": "Mon, 24 Aug 2026 15:18:04 GMT"
-    },
-    {
-      "title": "Trump endurece el golpe a Canadá: autos, autopartes y acero enfrentarán arancel de 50%",
-      "link": "https://expansion.mx/economia/2026/08/24/trump-endurece-arancel-50-autos-acero-canada",
-      "source": "Expansion MX",
-      "pub": "Mon, 24 Aug 2026 15:01:38 GMT"
     }
   ]
 }
