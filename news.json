@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T18:17:56.533902+00:00",
+  "updated": "2026-08-24T19:02:26.908413+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Bait se alía con OXXO para ampliar recargas a sus 26.8 millones de usuarios",
+      "link": "https://expansion.mx/empresas/2026/08/24/bait-alia-oxxo-recargas",
+      "source": "Expansion MX",
+      "pub": "Mon, 24 Aug 2026 18:05:40 GMT"
+    },
+    {
       "title": "Nueva Zelanda busca sacar a los menores de 16 de TikTok, Instagram y Facebook",
       "link": "https://expansion.mx/tecnologia/2026/08/24/nueva-zelanda-redes-sociales-menores-16-anos",
       "source": "Expansion MX",
@@ -110,12 +116,6 @@
       "link": "https://expansion.mx/economia/2026/08/24/inflacion-primera-quincena-agosto-inegi",
       "source": "Expansion MX",
       "pub": "Mon, 24 Aug 2026 13:45:14 GMT"
-    },
-    {
-      "title": "PIB de México crece 1.4% en segundo trimestre, menos de lo previsto",
-      "link": "https://expansion.mx/economia/2026/08/24/pib-mexico-crece-1-4-segundo-trimestre-menos-previsto-inegi",
-      "source": "Expansion MX",
-      "pub": "Mon, 24 Aug 2026 13:29:19 GMT"
     }
   ]
 }
