@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T17:34:07.232988+00:00",
+  "updated": "2026-08-25T17:59:43.913518+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Volkswagen anuncia 50,000 despidos adicionales en medio de su peor crisis en años",
+      "link": "https://expansion.mx/empresas/2026/08/25/volkswagen-anuncia-50-000-despidos",
+      "source": "Expansion MX",
+      "pub": "Tue, 25 Aug 2026 15:25:27 GMT"
+    },
+    {
       "title": "Beca Telmex Telcel 2026 da hasta 1,500 pesos y laptop; ¿cómo solicitarla y cuáles son los requisitos?",
       "link": "https://expansion.mx/carrera/2026/08/25/requisitos-fechas-obtener-beca-fundacion-telmex-telcel-slim",
       "source": "Expansion MX",
@@ -110,12 +116,6 @@
       "link": "https://expansion.mx/economia/2026/08/24/scjn-monte-de-piedad-puede-poner-fin-a-la-huelga",
       "source": "Expansion MX",
       "pub": "Mon, 24 Aug 2026 23:46:49 GMT"
-    },
-    {
-      "title": "Ollamani de Azcárraga no solo tiene el Azteca, también posee terrenos millonarios y hasta un teatro antiguo",
-      "link": "https://expansion.mx/empresas/2026/08/24/ollamani-terrenos-millonarios-azcarraga",
-      "source": "Expansion MX",
-      "pub": "Mon, 24 Aug 2026 23:11:42 GMT"
     }
   ]
 }
