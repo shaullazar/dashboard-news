@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T17:00:56.693466+00:00",
+  "updated": "2026-08-25T17:34:07.232988+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,6 +64,36 @@
   ],
   "mexico": [
     {
+      "title": "Beca Telmex Telcel 2026 da hasta 1,500 pesos y laptop; ¿cómo solicitarla y cuáles son los requisitos?",
+      "link": "https://expansion.mx/carrera/2026/08/25/requisitos-fechas-obtener-beca-fundacion-telmex-telcel-slim",
+      "source": "Expansion MX",
+      "pub": "Tue, 25 Aug 2026 14:09:22 GMT"
+    },
+    {
+      "title": "ChatGPT y Gemini ya deciden qué marcas ves: Toyota, Suburbia y Klar toman ventaja",
+      "link": "https://expansion.mx/tecnologia/2026/08/25/chatgpt-gemini-marcas-recomendaciones-mexico",
+      "source": "Expansion MX",
+      "pub": "Tue, 25 Aug 2026 13:01:03 GMT"
+    },
+    {
+      "title": "No toda fricción merece ser automatizada",
+      "link": "https://expansion.mx/opinion/2026/08/25/no-toda-friccion-merece-ser-automatizada",
+      "source": "Expansion MX",
+      "pub": "Tue, 25 Aug 2026 12:13:49 GMT"
+    },
+    {
+      "title": "‘Corriendo’ el maratón de las inversiones",
+      "link": "https://expansion.mx/opinion/2026/08/25/corriendo-el-maraton-de-las-inversiones",
+      "source": "Expansion MX",
+      "pub": "Tue, 25 Aug 2026 12:05:17 GMT"
+    },
+    {
+      "title": "Los impuestos financiarán 70% del gasto público en 2027, un máximo desde 1990",
+      "link": "https://expansion.mx/economia/2026/08/25/impuestos-2027-paquete-economico",
+      "source": "Expansion MX",
+      "pub": "Tue, 25 Aug 2026 11:54:28 GMT"
+    },
+    {
       "title": "¿Puedo cambiar mi pensión de UMAs a salarios mínimos? Esto explica por qué solo a algunos les funciona",
       "link": "https://expansion.mx/finanzas-personales/2026/08/24/cambiar-pension-umas-salarios-minimos-explica-funciona",
       "source": "Expansion MX",
@@ -86,36 +116,6 @@
       "link": "https://expansion.mx/empresas/2026/08/24/ollamani-terrenos-millonarios-azcarraga",
       "source": "Expansion MX",
       "pub": "Mon, 24 Aug 2026 23:11:42 GMT"
-    },
-    {
-      "title": "La carrera universitaria que cuesta más de 2 millones y tardas más de 100 meses en recuperar el dinero",
-      "link": "https://expansion.mx/carrera/2026/08/24/carrera-cuesta-2-millones-tardas-ocho-anos-recuperar",
-      "source": "Expansion MX",
-      "pub": "Mon, 24 Aug 2026 22:55:40 GMT"
-    },
-    {
-      "title": "¿Tu wifi tiene dos redes y una dice 5G? Esto es lo que significa realmente y cuál deberías usar",
-      "link": "https://expansion.mx/tecnologia/2026/08/24/por-que-wifi-tiene-dos-redes",
-      "source": "Expansion MX",
-      "pub": "Mon, 24 Aug 2026 22:50:29 GMT"
-    },
-    {
-      "title": "Amazon, Meta y Oracle despiden por miles, pero otras empresas aún pagan 63,875 dólares anuales por talento escaso",
-      "link": "https://expansion.mx/carrera/2026/08/24/despidos-tecnologicas-empresas-pagan-dolares-talento",
-      "source": "Expansion MX",
-      "pub": "Mon, 24 Aug 2026 21:27:46 GMT"
-    },
-    {
-      "title": "Olinia Carga llegará en 2027, pero ya tiene rivales desde 25,000 pesos y con hasta 700 kg de carga",
-      "link": "https://expansion.mx/empresas/2026/08/24/olinia-carga-rivales-desde-25-000-pesos",
-      "source": "Expansion MX",
-      "pub": "Mon, 24 Aug 2026 20:03:15 GMT"
-    },
-    {
-      "title": "IED alcanza récord de 34,968 mdd en México en primer semestre, pero modera su crecimiento",
-      "link": "https://expansion.mx/economia/2026/08/24/ied-mexico-record-primer-semestre-2026",
-      "source": "Expansion MX",
-      "pub": "Mon, 24 Aug 2026 19:19:38 GMT"
     }
   ]
 }
