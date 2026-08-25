@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T21:48:50.355940+00:00",
+  "updated": "2026-08-25T22:02:26.601959+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "¿Usas WhatsApp en más de un celular? Ahora tendrás una llave de acceso para cada dispositivo",
+      "link": "https://expansion.mx/tecnologia/2026/08/25/whatsapp-mas-de-una-llave-acceso-cuenta",
+      "source": "Expansion MX",
+      "pub": "Tue, 25 Aug 2026 20:00:55 GMT"
+    },
+    {
       "title": "¿Para qué sirve el pequeño sensor que algunos celulares tienen junto a las cámaras?",
       "link": "https://expansion.mx/tecnologia/2026/08/25/para-que-sirve-sensor-celulares-tienen-junto-camaras",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/08/25/volkswagen-anuncia-50-000-despidos",
       "source": "Expansion MX",
       "pub": "Tue, 25 Aug 2026 15:25:27 GMT"
-    },
-    {
-      "title": "Beca Telmex Telcel 2026 da hasta 1,500 pesos y laptop; ¿cómo solicitarla y cuáles son los requisitos?",
-      "link": "https://expansion.mx/carrera/2026/08/25/requisitos-fechas-obtener-beca-fundacion-telmex-telcel-slim",
-      "source": "Expansion MX",
-      "pub": "Tue, 25 Aug 2026 14:09:22 GMT"
     }
   ]
 }
