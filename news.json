@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T19:15:53.839432+00:00",
+  "updated": "2026-08-25T19:46:12.497187+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,6 +64,48 @@
   ],
   "mexico": [
     {
+      "title": "¿Para qué sirve el pequeño sensor que algunos celulares tienen junto a las cámaras?",
+      "link": "https://expansion.mx/tecnologia/2026/08/25/para-que-sirve-sensor-celulares-tienen-junto-camaras",
+      "source": "Expansion MX",
+      "pub": "Tue, 25 Aug 2026 18:32:52 GMT"
+    },
+    {
+      "title": "Amazon, IKEA y Ben & Frank retienen clientes con algo que los programas de puntos no pueden copiar",
+      "link": "https://expansion.mx/mercadotecnia/2026/08/25/amazon-ikea-ben-frank-retener-clientes-sin-tarjetas-puntos",
+      "source": "Expansion MX",
+      "pub": "Tue, 25 Aug 2026 17:53:58 GMT"
+    },
+    {
+      "title": "Palacio de Hierro tiene otro negocio millonario: son dueños de parte de Centro Santa Fe y Angelópolis",
+      "link": "https://expansion.mx/empresas/2026/08/25/palacio-de-hierro-bailleres-plazas-santa-fe-angelopolis",
+      "source": "Expansion MX",
+      "pub": "Tue, 25 Aug 2026 17:53:14 GMT"
+    },
+    {
+      "title": "Informalidad genera el 83% de los empleos en México en el segundo trimestre",
+      "link": "https://expansion.mx/economia/2026/08/25/mexico-599000-empleos-pero-oculta-dato-informalidad",
+      "source": "Expansion MX",
+      "pub": "Tue, 25 Aug 2026 17:36:52 GMT"
+    },
+    {
+      "title": "Canadá devuelve el golpe a Trump con aranceles de 50% a lácteos, acero y electrodomésticos",
+      "link": "https://expansion.mx/economia/2026/08/25/canada-aranceles-estados-unidos-productos-50-por-ciento",
+      "source": "Expansion MX",
+      "pub": "Tue, 25 Aug 2026 17:29:51 GMT"
+    },
+    {
+      "title": "Olinia Carga cuesta 4 veces menos de operar que un motocarro de carga: ¿cuánto puedes ahorrar por kilómetro?",
+      "link": "https://expansion.mx/empresas/2026/08/25/olinia-carga-cuesta-4-veces-menos-que-motocarro-carga-operar",
+      "source": "Expansion MX",
+      "pub": "Tue, 25 Aug 2026 17:20:09 GMT"
+    },
+    {
+      "title": "Apple lanza nuevos Mac Studio y Mac Mini, el equipo favorito para usar agentes de IA",
+      "link": "https://expansion.mx/tecnologia/2026/08/25/apple-lanza-nuevas-mac-studio-y-mini",
+      "source": "Expansion MX",
+      "pub": "Tue, 25 Aug 2026 16:40:54 GMT"
+    },
+    {
       "title": "Empleo ligado a la IA crece 7.6% mientras maquila y automotriz van en retroceso",
       "link": "https://expansion.mx/economia/2026/08/25/empleo-ligado-ia-crece-7-6-mientras-automotriz-hunde",
       "source": "Expansion MX",
@@ -80,42 +122,6 @@
       "link": "https://expansion.mx/carrera/2026/08/25/requisitos-fechas-obtener-beca-fundacion-telmex-telcel-slim",
       "source": "Expansion MX",
       "pub": "Tue, 25 Aug 2026 14:09:22 GMT"
-    },
-    {
-      "title": "ChatGPT y Gemini ya deciden qué marcas ves: Toyota, Suburbia y Klar toman ventaja",
-      "link": "https://expansion.mx/tecnologia/2026/08/25/chatgpt-gemini-marcas-recomendaciones-mexico",
-      "source": "Expansion MX",
-      "pub": "Tue, 25 Aug 2026 13:01:03 GMT"
-    },
-    {
-      "title": "No toda fricción merece ser automatizada",
-      "link": "https://expansion.mx/opinion/2026/08/25/no-toda-friccion-merece-ser-automatizada",
-      "source": "Expansion MX",
-      "pub": "Tue, 25 Aug 2026 12:13:49 GMT"
-    },
-    {
-      "title": "‘Corriendo’ el maratón de las inversiones",
-      "link": "https://expansion.mx/opinion/2026/08/25/corriendo-el-maraton-de-las-inversiones",
-      "source": "Expansion MX",
-      "pub": "Tue, 25 Aug 2026 12:05:17 GMT"
-    },
-    {
-      "title": "Los impuestos financiarán 70% del gasto público en 2027, un máximo desde 1990",
-      "link": "https://expansion.mx/economia/2026/08/25/impuestos-2027-paquete-economico",
-      "source": "Expansion MX",
-      "pub": "Tue, 25 Aug 2026 11:54:28 GMT"
-    },
-    {
-      "title": "¿Puedo cambiar mi pensión de UMAs a salarios mínimos? Esto explica por qué solo a algunos les funciona",
-      "link": "https://expansion.mx/finanzas-personales/2026/08/24/cambiar-pension-umas-salarios-minimos-explica-funciona",
-      "source": "Expansion MX",
-      "pub": "Tue, 25 Aug 2026 01:29:43 GMT"
-    },
-    {
-      "title": "¿Ualá, BBVA o Banorte? Estos bancos tienen más créditos sin pagar",
-      "link": "https://expansion.mx/economia/2026/08/24/uala-bbva-banorte-bancos-mas-creditos-sin-pagar",
-      "source": "Expansion MX",
-      "pub": "Tue, 25 Aug 2026 01:11:07 GMT"
     }
   ]
 }
