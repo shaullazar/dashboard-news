@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T20:58:44.296508+00:00",
+  "updated": "2026-08-25T21:24:44.637434+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,6 +64,24 @@
   ],
   "mexico": [
     {
+      "title": "Ni la UNAM ni el Tec entran al top 100 de universidades y el ranking revela cuánto han perdido en seis años",
+      "link": "https://expansion.mx/carrera/2026/08/25/unam-tec-fuera-top-100-mejores-universidades-mundo",
+      "source": "Expansion MX",
+      "pub": "Tue, 25 Aug 2026 21:08:00 GMT"
+    },
+    {
+      "title": "¿Usas WhatsApp en más de un celular? Ahora tendrás una llave de acceso para cada dispositivo",
+      "link": "https://expansion.mx/tecnologia/2026/08/25/whatsapp-mas-de-una-llave-acceso-cuenta",
+      "source": "Expansion MX",
+      "pub": "Tue, 25 Aug 2026 20:00:55 GMT"
+    },
+    {
+      "title": "¿Para qué sirve el pequeño sensor que algunos celulares tienen junto a las cámaras?",
+      "link": "https://expansion.mx/tecnologia/2026/08/25/para-que-sirve-sensor-celulares-tienen-junto-camaras",
+      "source": "Expansion MX",
+      "pub": "Tue, 25 Aug 2026 18:32:52 GMT"
+    },
+    {
       "title": "Amazon, IKEA y Ben & Frank retienen clientes con algo que los programas de puntos no pueden copiar",
       "link": "https://expansion.mx/mercadotecnia/2026/08/25/amazon-ikea-ben-frank-retener-clientes-sin-tarjetas-puntos",
       "source": "Expansion MX",
@@ -104,18 +122,6 @@
       "link": "https://expansion.mx/economia/2026/08/25/empleo-ligado-ia-crece-7-6-mientras-automotriz-hunde",
       "source": "Expansion MX",
       "pub": "Tue, 25 Aug 2026 16:00:06 GMT"
-    },
-    {
-      "title": "Volkswagen anuncia 50,000 despidos adicionales en medio de su peor crisis en años",
-      "link": "https://expansion.mx/empresas/2026/08/25/volkswagen-anuncia-50-000-despidos",
-      "source": "Expansion MX",
-      "pub": "Tue, 25 Aug 2026 15:25:27 GMT"
-    },
-    {
-      "title": "Beca Telmex Telcel 2026 da hasta 1,500 pesos y laptop; ¿cómo solicitarla y cuáles son los requisitos?",
-      "link": "https://expansion.mx/carrera/2026/08/25/requisitos-fechas-obtener-beca-fundacion-telmex-telcel-slim",
-      "source": "Expansion MX",
-      "pub": "Tue, 25 Aug 2026 14:09:22 GMT"
     }
   ]
 }
