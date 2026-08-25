@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T12:47:31.592792+00:00",
+  "updated": "2026-08-25T13:36:06.978969+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Los impuestos financiarán 70% del gasto público en 2027, un máximo desde 1990",
+      "link": "https://expansion.mx/economia/2026/08/25/impuestos-2027-paquete-economico",
+      "source": "Expansion MX",
+      "pub": "Tue, 25 Aug 2026 11:54:28 GMT"
+    },
+    {
       "title": "¿Puedo cambiar mi pensión de UMAs a salarios mínimos? Esto explica por qué solo a algunos les funciona",
       "link": "https://expansion.mx/finanzas-personales/2026/08/24/cambiar-pension-umas-salarios-minimos-explica-funciona",
       "source": "Expansion MX",
@@ -110,12 +116,6 @@
       "link": "https://expansion.mx/empresas/2026/08/24/olinia-carga-rivales-desde-25-000-pesos",
       "source": "Expansion MX",
       "pub": "Mon, 24 Aug 2026 20:03:15 GMT"
-    },
-    {
-      "title": "IED alcanza récord de 34,968 mdd en México en primer semestre, pero modera su crecimiento",
-      "link": "https://expansion.mx/economia/2026/08/24/ied-mexico-record-primer-semestre-2026",
-      "source": "Expansion MX",
-      "pub": "Mon, 24 Aug 2026 19:19:38 GMT"
     }
   ]
 }
