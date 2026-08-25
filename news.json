@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T22:34:48.652480+00:00",
+  "updated": "2026-08-25T22:57:55.805079+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,24 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Natura duplicará su producción en México para reducir las  importaciones de sus productos",
-      "link": "https://expansion.mx/empresas/2026/08/25/natura-fabricara-60-por-ciento-productos-mexico-2027",
-      "source": "Expansion MX",
-      "pub": "Tue, 25 Aug 2026 22:25:55 GMT"
-    },
-    {
-      "title": "Tensión de EU con Canadá abre grietas en el T-MEC y añade presión a la inversión mexicana",
-      "link": "https://expansion.mx/economia/2026/08/25/choque-eu-canada-impacto-t-mec-mexico",
-      "source": "Expansion MX",
-      "pub": "Tue, 25 Aug 2026 21:58:15 GMT"
-    },
-    {
-      "title": "Antes de Televisa, Emilio Azcárraga Vidaurreta vendía autos Ford y fundó su propia distribuidora en Monterrey",
-      "link": "https://expansion.mx/empresas/2026/08/25/emilio-azcarraga-vidaurreta-venta-autos-ford",
-      "source": "Expansion MX",
-      "pub": "Tue, 25 Aug 2026 21:47:55 GMT"
-    },
-    {
       "title": "Remesas, exportadores y turismo: las tres víctimas del superpeso",
       "link": "https://expansion.mx/economia/2026/08/25/remesas-exportadores-turismo-victimas-peso-mexicano",
       "source": "Expansion MX",
@@ -122,6 +104,24 @@
       "link": "https://expansion.mx/mercadotecnia/2026/08/25/amazon-ikea-ben-frank-retener-clientes-sin-tarjetas-puntos",
       "source": "Expansion MX",
       "pub": "Tue, 25 Aug 2026 17:53:58 GMT"
+    },
+    {
+      "title": "Palacio de Hierro tiene otro negocio millonario: son dueños de parte de Centro Santa Fe y Angelópolis",
+      "link": "https://expansion.mx/empresas/2026/08/25/palacio-de-hierro-bailleres-plazas-santa-fe-angelopolis",
+      "source": "Expansion MX",
+      "pub": "Tue, 25 Aug 2026 17:53:14 GMT"
+    },
+    {
+      "title": "Informalidad genera el 83% de los empleos en México en el segundo trimestre",
+      "link": "https://expansion.mx/economia/2026/08/25/mexico-599000-empleos-pero-oculta-dato-informalidad",
+      "source": "Expansion MX",
+      "pub": "Tue, 25 Aug 2026 17:36:52 GMT"
+    },
+    {
+      "title": "Canadá devuelve el golpe a Trump con aranceles de 50% a lácteos, acero y electrodomésticos",
+      "link": "https://expansion.mx/economia/2026/08/25/canada-aranceles-estados-unidos-productos-50-por-ciento",
+      "source": "Expansion MX",
+      "pub": "Tue, 25 Aug 2026 17:29:51 GMT"
     }
   ]
 }
