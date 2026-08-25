@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T01:34:27.287295+00:00",
+  "updated": "2026-08-25T02:42:43.438061+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "Monte de Piedad lleva casi un año en huelga y la Suprema Corte acaba de entrar al conflicto laboral",
+      "link": "https://expansion.mx/economia/2026/08/24/scjn-monte-de-piedad-puede-poner-fin-a-la-huelga",
+      "source": "Expansion MX",
+      "pub": "Mon, 24 Aug 2026 23:46:49 GMT"
+    },
+    {
+      "title": "Ollamani de Azcárraga no solo tiene el Azteca, también posee terrenos millonarios y hasta un teatro antiguo",
+      "link": "https://expansion.mx/empresas/2026/08/24/ollamani-terrenos-millonarios-azcarraga",
+      "source": "Expansion MX",
+      "pub": "Mon, 24 Aug 2026 23:11:42 GMT"
+    },
+    {
+      "title": "La carrera universitaria que cuesta más de 2 millones y tardas más de 100 meses en recuperar el dinero",
+      "link": "https://expansion.mx/carrera/2026/08/24/carrera-cuesta-2-millones-tardas-ocho-anos-recuperar",
+      "source": "Expansion MX",
+      "pub": "Mon, 24 Aug 2026 22:55:40 GMT"
+    },
+    {
+      "title": "¿Tu wifi tiene dos redes y una dice 5G? Esto es lo que significa realmente y cuál deberías usar",
+      "link": "https://expansion.mx/tecnologia/2026/08/24/por-que-wifi-tiene-dos-redes",
+      "source": "Expansion MX",
+      "pub": "Mon, 24 Aug 2026 22:50:29 GMT"
+    },
+    {
       "title": "Amazon, Meta y Oracle despiden por miles, pero otras empresas aún pagan 63,875 dólares anuales por talento escaso",
       "link": "https://expansion.mx/carrera/2026/08/24/despidos-tecnologicas-empresas-pagan-dolares-talento",
       "source": "Expansion MX",
@@ -92,30 +116,6 @@
       "link": "https://expansion.mx/tecnologia/2026/08/24/computadoras-regreso-a-clases-menos-7-000-pesos",
       "source": "Expansion MX",
       "pub": "Mon, 24 Aug 2026 19:04:43 GMT"
-    },
-    {
-      "title": "Profeco revela cuánto cuestan los uniformes escolares y en qué productos sí conviene gastar más",
-      "link": "https://expansion.mx/finanzas-personales/2026/08/24/utiles-uniformes-escolares-cuando-ahorrar-cuando-gastar",
-      "source": "Expansion MX",
-      "pub": "Mon, 24 Aug 2026 18:21:41 GMT"
-    },
-    {
-      "title": "Bait se alía con OXXO para ampliar recargas a sus 26.8 millones de usuarios",
-      "link": "https://expansion.mx/empresas/2026/08/24/bait-alia-oxxo-recargas",
-      "source": "Expansion MX",
-      "pub": "Mon, 24 Aug 2026 18:05:40 GMT"
-    },
-    {
-      "title": "Nueva Zelanda busca sacar a los menores de 16 de TikTok, Instagram y Facebook",
-      "link": "https://expansion.mx/tecnologia/2026/08/24/nueva-zelanda-redes-sociales-menores-16-anos",
-      "source": "Expansion MX",
-      "pub": "Mon, 24 Aug 2026 16:44:36 GMT"
-    },
-    {
-      "title": "La cadena de sismos que mantiene en alerta a América Latina llega ahora a Costa Rica",
-      "link": "https://expansion.mx/mundo/2026/08/24/de-venezuela-costa-rica-sismos",
-      "source": "Expansion MX",
-      "pub": "Mon, 24 Aug 2026 15:18:04 GMT"
     }
   ]
 }
