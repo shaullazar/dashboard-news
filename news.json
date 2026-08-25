@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T04:08:18.425048+00:00",
+  "updated": "2026-08-25T04:49:40.902180+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,6 +64,24 @@
   ],
   "mexico": [
     {
+      "title": "¿Puedo cambiar mi pensión de UMAs a salarios mínimos? Esto explica por qué solo a algunos les funciona",
+      "link": "https://expansion.mx/finanzas-personales/2026/08/24/cambiar-pension-umas-salarios-minimos-explica-funciona",
+      "source": "Expansion MX",
+      "pub": "Tue, 25 Aug 2026 01:29:43 GMT"
+    },
+    {
+      "title": "¿Ualá, BBVA o Banorte? Estos bancos tienen más créditos sin pagar",
+      "link": "https://expansion.mx/economia/2026/08/24/uala-bbva-banorte-bancos-mas-creditos-sin-pagar",
+      "source": "Expansion MX",
+      "pub": "Tue, 25 Aug 2026 01:11:07 GMT"
+    },
+    {
+      "title": "Monte de Piedad lleva casi un año en huelga y la Suprema Corte acaba de entrar al conflicto laboral",
+      "link": "https://expansion.mx/economia/2026/08/24/scjn-monte-de-piedad-puede-poner-fin-a-la-huelga",
+      "source": "Expansion MX",
+      "pub": "Mon, 24 Aug 2026 23:46:49 GMT"
+    },
+    {
       "title": "Ollamani de Azcárraga no solo tiene el Azteca, también posee terrenos millonarios y hasta un teatro antiguo",
       "link": "https://expansion.mx/empresas/2026/08/24/ollamani-terrenos-millonarios-azcarraga",
       "source": "Expansion MX",
@@ -98,24 +116,6 @@
       "link": "https://expansion.mx/economia/2026/08/24/ied-mexico-record-primer-semestre-2026",
       "source": "Expansion MX",
       "pub": "Mon, 24 Aug 2026 19:19:38 GMT"
-    },
-    {
-      "title": "Estudio muestra que la Generación Z sí quiere casarse y tener hijos, pero el dinero frena sus planes de vida",
-      "link": "https://expansion.mx/finanzas-personales/2026/08/24/generacion-z-casarse-tener-hijos-estudiar-dinero-la-frena",
-      "source": "Expansion MX",
-      "pub": "Mon, 24 Aug 2026 19:10:18 GMT"
-    },
-    {
-      "title": "¿Buscas laptop para el regreso a clases? Estas opciones cuestan menos de 7,000 pesos",
-      "link": "https://expansion.mx/tecnologia/2026/08/24/computadoras-regreso-a-clases-menos-7-000-pesos",
-      "source": "Expansion MX",
-      "pub": "Mon, 24 Aug 2026 19:04:43 GMT"
-    },
-    {
-      "title": "Profeco revela cuánto cuestan los uniformes escolares y en qué productos sí conviene gastar más",
-      "link": "https://expansion.mx/finanzas-personales/2026/08/24/utiles-uniformes-escolares-cuando-ahorrar-cuando-gastar",
-      "source": "Expansion MX",
-      "pub": "Mon, 24 Aug 2026 18:21:41 GMT"
     }
   ]
 }
