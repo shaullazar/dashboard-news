@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T15:55:43.947995+00:00",
+  "updated": "2026-08-25T16:23:21.355404+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Beca Telmex Telcel 2026 da hasta 1,500 pesos y laptop; ¿cómo solicitarla y cuáles son los requisitos?",
+      "link": "https://expansion.mx/carrera/2026/08/25/requisitos-fechas-obtener-beca-fundacion-telmex-telcel-slim",
+      "source": "Expansion MX",
+      "pub": "Tue, 25 Aug 2026 14:09:22 GMT"
+    },
+    {
       "title": "ChatGPT y Gemini ya deciden qué marcas ves: Toyota, Suburbia y Klar toman ventaja",
       "link": "https://expansion.mx/tecnologia/2026/08/25/chatgpt-gemini-marcas-recomendaciones-mexico",
       "source": "Expansion MX",
@@ -110,18 +116,6 @@
       "link": "https://expansion.mx/empresas/2026/08/24/ollamani-terrenos-millonarios-azcarraga",
       "source": "Expansion MX",
       "pub": "Mon, 24 Aug 2026 23:11:42 GMT"
-    },
-    {
-      "title": "La carrera universitaria que cuesta más de 2 millones y tardas más de 100 meses en recuperar el dinero",
-      "link": "https://expansion.mx/carrera/2026/08/24/carrera-cuesta-2-millones-tardas-ocho-anos-recuperar",
-      "source": "Expansion MX",
-      "pub": "Mon, 24 Aug 2026 22:55:40 GMT"
-    },
-    {
-      "title": "¿Tu wifi tiene dos redes y una dice 5G? Esto es lo que significa realmente y cuál deberías usar",
-      "link": "https://expansion.mx/tecnologia/2026/08/24/por-que-wifi-tiene-dos-redes",
-      "source": "Expansion MX",
-      "pub": "Mon, 24 Aug 2026 22:50:29 GMT"
     }
   ]
 }
