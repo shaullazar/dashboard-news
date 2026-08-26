@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T23:58:21.252763+00:00",
+  "updated": "2026-08-26T01:05:17.365823+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,12 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "SUVs híbridas: opciones para evitar el Hoy No Circula y contingencias ambientales",
-      "link": "https://expansion.mx/empresas/2026/08/25/suvs-hibridas-evitar-hoy-no-circula-contingencia-ambiental",
-      "source": "Expansion MX",
-      "pub": "Tue, 25 Aug 2026 23:12:09 GMT"
-    },
-    {
       "title": "¿Telcel o AT&T? La telefónica que ha perdido 1.7 millones de usuarios en medio del registro telefónico obligatorio",
       "link": "https://expansion.mx/empresas/2026/08/25/telcel-att-pierde-1-7-millones-usuarios-registro-telefonico",
       "source": "Expansion MX",
@@ -122,6 +116,12 @@
       "link": "https://expansion.mx/tecnologia/2026/08/25/whatsapp-mas-de-una-llave-acceso-cuenta",
       "source": "Expansion MX",
       "pub": "Tue, 25 Aug 2026 20:00:55 GMT"
+    },
+    {
+      "title": "¿Para qué sirve el pequeño sensor que algunos celulares tienen junto a las cámaras?",
+      "link": "https://expansion.mx/tecnologia/2026/08/25/para-que-sirve-sensor-celulares-tienen-junto-camaras",
+      "source": "Expansion MX",
+      "pub": "Tue, 25 Aug 2026 18:32:52 GMT"
     }
   ]
 }
