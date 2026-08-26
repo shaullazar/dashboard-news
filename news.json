@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T14:47:38.684108+00:00",
+  "updated": "2026-08-26T16:05:34.360932+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,24 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Ceuta como síntoma y como advertencia",
-      "link": "https://expansion.mx/opinion/2026/08/26/ceuta-como-sintoma-y-como-advertencia",
-      "source": "Expansion MX",
-      "pub": "Wed, 26 Aug 2026 12:15:00 GMT"
-    },
-    {
-      "title": "La postal incompleta de la IA",
-      "link": "https://expansion.mx/opinion/2026/08/26/la-postal-incompleta-de-la-ia",
-      "source": "Expansion MX",
-      "pub": "Wed, 26 Aug 2026 12:11:04 GMT"
-    },
-    {
-      "title": "Portafolio de vida\r\n¿En dónde vive el verdadero potencial del dinero?",
-      "link": "https://expansion.mx/opinion/2026/08/26/portafolio-de-vida-en-donde-vive-el-verdadero-potencial-del-dinero",
-      "source": "Expansion MX",
-      "pub": "Wed, 26 Aug 2026 12:08:11 GMT"
-    },
-    {
       "title": "Farmacias Guadalajara crece con más tiendas, pero su rentabilidad se deteriora",
       "link": "https://expansion.mx/empresas/2026/08/26/farmacias-guadalajara-abre-sucursales-costos-crecen",
       "source": "Expansion MX",
@@ -122,6 +104,24 @@
       "link": "https://expansion.mx/empresas/2026/08/25/suvs-hibridas-evitar-hoy-no-circula-contingencia-ambiental",
       "source": "Expansion MX",
       "pub": "Tue, 25 Aug 2026 23:12:09 GMT"
+    },
+    {
+      "title": "¿Telcel o AT&T? La telefónica que ha perdido 1.7 millones de usuarios en medio del registro telefónico obligatorio",
+      "link": "https://expansion.mx/empresas/2026/08/25/telcel-att-pierde-1-7-millones-usuarios-registro-telefonico",
+      "source": "Expansion MX",
+      "pub": "Tue, 25 Aug 2026 22:44:48 GMT"
+    },
+    {
+      "title": "Natura duplicará su producción en México para reducir las  importaciones de sus productos",
+      "link": "https://expansion.mx/empresas/2026/08/25/natura-fabricara-60-por-ciento-productos-mexico-2027",
+      "source": "Expansion MX",
+      "pub": "Tue, 25 Aug 2026 22:25:55 GMT"
+    },
+    {
+      "title": "Tensión de EU con Canadá abre grietas en el T-MEC y añade presión a la inversión mexicana",
+      "link": "https://expansion.mx/economia/2026/08/25/choque-eu-canada-impacto-t-mec-mexico",
+      "source": "Expansion MX",
+      "pub": "Tue, 25 Aug 2026 21:58:15 GMT"
     }
   ]
 }
