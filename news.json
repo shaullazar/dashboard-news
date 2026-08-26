@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T03:35:26.450049+00:00",
+  "updated": "2026-08-26T04:19:29.640061+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Los jóvenes gastan 22% más en la tiendita de la esquina cuando pagan con tarjeta",
+      "link": "https://expansion.mx/economia/2026/08/25/jovenes-gastan-mas-tiendita-esquina-cuando-pagan-tarjeta",
+      "source": "Expansion MX",
+      "pub": "Wed, 26 Aug 2026 01:40:06 GMT"
+    },
+    {
+      "title": "Al estilo Trump, Abelardo de la Espriella ordena deportación de migrantes irregulares",
+      "link": "https://expansion.mx/mundo/2026/08/25/abelardo-espriella-ordena-deportacion-migrantes-irregulares",
+      "source": "Expansion MX",
+      "pub": "Wed, 26 Aug 2026 00:42:58 GMT"
+    },
+    {
       "title": "El arancel de 50% enfría el negocio de importar autos chinos y el puerto de Lázaro Cárdenas es muestra de ello",
       "link": "https://expansion.mx/empresas/2026/08/25/arancel-enfria-negocio-importar-autos-chinos-lazaro-cardenas",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/economia/2026/08/25/superpeso-victimas-remesas-exportadores-turistas",
       "source": "Expansion MX",
       "pub": "Tue, 25 Aug 2026 21:43:01 GMT"
-    },
-    {
-      "title": "La UNAM lidera en México, pero su examen de admisión la hizo “reprobar” en reputación",
-      "link": "https://expansion.mx/carrera/2026/08/25/unam-examen-admision-2026-reputacion",
-      "source": "Expansion MX",
-      "pub": "Tue, 25 Aug 2026 21:23:50 GMT"
-    },
-    {
-      "title": "¿Quieres llegar al retiro con más dinero? Activa el ahorro automático en tu Afore desde 50 pesos",
-      "link": "https://expansion.mx/finanzas-personales/2026/08/25/como-domiciliar-cuenta-banco-aportaciones-voluntarias-afore",
-      "source": "Expansion MX",
-      "pub": "Tue, 25 Aug 2026 21:20:54 GMT"
     }
   ]
 }
