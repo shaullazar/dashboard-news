@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T20:35:47.980770+00:00",
+  "updated": "2026-08-27T00:01:40.001088+00:00",
   "colombia": [
     {
       "title": "The Western Colombia earthquake: what do we know 1 week later?",
@@ -64,18 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Suzuki lanza el Across indio para llenar el hueco de Gran Vitara: va por los clientes de Kia Seltos y Hyundai Creta",
-      "link": "https://expansion.mx/empresas/2026/08/26/suzuki-cross-indio-mexico-precio-versiones",
-      "source": "Expansion MX",
-      "pub": "Wed, 26 Aug 2026 17:26:04 GMT"
-    },
-    {
-      "title": "Apple confirma su evento de septiembre: esto es lo que podría presentar",
-      "link": "https://expansion.mx/tecnologia/2026/08/26/apple-confirma-evento-nuevos-iphone-apple-watch",
-      "source": "Expansion MX",
-      "pub": "Wed, 26 Aug 2026 16:48:51 GMT"
-    },
-    {
       "title": "México está en el top 3 de fricción con China, pero 66.2% de sus empresas confía en el país",
       "link": "https://expansion.mx/economia/2026/08/26/mexico-friccion-comercial-china-empresas-confian-pais",
       "source": "Expansion MX",
@@ -122,6 +110,18 @@
       "link": "https://expansion.mx/empresas/2026/08/26/farmacias-guadalajara-abre-sucursales-costos-crecen",
       "source": "Expansion MX",
       "pub": "Wed, 26 Aug 2026 11:55:31 GMT"
+    },
+    {
+      "title": "Los jóvenes gastan 22% más en la tiendita de la esquina cuando pagan con tarjeta",
+      "link": "https://expansion.mx/economia/2026/08/25/jovenes-gastan-mas-tiendita-esquina-cuando-pagan-tarjeta",
+      "source": "Expansion MX",
+      "pub": "Wed, 26 Aug 2026 01:40:06 GMT"
+    },
+    {
+      "title": "Al estilo Trump, Abelardo de la Espriella ordena deportación de migrantes irregulares",
+      "link": "https://expansion.mx/mundo/2026/08/25/abelardo-espriella-ordena-deportacion-migrantes-irregulares",
+      "source": "Expansion MX",
+      "pub": "Wed, 26 Aug 2026 00:42:58 GMT"
     }
   ]
 }
