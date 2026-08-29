@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T00:05:01.950796+00:00",
+  "updated": "2026-08-29T06:57:32.956239+00:00",
   "colombia": [
     {
       "title": "Abelardo de la Espriella begins to dismantle Colombia’s peace process",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "Nuevas riadas amenazan Nepal tras el deslave que dejó 552 muertos",
+      "link": "https://expansion.mx/mundo/2026/08/28/nuevas-riadas-amenazan-nepal",
+      "source": "Expansion MX",
+      "pub": "Fri, 28 Aug 2026 14:22:49 GMT"
+    },
+    {
+      "title": "Suzuki resiente el arancel de 50% y ajusta su oferta de autos para mantener precios competitivos",
+      "link": "https://expansion.mx/empresas/2026/08/28/suzuki-importara-mas-swift-jimny-japon-esquivar-arancel-50",
+      "source": "Expansion MX",
+      "pub": "Fri, 28 Aug 2026 11:55:49 GMT"
+    },
+    {
+      "title": "La IA puede revivir tu rostro y tu voz, pero ¿quién decide qué hace con ellos?",
+      "link": "https://expansion.mx/tecnologia/2026/08/28/ia-voz-fotos-despues-de-morir-ia-puede-usarlas",
+      "source": "Expansion MX",
+      "pub": "Fri, 28 Aug 2026 11:55:19 GMT"
+    },
+    {
+      "title": "Empresas mexicanas frenan sus adquisiciones fuera del país",
+      "link": "https://expansion.mx/mercados/2026/08/28/empresas-mexicanas-freno-adquisiciones-internacionales",
+      "source": "Expansion MX",
+      "pub": "Fri, 28 Aug 2026 11:55:10 GMT"
+    },
+    {
       "title": "Coppel, cerca de adquirir Afore Invercap por 4,620 millones de pesos",
       "link": "https://expansion.mx/economia/2026/08/27/afore-coppel-compra-invercap-por-4-620-millones-pesos",
       "source": "Expansion MX",
@@ -98,30 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/08/27/telcel-registro-telefonico-frena-ventas-escasez-chips",
       "source": "Expansion MX",
       "pub": "Thu, 27 Aug 2026 23:49:57 GMT"
-    },
-    {
-      "title": "Sofomes enfrentan un déficit de fondeo de 200,000 mdp para cubrir la demanda de crédito",
-      "link": "https://expansion.mx/economia/2026/08/27/sofomes-enfrentan-deficit-fondeo-200-000-mdp-demanda-credito",
-      "source": "Expansion MX",
-      "pub": "Thu, 27 Aug 2026 23:14:18 GMT"
-    },
-    {
-      "title": "KidZania cambia su estrategia en México tras el cierre de Kinezis: ahora va por los adultos",
-      "link": "https://expansion.mx/empresas/2026/08/27/kidzania-cambia-estrategia-mexico-adultos",
-      "source": "Expansion MX",
-      "pub": "Thu, 27 Aug 2026 23:08:29 GMT"
-    },
-    {
-      "title": "Club América y Bomberg lanzan reloj por 110 años: solo 400 personas podrán tenerlo",
-      "link": "https://expansion.mx/tendencias/2026/08/27/club-america-bomberg-lanzan-reloj-solo-400-podran-tenerlo",
-      "source": "Expansion MX",
-      "pub": "Thu, 27 Aug 2026 22:34:31 GMT"
-    },
-    {
-      "title": "Ley 73 vs. Décimo Transitorio: cuánto podría recibir una persona que trabajó en ambos sistemas",
-      "link": "https://expansion.mx/finanzas-personales/2026/08/27/ley-73-decimo-transitorio-cuanto-recibir-trabajo-sistemas",
-      "source": "Expansion MX",
-      "pub": "Thu, 27 Aug 2026 22:14:13 GMT"
     }
   ]
 }
