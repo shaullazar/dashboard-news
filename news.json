@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T12:55:20.036311+00:00",
+  "updated": "2026-08-29T16:54:20.678803+00:00",
   "colombia": [
     {
       "title": "Abelardo de la Espriella begins to dismantle Colombia’s peace process",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Gasolinas, con menor carga de impuestos; disminuye IEPS por segunda semana consecutiva",
+      "link": "https://expansion.mx/economia/2026/08/28/impuestos-gasolinas-ieps-magna-premium",
+      "source": "Expansion MX",
+      "pub": "Sat, 29 Aug 2026 00:41:03 GMT"
+    },
+    {
       "title": "Ingresos en picada; Hacienda reporta faltante por 170,000 mdp rumbo al Paquete Económico 2027",
       "link": "https://expansion.mx/economia/2026/08/28/impuestos-ingresos-petroleros-paquete-economico-2027",
       "source": "Expansion MX",
@@ -104,18 +110,6 @@
       "link": "https://expansion.mx/economia/2026/08/28/mexico-supera-china-eu-crecimiento-exportaciones-g20",
       "source": "Expansion MX",
       "pub": "Fri, 28 Aug 2026 19:26:15 GMT"
-    },
-    {
-      "title": "¿Quieres \"poner\" un Oxxo? Lo que necesitas para administrar una tienda sin desembolsar millones en una franquicia",
-      "link": "https://expansion.mx/empresas/2026/08/28/quieres-poner-oxxo-necesitas-administrar-tienda-franquicia",
-      "source": "Expansion MX",
-      "pub": "Fri, 28 Aug 2026 19:23:58 GMT"
-    },
-    {
-      "title": "10 años de la muerte de Juan Gabriel: los negocios y la fortuna que dejó el Divo de Juárez",
-      "link": "https://expansion.mx/tendencias/2026/08/28/10-muerte-juan-gabriel-negocios-fortuna-dejo-divo-de-juarez",
-      "source": "Expansion MX",
-      "pub": "Fri, 28 Aug 2026 19:22:32 GMT"
     }
   ]
 }
