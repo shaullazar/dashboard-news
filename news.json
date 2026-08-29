@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T16:54:20.678803+00:00",
+  "updated": "2026-08-29T19:32:13.493740+00:00",
   "colombia": [
     {
       "title": "Abelardo de la Espriella begins to dismantle Colombia’s peace process",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Nepal y China luchan por localizar a casi 3,000 desaparecidos tras deslave",
+      "link": "https://expansion.mx/mundo/2026/08/29/nepal-y-china-localizar-3000-desaparecidos-deslave",
+      "source": "Expansion MX",
+      "pub": "Sat, 29 Aug 2026 17:06:33 GMT"
+    },
+    {
       "title": "Gasolinas, con menor carga de impuestos; disminuye IEPS por segunda semana consecutiva",
       "link": "https://expansion.mx/economia/2026/08/28/impuestos-gasolinas-ieps-magna-premium",
       "source": "Expansion MX",
@@ -104,12 +110,6 @@
       "link": "https://expansion.mx/empresas/2026/08/28/porsche-lanza-cayenne-no-abandona-gasolina-cambia-estrategia",
       "source": "Expansion MX",
       "pub": "Fri, 28 Aug 2026 19:44:54 GMT"
-    },
-    {
-      "title": "México deja atrás a China y EU en crecimiento exportador dentro del G20",
-      "link": "https://expansion.mx/economia/2026/08/28/mexico-supera-china-eu-crecimiento-exportaciones-g20",
-      "source": "Expansion MX",
-      "pub": "Fri, 28 Aug 2026 19:26:15 GMT"
     }
   ]
 }
