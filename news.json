@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T17:11:29.032415+00:00",
+  "updated": "2026-08-30T19:48:45.583970+00:00",
   "colombia": [
     {
       "title": "Abelardo de la Espriella begins to dismantle Colombia’s peace process",
@@ -64,18 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Volkswagen reduce un turno en Puebla: ¿qué pasará con la producción del Jetta y Tiguan en México?",
-      "link": "https://expansion.mx/empresas/2026/08/30/que-pasara-con-la-produccion-del-jetta-y-tiguan-en-mexico",
-      "source": "Expansion MX",
-      "pub": "Sun, 30 Aug 2026 16:20:34 GMT"
-    },
-    {
-      "title": "Antes de Telmex, dos compañías telefónicas competían en México y sus clientes no podían llamarse entre sí",
-      "link": "https://expansion.mx/tendencias/2026/08/30/antes-de-telmex-dos-companias-telefonicas-competian",
-      "source": "Expansion MX",
-      "pub": "Sun, 30 Aug 2026 16:00:32 GMT"
-    },
-    {
       "title": "La deuda de México rebasa los 19.2 billones de pesos, sube 1.4 en un año",
       "link": "https://expansion.mx/economia/2026/08/29/deuda-publica-mexico-hacienda-19-billones-pesos",
       "source": "Expansion MX",
@@ -116,6 +104,12 @@
       "link": "https://expansion.mx/economia/2026/08/28/mexico-bonos-samurai-1700-millones-dolares",
       "source": "Expansion MX",
       "pub": "Fri, 28 Aug 2026 21:24:56 GMT"
+    },
+    {
+      "title": "Cómo el tarot y el hiking ayudaron a directivos de Natura, Caliente.mx y otras empresas a ser mejores líderes",
+      "link": "https://expansion.mx/carrera/2026/08/28/como-ser-un-buen-lider-segun-directores-natura-avon",
+      "source": "Expansion MX",
+      "pub": "Fri, 28 Aug 2026 20:11:41 GMT"
     }
   ]
 }
