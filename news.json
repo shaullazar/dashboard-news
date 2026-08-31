@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T05:52:54.680311+00:00",
+  "updated": "2026-08-31T11:52:37.186907+00:00",
   "colombia": [
     {
       "title": "Abelardo de la Espriella begins to dismantle Colombia’s peace process",
@@ -64,6 +64,24 @@
   ],
   "mexico": [
     {
+      "title": "Estas son las 10 carreras del Conalep que pueden llevarte a sueldos de más de 19,000 pesos",
+      "link": "https://expansion.mx/carrera/2026/08/30/carreras-conalep-mejor-pagadas-sueldos-19-000-pesos",
+      "source": "Expansion MX",
+      "pub": "Mon, 31 Aug 2026 00:07:51 GMT"
+    },
+    {
+      "title": "¿Puede sobrevivir el Monte de Piedad sin sus sucursales? El negocio que tendrá que reinventar",
+      "link": "https://expansion.mx/economia/2026/08/30/puede-sobrevivir-monte-de-piedad-sucursales-negocio",
+      "source": "Expansion MX",
+      "pub": "Sun, 30 Aug 2026 21:23:38 GMT"
+    },
+    {
+      "title": "Nicolás Maduro reaparece desde prisión y manda este mensaje a través de redes sociales",
+      "link": "https://expansion.mx/mundo/2026/08/30/nicolas-maduro-reaparece-prision-manda-mensaje",
+      "source": "Expansion MX",
+      "pub": "Sun, 30 Aug 2026 19:42:36 GMT"
+    },
+    {
       "title": "Volkswagen reduce un turno en Puebla: ¿qué pasará con la producción del Jetta y Tiguan en México?",
       "link": "https://expansion.mx/empresas/2026/08/30/que-pasara-con-la-produccion-del-jetta-y-tiguan-en-mexico",
       "source": "Expansion MX",
@@ -98,24 +116,6 @@
       "link": "https://expansion.mx/economia/2026/08/28/impuestos-ingresos-petroleros-paquete-economico-2027",
       "source": "Expansion MX",
       "pub": "Fri, 28 Aug 2026 23:18:57 GMT"
-    },
-    {
-      "title": "Las razones por las que Splatoon Raiders, Avatar Legends y Mixtape son mis 3 videojuegos favoritos del verano",
-      "link": "https://expansion.mx/tecnologia/2026/08/28/resena-splatoon-raiders-avatar-legends-y-mixtape",
-      "source": "Expansion MX",
-      "pub": "Fri, 28 Aug 2026 23:00:13 GMT"
-    },
-    {
-      "title": "¿Por qué Warner Bros. no recibirá ni un peso por el estreno de Coyote vs. ACME?",
-      "link": "https://expansion.mx/tendencias/2026/08/28/por-que-warner-bros-recibira-peso-estreno-coyote-vs-acme",
-      "source": "Expansion MX",
-      "pub": "Fri, 28 Aug 2026 22:26:54 GMT"
-    },
-    {
-      "title": "México coloca bonos samurái por más de 1,700 millones de dólares",
-      "link": "https://expansion.mx/economia/2026/08/28/mexico-bonos-samurai-1700-millones-dolares",
-      "source": "Expansion MX",
-      "pub": "Fri, 28 Aug 2026 21:24:56 GMT"
     }
   ]
 }
