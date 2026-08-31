@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T18:12:03.855945+00:00",
+  "updated": "2026-08-31T22:48:14.674035+00:00",
   "colombia": [
     {
       "title": "Abelardo de la Espriella begins to dismantle Colombia’s peace process",
@@ -64,18 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Amazon, Mercado Libre y Shein presionan la rentabilidad de los pequeños negocios",
-      "link": "https://expansion.mx/tecnologia/2026/08/31/amazon-mercado-libre-shein-pequenos-negocios-rentabilidad",
-      "source": "Expansion MX",
-      "pub": "Mon, 31 Aug 2026 11:55:49 GMT"
-    },
-    {
-      "title": "BBVA apuesta por tecnología y riesgos con Elechiguerra al frente en México",
-      "link": "https://expansion.mx/economia/2026/08/31/elechiguerra-nuevo-director-bbva-mexico",
-      "source": "Expansion MX",
-      "pub": "Mon, 31 Aug 2026 11:55:18 GMT"
-    },
-    {
       "title": "Estas son las 10 carreras del Conalep que pueden llevarte a sueldos de más de 19,000 pesos",
       "link": "https://expansion.mx/carrera/2026/08/30/carreras-conalep-mejor-pagadas-sueldos-19-000-pesos",
       "source": "Expansion MX",
@@ -122,6 +110,12 @@
       "link": "https://expansion.mx/economia/2026/08/28/impuestos-gasolinas-ieps-magna-premium",
       "source": "Expansion MX",
       "pub": "Sat, 29 Aug 2026 00:41:03 GMT"
+    },
+    {
+      "title": "Ingresos en picada; Hacienda reporta faltante por 170,000 mdp rumbo al Paquete Económico 2027",
+      "link": "https://expansion.mx/economia/2026/08/28/impuestos-ingresos-petroleros-paquete-economico-2027",
+      "source": "Expansion MX",
+      "pub": "Fri, 28 Aug 2026 23:18:57 GMT"
     }
   ]
 }
