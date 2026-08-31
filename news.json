@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T00:28:06.875959+00:00",
+  "updated": "2026-08-31T05:52:54.680311+00:00",
   "colombia": [
     {
       "title": "Abelardo de la Espriella begins to dismantle Colombia’s peace process",
@@ -64,12 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Nicolás Maduro reaparece desde prisión y manda este mensaje a través de redes sociales",
-      "link": "https://expansion.mx/mundo/2026/08/30/nicolas-maduro-reaparece-prision-manda-mensaje",
-      "source": "Expansion MX",
-      "pub": "Sun, 30 Aug 2026 19:42:36 GMT"
-    },
-    {
       "title": "Volkswagen reduce un turno en Puebla: ¿qué pasará con la producción del Jetta y Tiguan en México?",
       "link": "https://expansion.mx/empresas/2026/08/30/que-pasara-con-la-produccion-del-jetta-y-tiguan-en-mexico",
       "source": "Expansion MX",
@@ -116,6 +110,12 @@
       "link": "https://expansion.mx/tendencias/2026/08/28/por-que-warner-bros-recibira-peso-estreno-coyote-vs-acme",
       "source": "Expansion MX",
       "pub": "Fri, 28 Aug 2026 22:26:54 GMT"
+    },
+    {
+      "title": "México coloca bonos samurái por más de 1,700 millones de dólares",
+      "link": "https://expansion.mx/economia/2026/08/28/mexico-bonos-samurai-1700-millones-dolares",
+      "source": "Expansion MX",
+      "pub": "Fri, 28 Aug 2026 21:24:56 GMT"
     }
   ]
 }
