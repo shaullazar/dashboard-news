@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T15:33:02.844587+00:00",
+  "updated": "2026-09-01T18:45:21.494010+00:00",
   "colombia": [
     {
       "title": "99 forced disappearances linked to Colombia armed conflict this year",
@@ -64,6 +64,42 @@
   ],
   "mexico": [
     {
+      "title": "Flō Networks prepara oferta para adquirir Axtel tras propuesta de compra de Tomás Milmo",
+      "link": "https://expansion.mx/empresas/2026/09/01/flo-networks-adquirir-axtel-propuesta-compra-tomas-milmo",
+      "source": "Expansion MX",
+      "pub": "Tue, 01 Sep 2026 18:23:07 GMT"
+    },
+    {
+      "title": "¿De cuánto es la fortuna de Tim Cook, el CEO que deja Apple tras 15 años al frente de la empresa?",
+      "link": "https://expansion.mx/tecnologia/2026/09/01/fortuna-de-tim-cook-apple",
+      "source": "Expansion MX",
+      "pub": "Tue, 01 Sep 2026 18:23:01 GMT"
+    },
+    {
+      "title": "La disciplina del Tec: la base para el éxito de León Krauze",
+      "link": "https://expansion.mx/carrera/2026/09/01/disciplina-tec-base-exito-de-leon-krauze",
+      "source": "Expansion MX",
+      "pub": "Tue, 01 Sep 2026 17:45:02 GMT"
+    },
+    {
+      "title": "El sedán subcompacto más caro cuesta 47,100 pesos más que el más barato, pero tiene menos espacio",
+      "link": "https://expansion.mx/empresas/2026/09/01/subcompacto-cuesta-poco-mas-300-mil-pesos-el-mas-espacioso",
+      "source": "Expansion MX",
+      "pub": "Tue, 01 Sep 2026 17:31:41 GMT"
+    },
+    {
+      "title": "John Ternus toma el mando de Apple con la misión de acelerar la IA y revivir el espíritu de Steve Jobs",
+      "link": "https://expansion.mx/tecnologia/2026/09/01/john-ternus-nuevo-ceo-apple-retos",
+      "source": "Expansion MX",
+      "pub": "Tue, 01 Sep 2026 17:27:11 GMT"
+    },
+    {
+      "title": "Bonos disparan las tasas y golpean a Wall Street: ¿por qué preocupa a los mercados?",
+      "link": "https://expansion.mx/mercados/2026/09/01/wall-street-cae-rendimientos-bonos-petroleo",
+      "source": "Expansion MX",
+      "pub": "Tue, 01 Sep 2026 17:26:36 GMT"
+    },
+    {
       "title": "Sonos lanza nueva barra Beam Ultra y audífonos Ace Ultra de batería reemplazable",
       "link": "https://expansion.mx/tecnologia/2026/09/01/sonos-beam-ultra-ace-ultra-caracteristicas",
       "source": "Expansion MX",
@@ -86,42 +122,6 @@
       "link": "https://expansion.mx/opinion/2026/09/01/el-tetris-entre-la-escuela-y-el-trabajo",
       "source": "Expansion MX",
       "pub": "Tue, 01 Sep 2026 12:10:46 GMT"
-    },
-    {
-      "title": "Altán, el T-MEC y la preponderancia que nadie ha resuelto: una agenda pendiente para México",
-      "link": "https://expansion.mx/opinion/2026/09/01/altan-el-t-mec-y-la-preponderancia-que-nadie-ha-resuelto-una-agenda-pendiente-para-mexico",
-      "source": "Expansion MX",
-      "pub": "Tue, 01 Sep 2026 12:06:21 GMT"
-    },
-    {
-      "title": "Nuevos impuestos: cómo deben responder las empresas",
-      "link": "https://expansion.mx/opinion/2026/09/01/nuevos-impuestos-como-deben-responder-las-empresas",
-      "source": "Expansion MX",
-      "pub": "Tue, 01 Sep 2026 12:02:22 GMT"
-    },
-    {
-      "title": "México aumenta 20.2% sus exportaciones a Canadá en plena tensión con EU",
-      "link": "https://expansion.mx/economia/2026/09/01/exportaciones-mexico-canada-crecen-tension-eu",
-      "source": "Expansion MX",
-      "pub": "Tue, 01 Sep 2026 11:55:56 GMT"
-    },
-    {
-      "title": "Tope a gasolina regular y diésel se extiende por otros seis meses",
-      "link": "https://expansion.mx/empresas/2026/08/31/tope-a-gasolina-regular-y-diesel-se-extiende-por-otros-seis-meses",
-      "source": "Expansion MX",
-      "pub": "Tue, 01 Sep 2026 04:38:36 GMT"
-    },
-    {
-      "title": "Acero mexicano se suma al contenido nacional que deben tener obras públicas",
-      "link": "https://expansion.mx/empresas/2026/08/31/acero-mexicano-se-suma-al-contenido-nacional-que-deben-tener-obras-publicas",
-      "source": "Expansion MX",
-      "pub": "Tue, 01 Sep 2026 03:06:17 GMT"
-    },
-    {
-      "title": "Estos Samsung cuestan menos de 10,000 pesos y tendrán actualizaciones hasta 2032",
-      "link": "https://expansion.mx/tecnologia/2026/08/31/samsung-menos-10-000-pesos-actualizaciones-hasta-2032",
-      "source": "Expansion MX",
-      "pub": "Tue, 01 Sep 2026 01:25:04 GMT"
     }
   ]
 }
