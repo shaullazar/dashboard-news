@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T18:45:21.494010+00:00",
+  "updated": "2026-09-01T21:21:09.545619+00:00",
   "colombia": [
     {
       "title": "99 forced disappearances linked to Colombia armed conflict this year",
@@ -64,6 +64,42 @@
   ],
   "mexico": [
     {
+      "title": "Dyson CameraJet: El cepillo con cámara e IA para limpiar tus dientes sin dejar zonas a ciegas",
+      "link": "https://expansion.mx/tecnologia/2026/09/01/dyson-camerajet-cepillo-dientes-camara-ia-mexico",
+      "source": "Expansion MX",
+      "pub": "Tue, 01 Sep 2026 21:00:36 GMT"
+    },
+    {
+      "title": "Cetes le ganan a la inflación, pero solo un plazo rebasa el 7% de rendimiento",
+      "link": "https://expansion.mx/finanzas-personales/2026/09/01/que-plazo-de-cetes-paga-mas-tasas-1-3-6-12-meses",
+      "source": "Expansion MX",
+      "pub": "Tue, 01 Sep 2026 20:55:22 GMT"
+    },
+    {
+      "title": "Sonos deja de ser solo bocinas: su nuevo negocio ahora compite con Amazon y Google",
+      "link": "https://expansion.mx/tecnologia/2026/09/01/sonos-nuevo-negocio-mas-alla-bocinas",
+      "source": "Expansion MX",
+      "pub": "Tue, 01 Sep 2026 20:00:09 GMT"
+    },
+    {
+      "title": "Ni GTA VI los asusta: Gears of War y Marvel’s Wolverine entre los lanzamientos de videojuegos para cerrar 2026",
+      "link": "https://expansion.mx/tecnologia/2026/09/01/gta-vi-gears-of-war-marvels-wolverine-videojuegos-2026",
+      "source": "Expansion MX",
+      "pub": "Tue, 01 Sep 2026 18:50:03 GMT"
+    },
+    {
+      "title": "BBVA tiene una beca nueva de hasta 1 millón de pesos y esta es la fecha límite de la convocatoria",
+      "link": "https://expansion.mx/carrera/2026/09/01/bbva-beca-nueva-1-millon-pesos-fecha-limite-convocatoria",
+      "source": "Expansion MX",
+      "pub": "Tue, 01 Sep 2026 18:45:44 GMT"
+    },
+    {
+      "title": "Bayer apuesta por 10 productos agrícolas para impulsar ventas por más de 3,500 millones de euros",
+      "link": "https://expansion.mx/empresas/2026/09/01/bayer-apuesta-10-productos-agricolas-500-millones-euros",
+      "source": "Expansion MX",
+      "pub": "Tue, 01 Sep 2026 18:40:09 GMT"
+    },
+    {
       "title": "Flō Networks prepara oferta para adquirir Axtel tras propuesta de compra de Tomás Milmo",
       "link": "https://expansion.mx/empresas/2026/09/01/flo-networks-adquirir-axtel-propuesta-compra-tomas-milmo",
       "source": "Expansion MX",
@@ -86,42 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/09/01/subcompacto-cuesta-poco-mas-300-mil-pesos-el-mas-espacioso",
       "source": "Expansion MX",
       "pub": "Tue, 01 Sep 2026 17:31:41 GMT"
-    },
-    {
-      "title": "John Ternus toma el mando de Apple con la misión de acelerar la IA y revivir el espíritu de Steve Jobs",
-      "link": "https://expansion.mx/tecnologia/2026/09/01/john-ternus-nuevo-ceo-apple-retos",
-      "source": "Expansion MX",
-      "pub": "Tue, 01 Sep 2026 17:27:11 GMT"
-    },
-    {
-      "title": "Bonos disparan las tasas y golpean a Wall Street: ¿por qué preocupa a los mercados?",
-      "link": "https://expansion.mx/mercados/2026/09/01/wall-street-cae-rendimientos-bonos-petroleo",
-      "source": "Expansion MX",
-      "pub": "Tue, 01 Sep 2026 17:26:36 GMT"
-    },
-    {
-      "title": "Sonos lanza nueva barra Beam Ultra y audífonos Ace Ultra de batería reemplazable",
-      "link": "https://expansion.mx/tecnologia/2026/09/01/sonos-beam-ultra-ace-ultra-caracteristicas",
-      "source": "Expansion MX",
-      "pub": "Tue, 01 Sep 2026 14:15:29 GMT"
-    },
-    {
-      "title": "App de Banamex presenta fallas este 1 de septiembre; usuarios reciben alerta por otra sesión activa",
-      "link": "https://expansion.mx/economia/2026/09/01/banamex-presenta-fallas-app-1-septiembre",
-      "source": "Expansion MX",
-      "pub": "Tue, 01 Sep 2026 13:51:25 GMT"
-    },
-    {
-      "title": "Disciplina financiera sí, pero también inversión",
-      "link": "https://expansion.mx/opinion/2026/09/01/disciplina-financiera-tambien-inversion",
-      "source": "Expansion MX",
-      "pub": "Tue, 01 Sep 2026 13:30:21 GMT"
-    },
-    {
-      "title": "El Tetris entre la escuela y el trabajo",
-      "link": "https://expansion.mx/opinion/2026/09/01/el-tetris-entre-la-escuela-y-el-trabajo",
-      "source": "Expansion MX",
-      "pub": "Tue, 01 Sep 2026 12:10:46 GMT"
     }
   ]
 }
