@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T06:18:58.419057+00:00",
+  "updated": "2026-09-01T11:44:53.994096+00:00",
   "colombia": [
     {
       "title": "99 forced disappearances linked to Colombia armed conflict this year",
@@ -64,6 +64,24 @@
   ],
   "mexico": [
     {
+      "title": "Tope a gasolina regular y diésel se extiende por otros seis meses",
+      "link": "https://expansion.mx/empresas/2026/08/31/tope-a-gasolina-regular-y-diesel-se-extiende-por-otros-seis-meses",
+      "source": "Expansion MX",
+      "pub": "Tue, 01 Sep 2026 04:38:36 GMT"
+    },
+    {
+      "title": "Acero mexicano se suma al contenido nacional que deben tener obras públicas",
+      "link": "https://expansion.mx/empresas/2026/08/31/acero-mexicano-se-suma-al-contenido-nacional-que-deben-tener-obras-publicas",
+      "source": "Expansion MX",
+      "pub": "Tue, 01 Sep 2026 03:06:17 GMT"
+    },
+    {
+      "title": "Estos Samsung cuestan menos de 10,000 pesos y tendrán actualizaciones hasta 2032",
+      "link": "https://expansion.mx/tecnologia/2026/08/31/samsung-menos-10-000-pesos-actualizaciones-hasta-2032",
+      "source": "Expansion MX",
+      "pub": "Tue, 01 Sep 2026 01:25:04 GMT"
+    },
+    {
       "title": "Volkswagen y sindicato llegan a preacuerdo de última hora: buscan evitar huelga",
       "link": "https://expansion.mx/empresas/2026/08/31/volkswagen-sindicato-llegan-preacuerdo-ultima-hora-huelga",
       "source": "Expansion MX",
@@ -104,24 +122,6 @@
       "link": "https://expansion.mx/mundo/2026/08/31/inundaciones-gran-canon-preocupacion-cambio-climatico",
       "source": "Expansion MX",
       "pub": "Mon, 31 Aug 2026 22:15:04 GMT"
-    },
-    {
-      "title": "México es potencia en adopción de IA: 67% de los empleados la usa, pero los jefes no la aprovechan",
-      "link": "https://expansion.mx/tecnologia/2026/08/31/mexico-potencia-usar-ia-trabajadores",
-      "source": "Expansion MX",
-      "pub": "Mon, 31 Aug 2026 22:00:21 GMT"
-    },
-    {
-      "title": "México se alinea con sus socios del T-MEC para revisar inversiones por seguridad nacional",
-      "link": "https://expansion.mx/economia/2026/08/31/mexico-revision-inversion-extranjera-seguridad-tmec",
-      "source": "Expansion MX",
-      "pub": "Mon, 31 Aug 2026 21:57:09 GMT"
-    },
-    {
-      "title": "Entre la SUV eléctrica más barata y la más cara hay 120,000 pesos de diferencia y no es por la batería",
-      "link": "https://expansion.mx/empresas/2026/08/31/vale-la-pena-pagar-120-000-pesos-mas-suv-electricas",
-      "source": "Expansion MX",
-      "pub": "Mon, 31 Aug 2026 21:30:56 GMT"
     }
   ]
 }
