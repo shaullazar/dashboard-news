@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T21:21:09.545619+00:00",
+  "updated": "2026-09-01T23:22:19.246035+00:00",
   "colombia": [
     {
       "title": "99 forced disappearances linked to Colombia armed conflict this year",
@@ -64,6 +64,24 @@
   ],
   "mexico": [
     {
+      "title": "Frontera entre China y Nepal: el desastre ya deja más de 1,000 muertos",
+      "link": "https://expansion.mx/mundo/2026/09/01/frontera-entre-china-y-nepal-desastre-deja-mas-1-000-muertos",
+      "source": "Expansion MX",
+      "pub": "Tue, 01 Sep 2026 22:08:48 GMT"
+    },
+    {
+      "title": "Ya puedes heredar tu Instagram y aprovechar el mes del testamento, estos son los requisitos",
+      "link": "https://expansion.mx/finanzas-personales/2026/09/01/heredar-redes-sociales-precios-septiembre-mes-testamento",
+      "source": "Expansion MX",
+      "pub": "Tue, 01 Sep 2026 22:00:09 GMT"
+    },
+    {
+      "title": "Con un carrito afuera de la tienda fue como empezó la historia del icónico hot dog de Costco",
+      "link": "https://expansion.mx/empresas/2026/09/01/carrito-tienda-historia-iconico-hot-dog-costco",
+      "source": "Expansion MX",
+      "pub": "Tue, 01 Sep 2026 21:49:37 GMT"
+    },
+    {
       "title": "Dyson CameraJet: El cepillo con cámara e IA para limpiar tus dientes sin dejar zonas a ciegas",
       "link": "https://expansion.mx/tecnologia/2026/09/01/dyson-camerajet-cepillo-dientes-camara-ia-mexico",
       "source": "Expansion MX",
@@ -104,24 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/09/01/flo-networks-adquirir-axtel-propuesta-compra-tomas-milmo",
       "source": "Expansion MX",
       "pub": "Tue, 01 Sep 2026 18:23:07 GMT"
-    },
-    {
-      "title": "¿De cuánto es la fortuna de Tim Cook, el CEO que deja Apple tras 15 años al frente de la empresa?",
-      "link": "https://expansion.mx/tecnologia/2026/09/01/fortuna-de-tim-cook-apple",
-      "source": "Expansion MX",
-      "pub": "Tue, 01 Sep 2026 18:23:01 GMT"
-    },
-    {
-      "title": "La disciplina del Tec: la base para el éxito de León Krauze",
-      "link": "https://expansion.mx/carrera/2026/09/01/disciplina-tec-base-exito-de-leon-krauze",
-      "source": "Expansion MX",
-      "pub": "Tue, 01 Sep 2026 17:45:02 GMT"
-    },
-    {
-      "title": "El sedán subcompacto más caro cuesta 47,100 pesos más que el más barato, pero tiene menos espacio",
-      "link": "https://expansion.mx/empresas/2026/09/01/subcompacto-cuesta-poco-mas-300-mil-pesos-el-mas-espacioso",
-      "source": "Expansion MX",
-      "pub": "Tue, 01 Sep 2026 17:31:41 GMT"
     }
   ]
 }
