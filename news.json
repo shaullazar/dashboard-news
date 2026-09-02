@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T17:26:09.916477+00:00",
+  "updated": "2026-09-02T19:55:20.124313+00:00",
   "colombia": [
     {
       "title": "99 forced disappearances linked to Colombia armed conflict this year",
@@ -64,6 +64,36 @@
   ],
   "mexico": [
     {
+      "title": "HSBC celebra su primer Wealth Investment Summit en México",
+      "link": "https://expansion.mx/economia/2026/09/02/hsbc-celebra-su-primer-wealth-investment-summit-en-mexico",
+      "source": "Expansion MX",
+      "pub": "Wed, 02 Sep 2026 17:34:38 GMT"
+    },
+    {
+      "title": "Los bancos estrenan una nueva forma de confirmar tu identidad por SMS y debes saber cómo funciona",
+      "link": "https://expansion.mx/finanzas-personales/2026/09/02/bancos-nueva-forma-confirmar-identidad-sms-como-funciona",
+      "source": "Expansion MX",
+      "pub": "Wed, 02 Sep 2026 16:54:39 GMT"
+    },
+    {
+      "title": "¿Impuesto a sopas Maruchan? Alistan ajustes a IEPS en botanas y bebidas alcohólicas en Paquete Económico 2027",
+      "link": "https://expansion.mx/economia/2026/09/02/impuestos-sopas-maruchan-botanas-alcohol-ieps-2027",
+      "source": "Expansion MX",
+      "pub": "Wed, 02 Sep 2026 15:06:19 GMT"
+    },
+    {
+      "title": "Huawei promete medir tu riesgo de diabetes con el Watch GT 7",
+      "link": "https://expansion.mx/tecnologia/2026/09/02/huawei-promete-medir-tu-riesgo-de-diabetes",
+      "source": "Expansion MX",
+      "pub": "Wed, 02 Sep 2026 15:00:59 GMT"
+    },
+    {
+      "title": "Antes del Tsuru el 'Vocho' fue el auto preferido en México, ¿qué causó su fin?",
+      "link": "https://expansion.mx/empresas/2026/09/02/vocho-auto-preferido-en-mexico-que-causo-su-fin",
+      "source": "Expansion MX",
+      "pub": "Wed, 02 Sep 2026 14:11:10 GMT"
+    },
+    {
       "title": "Del seguro de vida al “seguro para vivir”: el nuevo imperativo de la industria",
       "link": "https://expansion.mx/opinion/2026/09/02/del-seguro-de-vida-al-seguro-para-vivir-el-nuevo-imperativo-de-la-industria",
       "source": "Expansion MX",
@@ -92,36 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/09/01/contenido-nacional-acero-alivio-aranceles-estados-unidos",
       "source": "Expansion MX",
       "pub": "Wed, 02 Sep 2026 00:26:50 GMT"
-    },
-    {
-      "title": "A partir de esta fecha, Tailandia solicitará visa a turistas mexicanos: requisitos, precio y cómo tramitarla",
-      "link": "https://expansion.mx/mundo/2026/09/01/fecha-tailandia-visa-turistas-mexicanos-requisitos-tramitar",
-      "source": "Expansion MX",
-      "pub": "Tue, 01 Sep 2026 23:52:25 GMT"
-    },
-    {
-      "title": "Tras conquistar las ventas de barrio, Tiendas 3B, Neto y Zorro van por los clientes de mayor poder adquisitivo",
-      "link": "https://expansion.mx/empresas/2026/09/01/tiendas-3b-neto-van-clientes-walmart",
-      "source": "Expansion MX",
-      "pub": "Tue, 01 Sep 2026 23:45:11 GMT"
-    },
-    {
-      "title": "Impuesto a comida chatarra tiene el pendiente de subir de 8 a 20%; organizaciones presionan para incrementar IEPS",
-      "link": "https://expansion.mx/economia/2026/09/01/ieps-impuesto-comida-chatarra-2027-8-20",
-      "source": "Expansion MX",
-      "pub": "Tue, 01 Sep 2026 23:26:47 GMT"
-    },
-    {
-      "title": "Tu empeño en Nacional Monte de Piedad podría tener una nueva fecha de pago y así puedes revisarla",
-      "link": "https://expansion.mx/finanzas-personales/2026/09/01/empeno-monte-de-piedad-nuevas-fecha-pago-puedes-revisarla",
-      "source": "Expansion MX",
-      "pub": "Tue, 01 Sep 2026 23:17:56 GMT"
-    },
-    {
-      "title": "¿Qué hacer si me despiden y no me dan liquidación? Estos son los pasos a seguir",
-      "link": "https://expansion.mx/finanzas-personales/2026/09/01/que-hacer-si-me-despiden-liquidacion-pasos-a-seguir",
-      "source": "Expansion MX",
-      "pub": "Tue, 01 Sep 2026 23:01:14 GMT"
     }
   ]
 }
