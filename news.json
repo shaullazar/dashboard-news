@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T00:03:20.139733+00:00",
+  "updated": "2026-09-03T04:10:08.979762+00:00",
   "colombia": [
     {
       "title": "99 forced disappearances linked to Colombia armed conflict this year",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Manufactureras de exportación avalan reforma a inversión extranjera, pero ponen foco en tiempos",
+      "link": "https://expansion.mx/economia/2026/09/02/manufactureras-avalan-control-inversion-extranjera",
+      "source": "Expansion MX",
+      "pub": "Thu, 03 Sep 2026 00:05:06 GMT"
+    },
+    {
       "title": "Tras el salto de Nu, Finsus ve a las Sofipos como semillero de nuevos bancos",
       "link": "https://expansion.mx/economia/2026/09/02/modelo-finsus-va-contracorriente-nu",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/09/02/tomas-milmo-axtel-fundador-empresario-busca-comprarla",
       "source": "Expansion MX",
       "pub": "Wed, 02 Sep 2026 20:49:51 GMT"
-    },
-    {
-      "title": "GoPro, de la crisis a la salvación: entrará al negocio de la IA para evitar su muerte",
-      "link": "https://expansion.mx/tecnologia/2026/09/02/gopro-de-la-crisis-a-la-salvacion",
-      "source": "Expansion MX",
-      "pub": "Wed, 02 Sep 2026 20:00:05 GMT"
     }
   ]
 }
