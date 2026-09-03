@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T21:53:32.552083+00:00",
+  "updated": "2026-09-03T23:34:57.554893+00:00",
   "colombia": [
     {
       "title": "99 forced disappearances linked to Colombia armed conflict this year",
@@ -64,48 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "¿Ya pagaste y sigues con mala nota en Buró de Crédito? Reforma busca acelerar la limpieza del historial",
-      "link": "https://expansion.mx/economia/2026/09/03/salir-buro-de-credito-si-ya-pagaste-rapido-reforma",
-      "source": "Expansion MX",
-      "pub": "Thu, 03 Sep 2026 21:27:18 GMT"
-    },
-    {
-      "title": "El auto con el motor más longevo, según un estudio: tiene 8 veces más probabilidades de pasar 402 mil km",
-      "link": "https://expansion.mx/empresas/2026/09/03/auto-mas-longevo-tiene-probabilidades-pasar-402-mil-km",
-      "source": "Expansion MX",
-      "pub": "Thu, 03 Sep 2026 21:24:16 GMT"
-    },
-    {
-      "title": "Paquete Económico 2027, cuándo vence el plazo de entrega y qué sigue en el Congreso",
-      "link": "https://expansion.mx/economia/2026/09/03/paquete-economico-2027-cuando-se-presenta",
-      "source": "Expansion MX",
-      "pub": "Thu, 03 Sep 2026 20:49:09 GMT"
-    },
-    {
-      "title": "El empresario detrás de Estrella Blanca y Minsa que comenzó trabajando en una lavandería",
-      "link": "https://expansion.mx/empresas/2026/09/03/empresario-estrella-blanca-minsa-lavanderia-raymundo-gomez",
-      "source": "Expansion MX",
-      "pub": "Thu, 03 Sep 2026 20:47:31 GMT"
-    },
-    {
-      "title": "Snoopy vuelve a Starbucks, pero su vaso estrella tendrá límite de compra",
-      "link": "https://expansion.mx/mercadotecnia/2026/09/03/starbucks-snoopy-coleccion-2026",
-      "source": "Expansion MX",
-      "pub": "Thu, 03 Sep 2026 19:14:30 GMT"
-    },
-    {
-      "title": "El riesgo de no registrar tu línea telefónica: lo que pasa con los chips nuevos sin vinculación",
-      "link": "https://expansion.mx/empresas/2026/09/03/riesgo-no-registrar-linea-chips-nuevos",
-      "source": "Expansion MX",
-      "pub": "Thu, 03 Sep 2026 18:42:34 GMT"
-    },
-    {
-      "title": "Con cartas y visitas domiciliarias, despachos de cobranza buscan encontrar a deudores que no registren línea telefónica",
-      "link": "https://expansion.mx/economia/2026/09/03/deuda-despachos-cobranza-tienen-otras-formas-encontrarte",
-      "source": "Expansion MX",
-      "pub": "Thu, 03 Sep 2026 17:15:35 GMT"
-    },
-    {
       "title": "Muere el empresario Raymundo Gómez Flores, padre de Altagracia Gómez Sierra",
       "link": "https://expansion.mx/empresas/2026/09/03/muere-empresario-raymundo-gomez-flores",
       "source": "Expansion MX",
@@ -122,6 +80,48 @@
       "link": "https://expansion.mx/ciencia-y-salud/2026/09/03/el-nino-no-se-comporta-como-antes-onu",
       "source": "Expansion MX",
       "pub": "Thu, 03 Sep 2026 15:23:05 GMT"
+    },
+    {
+      "title": "Tus audífonos, cámaras y cargadores ahora tendrán algo en común: todos se llamarán Anker",
+      "link": "https://expansion.mx/tecnologia/2026/09/03/anker-unifica-sus-marcas",
+      "source": "Expansion MX",
+      "pub": "Thu, 03 Sep 2026 15:00:12 GMT"
+    },
+    {
+      "title": "\"A veces, simplemente no me caes bien”: Así fue como Henry Ford II despidió al creador del Mustang",
+      "link": "https://expansion.mx/empresas/2026/09/03/asi-fue-como-henry-ford-ii-despidio-al-creador-del-mustang",
+      "source": "Expansion MX",
+      "pub": "Thu, 03 Sep 2026 14:00:06 GMT"
+    },
+    {
+      "title": "De puertos a algoritmos: la inversión extranjera tech entra al filtro de seguridad nacional",
+      "link": "https://expansion.mx/economia/2026/09/03/mexico-vigilara-seguridad-nacional-ia-semiconductores",
+      "source": "Expansion MX",
+      "pub": "Thu, 03 Sep 2026 14:00:05 GMT"
+    },
+    {
+      "title": "Cuando el tamaño no garantiza la rentabilidad de un banco",
+      "link": "https://expansion.mx/opinion/2026/09/03/cuando-el-tamano-no-garantiza-la-rentabilidad-de-un-banco",
+      "source": "Expansion MX",
+      "pub": "Thu, 03 Sep 2026 12:04:20 GMT"
+    },
+    {
+      "title": "El crecimiento que no hace ruido, pero construye mejores empresas",
+      "link": "https://expansion.mx/opinion/2026/09/03/el-crecimiento-que-no-hace-ruido-pero-construye-mejores-empresas",
+      "source": "Expansion MX",
+      "pub": "Thu, 03 Sep 2026 12:02:29 GMT"
+    },
+    {
+      "title": "La ventaja que México tiene, y que Trump no puede medir en aranceles",
+      "link": "https://expansion.mx/opinion/2026/09/03/la-ventaja-que-mexico-tiene-y-que-trump-no-puede-medir-en-aranceles",
+      "source": "Expansion MX",
+      "pub": "Thu, 03 Sep 2026 11:59:23 GMT"
+    },
+    {
+      "title": "Colombia y Venezuela levantan cortinas. México, cerrado.",
+      "link": "https://expansion.mx/opinion/2026/09/03/colombia-y-venezuela-levantan-cortinas-mexico-cerrado",
+      "source": "Expansion MX",
+      "pub": "Thu, 03 Sep 2026 11:59:14 GMT"
     }
   ]
 }
