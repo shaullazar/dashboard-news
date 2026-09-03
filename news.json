@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T04:10:08.979762+00:00",
+  "updated": "2026-09-03T08:53:51.315452+00:00",
   "colombia": [
     {
       "title": "99 forced disappearances linked to Colombia armed conflict this year",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Fracking requiere 108,000 mdd y hasta una década para producir el gas que hoy demanda México",
+      "link": "https://expansion.mx/empresas/2026/09/02/fracking-108000-mdd-decada-producir-gas-demanda-mexico",
+      "source": "Expansion MX",
+      "pub": "Thu, 03 Sep 2026 01:34:37 GMT"
+    },
+    {
+      "title": "Con cartas y visitas domiciliarias, despachos de cobranza buscan encontrar a deudores que no registren línea telefónica",
+      "link": "https://expansion.mx/economia/2026/09/02/despachos-cobranza-buscan-deudores-cartas-visitas",
+      "source": "Expansion MX",
+      "pub": "Thu, 03 Sep 2026 01:04:35 GMT"
+    },
+    {
       "title": "Manufactureras de exportación avalan reforma a inversión extranjera, pero ponen foco en tiempos",
       "link": "https://expansion.mx/economia/2026/09/02/manufactureras-avalan-control-inversion-extranjera",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/09/02/oxio-usuarios-movistar-estaran-datos-quien-controlara",
       "source": "Expansion MX",
       "pub": "Wed, 02 Sep 2026 22:04:16 GMT"
-    },
-    {
-      "title": "¿Límite a China o reclamo del T-MEC? México afila su control de inversión extranjera",
-      "link": "https://expansion.mx/economia/2026/09/02/mexico-no-veta-china-si-cambia-reglas-invertir",
-      "source": "Expansion MX",
-      "pub": "Wed, 02 Sep 2026 20:54:56 GMT"
-    },
-    {
-      "title": "La historia de Tomás Milmo con Axtel de fundador a empresario que busca comprarla",
-      "link": "https://expansion.mx/empresas/2026/09/02/tomas-milmo-axtel-fundador-empresario-busca-comprarla",
-      "source": "Expansion MX",
-      "pub": "Wed, 02 Sep 2026 20:49:51 GMT"
     }
   ]
 }
