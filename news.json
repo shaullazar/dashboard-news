@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T19:49:38.506818+00:00",
+  "updated": "2026-09-04T21:51:15.412947+00:00",
   "colombia": [
     {
       "title": "99 forced disappearances linked to Colombia armed conflict this year",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "¿Qué le pasa a tu celular al estar enchufado? Estos cargadores te dan todos los detalles",
+      "link": "https://expansion.mx/tecnologia/2026/09/04/que-le-pasa-a-tu-celular-al-estar-enchufado",
+      "source": "Expansion MX",
+      "pub": "Fri, 04 Sep 2026 21:00:34 GMT"
+    },
+    {
+      "title": "Con apoyos del gobierno, la pensión mensual promedio en México es de 13 mil 745 pesos",
+      "link": "https://expansion.mx/economia/2026/09/04/con-apoyos-del-gobierno-la-pension-mensual-promedio-en-mexico-es-de-13-mil-745-pesos",
+      "source": "Expansion MX",
+      "pub": "Fri, 04 Sep 2026 20:48:29 GMT"
+    },
+    {
+      "title": "La expansión de Starlink abre una batalla por el control de las comunicaciones desde el espacio",
+      "link": "https://expansion.mx/empresas/2026/09/04/starlink-batalla-control-comunicaciones-espacio",
+      "source": "Expansion MX",
+      "pub": "Fri, 04 Sep 2026 20:01:41 GMT"
+    },
+    {
+      "title": "Liderazgo, educación financiera y tecnología para el campo destacan en el Premio Eugenio Garza Sada 2026",
+      "link": "https://expansion.mx/empresas/2026/09/04/ganadores-premio-eugenio-garza-sada-2026",
+      "source": "Expansion MX",
+      "pub": "Fri, 04 Sep 2026 19:21:54 GMT"
+    },
+    {
       "title": "Xiaomi quiere que tu casa y tu auto sepan qué hace tu celular",
       "link": "https://expansion.mx/tecnologia/2026/09/04/xiaomi-quiere-conocer-tu-casa-auto-y-celular",
       "source": "Expansion MX",
@@ -98,30 +122,6 @@
       "link": "https://expansion.mx/economia/2026/09/04/inversion-repunta-junio-pero-consumo-pierde-fuerza-inegi",
       "source": "Expansion MX",
       "pub": "Fri, 04 Sep 2026 14:53:29 GMT"
-    },
-    {
-      "title": "Trump exigirá a Europa reembolsar cientos de miles de millones de dólares por Ucrania, pero se guardó un dato clave",
-      "link": "https://expansion.mx/mundo/2026/09/04/trump-exigira-europa-reembolsar-millones-dolares-por-ucrania",
-      "source": "Expansion MX",
-      "pub": "Fri, 04 Sep 2026 14:46:39 GMT"
-    },
-    {
-      "title": "Volkswagen reducirá a la mitad su oferta de vehículos y recortará 75% las configuraciones hacia 2035",
-      "link": "https://expansion.mx/empresas/2026/09/04/volkswagen-recortara-a-la-mitad-su-oferta-de-vehiculos",
-      "source": "Expansion MX",
-      "pub": "Fri, 04 Sep 2026 14:36:19 GMT"
-    },
-    {
-      "title": "Braskem Idesa va por reestructura de deuda y asegura que mantendrá operaciones en México",
-      "link": "https://expansion.mx/empresas/2026/09/04/braskem-idesa-reestructura-deuda-mantendra-operacion-mexico",
-      "source": "Expansion MX",
-      "pub": "Fri, 04 Sep 2026 14:34:30 GMT"
-    },
-    {
-      "title": "Nicaragua: el fin de las elecciones libres",
-      "link": "https://expansion.mx/opinion/2026/09/04/nicaragua-el-fin-de-las-elecciones-libres",
-      "source": "Expansion MX",
-      "pub": "Fri, 04 Sep 2026 12:09:29 GMT"
     }
   ]
 }
