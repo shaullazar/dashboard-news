@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T01:15:53.275007+00:00",
+  "updated": "2026-09-04T05:55:37.468119+00:00",
   "colombia": [
     {
       "title": "99 forced disappearances linked to Colombia armed conflict this year",
@@ -64,12 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "¿Se fue el internet? Esto puedes reclamarle a Izzi o Telmex por la interrupción",
-      "link": "https://expansion.mx/empresas/2026/09/03/se-fue-internet-puedes-reclamarle-izzi-telmex-interrupcion",
-      "source": "Expansion MX",
-      "pub": "Thu, 03 Sep 2026 22:51:35 GMT"
-    },
-    {
       "title": "Gonzalo Hevia Baillères se suma al grupo propietario de los Seattle Seahawks",
       "link": "https://expansion.mx/empresas/2026/09/03/gonzalo-hevia-bailleres-grupo-propietario-seattle-seahawks",
       "source": "Expansion MX",
@@ -122,6 +116,12 @@
       "link": "https://expansion.mx/empresas/2026/09/03/muere-empresario-raymundo-gomez-flores",
       "source": "Expansion MX",
       "pub": "Thu, 03 Sep 2026 15:39:46 GMT"
+    },
+    {
+      "title": "ChatGPT presenta fallas este 3 de septiembre; usuarios reciben error 404 al intentar ingresar",
+      "link": "https://expansion.mx/tecnologia/2026/09/03/chatgpt-presenta-fallas-3-de-septiembre",
+      "source": "Expansion MX",
+      "pub": "Thu, 03 Sep 2026 15:37:03 GMT"
     }
   ]
 }
