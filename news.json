@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T21:51:15.412947+00:00",
+  "updated": "2026-09-04T23:24:51.691423+00:00",
   "colombia": [
     {
       "title": "99 forced disappearances linked to Colombia armed conflict this year",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Del Vocho al Jetta: la evolución de Volkswagen en México y su planta en Puebla",
+      "link": "https://expansion.mx/empresas/2026/09/04/vocho-jetta-evolucion-volkswagen-mexico-planta-puebla",
+      "source": "Expansion MX",
+      "pub": "Fri, 04 Sep 2026 21:16:23 GMT"
+    },
+    {
       "title": "¿Qué le pasa a tu celular al estar enchufado? Estos cargadores te dan todos los detalles",
       "link": "https://expansion.mx/tecnologia/2026/09/04/que-le-pasa-a-tu-celular-al-estar-enchufado",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/tendencias/2026/09/04/porfirio-diaz-automovil-panhard",
       "source": "Expansion MX",
       "pub": "Fri, 04 Sep 2026 17:23:54 GMT"
-    },
-    {
-      "title": "La inversión sorprende al alza, pero el consumo revela la debilidad de la demanda, reporta Inegi",
-      "link": "https://expansion.mx/economia/2026/09/04/inversion-repunta-junio-pero-consumo-pierde-fuerza-inegi",
-      "source": "Expansion MX",
-      "pub": "Fri, 04 Sep 2026 14:53:29 GMT"
     }
   ]
 }
