@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T19:20:46.891476+00:00",
+  "updated": "2026-09-05T21:20:26.859047+00:00",
   "colombia": [
     {
       "title": "99 forced disappearances linked to Colombia armed conflict this year",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Creó el Mustang, pero cometió un error: No caerle bien a Henry Ford II; así fue el despido del creador del famoso auto",
+      "link": "https://expansion.mx/empresas/2026/09/05/henry-ford-ii-despidio-al-creador-del-mustang",
+      "source": "Expansion MX",
+      "pub": "Sat, 05 Sep 2026 21:13:06 GMT"
+    },
+    {
+      "title": "El carro con el motor que más aguanta tiene 8 veces más probabilidades de pasar los 402 mil km, según estudio",
+      "link": "https://expansion.mx/empresas/2026/09/05/auto-motor-ma-aguanta-probabilidades-pasar-402-mil-km",
+      "source": "Expansion MX",
+      "pub": "Sat, 05 Sep 2026 20:25:16 GMT"
+    },
+    {
       "title": "1.9 millones de líneas con terminación 1 quedaron suspendidas tras segunda fecha del registro telefónico",
       "link": "https://expansion.mx/empresas/2026/09/04/1-9-millones-de-lineas-suspendidas-registro-telefonico",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/09/04/ganadores-premio-eugenio-garza-sada-2026",
       "source": "Expansion MX",
       "pub": "Fri, 04 Sep 2026 19:21:54 GMT"
-    },
-    {
-      "title": "Xiaomi quiere que tu casa y tu auto sepan qué hace tu celular",
-      "link": "https://expansion.mx/tecnologia/2026/09/04/xiaomi-quiere-conocer-tu-casa-auto-y-celular",
-      "source": "Expansion MX",
-      "pub": "Fri, 04 Sep 2026 19:00:08 GMT"
-    },
-    {
-      "title": "Triangulación china se asoma en solo 2% del avance exportador de México a EU",
-      "link": "https://expansion.mx/economia/2026/09/04/mexico-triangulacion-chino-exportaciones-eu-t-mec",
-      "source": "Expansion MX",
-      "pub": "Fri, 04 Sep 2026 18:59:28 GMT"
     }
   ]
 }
