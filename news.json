@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T23:24:51.691423+00:00",
+  "updated": "2026-09-05T01:07:37.386512+00:00",
   "colombia": [
     {
       "title": "99 forced disappearances linked to Colombia armed conflict this year",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Las gasolinas y diésel tendrán menos impuestos, pero precios no bajarán",
+      "link": "https://expansion.mx/economia/2026/09/04/gasolinas-impuesto-ieps-precio",
+      "source": "Expansion MX",
+      "pub": "Sat, 05 Sep 2026 00:35:38 GMT"
+    },
+    {
+      "title": "Estadio Fray Nano, el parque de béisbol que pocos recuerdan en la CDMX",
+      "link": "https://expansion.mx/tendencias/2026/09/04/estadio-fray-nano-parque-beisbol-pocos-recuerdan-cdmx",
+      "source": "Expansion MX",
+      "pub": "Fri, 04 Sep 2026 23:28:49 GMT"
+    },
+    {
       "title": "Del Vocho al Jetta: la evolución de Volkswagen en México y su planta en Puebla",
       "link": "https://expansion.mx/empresas/2026/09/04/vocho-jetta-evolucion-volkswagen-mexico-planta-puebla",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/economia/2026/09/04/cerveza-podria-pagar-mas-impuesto-mexico",
       "source": "Expansion MX",
       "pub": "Fri, 04 Sep 2026 18:00:24 GMT"
-    },
-    {
-      "title": "Heredar una casa entre hermanos puede complicarlo todo: qué pasa cuando nadie quiere vender",
-      "link": "https://expansion.mx/economia/2026/09/04/heredar-casa-entre-hermanos-que-pasa-nadie-quiere-vender",
-      "source": "Expansion MX",
-      "pub": "Fri, 04 Sep 2026 17:30:05 GMT"
-    },
-    {
-      "title": "El lujoso auto de Porfirio Díaz revelaba algo que muy pocos podían siquiera imaginar en su época",
-      "link": "https://expansion.mx/tendencias/2026/09/04/porfirio-diaz-automovil-panhard",
-      "source": "Expansion MX",
-      "pub": "Fri, 04 Sep 2026 17:23:54 GMT"
     }
   ]
 }
