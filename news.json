@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T05:39:00.087527+00:00",
+  "updated": "2026-09-05T09:18:45.934967+00:00",
   "colombia": [
     {
       "title": "99 forced disappearances linked to Colombia armed conflict this year",
@@ -64,36 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "La expansión de Starlink abre una batalla por el control de las comunicaciones desde el espacio",
-      "link": "https://expansion.mx/empresas/2026/09/04/starlink-batalla-control-comunicaciones-espacio",
-      "source": "Expansion MX",
-      "pub": "Fri, 04 Sep 2026 20:01:41 GMT"
-    },
-    {
-      "title": "Liderazgo, educación financiera y tecnología para el campo destacan en el Premio Eugenio Garza Sada 2026",
-      "link": "https://expansion.mx/empresas/2026/09/04/ganadores-premio-eugenio-garza-sada-2026",
-      "source": "Expansion MX",
-      "pub": "Fri, 04 Sep 2026 19:21:54 GMT"
-    },
-    {
-      "title": "Xiaomi quiere que tu casa y tu auto sepan qué hace tu celular",
-      "link": "https://expansion.mx/tecnologia/2026/09/04/xiaomi-quiere-conocer-tu-casa-auto-y-celular",
-      "source": "Expansion MX",
-      "pub": "Fri, 04 Sep 2026 19:00:08 GMT"
-    },
-    {
-      "title": "Triangulación china se asoma en solo 2% del avance exportador de México a EU",
-      "link": "https://expansion.mx/economia/2026/09/04/mexico-triangulacion-chino-exportaciones-eu-t-mec",
-      "source": "Expansion MX",
-      "pub": "Fri, 04 Sep 2026 18:59:28 GMT"
-    },
-    {
-      "title": "Cervezas, ‘aguas locas’ más caras y tequila más accesible; así pinta la renovación al IEPS para 2027",
-      "link": "https://expansion.mx/economia/2026/09/04/cerveza-podria-pagar-mas-impuesto-mexico",
-      "source": "Expansion MX",
-      "pub": "Fri, 04 Sep 2026 18:00:24 GMT"
-    },
-    {
       "title": "Heredar una casa entre hermanos puede complicarlo todo: qué pasa cuando nadie quiere vender",
       "link": "https://expansion.mx/economia/2026/09/04/heredar-casa-entre-hermanos-que-pasa-nadie-quiere-vender",
       "source": "Expansion MX",
@@ -122,6 +92,36 @@
       "link": "https://expansion.mx/empresas/2026/09/04/volkswagen-recortara-a-la-mitad-su-oferta-de-vehiculos",
       "source": "Expansion MX",
       "pub": "Fri, 04 Sep 2026 14:36:19 GMT"
+    },
+    {
+      "title": "Braskem Idesa va por reestructura de deuda y asegura que mantendrá operaciones en México",
+      "link": "https://expansion.mx/empresas/2026/09/04/braskem-idesa-reestructura-deuda-mantendra-operacion-mexico",
+      "source": "Expansion MX",
+      "pub": "Fri, 04 Sep 2026 14:34:30 GMT"
+    },
+    {
+      "title": "Nicaragua: el fin de las elecciones libres",
+      "link": "https://expansion.mx/opinion/2026/09/04/nicaragua-el-fin-de-las-elecciones-libres",
+      "source": "Expansion MX",
+      "pub": "Fri, 04 Sep 2026 12:09:29 GMT"
+    },
+    {
+      "title": "Si todo urge, nada importa",
+      "link": "https://expansion.mx/opinion/2026/09/04/si-todo-urge-nada-importa",
+      "source": "Expansion MX",
+      "pub": "Fri, 04 Sep 2026 12:08:34 GMT"
+    },
+    {
+      "title": "La ventana de exposición ya se abrió",
+      "link": "https://expansion.mx/opinion/2026/09/04/la-ventana-de-exposicion-ya-se-abrio",
+      "source": "Expansion MX",
+      "pub": "Fri, 04 Sep 2026 12:01:34 GMT"
+    },
+    {
+      "title": "Los abogados ya buscan clientes en TikTok: las recomendaciones no son suficientes",
+      "link": "https://expansion.mx/tecnologia/2026/09/04/los-abogados-ya-buscan-clientes-en-tiktok",
+      "source": "Expansion MX",
+      "pub": "Fri, 04 Sep 2026 11:55:54 GMT"
     }
   ]
 }
