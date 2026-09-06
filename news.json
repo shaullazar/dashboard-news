@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T19:31:45.981650+00:00",
+  "updated": "2026-09-06T21:35:37.569111+00:00",
   "colombia": [
     {
       "title": "Tech Sphere returns to Medellin as BI companies race to keep up with AI",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "La revolución intelagéntica ya comenzó",
+      "link": "https://expansion.mx/opinion/2026/09/06/la-revolucion-intelagentica-ya-comenzo",
+      "source": "Expansion MX",
+      "pub": "Sun, 06 Sep 2026 12:00:02 GMT"
+    },
+    {
       "title": "Estados Unidos destruye tres petroleros iraníes; Teherán responde con ataques en Ormuz",
       "link": "https://expansion.mx/mundo/2026/09/05/estados-unidos-iran-ataques-petroleros-estrecho-ormuz",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/tecnologia/2026/09/04/que-le-pasa-a-tu-celular-al-estar-enchufado",
       "source": "Expansion MX",
       "pub": "Fri, 04 Sep 2026 21:00:34 GMT"
-    },
-    {
-      "title": "Con apoyos del gobierno, la pensión mensual promedio en México es de 13 mil 745 pesos",
-      "link": "https://expansion.mx/economia/2026/09/04/con-apoyos-del-gobierno-la-pension-mensual-promedio-en-mexico-es-de-13-mil-745-pesos",
-      "source": "Expansion MX",
-      "pub": "Fri, 04 Sep 2026 20:48:29 GMT"
     }
   ]
 }
