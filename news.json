@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T21:35:37.569111+00:00",
+  "updated": "2026-09-06T23:04:36.499911+00:00",
   "colombia": [
     {
       "title": "Tech Sphere returns to Medellin as BI companies race to keep up with AI",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Erupción del volcán Krakatoa cancela vuelos y afecta a 170,000 pasajeros en Indonesia",
+      "link": "https://expansion.mx/mundo/2026/09/06/erupcion-volcan-krakatoa-cancela-vuelos-pasajeros-indonesia",
+      "source": "Expansion MX",
+      "pub": "Sun, 06 Sep 2026 18:10:04 GMT"
+    },
+    {
       "title": "La revolución intelagéntica ya comenzó",
       "link": "https://expansion.mx/opinion/2026/09/06/la-revolucion-intelagentica-ya-comenzo",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/09/04/vocho-jetta-evolucion-volkswagen-mexico-planta-puebla",
       "source": "Expansion MX",
       "pub": "Fri, 04 Sep 2026 21:16:23 GMT"
-    },
-    {
-      "title": "¿Qué le pasa a tu celular al estar enchufado? Estos cargadores te dan todos los detalles",
-      "link": "https://expansion.mx/tecnologia/2026/09/04/que-le-pasa-a-tu-celular-al-estar-enchufado",
-      "source": "Expansion MX",
-      "pub": "Fri, 04 Sep 2026 21:00:34 GMT"
     }
   ]
 }
