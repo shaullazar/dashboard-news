@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-05T22:58:41.338487+00:00",
+  "updated": "2026-09-06T00:32:59.030457+00:00",
   "colombia": [
+    {
+      "title": "Tech Sphere returns to Medellin as BI companies race to keep up with AI",
+      "link": "https://thebogotapost.com/tech-sphere-returns-to-medellin-as-bi-companies-race-to-keep-up-with-ai/56732/",
+      "source": "The Bogota Post",
+      "pub": "Sat, 05 Sep 2026 23:28:36 +0000"
+    },
     {
       "title": "99 forced disappearances linked to Colombia armed conflict this year",
       "link": "https://thebogotapost.com/99-forced-disappearances-linked-to-colombia-armed-conflict-this-year/56725/",
@@ -54,15 +60,21 @@
       "link": "https://thebogotapost.com/de-la-espriella-pledges-major-increase-to-senior-subsidies-despite-claims-of-colombias-financial-disaster/56674/",
       "source": "The Bogota Post",
       "pub": "Mon, 03 Aug 2026 22:21:08 +0000"
-    },
-    {
-      "title": "Colombia president-elect Abelardo de la Espriella set to be inaugurated in Cali",
-      "link": "https://thebogotapost.com/colombia-president-elect-abelardo-de-la-espriella-set-to-be-inaugurated-in-cali/56671/",
-      "source": "The Bogota Post",
-      "pub": "Tue, 28 Jul 2026 19:36:54 +0000"
     }
   ],
   "mexico": [
+    {
+      "title": "Estados Unidos destruye tres petroleros iraníes; Teherán responde con ataques en Ormuz",
+      "link": "https://expansion.mx/mundo/2026/09/05/estados-unidos-iran-ataques-petroleros-estrecho-ormuz",
+      "source": "Expansion MX",
+      "pub": "Sat, 05 Sep 2026 23:38:15 GMT"
+    },
+    {
+      "title": "De un robot que cuida a tu mascota a un arenero que se limpia solo: nuestros favoritos de IFA 2026",
+      "link": "https://expansion.mx/tecnologia/2026/09/05/gadgets-ifa-2026-favoritos-tecnologia",
+      "source": "Expansion MX",
+      "pub": "Sat, 05 Sep 2026 22:43:26 GMT"
+    },
     {
       "title": "Creó el Mustang, pero cometió un error: No caerle bien a Henry Ford II; así fue el despido del creador del famoso auto",
       "link": "https://expansion.mx/empresas/2026/09/05/henry-ford-ii-despidio-al-creador-del-mustang",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/economia/2026/09/04/con-apoyos-del-gobierno-la-pension-mensual-promedio-en-mexico-es-de-13-mil-745-pesos",
       "source": "Expansion MX",
       "pub": "Fri, 04 Sep 2026 20:48:29 GMT"
-    },
-    {
-      "title": "La expansión de Starlink abre una batalla por el control de las comunicaciones desde el espacio",
-      "link": "https://expansion.mx/empresas/2026/09/04/starlink-batalla-control-comunicaciones-espacio",
-      "source": "Expansion MX",
-      "pub": "Fri, 04 Sep 2026 20:01:41 GMT"
-    },
-    {
-      "title": "Liderazgo, educación financiera y tecnología para el campo destacan en el Premio Eugenio Garza Sada 2026",
-      "link": "https://expansion.mx/empresas/2026/09/04/ganadores-premio-eugenio-garza-sada-2026",
-      "source": "Expansion MX",
-      "pub": "Fri, 04 Sep 2026 19:21:54 GMT"
     }
   ]
 }
