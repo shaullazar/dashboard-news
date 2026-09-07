@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T00:52:37.710676+00:00",
+  "updated": "2026-09-07T05:17:35.972547+00:00",
   "colombia": [
     {
       "title": "Tech Sphere returns to Medellin as BI companies race to keep up with AI",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Con o sin huelga, los refrendos de tu empeño en Monte de Piedad siguen contando",
+      "link": "https://expansion.mx/finanzas-personales/2026/09/06/refrendos-nacional-monte-de-piedad-esto-pasa-empeno-huelga",
+      "source": "Expansion MX",
+      "pub": "Mon, 07 Sep 2026 00:19:36 GMT"
+    },
+    {
       "title": "¿Dónde y a qué hora ver la NFL 2026? Estos partidos van por TV abierta",
       "link": "https://expansion.mx/tendencias/2026/09/06/donde-que-hora-nfl-2026-partidos-tv-abierta-mexico",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/09/05/auto-motor-ma-aguanta-probabilidades-pasar-402-mil-km",
       "source": "Expansion MX",
       "pub": "Sat, 05 Sep 2026 20:25:16 GMT"
-    },
-    {
-      "title": "1.9 millones de líneas con terminación 1 quedaron suspendidas tras segunda fecha del registro telefónico",
-      "link": "https://expansion.mx/empresas/2026/09/04/1-9-millones-de-lineas-suspendidas-registro-telefonico",
-      "source": "Expansion MX",
-      "pub": "Sat, 05 Sep 2026 02:12:59 GMT"
     }
   ]
 }
