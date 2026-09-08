@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T00:20:15.772109+00:00",
+  "updated": "2026-09-08T04:49:05.042978+00:00",
   "colombia": [
     {
       "title": "De la Espriella’s security blocs draw paramilitary comparisons as gun legalization plan leaks",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "Las leches saborizada Vaca Blanca de Tiendas 3B tienen este problema, según Profeco",
+      "link": "https://expansion.mx/tendencias/2026/09/07/leche-saborizada-vaca-blanca-tiendas-3b-problemas-profeco",
+      "source": "Expansion MX",
+      "pub": "Tue, 08 Sep 2026 00:05:53 GMT"
+    },
+    {
+      "title": "El prompt para pedirle a ChatGPT que haga tu foto como de los años 80: paso a paso para tener tu foto retro",
+      "link": "https://expansion.mx/tendencias/2026/09/07/prompt-chatgpt-foto-anos-80-paso-a-paso-retro",
+      "source": "Expansion MX",
+      "pub": "Tue, 08 Sep 2026 00:02:22 GMT"
+    },
+    {
+      "title": "Con caza de 'factureras' e IA, gobierno y diputados buscan más dinero para el SAT",
+      "link": "https://expansion.mx/economia/2026/09/07/gobiero-sheinbaum-recaudar-mas-sat-caza-factureras",
+      "source": "Expansion MX",
+      "pub": "Mon, 07 Sep 2026 23:14:20 GMT"
+    },
+    {
+      "title": "Internet para Todos ‘pierde red’ con menos sucursales de recarga y rezagos en puntos WiFi",
+      "link": "https://expansion.mx/empresas/2026/09/07/internet-para-todos-pierde-puntos-recarga",
+      "source": "Expansion MX",
+      "pub": "Mon, 07 Sep 2026 22:44:30 GMT"
+    },
+    {
       "title": "Aeroméxico anuncia nuevas rutas a Europa y confirma fechas para ampliar sus vuelos desde México en 2027",
       "link": "https://expansion.mx/empresas/2026/09/07/aeromexico-fechas-dos-nuevas-rutas-a-europa",
       "source": "Expansion MX",
@@ -98,24 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/09/07/telcel-bait-movistar-att-plan-datos-ilimitados-diferencia",
       "source": "Expansion MX",
       "pub": "Mon, 07 Sep 2026 21:17:17 GMT"
-    },
-    {
-      "title": "Bancos aumentan alertas antifraude; Banamex pide a clientes no instalar apps desde enlaces sospechosos",
-      "link": "https://expansion.mx/economia/2026/09/07/bancos-aumentan-alertas-antifraude-banamex-pide-a-clientes-no-instalar-apps-desde-enlaces-sospechosos",
-      "source": "Expansion MX",
-      "pub": "Mon, 07 Sep 2026 19:47:34 GMT"
-    },
-    {
-      "title": "Lexus amplía su oferta deportiva en México con el NX 350h F Sport de 1.27 millones de pesos",
-      "link": "https://expansion.mx/empresas/2026/09/07/lexus-nx-350h-f-sport-de-1-27-millones-de-pesos",
-      "source": "Expansion MX",
-      "pub": "Mon, 07 Sep 2026 19:19:24 GMT"
-    },
-    {
-      "title": "Pensión IMSS seguirá ligada a la UMA en 2027 y este cambio puede afectar el monto que recibirás",
-      "link": "https://expansion.mx/finanzas-personales/2026/09/07/pension-imss-sigue-ligada-uma-2027-asi-puede-afectar",
-      "source": "Expansion MX",
-      "pub": "Mon, 07 Sep 2026 19:00:20 GMT"
     }
   ]
 }
