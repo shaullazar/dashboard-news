@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T13:32:31.391488+00:00",
+  "updated": "2026-09-08T17:23:20.885334+00:00",
   "colombia": [
     {
       "title": "De la Espriella’s security blocs draw paramilitary comparisons as gun legalization plan leaks",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "Movilidad para todos en un entorno en transformación",
+      "link": "https://expansion.mx/opinion/2026/09/08/movilidad-para-todos-en-un-entorno-en-transformacion",
+      "source": "Expansion MX",
+      "pub": "Tue, 08 Sep 2026 12:01:40 GMT"
+    },
+    {
+      "title": "La guerra invisible: por qué 2027 se define en la mina y no en la fábrica.",
+      "link": "https://expansion.mx/opinion/2026/09/08/la-guerra-invisible-por-que-2027-se-define-en-la-mina-y-no-en-la-fabrica",
+      "source": "Expansion MX",
+      "pub": "Tue, 08 Sep 2026 11:59:45 GMT"
+    },
+    {
+      "title": "De medir litros a perseguir facturas, así cambia la estrategia del gobierno contra el huachicol fiscal",
+      "link": "https://expansion.mx/empresas/2026/09/08/perseguir-facturas-asi-cambia-estrategia-huachicol-fiscal",
+      "source": "Expansion MX",
+      "pub": "Tue, 08 Sep 2026 11:55:41 GMT"
+    },
+    {
+      "title": "Paquete Económico 2027 pone a prueba el crecimiento, mejorar el gasto y elevar los ingresos",
+      "link": "https://expansion.mx/economia/2026/09/08/paquete-economico-2027-pib-gasto-inversion-impuestos-deficit",
+      "source": "Expansion MX",
+      "pub": "Tue, 08 Sep 2026 11:55:23 GMT"
+    },
+    {
       "title": "Flix compite por precio, pero ADO y ETN tienen otras reglas para cambiar o cancelar boletos",
       "link": "https://expansion.mx/empresas/2026/09/07/flix-precio-ado-etn-reglas-cambiar-cancelar-boletos",
       "source": "Expansion MX",
@@ -98,30 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/09/07/internet-para-todos-pierde-puntos-recarga",
       "source": "Expansion MX",
       "pub": "Mon, 07 Sep 2026 22:44:30 GMT"
-    },
-    {
-      "title": "Aeroméxico anuncia nuevas rutas a Europa y confirma fechas para ampliar sus vuelos desde México en 2027",
-      "link": "https://expansion.mx/empresas/2026/09/07/aeromexico-fechas-dos-nuevas-rutas-a-europa",
-      "source": "Expansion MX",
-      "pub": "Mon, 07 Sep 2026 22:14:29 GMT"
-    },
-    {
-      "title": "¿Todavía existe la sección amarilla? Lo que pasó con la empresa y cómo cambió el negocio",
-      "link": "https://expansion.mx/empresas/2026/09/07/todavia-existe-seccion-amarilla-lo-que-paso-con-la-empresa",
-      "source": "Expansion MX",
-      "pub": "Mon, 07 Sep 2026 22:11:47 GMT"
-    },
-    {
-      "title": "Harp Helú, Bailléres y Aramburuzabala: magnates mexicanos que están comprando la NFL y la MLS en silencio",
-      "link": "https://expansion.mx/tendencias/2026/09/07/harp-helu-bailleres-aramburuzabala-magnate-mexicanos-nfl-mls",
-      "source": "Expansion MX",
-      "pub": "Mon, 07 Sep 2026 22:09:05 GMT"
-    },
-    {
-      "title": "Carlos Slim se arriesgó con El Globo; compró barato, triplicó su valor y lo vendió a Bimbo por 1,350 millones",
-      "link": "https://expansion.mx/empresas/2026/09/07/carlos-slim-compro-el-globo-y-lo-vendio-a-bimbo",
-      "source": "Expansion MX",
-      "pub": "Mon, 07 Sep 2026 22:00:28 GMT"
     }
   ]
 }
