@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T13:42:35.017511+00:00",
+  "updated": "2026-09-09T17:16:46.791469+00:00",
   "colombia": [
     {
       "title": "De la Espriella’s security blocs draw paramilitary comparisons as gun legalization plan leaks",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "Lanzamiento del nuevo iPhone 18 en vivo: todos los detalles del Apple Event minuto a minuto",
+      "link": "https://expansion.mx/tecnologia/2026/09/09/nuevo-iphone-18-apple-event-en-vivo-hoy",
+      "source": "Expansion MX",
+      "pub": "Wed, 09 Sep 2026 14:02:12 GMT"
+    },
+    {
+      "title": "La CRT enfrentaría el reto del 5G con un presupuesto austero para el próximo año",
+      "link": "https://expansion.mx/empresas/2026/09/09/crt-menos-presupuesto-2027",
+      "source": "Expansion MX",
+      "pub": "Wed, 09 Sep 2026 14:00:22 GMT"
+    },
+    {
+      "title": "Cancelan más de 2,000 vuelos por falla técnica en Reino Unido; estos son los aeropuertos afectados",
+      "link": "https://expansion.mx/mundo/2026/09/09/cancelan-mas-2-000-vuelos-falla-tecnica-reino-unido",
+      "source": "Expansion MX",
+      "pub": "Wed, 09 Sep 2026 13:46:34 GMT"
+    },
+    {
+      "title": "Inegi reporta inflación de 3.26% en agosto; la subyacente sorprende a la baja",
+      "link": "https://expansion.mx/economia/2026/09/09/inflacion-inegi-sorprende-baja-agosto",
+      "source": "Expansion MX",
+      "pub": "Wed, 09 Sep 2026 13:36:18 GMT"
+    },
+    {
       "title": "El espejo retrovisor: cuando el consejo gobierna el pasado",
       "link": "https://expansion.mx/opinion/2026/09/09/el-espejo-retrovisor-cuando-el-consejo-gobierna-el-pasado",
       "source": "Expansion MX",
@@ -98,30 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/09/08/hacienda-propone-reducir-costo-espectro-para-5g",
       "source": "Expansion MX",
       "pub": "Wed, 09 Sep 2026 05:06:11 GMT"
-    },
-    {
-      "title": "Sin impuestos nuevos para 2027, Hacienda apuesta por apretar ISR a empresas, y más inscripciones al RESICO",
-      "link": "https://expansion.mx/economia/2026/09/08/impuestos-2027-hacienda-isr-empresas-mas-resico",
-      "source": "Expansion MX",
-      "pub": "Wed, 09 Sep 2026 04:18:23 GMT"
-    },
-    {
-      "title": "Adultos mayores son los ganadores del Paquete Económico 2027: prevén aumento para Pensiones del Bienestar",
-      "link": "https://expansion.mx/economia/2026/09/08/paquete-economico-2027-preven-aumento-pensiones-bienestar",
-      "source": "Expansion MX",
-      "pub": "Wed, 09 Sep 2026 03:33:56 GMT"
-    },
-    {
-      "title": "FEMSA acelera la expansión de Bara en Jalisco con la construcción de un CEDIS",
-      "link": "https://expansion.mx/empresas/2026/09/08/femsa-inversion-cedis-bara-jalisco-tiendas-descuento",
-      "source": "Expansion MX",
-      "pub": "Wed, 09 Sep 2026 03:29:31 GMT"
-    },
-    {
-      "title": "Hacienda aprieta el gasto energético y propone recortar recursos a Pemex, CFE y Sener en 2027",
-      "link": "https://expansion.mx/empresas/2026/09/08/hacienda-propone-recortar-recursos-a-pemex-cfe-y-sener-2027",
-      "source": "Expansion MX",
-      "pub": "Wed, 09 Sep 2026 03:04:39 GMT"
     }
   ]
 }
