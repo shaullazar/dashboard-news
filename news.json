@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T09:14:07.670989+00:00",
+  "updated": "2026-09-09T13:42:35.017511+00:00",
   "colombia": [
     {
       "title": "De la Espriella’s security blocs draw paramilitary comparisons as gun legalization plan leaks",
@@ -64,6 +64,36 @@
   ],
   "mexico": [
     {
+      "title": "El espejo retrovisor: cuando el consejo gobierna el pasado",
+      "link": "https://expansion.mx/opinion/2026/09/09/el-espejo-retrovisor-cuando-el-consejo-gobierna-el-pasado",
+      "source": "Expansion MX",
+      "pub": "Wed, 09 Sep 2026 12:15:25 GMT"
+    },
+    {
+      "title": "La desigualdad también se mide en tiempo",
+      "link": "https://expansion.mx/opinion/2026/09/09/la-desigualdad-tambien-se-mide-en-tiempo",
+      "source": "Expansion MX",
+      "pub": "Wed, 09 Sep 2026 12:07:50 GMT"
+    },
+    {
+      "title": "Pemex no logra su meta de autosuficiencia y recibirá 81,100 mdp del gobierno en 2027",
+      "link": "https://expansion.mx/empresas/2026/09/09/pemex-no-logra-su-meta-de-autosuficiencia-y-recibira-81-100-mdp-del-gobierno-en-2027",
+      "source": "Expansion MX",
+      "pub": "Wed, 09 Sep 2026 11:55:48 GMT"
+    },
+    {
+      "title": "Xiaomi, de marca económica en México a líder premium en Latinoamérica",
+      "link": "https://expansion.mx/tecnologia/2026/09/09/xiaomi-gama-premium-mexico-latinoamerica",
+      "source": "Expansion MX",
+      "pub": "Wed, 09 Sep 2026 11:55:35 GMT"
+    },
+    {
+      "title": "Menos crecimiento, más fiscalización a empresas y retos en deuda, las claves del Paquete Económico 2027",
+      "link": "https://expansion.mx/economia/2026/09/09/paquete-economico-menos-economia-mas-fiscalizacion-deuda",
+      "source": "Expansion MX",
+      "pub": "Wed, 09 Sep 2026 11:55:35 GMT"
+    },
+    {
       "title": "Hacienda propone reducir 12% el costo del espectro radioeléctrico para impulsar el 5G en el país",
       "link": "https://expansion.mx/empresas/2026/09/08/hacienda-propone-reducir-costo-espectro-para-5g",
       "source": "Expansion MX",
@@ -92,36 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/09/08/hacienda-propone-recortar-recursos-a-pemex-cfe-y-sener-2027",
       "source": "Expansion MX",
       "pub": "Wed, 09 Sep 2026 03:04:39 GMT"
-    },
-    {
-      "title": "Ley de Ingresos 2027: Hacienda apuesta por recaudar más impuestos para depender menos del financiamiento",
-      "link": "https://expansion.mx/economia/2026/09/08/ley-de-ingresos-2027-impuestos-financiamiento",
-      "source": "Expansion MX",
-      "pub": "Wed, 09 Sep 2026 02:21:34 GMT"
-    },
-    {
-      "title": "Gobierno da más presupuesto al INE y Marina y tijeretazo a Energía: ganadores y perdedores del Paquete Económico 2027",
-      "link": "https://expansion.mx/economia/2026/09/08/paquete-economico-dependencias-mas-presupuesto-2027-recortes",
-      "source": "Expansion MX",
-      "pub": "Wed, 09 Sep 2026 01:39:03 GMT"
-    },
-    {
-      "title": "Gobierno apuesta por deducciones fiscales a empresas para impulsar el Plan México",
-      "link": "https://expansion.mx/empresas/2026/09/08/gobierno-apuesta-deducciones-fiscales-impulsar-plan-mexico",
-      "source": "Expansion MX",
-      "pub": "Wed, 09 Sep 2026 01:38:42 GMT"
-    },
-    {
-      "title": "Precio del pasaporte se mantendría en 2027, ¿qué dice el Paquete Económico?",
-      "link": "https://expansion.mx/finanzas-personales/2026/09/08/pasaporte-mexicano-subir-precio-2027-cuanto-costara",
-      "source": "Expansion MX",
-      "pub": "Wed, 09 Sep 2026 01:31:45 GMT"
-    },
-    {
-      "title": "Secretario de Hacienda entrega el Paquete Económico 2027: “Los recursos públicos deben estar al servicio de la gente\"",
-      "link": "https://expansion.mx/economia/2026/09/08/entrega-paquete-economico-2027-mensaje-secretario-hacienda",
-      "source": "Expansion MX",
-      "pub": "Wed, 09 Sep 2026 01:10:11 GMT"
     }
   ]
 }
