@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T15:06:29.193559+00:00",
+  "updated": "2026-09-10T18:20:44.687645+00:00",
   "colombia": [
     {
       "title": "De la Espriella’s security blocs draw paramilitary comparisons as gun legalization plan leaks",
@@ -64,18 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "La Vitacilina que conocían tus abuelos ahora vende sérums y productos para el cabello",
-      "link": "https://expansion.mx/empresas/2026/09/09/vitacilina-historia-ahora-vende-skincare-productos-cabello",
-      "source": "Expansion MX",
-      "pub": "Thu, 10 Sep 2026 01:44:01 GMT"
-    },
-    {
-      "title": "Kia lanza Seltos híbrida: llega a México con un precio de menos de 700,000 pesos",
-      "link": "https://expansion.mx/empresas/2026/09/09/kia-lanza-seltos-hibrida-precio-mexico",
-      "source": "Expansion MX",
-      "pub": "Thu, 10 Sep 2026 01:36:43 GMT"
-    },
-    {
       "title": "Inversión privada puede frenarse por límites a deducciones fiscales: analistas de BBVA y Banamex",
       "link": "https://expansion.mx/economia/2026/09/09/inversion-privada-frenarse-limites-deducciones-fiscales",
       "source": "Expansion MX",
@@ -122,6 +110,18 @@
       "link": "https://expansion.mx/empresas/2026/09/09/aifa-presupuesto-2027-paquete-economico-2027",
       "source": "Expansion MX",
       "pub": "Wed, 09 Sep 2026 22:23:37 GMT"
+    },
+    {
+      "title": "Descarta Hacienda un \"incremento explosivo”  de la deuda; alcanzará 55% del PIB en 2027",
+      "link": "https://expansion.mx/economia/2026/09/09/hacienda-deuda-mexico-55-pib-2027",
+      "source": "Expansion MX",
+      "pub": "Wed, 09 Sep 2026 22:22:02 GMT"
+    },
+    {
+      "title": "Gasolineras y casetas podrían dejar de aceptar efectivo; la propuesta que cambiaría cómo pagas",
+      "link": "https://expansion.mx/economia/2026/09/09/gasolineras-casetas-no-efectivo-ley-economia-digital",
+      "source": "Expansion MX",
+      "pub": "Wed, 09 Sep 2026 21:23:54 GMT"
     }
   ]
 }
