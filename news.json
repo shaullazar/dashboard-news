@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T01:30:00.620774+00:00",
+  "updated": "2026-09-10T06:24:18.010358+00:00",
   "colombia": [
     {
       "title": "De la Espriella’s security blocs draw paramilitary comparisons as gun legalization plan leaks",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "La Vitacilina que conocían tus abuelos ahora vende sérums y productos para el cabello",
+      "link": "https://expansion.mx/empresas/2026/09/09/vitacilina-historia-ahora-vende-skincare-productos-cabello",
+      "source": "Expansion MX",
+      "pub": "Thu, 10 Sep 2026 01:44:01 GMT"
+    },
+    {
+      "title": "Kia lanza Seltos híbrida: llega a México con un precio de menos de 700,000 pesos",
+      "link": "https://expansion.mx/empresas/2026/09/09/kia-lanza-seltos-hibrida-precio-mexico",
+      "source": "Expansion MX",
+      "pub": "Thu, 10 Sep 2026 01:36:43 GMT"
+    },
+    {
+      "title": "Inversión privada puede frenarse por límites a deducciones fiscales: analistas de BBVA y Banamex",
+      "link": "https://expansion.mx/economia/2026/09/09/inversion-privada-frenarse-limites-deducciones-fiscales",
+      "source": "Expansion MX",
+      "pub": "Thu, 10 Sep 2026 01:05:48 GMT"
+    },
+    {
+      "title": "Consigue el vaso de Snoopy x Starbucks: estas son las horas con menos gente en las cafeterías",
+      "link": "https://expansion.mx/mercadotecnia/2026/09/09/vaso-snoopy-starbucks-horas-menos-gente-cafeterias",
+      "source": "Expansion MX",
+      "pub": "Thu, 10 Sep 2026 00:36:23 GMT"
+    },
+    {
       "title": "Si tienes menos de 500 pesos para internet estas son tus opciones con Telmex, Izzi, Totalplay y Megacable",
       "link": "https://expansion.mx/empresas/2026/09/09/menos-500-pesos-internet-telmex-izzi-totalplay-megacable",
       "source": "Expansion MX",
@@ -98,30 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/09/09/aifa-presupuesto-2027-paquete-economico-2027",
       "source": "Expansion MX",
       "pub": "Wed, 09 Sep 2026 22:23:37 GMT"
-    },
-    {
-      "title": "Descarta Hacienda un \"incremento explosivo”  de la deuda; alcanzará 55% del PIB en 2027",
-      "link": "https://expansion.mx/economia/2026/09/09/hacienda-deuda-mexico-55-pib-2027",
-      "source": "Expansion MX",
-      "pub": "Wed, 09 Sep 2026 22:22:02 GMT"
-    },
-    {
-      "title": "Gasolineras y casetas podrían dejar de aceptar efectivo; la propuesta que cambiaría cómo pagas",
-      "link": "https://expansion.mx/economia/2026/09/09/gasolineras-casetas-no-efectivo-ley-economia-digital",
-      "source": "Expansion MX",
-      "pub": "Wed, 09 Sep 2026 21:23:54 GMT"
-    },
-    {
-      "title": "Este cereal mexicano compite contra Cheerios y Quaker en las listas de Profeco, pero pocos conocen cómo nació",
-      "link": "https://expansion.mx/empresas/2026/09/09/chachitos-compite-listas-profeco-como-nacio",
-      "source": "Expansion MX",
-      "pub": "Wed, 09 Sep 2026 21:12:31 GMT"
-    },
-    {
-      "title": "Estas carreras tienen pocas matemáticas, pero exigen mucho en lectura, escritura y análisis",
-      "link": "https://expansion.mx/carrera/2026/09/09/carreras-sin-matematicas-exigen-otras-habilidades",
-      "source": "Expansion MX",
-      "pub": "Wed, 09 Sep 2026 20:45:02 GMT"
     }
   ]
 }
