@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T19:45:33.232028+00:00",
+  "updated": "2026-09-11T21:57:55.172284+00:00",
   "colombia": [
     {
       "title": "Colombia’s president eases gun restrictions arguing citizens’ right to self-defense",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "“Vale todo”: lo que la ciencia dice sobre el precio real de ganar a cualquier costo",
+      "link": "https://expansion.mx/opinion/2026/09/11/vale-todo-lo-que-la-ciencia-dice-sobre-el-precio-real-de-ganar-a-cualquier-costo",
+      "source": "Expansion MX",
+      "pub": "Fri, 11 Sep 2026 12:02:31 GMT"
+    },
+    {
+      "title": "México quiere acelerar el 5G, pero bajar 12% el costo del espectro radioeléctrico sería insuficiente",
+      "link": "https://expansion.mx/empresas/2026/09/11/mexico-acelerar-5g-bajar-espectro-seria-insuficiente",
+      "source": "Expansion MX",
+      "pub": "Fri, 11 Sep 2026 11:55:45 GMT"
+    },
+    {
+      "title": "Empresas podrán deducir más por capacitar técnicos, aunque el estímulo no resuelve por sí solo la escasez de perfiles",
+      "link": "https://expansion.mx/empresas/2026/09/11/plan-mexico-deducciones-capacitacion-tecnica",
+      "source": "Expansion MX",
+      "pub": "Fri, 11 Sep 2026 11:55:39 GMT"
+    },
+    {
+      "title": "Paquete Económico 2027: Más de 80 de cada 100 pesos del gasto público ya están comprometidos",
+      "link": "https://expansion.mx/economia/2026/09/11/paquete-economico-80-pesos-100-gastos-obligatorios",
+      "source": "Expansion MX",
+      "pub": "Fri, 11 Sep 2026 11:55:02 GMT"
+    },
+    {
       "title": "Los trenes buscan ganar terreno al camión con inversión en carga refrigerada",
       "link": "https://expansion.mx/empresas/2026/09/10/trenes-ganar-terreno-al-camion-inversion-carga-refrigerada",
       "source": "Expansion MX",
@@ -92,30 +116,6 @@
       "link": "https://expansion.mx/empresas/2026/09/10/litiomx-enfrentara-otro-ano-sin-dinero-para-desarrollar-el-litio-mexicano",
       "source": "Expansion MX",
       "pub": "Thu, 10 Sep 2026 23:36:26 GMT"
-    },
-    {
-      "title": "Tiempo y eficiencia, los nuevos retos de la competitividad urbana",
-      "link": "https://expansion.mx/tecnologia/2026/09/10/eficiencia-urbana-se-juega-el-tiempo-del-consumidor",
-      "source": "Expansion MX",
-      "pub": "Thu, 10 Sep 2026 23:27:16 GMT"
-    },
-    {
-      "title": "¿Puedo hacer mi testamento gratis? Cómo obtener un descuento para no heredar problemas",
-      "link": "https://expansion.mx/finanzas-personales/2026/09/10/testamento-gratis-obtener-descuento-no-heredar-problemas",
-      "source": "Expansion MX",
-      "pub": "Thu, 10 Sep 2026 23:26:21 GMT"
-    },
-    {
-      "title": "Menor consumo pone presión a la inversión publicitaria en México",
-      "link": "https://expansion.mx/mercadotecnia/2026/09/10/publicidad-mexico-inversion-mundial-consumo-2027",
-      "source": "Expansion MX",
-      "pub": "Thu, 10 Sep 2026 23:13:59 GMT"
-    },
-    {
-      "title": "La preventa del iPhone Duo está a días: cómo ser de los primeros en tener el teléfono plegable de Apple",
-      "link": "https://expansion.mx/tecnologia/2026/09/10/preventa-iphone-duo-mexico",
-      "source": "Expansion MX",
-      "pub": "Thu, 10 Sep 2026 22:35:19 GMT"
     }
   ]
 }
