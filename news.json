@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T23:49:59.821375+00:00",
+  "updated": "2026-09-12T01:36:24.891811+00:00",
   "colombia": [
     {
       "title": "Colombia’s president eases gun restrictions arguing citizens’ right to self-defense",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Pemex pierde 1,756 millones de pesos al mes por contención de precios de gasolina y diésel",
+      "link": "https://expansion.mx/empresas/2026/09/11/pemex-pierde-1-756-millones-de-pesos-al-mes-por-contencion-de-precios-de-gasolina-y-diesel",
+      "source": "Expansion MX",
+      "pub": "Fri, 11 Sep 2026 22:24:58 GMT"
+    },
+    {
+      "title": "Pova 8 Pro 5G: el diseño estilo Matrix que querías por menos de 7,000 pesos",
+      "link": "https://expansion.mx/tecnologia/2026/09/11/pova-8-pro-diseno-matrix-por-menos-7-000-pesos",
+      "source": "Expansion MX",
+      "pub": "Fri, 11 Sep 2026 22:00:44 GMT"
+    },
+    {
       "title": "¡Cuidado! Profeco alerta por venta de boletos falsos para conciertos de Luis Miguel",
       "link": "https://expansion.mx/tendencias/2026/09/11/profeco-alerta-venta-boletos-falsos-conciertos-luis-miguel",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/tecnologia/2026/09/11/como-ganar-dinero-con-tus-videos-en-spotify",
       "source": "Expansion MX",
       "pub": "Fri, 11 Sep 2026 19:00:44 GMT"
-    },
-    {
-      "title": "¿Compraste en Costco y te arrepentiste? Tienes hasta un año para recuperar tu dinero, salvo por estas compras",
-      "link": "https://expansion.mx/empresas/2026/09/11/compraste-costco-arrepentiste-un-ano-recuperar-dinero",
-      "source": "Expansion MX",
-      "pub": "Fri, 11 Sep 2026 18:33:09 GMT"
-    },
-    {
-      "title": "¿Quién era el dueño de las Torres Gemelas, por qué no acudió el 11 de septiembre y quién cobró el seguro?",
-      "link": "https://expansion.mx/mundo/2026/09/11/quien-era-dueno-torres-gemelas-11-de-septiembre",
-      "source": "Expansion MX",
-      "pub": "Fri, 11 Sep 2026 17:58:43 GMT"
     }
   ]
 }
