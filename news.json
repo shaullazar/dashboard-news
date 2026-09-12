@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T20:56:11.404164+00:00",
+  "updated": "2026-09-12T22:42:57.997395+00:00",
   "colombia": [
     {
       "title": "Colombia’s president eases gun restrictions arguing citizens’ right to self-defense",
@@ -64,24 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Trump no contempla salir del T-MEC y promete una excelente relación con México, pero golpea a Canadá",
-      "link": "https://expansion.mx/mundo/2026/09/12/trump-t-mec-relacion-con-mexico",
-      "source": "Expansion MX",
-      "pub": "Sat, 12 Sep 2026 19:45:56 GMT"
-    },
-    {
-      "title": "Este seguro escolar gratuito cubre hasta 40,000 pesos a estudiantes, ¿cómo funciona y quién puede usarlo?",
-      "link": "https://expansion.mx/finanzas-personales/2026/09/12/edomex-seguro-estudiantes-cobertura-hasta-40-000-pesos",
-      "source": "Expansion MX",
-      "pub": "Sat, 12 Sep 2026 18:32:14 GMT"
-    },
-    {
-      "title": "La CLABE no desaparece, pero el Banco de México cambiará la forma de realizar transferencias",
-      "link": "https://expansion.mx/finanzas-personales/2026/09/02/clabe-no-desaparece-banco-de-mexico-cambiara-transferencias Remove",
-      "source": "Expansion MX",
-      "pub": "Sat, 12 Sep 2026 16:34:58 GMT"
-    },
-    {
       "title": "Porsche deja ir a Bugatti y destina parte de la venta a pagar pensiones",
       "link": "https://expansion.mx/empresas/2026/09/11/porsche-venta-bugatti-rimac-pagar-pensiones",
       "source": "Expansion MX",
@@ -122,6 +104,24 @@
       "link": "https://expansion.mx/empresas/2026/09/11/carlos-slim-porcelanite-negocio-pisos-losetas",
       "source": "Expansion MX",
       "pub": "Fri, 11 Sep 2026 21:51:29 GMT"
+    },
+    {
+      "title": "¿Te piden descargar un app para un préstamo? ABM y Condusef suben alerta por intentos de fraude con malware",
+      "link": "https://expansion.mx/economia/2026/09/11/descargar-app-prestamo-abm-condusef-alerta-fraude",
+      "source": "Expansion MX",
+      "pub": "Fri, 11 Sep 2026 21:37:31 GMT"
+    },
+    {
+      "title": "El AIFA alcanza cifras récord en el periodo vacacional de verano",
+      "link": "https://expansion.mx/bespoke-ad/2026/09/11/el-aifa-alcanza-cifras-record-en-el-periodo-vacacional-de-verano",
+      "source": "Expansion MX",
+      "pub": "Fri, 11 Sep 2026 21:27:34 GMT"
+    },
+    {
+      "title": "¿Game Pass o contratar apps por separado? Hicimos la cuenta de cuánto te costará ver la NFL en vivo en México",
+      "link": "https://expansion.mx/tendencias/2026/09/11/game-pass-apps-separado-cuanto-costara-ver-nfl-vivo-mexico",
+      "source": "Expansion MX",
+      "pub": "Fri, 11 Sep 2026 20:39:15 GMT"
     }
   ]
 }
