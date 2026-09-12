@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T01:36:24.891811+00:00",
+  "updated": "2026-09-12T06:26:13.426682+00:00",
   "colombia": [
     {
       "title": "Colombia’s president eases gun restrictions arguing citizens’ right to self-defense",
@@ -64,54 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Pemex pierde 1,756 millones de pesos al mes por contención de precios de gasolina y diésel",
-      "link": "https://expansion.mx/empresas/2026/09/11/pemex-pierde-1-756-millones-de-pesos-al-mes-por-contencion-de-precios-de-gasolina-y-diesel",
-      "source": "Expansion MX",
-      "pub": "Fri, 11 Sep 2026 22:24:58 GMT"
-    },
-    {
-      "title": "Pova 8 Pro 5G: el diseño estilo Matrix que querías por menos de 7,000 pesos",
-      "link": "https://expansion.mx/tecnologia/2026/09/11/pova-8-pro-diseno-matrix-por-menos-7-000-pesos",
-      "source": "Expansion MX",
-      "pub": "Fri, 11 Sep 2026 22:00:44 GMT"
-    },
-    {
-      "title": "¡Cuidado! Profeco alerta por venta de boletos falsos para conciertos de Luis Miguel",
-      "link": "https://expansion.mx/tendencias/2026/09/11/profeco-alerta-venta-boletos-falsos-conciertos-luis-miguel",
-      "source": "Expansion MX",
-      "pub": "Fri, 11 Sep 2026 21:53:31 GMT"
-    },
-    {
-      "title": "Carlos Slim también vendía pisos, losetas y muebles para baño; se deshizo del negocio por 710 millones de dólares",
-      "link": "https://expansion.mx/empresas/2026/09/11/carlos-slim-porcelanite-negocio-pisos-losetas",
-      "source": "Expansion MX",
-      "pub": "Fri, 11 Sep 2026 21:51:29 GMT"
-    },
-    {
-      "title": "¿Te piden descargar un app para un préstamo? ABM y Condusef suben alerta por intentos de fraude con malware",
-      "link": "https://expansion.mx/economia/2026/09/11/descargar-app-prestamo-abm-condusef-alerta-fraude",
-      "source": "Expansion MX",
-      "pub": "Fri, 11 Sep 2026 21:37:31 GMT"
-    },
-    {
-      "title": "El AIFA alcanza cifras récord en el periodo vacacional de verano",
-      "link": "https://expansion.mx/bespoke-ad/2026/09/11/el-aifa-alcanza-cifras-record-en-el-periodo-vacacional-de-verano",
-      "source": "Expansion MX",
-      "pub": "Fri, 11 Sep 2026 21:27:34 GMT"
-    },
-    {
-      "title": "¿Game Pass o contratar apps por separado? Hicimos la cuenta de cuánto te costará ver la NFL en vivo en México",
-      "link": "https://expansion.mx/tendencias/2026/09/11/game-pass-apps-separado-cuanto-costara-ver-nfl-vivo-mexico",
-      "source": "Expansion MX",
-      "pub": "Fri, 11 Sep 2026 20:39:15 GMT"
-    },
-    {
-      "title": "JAC E10X se corona como el eléctrico más barato de México, y además te libra de la verificación para siempre",
-      "link": "https://expansion.mx/empresas/2026/09/11/jac-e10x-electrico-mas-barato-de-mexico",
-      "source": "Expansion MX",
-      "pub": "Fri, 11 Sep 2026 19:42:58 GMT"
-    },
-    {
       "title": "Geely aún no vende autos en EU, pero ya gana influencia en ese mercado con la compra de Volvo y una alianza con Ford",
       "link": "https://expansion.mx/empresas/2026/09/11/geely-influencia-eu-alianza-ford",
       "source": "Expansion MX",
@@ -122,6 +74,54 @@
       "link": "https://expansion.mx/tecnologia/2026/09/11/como-ganar-dinero-con-tus-videos-en-spotify",
       "source": "Expansion MX",
       "pub": "Fri, 11 Sep 2026 19:00:44 GMT"
+    },
+    {
+      "title": "¿Compraste en Costco y te arrepentiste? Tienes hasta un año para recuperar tu dinero, salvo por estas compras",
+      "link": "https://expansion.mx/empresas/2026/09/11/compraste-costco-arrepentiste-un-ano-recuperar-dinero",
+      "source": "Expansion MX",
+      "pub": "Fri, 11 Sep 2026 18:33:09 GMT"
+    },
+    {
+      "title": "¿Quién era el dueño de las Torres Gemelas, por qué no acudió el 11 de septiembre y quién cobró el seguro?",
+      "link": "https://expansion.mx/mundo/2026/09/11/quien-era-dueno-torres-gemelas-11-de-septiembre",
+      "source": "Expansion MX",
+      "pub": "Fri, 11 Sep 2026 17:58:43 GMT"
+    },
+    {
+      "title": "11 de septiembre: el día que los atentados cambiaron el mundo en fotos",
+      "link": "https://expansion.mx/mundo/2026/09/11/11-septiembre-horas-que-cambiaron-historia-estados-unidos",
+      "source": "Expansion MX",
+      "pub": "Fri, 11 Sep 2026 17:30:08 GMT"
+    },
+    {
+      "title": "La chelada lleva años en México, pero Victoria ahora quiere venderla lista como en el tianguis",
+      "link": "https://expansion.mx/empresas/2026/09/11/victoria-chelada-limon-sal-tianguis",
+      "source": "Expansion MX",
+      "pub": "Fri, 11 Sep 2026 16:24:31 GMT"
+    },
+    {
+      "title": "Telnor, filial de Telmex, despide a 200 trabajadores en medio de presiones financieras",
+      "link": "https://expansion.mx/empresas/2026/09/11/telmex-sindicato-telnor-despide-200-trabajadores",
+      "source": "Expansion MX",
+      "pub": "Fri, 11 Sep 2026 16:02:16 GMT"
+    },
+    {
+      "title": "Claude ayudó a crear miles de perfiles falsos en apps de citas para engañar a usuarios y cobrarles",
+      "link": "https://expansion.mx/tecnologia/2026/09/11/apps-de-citas-usaron-a-claude-para-enganar-personas",
+      "source": "Expansion MX",
+      "pub": "Fri, 11 Sep 2026 14:51:12 GMT"
+    },
+    {
+      "title": "Las Torres Gemelas cayeron hace 25 años; así recuerda Nueva York el 11 de septiembre que cambió al mundo",
+      "link": "https://expansion.mx/mundo/2026/09/11/25-anos-del-11-de-septiembre-nueva-york-recuerda",
+      "source": "Expansion MX",
+      "pub": "Fri, 11 Sep 2026 14:31:58 GMT"
+    },
+    {
+      "title": "Nissan March baja de precio y se convierte en el segundo auto más barato de México",
+      "link": "https://expansion.mx/empresas/2026/09/08/nissan-march-baja-precio",
+      "source": "Expansion MX",
+      "pub": "Fri, 11 Sep 2026 13:46:35 GMT"
     }
   ]
 }
