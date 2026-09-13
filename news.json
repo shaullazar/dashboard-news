@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T19:26:33.163018+00:00",
+  "updated": "2026-09-13T21:31:16.505515+00:00",
   "colombia": [
     {
       "title": "Festival Cordillera 2026: The future is Latin",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "NFL México 2026: la lista de precios de los boletos para ver a los 49ers vs. Vikings",
+      "link": "https://expansion.mx/tendencias/2026/09/13/nfl-ciudad-de-mexico-boletos-precios-experiencias-vip",
+      "source": "Expansion MX",
+      "pub": "Sun, 13 Sep 2026 20:35:02 GMT"
+    },
+    {
+      "title": "El CEO que desarrolla una rival de ChatGPT ahora pide “bajar el ritmo” de la IA",
+      "link": "https://expansion.mx/tecnologia/2026/09/13/ceo-desarrolla-rival-chatgpt-pide-bajar-ritmo-ia",
+      "source": "Expansion MX",
+      "pub": "Sun, 13 Sep 2026 18:48:06 GMT"
+    },
+    {
       "title": "¿Abren los bancos el 15 y 16 de septiembre? No todos operan igual",
       "link": "https://expansion.mx/finanzas-personales/2026/09/12/abren-los-bancos-el-15-y-16-de-septiembre",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/09/11/pemex-pierde-1-756-millones-de-pesos-al-mes-por-contencion-de-precios-de-gasolina-y-diesel",
       "source": "Expansion MX",
       "pub": "Fri, 11 Sep 2026 22:24:58 GMT"
-    },
-    {
-      "title": "Pova 8 Pro 5G: el diseño estilo Matrix que querías por menos de 7,000 pesos",
-      "link": "https://expansion.mx/tecnologia/2026/09/11/pova-8-pro-diseno-matrix-por-menos-7-000-pesos",
-      "source": "Expansion MX",
-      "pub": "Fri, 11 Sep 2026 22:00:44 GMT"
-    },
-    {
-      "title": "¡Cuidado! Profeco alerta por venta de boletos falsos para conciertos de Luis Miguel",
-      "link": "https://expansion.mx/tendencias/2026/09/11/profeco-alerta-venta-boletos-falsos-conciertos-luis-miguel",
-      "source": "Expansion MX",
-      "pub": "Fri, 11 Sep 2026 21:53:31 GMT"
     }
   ]
 }
