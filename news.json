@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T00:21:43.900580+00:00",
+  "updated": "2026-09-13T04:57:54.299693+00:00",
   "colombia": [
     {
       "title": "Colombia’s president eases gun restrictions arguing citizens’ right to self-defense",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Trump no contempla salir del T-MEC y promete una excelente relación con México, pero golpea a Canadá",
+      "link": "https://expansion.mx/mundo/2026/09/12/trump-t-mec-relacion-con-mexico",
+      "source": "Expansion MX",
+      "pub": "Sat, 12 Sep 2026 19:45:56 GMT"
+    },
+    {
       "title": "Este seguro escolar gratuito cubre hasta 40,000 pesos a estudiantes, ¿cómo funciona y quién puede usarlo?",
       "link": "https://expansion.mx/finanzas-personales/2026/09/12/edomex-seguro-estudiantes-cobertura-hasta-40-000-pesos",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/09/11/carlos-slim-porcelanite-negocio-pisos-losetas",
       "source": "Expansion MX",
       "pub": "Fri, 11 Sep 2026 21:51:29 GMT"
-    },
-    {
-      "title": "¿Te piden descargar un app para un préstamo? ABM y Condusef suben alerta por intentos de fraude con malware",
-      "link": "https://expansion.mx/economia/2026/09/11/descargar-app-prestamo-abm-condusef-alerta-fraude",
-      "source": "Expansion MX",
-      "pub": "Fri, 11 Sep 2026 21:37:31 GMT"
     }
   ]
 }
