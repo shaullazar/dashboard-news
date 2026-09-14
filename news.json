@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T23:22:08.292548+00:00",
+  "updated": "2026-09-14T01:13:51.754179+00:00",
   "colombia": [
     {
       "title": "Festival Cordillera 2026: The future is Latin",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "La huelga de Monte de Piedad se acerca al año y ahora un sindicato pide terminarla",
+      "link": "https://expansion.mx/economia/2026/09/13/huelga-nacional-monte-de-piedad-sindicato-pide-terminarla",
+      "source": "Expansion MX",
+      "pub": "Mon, 14 Sep 2026 00:12:58 GMT"
+    },
+    {
+      "title": "La UNAM vuelve al Centro Histórico con un campus que reunirá más de 15 edificios",
+      "link": "https://expansion.mx/carrera/2026/09/13/unam-centro-historico-nuevo-campus-que-carreras-cuando-abre",
+      "source": "Expansion MX",
+      "pub": "Sun, 13 Sep 2026 23:31:07 GMT"
+    },
+    {
       "title": "NFL México 2026: la lista de precios de los boletos para ver a los 49ers vs. Vikings",
       "link": "https://expansion.mx/tendencias/2026/09/13/nfl-ciudad-de-mexico-boletos-precios-experiencias-vip",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/finanzas-personales/2026/09/11/como-tramita-pension-invalidez-issste-pasos-a-seguir",
       "source": "Expansion MX",
       "pub": "Sat, 12 Sep 2026 00:36:20 GMT"
-    },
-    {
-      "title": "Hacienda le baja los impuestos a gasolinas; diésel tendrá cero IEPS",
-      "link": "https://expansion.mx/economia/2026/09/11/hacienda-baja-impuestos-gasolinas-diesel-septiembre",
-      "source": "Expansion MX",
-      "pub": "Sat, 12 Sep 2026 00:28:01 GMT"
-    },
-    {
-      "title": "Pemex pierde 1,756 millones de pesos al mes por contención de precios de gasolina y diésel",
-      "link": "https://expansion.mx/empresas/2026/09/11/pemex-pierde-1-756-millones-de-pesos-al-mes-por-contencion-de-precios-de-gasolina-y-diesel",
-      "source": "Expansion MX",
-      "pub": "Fri, 11 Sep 2026 22:24:58 GMT"
     }
   ]
 }
