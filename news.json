@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T12:53:02.070071+00:00",
+  "updated": "2026-09-14T18:13:13.684044+00:00",
   "colombia": [
     {
       "title": "Festival Cordillera 2026: The future is Latin",
@@ -64,24 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "México prevé recaudar 50% más por cuotas a importaciones desleales en 2027, con China bajo la lupa",
-      "link": "https://expansion.mx/economia/2026/09/14/mexico-recaudara-mas-cuotas-importaciones-desleales-china",
-      "source": "Expansion MX",
-      "pub": "Mon, 14 Sep 2026 11:56:06 GMT"
-    },
-    {
-      "title": "OXIO almacenará los datos de los 24 millones de usuarios de Movistar en el Data Center de Amazon en Querétaro",
-      "link": "https://expansion.mx/empresas/2026/09/14/oxio-llevara-data-centers-amazon-datos-usuarios-movistar",
-      "source": "Expansion MX",
-      "pub": "Mon, 14 Sep 2026 11:55:18 GMT"
-    },
-    {
-      "title": "¿Por qué tardan tanto en atenderte? El wifi de los hospitales es un factor de vida o muerte",
-      "link": "https://expansion.mx/tecnologia/2026/09/14/wifi-de-los-hospitales-es-un-factor-de-vida-o-muerte",
-      "source": "Expansion MX",
-      "pub": "Mon, 14 Sep 2026 11:55:12 GMT"
-    },
-    {
       "title": "La huelga de Monte de Piedad se acerca al año y ahora un sindicato pide terminarla",
       "link": "https://expansion.mx/economia/2026/09/13/huelga-nacional-monte-de-piedad-sindicato-pide-terminarla",
       "source": "Expansion MX",
@@ -122,6 +104,24 @@
       "link": "https://expansion.mx/finanzas-personales/2026/09/12/edomex-seguro-estudiantes-cobertura-hasta-40-000-pesos",
       "source": "Expansion MX",
       "pub": "Sat, 12 Sep 2026 18:32:14 GMT"
+    },
+    {
+      "title": "La CLABE no desaparece, pero el Banco de México cambiará la forma de realizar transferencias",
+      "link": "https://expansion.mx/finanzas-personales/2026/09/02/clabe-no-desaparece-banco-de-mexico-cambiara-transferencias Remove",
+      "source": "Expansion MX",
+      "pub": "Sat, 12 Sep 2026 16:34:58 GMT"
+    },
+    {
+      "title": "Porsche deja ir a Bugatti y destina parte de la venta a pagar pensiones",
+      "link": "https://expansion.mx/empresas/2026/09/11/porsche-venta-bugatti-rimac-pagar-pensiones",
+      "source": "Expansion MX",
+      "pub": "Sat, 12 Sep 2026 01:50:18 GMT"
+    },
+    {
+      "title": "¿Cómo se tramita la pensión por invalidez del ISSSTE? Estos son los pasos a seguir",
+      "link": "https://expansion.mx/finanzas-personales/2026/09/11/como-tramita-pension-invalidez-issste-pasos-a-seguir",
+      "source": "Expansion MX",
+      "pub": "Sat, 12 Sep 2026 00:36:20 GMT"
     }
   ]
 }
