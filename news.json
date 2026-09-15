@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T18:16:36.212495+00:00",
+  "updated": "2026-09-15T21:23:27.726730+00:00",
   "colombia": [
     {
       "title": "Colombia’s de la Espriella ends negotiations with armed groups",
@@ -64,6 +64,42 @@
   ],
   "mexico": [
     {
+      "title": "Preparar la cena mexicana con pozole y tostadas de tinga costaría hasta 8 mil pesos, según la ANPEC",
+      "link": "https://expansion.mx/finanzas-personales/2026/09/15/aumenta-precio-cena-festejos-patrios-15-septiembre",
+      "source": "Expansion MX",
+      "pub": "Tue, 15 Sep 2026 17:34:46 GMT"
+    },
+    {
+      "title": "Musk invita a que empresas de IA se evalúen entre sí para controlar su evolución",
+      "link": "https://expansion.mx/tecnologia/2026/09/15/musk-empresas-de-ia-se-evaluen-entre-si",
+      "source": "Expansion MX",
+      "pub": "Tue, 15 Sep 2026 16:30:09 GMT"
+    },
+    {
+      "title": "Meta amplía su negocio de suscripciones: esto cobrarán sus planes para WhatsApp, Instagram y Facebook",
+      "link": "https://expansion.mx/tecnologia/2026/09/15/meta-one-precios-funciones-whatsapp-instagram-facebook",
+      "source": "Expansion MX",
+      "pub": "Tue, 15 Sep 2026 15:00:53 GMT"
+    },
+    {
+      "title": "Se vuelve impagable el seguro de gastos médicos mayores; se pierden un millón de riesgos asegurados en un año",
+      "link": "https://expansion.mx/economia/2026/09/15/seguro-de-gastos-medicos-mayores-no-es-clase-media",
+      "source": "Expansion MX",
+      "pub": "Tue, 15 Sep 2026 11:55:58 GMT"
+    },
+    {
+      "title": "Una empresa mexicana usa realidad virtual para reducir accidentes y costos industriales",
+      "link": "https://expansion.mx/tecnologia/2026/09/15/la-empresa-mexicana-que-usa-realidad-virtual",
+      "source": "Expansion MX",
+      "pub": "Tue, 15 Sep 2026 11:55:26 GMT"
+    },
+    {
+      "title": "Pemex y CFE necesitan capital privado para cumplir sus planes de inversión y megaproyectos a 2030",
+      "link": "https://expansion.mx/empresas/2026/09/15/pemex-y-cfe-necesitan-capital-privado-para-cumplir-sus-planes-de-inversion-y-megaproyectos-a-2030",
+      "source": "Expansion MX",
+      "pub": "Tue, 15 Sep 2026 11:36:32 GMT"
+    },
+    {
       "title": "Primark llega a México y detrás de la marca hay una poderosa familia empresarial",
       "link": "https://expansion.mx/empresas/2026/09/14/primark-liverpool-mexico-detras-poderosa-familia-empresarial",
       "source": "Expansion MX",
@@ -80,42 +116,6 @@
       "link": "https://expansion.mx/empresas/2026/09/14/20-empresas-mexicanas-mas-importantes-por-ingresos",
       "source": "Expansion MX",
       "pub": "Mon, 14 Sep 2026 22:40:53 GMT"
-    },
-    {
-      "title": "El déficit fiscal de 3.9% del PIB de Hacienda para 2027 se queda corto; FMI y México Evalúa recomiendan 2.5%",
-      "link": "https://expansion.mx/economia/2026/09/14/hacienda-apuesta-deficit-paquete-economico-2027-fmi-bajarlo",
-      "source": "Expansion MX",
-      "pub": "Mon, 14 Sep 2026 22:34:05 GMT"
-    },
-    {
-      "title": "Estos 3 bancos ofrecen créditos de hasta 500,000 pesos para Pymes que buscan crecer y financiarse",
-      "link": "https://expansion.mx/finanzas-personales/2026/09/14/3-bancos-tramitar-creditos-hasta-500-000-pesos-para-pymes",
-      "source": "Expansion MX",
-      "pub": "Mon, 14 Sep 2026 22:09:50 GMT"
-    },
-    {
-      "title": "CFE Internet llega a más de 24,000 OXXO; ya puedes recargar tu servicio en tiendas de todo México",
-      "link": "https://expansion.mx/empresas/2026/09/14/cfe-internet-oxxo-puedes-recargar-tiendas-todo-mexico",
-      "source": "Expansion MX",
-      "pub": "Mon, 14 Sep 2026 21:56:45 GMT"
-    },
-    {
-      "title": "Aduanas tendrá mayor margen para embargar mercancías declaradas demasiado baratas",
-      "link": "https://expansion.mx/economia/2026/09/14/aduanas-endurecera-combate-importaciones-subvaluacion",
-      "source": "Expansion MX",
-      "pub": "Mon, 14 Sep 2026 19:46:07 GMT"
-    },
-    {
-      "title": "Aprender IA puede costar más de 20,000 pesos, pero solo 14% de las empresas la reconoce en el salario",
-      "link": "https://expansion.mx/carrera/2026/09/14/saber-inteligencia-artificial-costo-salario",
-      "source": "Expansion MX",
-      "pub": "Mon, 14 Sep 2026 19:33:45 GMT"
-    },
-    {
-      "title": "¿Qué pasó con el Estadio Nacional de México? La historia del primer inmueble deportivo del país",
-      "link": "https://expansion.mx/tendencias/2026/09/14/que-paso-estadio-nacional-mexico-historia-inmueble-deportivo",
-      "source": "Expansion MX",
-      "pub": "Mon, 14 Sep 2026 19:13:07 GMT"
     }
   ]
 }
