@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T00:00:44.119670+00:00",
+  "updated": "2026-09-15T04:00:15.783577+00:00",
   "colombia": [
     {
       "title": "Colombia’s de la Espriella ends negotiations with armed groups",
@@ -64,18 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Kia Seltos vs. Toyota Corolla Cross: dos rivales que compiten por el mercado de las SUV híbridas en México",
-      "link": "https://expansion.mx/empresas/2026/09/14/kia-seltos-vs-toyota-corolla-cross-precio-rendimiento",
-      "source": "Expansion MX",
-      "pub": "Mon, 14 Sep 2026 15:52:34 GMT"
-    },
-    {
-      "title": "Actualización iOS 27 deja fuera a estos iPhone; ¿el tuyo recibirá las nuevas funciones?",
-      "link": "https://expansion.mx/tecnologia/2026/09/14/actualizacion-ios-27-deja-fuera-a-estos-iphone",
-      "source": "Expansion MX",
-      "pub": "Mon, 14 Sep 2026 15:21:17 GMT"
-    },
-    {
       "title": "México prevé recaudar 50% más por cuotas a importaciones desleales en 2027, con China bajo la lupa",
       "link": "https://expansion.mx/economia/2026/09/14/mexico-recaudara-mas-cuotas-importaciones-desleales-china",
       "source": "Expansion MX",
@@ -122,6 +110,18 @@
       "link": "https://expansion.mx/finanzas-personales/2026/09/12/abren-los-bancos-el-15-y-16-de-septiembre",
       "source": "Expansion MX",
       "pub": "Sat, 12 Sep 2026 21:27:33 GMT"
+    },
+    {
+      "title": "Trump no contempla salir del T-MEC y promete una excelente relación con México, pero golpea a Canadá",
+      "link": "https://expansion.mx/mundo/2026/09/12/trump-t-mec-relacion-con-mexico",
+      "source": "Expansion MX",
+      "pub": "Sat, 12 Sep 2026 19:45:56 GMT"
+    },
+    {
+      "title": "Este seguro escolar gratuito cubre hasta 40,000 pesos a estudiantes, ¿cómo funciona y quién puede usarlo?",
+      "link": "https://expansion.mx/finanzas-personales/2026/09/12/edomex-seguro-estudiantes-cobertura-hasta-40-000-pesos",
+      "source": "Expansion MX",
+      "pub": "Sat, 12 Sep 2026 18:32:14 GMT"
     }
   ]
 }
