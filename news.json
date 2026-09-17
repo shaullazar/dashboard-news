@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T14:41:37.930814+00:00",
+  "updated": "2026-09-17T18:32:12.770122+00:00",
   "colombia": [
     {
       "title": "Colombia’s de la Espriella ends negotiations with armed groups",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Inflar de más las llantas para ahorrar gasolina parece buena idea, pero puede salirte muy caro",
+      "link": "https://expansion.mx/tendencias/2026/09/17/inflar-mas-las-llantas-ahorrar-gasolina-consecuencia",
+      "source": "Expansion MX",
+      "pub": "Thu, 17 Sep 2026 15:06:05 GMT"
+    },
+    {
+      "title": "Canadá desafía a Trump y se acerca a la UE; el presidente de EU amenaza con fuertes aranceles a Europa",
+      "link": "https://expansion.mx/mundo/2026/09/17/canada-desafia-a-trump-y-se-acerca-a-la-ue",
+      "source": "Expansion MX",
+      "pub": "Thu, 17 Sep 2026 13:45:59 GMT"
+    },
+    {
       "title": "La IA está fuera de control, ¿y si el problema no es la IA?",
       "link": "https://expansion.mx/opinion/2026/09/17/la-ia-esta-fuera-de-control-y-si-el-problema-no-es-la-ia",
       "source": "Expansion MX",
@@ -104,24 +116,6 @@
       "link": "https://expansion.mx/mercadotecnia/2026/09/16/pepsico-cambia-agencia-medios-publicis-omnicom",
       "source": "Expansion MX",
       "pub": "Thu, 17 Sep 2026 00:04:23 GMT"
-    },
-    {
-      "title": "Murió Vicente López Rodea, presidente de La Costeña y referente de la industria de conservas en México",
-      "link": "https://expansion.mx/empresas/2026/09/16/muere-vicente-lopez-rodea-presidente-la-costena",
-      "source": "Expansion MX",
-      "pub": "Wed, 16 Sep 2026 23:52:25 GMT"
-    },
-    {
-      "title": "La UE propone prohibir las redes sociales a menores de 13 años y multar a las plataformas",
-      "link": "https://expansion.mx/mundo/2026/09/16/ue-prohibe-redes-sociales-menores-13",
-      "source": "Expansion MX",
-      "pub": "Wed, 16 Sep 2026 21:54:31 GMT"
-    },
-    {
-      "title": "Empresas de EU pactan proyectos de petróleo y oro en Venezuela con apoyo de Donald Trump",
-      "link": "https://expansion.mx/mundo/2026/09/16/empresas-eu-petroleo-oro-venezuela-trump",
-      "source": "Expansion MX",
-      "pub": "Wed, 16 Sep 2026 20:04:09 GMT"
     }
   ]
 }
