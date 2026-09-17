@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T22:16:50.514389+00:00",
+  "updated": "2026-09-17T00:34:26.614874+00:00",
   "colombia": [
     {
       "title": "Colombia’s de la Espriella ends negotiations with armed groups",
@@ -64,6 +64,24 @@
   ],
   "mexico": [
     {
+      "title": "PepsiCo mueve su cuenta global de medios de Omnicom a Publicis tras 25 años de relación",
+      "link": "https://expansion.mx/mercadotecnia/2026/09/16/pepsico-cambia-agencia-medios-publicis-omnicom",
+      "source": "Expansion MX",
+      "pub": "Thu, 17 Sep 2026 00:04:23 GMT"
+    },
+    {
+      "title": "Murió Vicente López Rodea, presidente de La Costeña y referente de la industria de conservas en México",
+      "link": "https://expansion.mx/empresas/2026/09/16/muere-vicente-lopez-rodea-presidente-la-costena",
+      "source": "Expansion MX",
+      "pub": "Wed, 16 Sep 2026 23:52:25 GMT"
+    },
+    {
+      "title": "La UE propone prohibir las redes sociales a menores de 13 años y multar a las plataformas",
+      "link": "https://expansion.mx/mundo/2026/09/16/ue-prohibe-redes-sociales-menores-13",
+      "source": "Expansion MX",
+      "pub": "Wed, 16 Sep 2026 21:54:31 GMT"
+    },
+    {
       "title": "Empresas de EU pactan proyectos de petróleo y oro en Venezuela con apoyo de Donald Trump",
       "link": "https://expansion.mx/mundo/2026/09/16/empresas-eu-petroleo-oro-venezuela-trump",
       "source": "Expansion MX",
@@ -104,24 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/09/16/mexico-problema-fabricar-propa-deportiva-maja-estrategia",
       "source": "Expansion MX",
       "pub": "Wed, 16 Sep 2026 15:00:25 GMT"
-    },
-    {
-      "title": "Carlos Slim lleva su fortuna de México a España con inversiones millonarias en construcción, banca y futbol",
-      "link": "https://expansion.mx/empresas/2026/09/16/carlos-slim-inversiones-millonarias-en-espana",
-      "source": "Expansion MX",
-      "pub": "Wed, 16 Sep 2026 14:22:15 GMT"
-    },
-    {
-      "title": "Apps falsas y brechas de ciberseguridad levantan alerta nacional contra fraudes",
-      "link": "https://expansion.mx/economia/2026/09/16/bancos-mexico-fallas-de-seguridad-alerta",
-      "source": "Expansion MX",
-      "pub": "Wed, 16 Sep 2026 14:00:15 GMT"
-    },
-    {
-      "title": "Probé el nuevo Samsung Galaxy Z Fold8 y cambié mi idea sobre los teléfonos plegables",
-      "link": "https://expansion.mx/tecnologia/2026/09/16/samsung-galaxy-z-fold8-vs-fold8-ultra-cual-conviene",
-      "source": "Expansion MX",
-      "pub": "Wed, 16 Sep 2026 14:00:07 GMT"
     }
   ]
 }
