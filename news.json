@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T01:26:47.364048+00:00",
+  "updated": "2026-09-18T06:10:08.409587+00:00",
   "colombia": [
     {
       "title": "Colombia’s de la Espriella ends negotiations with armed groups",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "FEMSA conquista México con OXXO, pero su imperio de negocios se extiende de Estados Unidos hasta Europa",
+      "link": "https://expansion.mx/empresas/2026/09/17/femsa-oxxo-imperio-negocios-estados-unidos-europa",
+      "source": "Expansion MX",
+      "pub": "Fri, 18 Sep 2026 01:38:18 GMT"
+    },
+    {
+      "title": "Estas son las áreas de la UNAM mejor posicionadas en el mundo, según el Shanghai Ranking 2026",
+      "link": "https://expansion.mx/carrera/2026/09/17/areas-unam-mejor-posicionadas-mundo-shanghai-ranking-2026",
+      "source": "Expansion MX",
+      "pub": "Fri, 18 Sep 2026 00:34:14 GMT"
+    },
+    {
+      "title": "Si la IA hace el trabajo junior, ¿quién formará a la próxima generación de Wall Street?",
+      "link": "https://expansion.mx/mercados/2026/09/17/ia-analistas-junior-wall-street",
+      "source": "Expansion MX",
+      "pub": "Thu, 17 Sep 2026 23:57:26 GMT"
+    },
+    {
+      "title": "Rodrigo Herrera regresará como CEO interino de Genomma Lab",
+      "link": "https://expansion.mx/empresas/2026/09/17/rodrigo-herrera-regresara-ceo-interino-genomma-lab",
+      "source": "Expansion MX",
+      "pub": "Thu, 17 Sep 2026 23:44:54 GMT"
+    },
+    {
       "title": "Esta es la razón por la que tus pedidos de Amazon, Temu y Shein siempre pasan por Cuautitlán Izcalli",
       "link": "https://expansion.mx/empresas/2026/09/17/razon-pedidos-amazon-temu-shein-pasan-por-cuautitlan-izcalli",
       "source": "Expansion MX",
@@ -98,24 +122,6 @@
       "link": "https://expansion.mx/tecnologia/2026/09/17/no-sera-terminator-el-riesgo-real-de-la-ia-en-mexico",
       "source": "Expansion MX",
       "pub": "Thu, 17 Sep 2026 20:00:19 GMT"
-    },
-    {
-      "title": "¿Qué hacer con tu perro o gato durante un sismo? Estas acciones pueden evitar que se pierda o lastime",
-      "link": "https://expansion.mx/tendencias/2026/09/17/mascotas-perros-gatos-corren-riesgo-mantenerlos-salvo",
-      "source": "Expansion MX",
-      "pub": "Thu, 17 Sep 2026 19:11:26 GMT"
-    },
-    {
-      "title": "La Costeña arrancó en una tiendita de Tlatelolco con chiles en vinagre y hoy es un negocio de casi 19,000 mdp",
-      "link": "https://expansion.mx/empresas/2026/09/17/tiendita-tlatelolco-se-convirtio-la-costena",
-      "source": "Expansion MX",
-      "pub": "Thu, 17 Sep 2026 18:25:16 GMT"
-    },
-    {
-      "title": "Conoce las soluciones financieras para el viajero actual",
-      "link": "https://expansion.mx/tendencias/2026/17/09/soluciones-financieras-para-el-viajero-actual",
-      "source": "Expansion MX",
-      "pub": "Thu, 17 Sep 2026 17:10:32 GMT"
     }
   ]
 }
