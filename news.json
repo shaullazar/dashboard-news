@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T16:22:39.173123+00:00",
+  "updated": "2026-09-19T18:38:56.380501+00:00",
   "colombia": [
     {
       "title": "Colombia’s de la Espriella ends negotiations with armed groups",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "10 millones de dispositivos y menos de cinco segundos, la carrera de SkyAlert ante un sismo",
+      "link": "https://expansion.mx/tecnologia/2026/09/19/la-carrera-de-skyalert-ante-un-sismo",
+      "source": "Expansion MX",
+      "pub": "Sat, 19 Sep 2026 16:00:23 GMT"
+    },
+    {
       "title": "Registro telefónico llega a 54.7%, mientras las fallas en plataformas aún complican la vinculación",
       "link": "https://expansion.mx/empresas/2026/09/19/registro-telefonico-fallas-plataformas-complican-vinculacion",
       "source": "Expansion MX",
@@ -110,12 +116,6 @@
       "link": "https://expansion.mx/tendencias/2026/09/18/cuando-sera-equinoccio-otono-mexico-dias-mas-cortos-fecha",
       "source": "Expansion MX",
       "pub": "Fri, 18 Sep 2026 20:45:16 GMT"
-    },
-    {
-      "title": "Antes de Omnilife y Chivas, Jorge Vergara se levantaba a las 4:00 de la mañana para vender carnitas",
-      "link": "https://expansion.mx/empresas/2026/09/18/antes-de-omnilife-chivas-jorge-vergara-vendia-carnitas",
-      "source": "Expansion MX",
-      "pub": "Fri, 18 Sep 2026 19:57:13 GMT"
     }
   ]
 }
