@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T13:05:11.870294+00:00",
+  "updated": "2026-09-19T16:22:39.173123+00:00",
   "colombia": [
     {
       "title": "Colombia’s de la Espriella ends negotiations with armed groups",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Registro telefónico llega a 54.7%, mientras las fallas en plataformas aún complican la vinculación",
+      "link": "https://expansion.mx/empresas/2026/09/19/registro-telefonico-fallas-plataformas-complican-vinculacion",
+      "source": "Expansion MX",
+      "pub": "Sat, 19 Sep 2026 14:55:26 GMT"
+    },
+    {
       "title": "Tim Hortons reta a Starbucks con tazas de Halloween y se adelanta al vaso de Snoopy",
       "link": "https://expansion.mx/mercadotecnia/2026/09/18/tim-hortons-starbucks-coleccionables-halloween",
       "source": "Expansion MX",
@@ -110,12 +116,6 @@
       "link": "https://expansion.mx/empresas/2026/09/18/antes-de-omnilife-chivas-jorge-vergara-vendia-carnitas",
       "source": "Expansion MX",
       "pub": "Fri, 18 Sep 2026 19:57:13 GMT"
-    },
-    {
-      "title": "CPKC advierte freno a la inversión en ferrocarriles si el Gobierno eleva el cobro de derecho de vía al 3%",
-      "link": "https://expansion.mx/empresas/2026/09/18/cpkc-freno-inversion-ferrocarriles-sube-cobro-derecho-de-via",
-      "source": "Expansion MX",
-      "pub": "Fri, 18 Sep 2026 19:27:40 GMT"
     }
   ]
 }
