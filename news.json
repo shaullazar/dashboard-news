@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T22:38:17.085123+00:00",
+  "updated": "2026-09-20T00:21:37.246975+00:00",
   "colombia": [
     {
       "title": "Colombia’s de la Espriella ends negotiations with armed groups",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Trump no tolerará los intentos de frenar el desarrollo de la IA",
+      "link": "https://expansion.mx/tecnologia/2026/09/19/trump-no-tolerara-freno-a-la-ia",
+      "source": "Expansion MX",
+      "pub": "Sat, 19 Sep 2026 21:45:12 GMT"
+    },
+    {
       "title": "Planes Premium de Disney+ “puede incluir anuncios”, pero no es tan malo como parece",
       "link": "https://expansion.mx/tecnologia/2026/09/19/planes-premium-de-disney-puede-incluir-anuncios-pero-no-es-tan-malo-como-parece",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/09/18/marcas-de-la-costena-totis-y-su-imperio-de-alimentos",
       "source": "Expansion MX",
       "pub": "Fri, 18 Sep 2026 21:41:26 GMT"
-    },
-    {
-      "title": "¿Cuándo será el equinoccio de otoño en México? Los días serán más cortos a partir de esta fecha",
-      "link": "https://expansion.mx/tendencias/2026/09/18/cuando-sera-equinoccio-otono-mexico-dias-mas-cortos-fecha",
-      "source": "Expansion MX",
-      "pub": "Fri, 18 Sep 2026 20:45:16 GMT"
     }
   ]
 }
