@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T01:16:58.789465+00:00",
+  "updated": "2026-09-21T06:24:13.302667+00:00",
   "colombia": [
     {
       "title": "Colombia’s de la Espriella ends negotiations with armed groups",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "UNAM abre otra oportunidad para estudiar una licenciatura a distancia; esto debes saber",
+      "link": "https://expansion.mx/carrera/2026/09/20/unam-abre-oportunidad-estudiar-licenciatura-distancia",
+      "source": "Expansion MX",
+      "pub": "Mon, 21 Sep 2026 00:14:29 GMT"
+    },
+    {
+      "title": "Contrataste un seguro médico para estar cubierto, pero hay gastos que podrías pagar tú",
+      "link": "https://expansion.mx/finanzas-personales/2026/09/20/seguro-medico-puede-no-cubrir-esto-debes-revisar",
+      "source": "Expansion MX",
+      "pub": "Sun, 20 Sep 2026 22:52:25 GMT"
+    },
+    {
       "title": "Trump no tolerará los intentos de frenar el desarrollo de la IA",
       "link": "https://expansion.mx/tecnologia/2026/09/19/trump-no-tolerara-freno-a-la-ia",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/tendencias/2026/09/18/no-solo-mbappe-otras-figuras-deporte-dejaron-nike",
       "source": "Expansion MX",
       "pub": "Fri, 18 Sep 2026 23:22:45 GMT"
-    },
-    {
-      "title": "Bancos y Sofomes tienen liquidez, pero las pymes pisan el freno al crédito",
-      "link": "https://expansion.mx/economia/2026/09/18/bancos-sofomes-liquidez-pymes-credito",
-      "source": "Expansion MX",
-      "pub": "Fri, 18 Sep 2026 22:45:18 GMT"
-    },
-    {
-      "title": "La Costeña tiene a Totis, pero su imperio incluye marcas que millones consumen sin saber que son suyas",
-      "link": "https://expansion.mx/empresas/2026/09/18/marcas-de-la-costena-totis-y-su-imperio-de-alimentos",
-      "source": "Expansion MX",
-      "pub": "Fri, 18 Sep 2026 21:41:26 GMT"
     }
   ]
 }
