@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T06:24:13.302667+00:00",
+  "updated": "2026-09-21T13:02:21.170068+00:00",
   "colombia": [
     {
       "title": "Colombia’s de la Espriella ends negotiations with armed groups",
@@ -64,6 +64,36 @@
   ],
   "mexico": [
     {
+      "title": "WAICO: la avanzada china por la gobernanza de la IA",
+      "link": "https://expansion.mx/opinion/2026/09/21/waico-la-avanzada-china-por-la-gobernanza-de-la-ia",
+      "source": "Expansion MX",
+      "pub": "Mon, 21 Sep 2026 12:04:21 GMT"
+    },
+    {
+      "title": "La IA generativa revoluciona el e-discovery en las investigaciones legales y corporativas",
+      "link": "https://expansion.mx/opinion/2026/09/21/ia-generativa-revoluciona-investigaciones-legales",
+      "source": "Expansion MX",
+      "pub": "Mon, 21 Sep 2026 12:02:40 GMT"
+    },
+    {
+      "title": "¿Policías del futuro? Los robots del Edomex aún no vigilan, pero ya están a prueba",
+      "link": "https://expansion.mx/tecnologia/2026/09/21/policias-del-futuro-robots-edomex",
+      "source": "Expansion MX",
+      "pub": "Mon, 21 Sep 2026 11:55:52 GMT"
+    },
+    {
+      "title": "Gasolineras y casetas operarán sin efectivo con nueva Ley de Economía Digital",
+      "link": "https://expansion.mx/economia/2026/09/21/gasolineras-y-casetas-operaran-sin-efectivo-con-nueva-ley-de-economia-digital",
+      "source": "Expansion MX",
+      "pub": "Mon, 21 Sep 2026 11:55:03 GMT"
+    },
+    {
+      "title": "Revolut alcanza un millón de clientes en México",
+      "link": "https://expansion.mx/economia/2026/09/21/revolut-alcanza-un-millon-de-clientes-en-mexico",
+      "source": "Expansion MX",
+      "pub": "Mon, 21 Sep 2026 11:01:18 GMT"
+    },
+    {
       "title": "UNAM abre otra oportunidad para estudiar una licenciatura a distancia; esto debes saber",
       "link": "https://expansion.mx/carrera/2026/09/20/unam-abre-oportunidad-estudiar-licenciatura-distancia",
       "source": "Expansion MX",
@@ -92,36 +122,6 @@
       "link": "https://expansion.mx/tecnologia/2026/09/19/la-carrera-de-skyalert-ante-un-sismo",
       "source": "Expansion MX",
       "pub": "Sat, 19 Sep 2026 16:00:23 GMT"
-    },
-    {
-      "title": "Registro telefónico llega a 54.7%, mientras las fallas en plataformas aún complican la vinculación",
-      "link": "https://expansion.mx/empresas/2026/09/19/registro-telefonico-fallas-plataformas-complican-vinculacion",
-      "source": "Expansion MX",
-      "pub": "Sat, 19 Sep 2026 14:55:26 GMT"
-    },
-    {
-      "title": "Tim Hortons reta a Starbucks con tazas de Halloween y se adelanta al vaso de Snoopy",
-      "link": "https://expansion.mx/mercadotecnia/2026/09/18/tim-hortons-starbucks-coleccionables-halloween",
-      "source": "Expansion MX",
-      "pub": "Sat, 19 Sep 2026 00:04:47 GMT"
-    },
-    {
-      "title": "Hacienda continúa con baja de impuestos a gasolinas, diésel va por segunda semana con cero IEPS",
-      "link": "https://expansion.mx/economia/2026/09/18/hacienda-baja-impuestos-gasolinas-diesel-cero-ieps",
-      "source": "Expansion MX",
-      "pub": "Sat, 19 Sep 2026 00:00:14 GMT"
-    },
-    {
-      "title": "Trump anuncia acuerdo por Groenlandia: “otorga a Estados Unidos el control permanente sobre la seguridad”",
-      "link": "https://expansion.mx/mundo/2026/09/18/trump-acuerdo-groenlandia-control-seguridad-eu",
-      "source": "Expansion MX",
-      "pub": "Fri, 18 Sep 2026 23:24:42 GMT"
-    },
-    {
-      "title": "No solo Mbappé: estas figuras del deporte también rompieron con Nike y cambiaron de marca",
-      "link": "https://expansion.mx/tendencias/2026/09/18/no-solo-mbappe-otras-figuras-deporte-dejaron-nike",
-      "source": "Expansion MX",
-      "pub": "Fri, 18 Sep 2026 23:22:45 GMT"
     }
   ]
 }
