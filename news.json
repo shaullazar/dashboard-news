@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T18:35:12.838784+00:00",
+  "updated": "2026-09-21T22:09:12.346831+00:00",
   "colombia": [
     {
       "title": "Colombia’s de la Espriella ends negotiations with armed groups",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "Nike sale del top 100 de las empresas más grandes de EU y el gigante deportivo enfrenta un nuevo escenario",
+      "link": "https://expansion.mx/empresas/2026/09/21/nike-pierde-lugar-sp-100-dow-jones-despues-18-anos",
+      "source": "Expansion MX",
+      "pub": "Mon, 21 Sep 2026 21:02:34 GMT"
+    },
+    {
+      "title": "Carlos Slim aumenta la velocidad de Telmex sin subir el precio y modifica estos paquetes de internet",
+      "link": "https://expansion.mx/empresas/2026/09/21/carlos-slim-aumenta-velocidad-internet-telmex-paquetes",
+      "source": "Expansion MX",
+      "pub": "Mon, 21 Sep 2026 19:01:18 GMT"
+    },
+    {
+      "title": "¿Quién es el dueño de la Plaza México? El histórico inmueble que cambió los toros por conciertos y espectáculos",
+      "link": "https://expansion.mx/tendencias/2026/09/21/quien-es-dueno-la-mexico-inmueble-cambio-toros-conciertos",
+      "source": "Expansion MX",
+      "pub": "Mon, 21 Sep 2026 18:47:46 GMT"
+    },
+    {
+      "title": "WPP Media va por banca, autos y retail para crecer a doble dígito en México",
+      "link": "https://expansion.mx/mercadotecnia/2026/09/21/wpp-media-crecimiento-mexico",
+      "source": "Expansion MX",
+      "pub": "Mon, 21 Sep 2026 18:33:18 GMT"
+    },
+    {
       "title": "Cómo tener mica de privacidad en tu iPhone sin comprar una: este ajuste lo permite",
       "link": "https://expansion.mx/tecnologia/2026/09/21/como-tener-mica-de-privacidad-en-iphone-sin-comprar-una",
       "source": "Expansion MX",
@@ -98,30 +122,6 @@
       "link": "https://expansion.mx/tendencias/2026/09/21/por-que-se-regalan-flores-amarillas-21-de-septiembre",
       "source": "Expansion MX",
       "pub": "Mon, 21 Sep 2026 15:18:34 GMT"
-    },
-    {
-      "title": "Gasolineras y casetas operarán sin efectivo con nueva Ley de Economía Digital",
-      "link": "https://expansion.mx/economia/2026/09/21/confirmado-no-podras-pagar-efectivo-gasolineras-y-casetas",
-      "source": "Expansion MX",
-      "pub": "Mon, 21 Sep 2026 15:01:03 GMT"
-    },
-    {
-      "title": "WAICO: la avanzada china por la gobernanza de la IA",
-      "link": "https://expansion.mx/opinion/2026/09/21/waico-la-avanzada-china-por-la-gobernanza-de-la-ia",
-      "source": "Expansion MX",
-      "pub": "Mon, 21 Sep 2026 12:04:21 GMT"
-    },
-    {
-      "title": "La IA generativa revoluciona el e-discovery en las investigaciones legales y corporativas",
-      "link": "https://expansion.mx/opinion/2026/09/21/ia-generativa-revoluciona-investigaciones-legales",
-      "source": "Expansion MX",
-      "pub": "Mon, 21 Sep 2026 12:02:40 GMT"
-    },
-    {
-      "title": "¿Policías del futuro? Los robots del Edomex aún no vigilan, pero ya están a prueba",
-      "link": "https://expansion.mx/tecnologia/2026/09/21/policias-del-futuro-robots-edomex",
-      "source": "Expansion MX",
-      "pub": "Mon, 21 Sep 2026 11:55:52 GMT"
     }
   ]
 }
