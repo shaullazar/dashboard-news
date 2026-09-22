@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T14:46:04.078289+00:00",
+  "updated": "2026-09-22T18:18:22.668762+00:00",
   "colombia": [
     {
       "title": "What Colombia’s exit from an international LGBTI rights coalition signals",
@@ -64,6 +64,36 @@
   ],
   "mexico": [
     {
+      "title": "Primark vs. Suburbia: la llegada del nuevo aliado de Liverpool pone en riesgo a la empresa mexicana",
+      "link": "https://expansion.mx/empresas/2026/09/22/primark-suburbia-liverpool-centros-comerciales-mexico",
+      "source": "Expansion MX",
+      "pub": "Tue, 22 Sep 2026 18:00:06 GMT"
+    },
+    {
+      "title": "Jorge Vergara se arriesgó con Chivas USA; compró barato, multiplicó 14 veces su precio y lo vendió a la MLS por 70 mdd",
+      "link": "https://expansion.mx/empresas/2026/09/22/jorge-vergara-arriesgo-se-arriego-con-chivas-usa",
+      "source": "Expansion MX",
+      "pub": "Tue, 22 Sep 2026 17:42:34 GMT"
+    },
+    {
+      "title": "BBVA recorta media hora la atención en sucursales a partir del 5 de octubre",
+      "link": "https://expansion.mx/economia/2026/09/22/bbva-cambia-horario-sucursales",
+      "source": "Expansion MX",
+      "pub": "Tue, 22 Sep 2026 17:10:46 GMT"
+    },
+    {
+      "title": "Megacable, el jugador que dejó de ser local y está a punto de desplazar a  Izzy y Sky en el mercado fijo de internet",
+      "link": "https://expansion.mx/empresas/2026/09/22/megacable-va-televisa-esta-desplazar-izzi-sky-internet-fijo",
+      "source": "Expansion MX",
+      "pub": "Tue, 22 Sep 2026 16:17:38 GMT"
+    },
+    {
+      "title": "El Nasdaq marca récord, pero el IPC mexicano mantiene rezago y el peso ronda los 17.30 por dólar",
+      "link": "https://expansion.mx/mercados/2026/09/22/peso-ipc-bmv-wall-street-nasdaq-petroleo-22-septiembre-2026",
+      "source": "Expansion MX",
+      "pub": "Tue, 22 Sep 2026 15:07:04 GMT"
+    },
+    {
       "title": "Aeroméxico estrena rutas sin escalas desde CDMX al Caribe y estos son los destinos; ¿cuándo comienzan?",
       "link": "https://expansion.mx/empresas/2026/09/22/aeromexico-conectara-cdmx-con-el-caribe",
       "source": "Expansion MX",
@@ -76,12 +106,6 @@
       "pub": "Tue, 22 Sep 2026 11:59:46 GMT"
     },
     {
-      "title": "Megacable, el jugador que dejó de ser local y está a punto de desplazar a  Izzy y Sky en el mercado fijo de internet",
-      "link": "https://expansion.mx/empresas/2026/09/22/megacable-desplazar-televisa-mercado-fijo-internet",
-      "source": "Expansion MX",
-      "pub": "Tue, 22 Sep 2026 11:55:38 GMT"
-    },
-    {
       "title": "El pago de intereses de la deuda de México alcanzará en 2027 su mayor nivel desde 1990",
       "link": "https://expansion.mx/economia/2026/09/22/deuda-publica-mexico-nivel-historico-desde-1990",
       "source": "Expansion MX",
@@ -92,36 +116,6 @@
       "link": "https://expansion.mx/tecnologia/2026/09/22/hinge-app-citas-disenada-para-ser-eliminada-crece",
       "source": "Expansion MX",
       "pub": "Tue, 22 Sep 2026 11:55:24 GMT"
-    },
-    {
-      "title": "Aeroméxico adjudica exposición de datos de clientes por Telegram a un ciberataque",
-      "link": "https://expansion.mx/empresas/2026/09/21/aeromexico-adjudica-exposicion-datos-clientes-a-ciberataque",
-      "source": "Expansion MX",
-      "pub": "Tue, 22 Sep 2026 02:40:14 GMT"
-    },
-    {
-      "title": "Las 3 carreras donde el Tec de Monterrey ya es mejor que la UNAM en Latinoamérica",
-      "link": "https://expansion.mx/carrera/2026/09/21/carreras-tec-monterrey-es-mejor-que-la-unam-en-latinoamerica",
-      "source": "Expansion MX",
-      "pub": "Tue, 22 Sep 2026 01:42:12 GMT"
-    },
-    {
-      "title": "¿Qué es y bajo qué condiciones se puede tramitar la pensión por invalidez del IMSS?",
-      "link": "https://expansion.mx/finanzas-personales/2026/09/21/que-es-condiciones-tramitar-pension-invalidez-imss",
-      "source": "Expansion MX",
-      "pub": "Tue, 22 Sep 2026 00:53:21 GMT"
-    },
-    {
-      "title": "¿Perdiste tu boleta de empeño durante la huelga del Monte de Piedad? Así puedes consultarlo desde casa",
-      "link": "https://expansion.mx/finanzas-personales/2026/09/21/perdiste-boleta-empeno-huelga-monte-piedad-consultarlo-casa",
-      "source": "Expansion MX",
-      "pub": "Tue, 22 Sep 2026 00:49:50 GMT"
-    },
-    {
-      "title": "Millones de pymes quieren exportar, pero aún carecen de financiamiento y acceso a cadenas de valor",
-      "link": "https://expansion.mx/economia/2026/09/21/pymes-exportar-carecen-financiamiento-cadenas-valor",
-      "source": "Expansion MX",
-      "pub": "Tue, 22 Sep 2026 00:28:18 GMT"
     }
   ]
 }
