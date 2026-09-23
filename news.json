@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T19:51:43.427485+00:00",
+  "updated": "2026-09-23T22:29:00.856618+00:00",
   "colombia": [
     {
       "title": "What Colombia’s exit from an international LGBTI rights coalition signals",
@@ -64,30 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "YouTube evoluciona: ahora puedes hablarle para encontrar tus videos favoritos",
-      "link": "https://expansion.mx/tecnologia/2026/09/23/youtube-inteligencia-artificial-herramientas-ia-videos",
-      "source": "Expansion MX",
-      "pub": "Wed, 23 Sep 2026 17:13:03 GMT"
-    },
-    {
-      "title": "¿Por qué BBVA me cobra 70 pesos cada mes y cómo detener el cobro automático?",
-      "link": "https://expansion.mx/finanzas-personales/2026/09/23/por-que-bbva-cobra-70-pesos-cada-mes",
-      "source": "Expansion MX",
-      "pub": "Wed, 23 Sep 2026 17:02:20 GMT"
-    },
-    {
-      "title": "El detector de IA que usa tu maestro para cancelar tareas podría estar fallando: esta es la razón",
-      "link": "https://expansion.mx/tecnologia/2026/09/23/tarea-hecha-con-ia-aunque-hayas-escrito-problema-detectores",
-      "source": "Expansion MX",
-      "pub": "Wed, 23 Sep 2026 14:43:30 GMT"
-    },
-    {
-      "title": "OCDE mejora pronóstico para México, pero advierte inflación persistente y crédito caro",
-      "link": "https://expansion.mx/economia/2026/09/23/ocde-mejora-crecimiento-mexico-inflacion-bolsillo-2026",
-      "source": "Expansion MX",
-      "pub": "Wed, 23 Sep 2026 14:16:04 GMT"
-    },
-    {
       "title": "Reforma a Ley Aduanera representa atrasos y sobrecostos para importadores y exportadores",
       "link": "https://expansion.mx/economia/2026/09/23/reforma-ley-aduanera-atrasos-costos-importadores",
       "source": "Expansion MX",
@@ -122,6 +98,30 @@
       "link": "https://expansion.mx/empresas/2026/09/22/changan-vs-toyota-nuevo-plan-entrega-refacciones-estafeta",
       "source": "Expansion MX",
       "pub": "Wed, 23 Sep 2026 01:08:32 GMT"
+    },
+    {
+      "title": "Soriana acelera inversión con más de 961 mdp para abrir y remodelar tiendas en el país",
+      "link": "https://expansion.mx/empresas/2026/09/22/soriana-inversion-961-mdp-tiendas-remodelaciones-2026",
+      "source": "Expansion MX",
+      "pub": "Wed, 23 Sep 2026 00:46:16 GMT"
+    },
+    {
+      "title": "El Nokia 1100 también se fabricó en México: la planta que estuvo detrás del celular más vendido en la historia",
+      "link": "https://expansion.mx/empresas/2026/09/22/nokia-1100-mexico-planta-celular-mas-vendido-historia",
+      "source": "Expansion MX",
+      "pub": "Wed, 23 Sep 2026 00:17:56 GMT"
+    },
+    {
+      "title": "Bait, el operador telefónico de Walmart, tiene más accesos a internet móvil que líneas activas",
+      "link": "https://expansion.mx/empresas/2026/09/22/bait-walmart-acceso-a-internet-movil-lineas-activas",
+      "source": "Expansion MX",
+      "pub": "Wed, 23 Sep 2026 00:17:14 GMT"
+    },
+    {
+      "title": "México todavía guarda municiones para elevar aranceles a importaciones asiáticas",
+      "link": "https://expansion.mx/economia/2026/09/22/mexico-municiones-aranceles-productos-asiaticos",
+      "source": "Expansion MX",
+      "pub": "Tue, 22 Sep 2026 23:17:18 GMT"
     }
   ]
 }
