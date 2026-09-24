@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T19:03:01.438424+00:00",
+  "updated": "2026-09-24T22:12:04.759388+00:00",
   "colombia": [
     {
       "title": "Colombia tourist hotspot Santa Marta militarized over armed violence",
@@ -64,36 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "México crece poco y su deuda sube: la combinación que preocupa a Moody's",
-      "link": "https://expansion.mx/economia/2026/09/24/mexico-bajo-crecimiento-deuda-sube-riesgos-moodys",
-      "source": "Expansion MX",
-      "pub": "Thu, 24 Sep 2026 18:13:11 GMT"
-    },
-    {
-      "title": "Nations League: dónde ver en vivo el Países Bajos vs. Alemania y todos los partidos de hoy jueves 24 de septiembre",
-      "link": "https://expansion.mx/tendencias/2026/09/24/nations-league-donde-ver-holanda-vs-alemania-y-partidos",
-      "source": "Expansion MX",
-      "pub": "Thu, 24 Sep 2026 17:27:48 GMT"
-    },
-    {
-      "title": "¿Qué le pasó al superpeso? se deprecia en una semana clave para Banxico",
-      "link": "https://expansion.mx/economia/2026/09/24/tipo-cambio-hoy-24-septiembre-peso-dolar",
-      "source": "Expansion MX",
-      "pub": "Thu, 24 Sep 2026 17:25:01 GMT"
-    },
-    {
-      "title": "Meta quiere sacar la IA del celular: así es Muse Charm, su nuevo dispositivo de bolsillo que parece un Tamagotchi",
-      "link": "https://expansion.mx/tecnologia/2026/09/24/meta-muse-charm-tamagotchi-inteligencia-artificial",
-      "source": "Expansion MX",
-      "pub": "Thu, 24 Sep 2026 17:19:57 GMT"
-    },
-    {
-      "title": "Ya probamos el nuevo Xiaomi 18 Pro, el teléfono viral de Xiaomi que ahora sí llegará a México",
-      "link": "https://expansion.mx/tecnologia/2026/09/24/xiaomi-18-pro-llegara-mexico",
-      "source": "Expansion MX",
-      "pub": "Thu, 24 Sep 2026 16:00:17 GMT"
-    },
-    {
       "title": "La batalla por la IA pone a Trump y Xi del mismo lado antes de verse cara a cara",
       "link": "https://expansion.mx/mundo/2026/09/24/batalla-por-ia-pone-trump-y-xi-del-mismo-lado",
       "source": "Expansion MX",
@@ -116,6 +86,42 @@
       "link": "https://expansion.mx/tecnologia/2026/09/24/clave-wifi-puede-paralizar-toda-tu-empresa",
       "source": "Expansion MX",
       "pub": "Thu, 24 Sep 2026 11:55:35 GMT"
+    },
+    {
+      "title": "Bait aumenta los ingresos de Altán, pero el reto es convertir el crecimiento en rentabilidad y 5G",
+      "link": "https://expansion.mx/empresas/2026/09/24/altan-eleva-ingresos-reto-crecimiento-rentabilidad-5g",
+      "source": "Expansion MX",
+      "pub": "Thu, 24 Sep 2026 11:55:29 GMT"
+    },
+    {
+      "title": "México frena la promoción de IED: recortará 31% su presupuesto en 2027",
+      "link": "https://expansion.mx/economia/2026/09/24/mexico-focalizar-inversion-extranjera-2027-recorte-promocion",
+      "source": "Expansion MX",
+      "pub": "Thu, 24 Sep 2026 11:55:03 GMT"
+    },
+    {
+      "title": "No tienes nómina ni recibos de sueldo; así podrás comprobar tus ingresos ante el banco",
+      "link": "https://expansion.mx/finanzas-personales/2026/09/23/comprobante-ingresos-banco-considera-documentos-credito",
+      "source": "Expansion MX",
+      "pub": "Thu, 24 Sep 2026 01:45:20 GMT"
+    },
+    {
+      "title": "El SAT quiere \"seducir\" a micro y pequeñas empresas: ofrece IVA de 7% y eliminar contabilidad para 2027",
+      "link": "https://expansion.mx/economia/2026/09/23/sat-resico-iva-7-elimina-contabilidad-2027",
+      "source": "Expansion MX",
+      "pub": "Thu, 24 Sep 2026 01:20:31 GMT"
+    },
+    {
+      "title": "Meta lanza nuevos lentes sin cámara para combatir las críticas de seguridad",
+      "link": "https://expansion.mx/tecnologia/2026/09/23/ray-ban-meta-lanza-lentes-sin-camara",
+      "source": "Expansion MX",
+      "pub": "Thu, 24 Sep 2026 00:56:23 GMT"
+    },
+    {
+      "title": "Arena Coliseo, la historia del otro templo de la lucha libre que se niega a desaparecer en la CDMX",
+      "link": "https://expansion.mx/tendencias/2026/09/23/arena-coliseo-historia-templo-lucha-libre-cdmx",
+      "source": "Expansion MX",
+      "pub": "Thu, 24 Sep 2026 00:31:45 GMT"
     }
   ]
 }
