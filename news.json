@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T00:42:16.710652+00:00",
+  "updated": "2026-09-24T05:25:11.702003+00:00",
   "colombia": [
     {
       "title": "What Colombia’s exit from an international LGBTI rights coalition signals",
@@ -64,6 +64,24 @@
   ],
   "mexico": [
     {
+      "title": "No tienes nómina ni recibos de sueldo; así podrás comprobar tus ingresos ante el banco",
+      "link": "https://expansion.mx/finanzas-personales/2026/09/23/comprobante-ingresos-banco-considera-documentos-credito",
+      "source": "Expansion MX",
+      "pub": "Thu, 24 Sep 2026 01:45:20 GMT"
+    },
+    {
+      "title": "El SAT quiere \"seducir\" a micro y pequeñas empresas: ofrece IVA de 7% y eliminar contabilidad para 2027",
+      "link": "https://expansion.mx/economia/2026/09/23/sat-resico-iva-7-elimina-contabilidad-2027",
+      "source": "Expansion MX",
+      "pub": "Thu, 24 Sep 2026 01:20:31 GMT"
+    },
+    {
+      "title": "Meta lanza nuevos lentes sin cámara para combatir las críticas de seguridad",
+      "link": "https://expansion.mx/tecnologia/2026/09/23/ray-ban-meta-lanza-lentes-sin-camara",
+      "source": "Expansion MX",
+      "pub": "Thu, 24 Sep 2026 00:56:23 GMT"
+    },
+    {
       "title": "Arena Coliseo, la historia del otro templo de la lucha libre que se niega a desaparecer en la CDMX",
       "link": "https://expansion.mx/tendencias/2026/09/23/arena-coliseo-historia-templo-lucha-libre-cdmx",
       "source": "Expansion MX",
@@ -104,24 +122,6 @@
       "link": "https://expansion.mx/tecnologia/2026/09/23/sin-iphone-18-qualcomm-plan",
       "source": "Expansion MX",
       "pub": "Wed, 23 Sep 2026 22:00:31 GMT"
-    },
-    {
-      "title": "El negocio de minimis se enfría para Estafeta, pero crece el de refacciones para autos chinos",
-      "link": "https://expansion.mx/empresas/2026/09/23/minimis-no-son-negocio-estafeta-oportunidad-autos-chinos",
-      "source": "Expansion MX",
-      "pub": "Wed, 23 Sep 2026 21:53:12 GMT"
-    },
-    {
-      "title": "Primero detener la hemorragia arancelaria; después, negociar el futuro del T-MEC: Ildefonso Guajardo",
-      "link": "https://expansion.mx/economia/2026/09/23/guajardo-aranceles-primero-renovacion-tmec-despues",
-      "source": "Expansion MX",
-      "pub": "Wed, 23 Sep 2026 21:24:29 GMT"
-    },
-    {
-      "title": "Era hijo del fundador de La Costeña, creó su empresa con 20 empleados y hoy Jumex mueve 25,116 millones",
-      "link": "https://expansion.mx/empresas/2026/09/23/hijo-dueno-la-costena-fundo-jumex",
-      "source": "Expansion MX",
-      "pub": "Wed, 23 Sep 2026 21:06:59 GMT"
     }
   ]
 }
