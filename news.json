@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T19:15:00.385897+00:00",
+  "updated": "2026-09-25T22:20:58.336487+00:00",
   "colombia": [
     {
       "title": "Colombia tourist hotspot Santa Marta militarized over armed violence",
@@ -64,18 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Nations League: dónde ver el Italia vs. Bélgica y todos los partidos de este viernes 25 de septiembre",
-      "link": "https://expansion.mx/tendencias/2026/09/25/nations-league-italia-vs-belgica-partidos-25-septiembre",
-      "source": "Expansion MX",
-      "pub": "Fri, 25 Sep 2026 15:55:10 GMT"
-    },
-    {
-      "title": "Riunite va por los jóvenes y convierte al Lambrusco en un rival para la cerveza y el tequila",
-      "link": "https://expansion.mx/empresas/2026/09/25/riunite-vino-dulce-jovenes-cerveza-tequila-ieps",
-      "source": "Expansion MX",
-      "pub": "Fri, 25 Sep 2026 15:38:03 GMT"
-    },
-    {
       "title": "Volkswagen y Audi llaman a revisión a más de 2.8 millones de vehículos por fallas",
       "link": "https://expansion.mx/empresas/2026/09/25/volkswagen-retira-2-8-millones-vehiculos-por-fallas",
       "source": "Expansion MX",
@@ -122,6 +110,18 @@
       "link": "https://expansion.mx/tecnologia/2026/09/24/esta-funcion-google-puede-guardar-tus-grabaciones-de-voz",
       "source": "Expansion MX",
       "pub": "Fri, 25 Sep 2026 01:11:24 GMT"
+    },
+    {
+      "title": "Por inflación, gasolinas, refrescos y cigarros incrementarán IEPS en 2027",
+      "link": "https://expansion.mx/economia/2026/09/24/ieps-gasolinas-refrescos-cigarros-inflacion-2027",
+      "source": "Expansion MX",
+      "pub": "Fri, 25 Sep 2026 00:44:39 GMT"
+    },
+    {
+      "title": "La adopción del streaming crece en zonas rurales mientras que en zonas urbanas empieza a moderarse",
+      "link": "https://expansion.mx/empresas/2026/09/24/adopcion-streaming-crece-zonas-rurales-urbanas-moderarse",
+      "source": "Expansion MX",
+      "pub": "Fri, 25 Sep 2026 00:32:19 GMT"
     }
   ]
 }
