@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T20:08:43.140377+00:00",
+  "updated": "2026-09-26T22:43:13.816890+00:00",
   "colombia": [
     {
       "title": "Colombia tourist hotspot Santa Marta militarized over armed violence",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "México envejeció en cinco años y la presión por pagar pensiones apenas comienza",
+      "link": "https://expansion.mx/economia/2026/09/26/mexico-envejecimiento-pensiones-gasto-publico",
+      "source": "Expansion MX",
+      "pub": "Sat, 26 Sep 2026 18:01:38 GMT"
+    },
+    {
+      "title": "Trump rechaza el plan iraní para reabrir el estrecho de Ormuz",
+      "link": "https://expansion.mx/mundo/2026/09/26/trump-rechaza-plan-irani-para-reabrir-el-estrecho-de-ormuz",
+      "source": "Expansion MX",
+      "pub": "Sat, 26 Sep 2026 17:58:16 GMT"
+    },
+    {
       "title": "Se debe romper el mito de que bancarizar es fiscalizar, dice la CNBV; defiende Ley de Economía Digital",
       "link": "https://expansion.mx/economia/2026/09/25/cnbv-ley-economia-digital-bancarizar-no-es-fiscalizar",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/09/25/telmex-telnor-ofrecer-internet-200-pesos-60-localidades",
       "source": "Expansion MX",
       "pub": "Fri, 25 Sep 2026 20:07:06 GMT"
-    },
-    {
-      "title": "Esta SUV eléctrica funciona como una power bank gigante y puede salvarte cuando te quedes sin luz",
-      "link": "https://expansion.mx/empresas/2026/09/25/suv-electrica-que-carga-aparatos",
-      "source": "Expansion MX",
-      "pub": "Fri, 25 Sep 2026 20:00:15 GMT"
-    },
-    {
-      "title": "Mars México reconoce su compromiso con el país mediante una nueva campaña",
-      "link": "https://expansion.mx/bespoke-ad/2026/09/25/mars-reconoce-compromiso-mediante-nueva-campana",
-      "source": "Expansion MX",
-      "pub": "Fri, 25 Sep 2026 19:47:10 GMT"
     }
   ]
 }
