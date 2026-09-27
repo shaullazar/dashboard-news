@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T00:52:31.818457+00:00",
+  "updated": "2026-09-27T05:52:48.774038+00:00",
   "colombia": [
     {
       "title": "Colombia tourist hotspot Santa Marta militarized over armed violence",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "EU y China abrirán un \"canal de comunicación\" sobre la inteligencia artificial",
+      "link": "https://expansion.mx/empresas/2026/09/26/eu-china-abriran-canal-comunicacion-inteligencia-artificial",
+      "source": "Expansion MX",
+      "pub": "Sun, 27 Sep 2026 01:23:43 GMT"
+    },
+    {
       "title": "Bangkok, capital de Tailandia, declara estado de desastre tras casi 48 horas de lluvias torrenciales",
       "link": "https://expansion.mx/mundo/2026/09/26/tailandia-lluvias-bangkok-declara-estado-de-desastre",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/tecnologia/2026/09/25/advertencia-bill-gates-ia",
       "source": "Expansion MX",
       "pub": "Fri, 25 Sep 2026 22:15:03 GMT"
-    },
-    {
-      "title": "Corea lleva su apuesta por México a una nueva etapa con IA, aeroespacial y más inversión",
-      "link": "https://expansion.mx/economia/2026/09/25/corea-eleva-apuesta-mexico-ia-aeroespacial-inversion",
-      "source": "Expansion MX",
-      "pub": "Fri, 25 Sep 2026 20:59:36 GMT"
     }
   ]
 }
