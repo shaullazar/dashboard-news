@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-28T11:53:24.406989+00:00",
+  "updated": "2026-09-28T18:46:22.820912+00:00",
   "colombia": [
+    {
+      "title": "12 signatories of Colombia’s peace process killed so far in 2026",
+      "link": "https://thebogotapost.com/12-signatories-of-colombias-peace-process-killed-so-far-in-2026/56776/",
+      "source": "The Bogota Post",
+      "pub": "Mon, 28 Sep 2026 17:24:52 +0000"
+    },
     {
       "title": "Colombia tourist hotspot Santa Marta militarized over armed violence",
       "link": "https://thebogotapost.com/colombia-tourist-hotspot-santa-marta-militarized-over-armed-violence/56771/",
@@ -54,15 +60,27 @@
       "link": "https://thebogotapost.com/abelardo-de-la-espriella-begins-to-dismantle-colombias-peace-process/56719/",
       "source": "The Bogota Post",
       "pub": "Fri, 28 Aug 2026 02:37:08 +0000"
-    },
-    {
-      "title": "The Western Colombia earthquake: what do we know 1 week later?",
-      "link": "https://thebogotapost.com/the-western-colombia-earthquake-what-do-we-know-1-week-later/56713/",
-      "source": "The Bogota Post",
-      "pub": "Wed, 19 Aug 2026 23:18:14 +0000"
     }
   ],
   "mexico": [
+    {
+      "title": "El peso queda atrapado entre la Fed y la deuda récord de Estados Unidos",
+      "link": "https://expansion.mx/mercados/2026/09/28/peso-mexicano-volatilidad-fed-banxico-diferencial-tasas",
+      "source": "Expansion MX",
+      "pub": "Mon, 28 Sep 2026 11:55:44 GMT"
+    },
+    {
+      "title": "La promesa de los 21 contratos mixtos de Pemex se topa con las dudas del sector privado",
+      "link": "https://expansion.mx/empresas/2026/09/28/pemex-10-contratos-mixtos-pero-quiere-lograr-21",
+      "source": "Expansion MX",
+      "pub": "Mon, 28 Sep 2026 11:55:34 GMT"
+    },
+    {
+      "title": "Los ciberdelincuentes llegaron hasta tu firma: así se especializan para robar tus datos",
+      "link": "https://expansion.mx/tecnologia/2026/09/28/phishing-correos-falsos-zoom-docusign",
+      "source": "Expansion MX",
+      "pub": "Mon, 28 Sep 2026 11:55:16 GMT"
+    },
     {
       "title": "El mexicano que ayudó a que el proyecto de Google despegara desde Stanford",
       "link": "https://expansion.mx/carrera/2026/09/27/mexicano-ayudo-proyecto-google-despegara-stanford",
@@ -104,24 +122,6 @@
       "link": "https://expansion.mx/economia/2026/09/26/mexico-envejecimiento-pensiones-gasto-publico",
       "source": "Expansion MX",
       "pub": "Sat, 26 Sep 2026 18:01:38 GMT"
-    },
-    {
-      "title": "Trump rechaza el plan iraní para reabrir el estrecho de Ormuz",
-      "link": "https://expansion.mx/mundo/2026/09/26/trump-rechaza-plan-irani-para-reabrir-el-estrecho-de-ormuz",
-      "source": "Expansion MX",
-      "pub": "Sat, 26 Sep 2026 17:58:16 GMT"
-    },
-    {
-      "title": "Se debe romper el mito de que bancarizar es fiscalizar, dice la CNBV; defiende Ley de Economía Digital",
-      "link": "https://expansion.mx/economia/2026/09/25/cnbv-ley-economia-digital-bancarizar-no-es-fiscalizar",
-      "source": "Expansion MX",
-      "pub": "Fri, 25 Sep 2026 23:56:59 GMT"
-    },
-    {
-      "title": "Hacienda baja IEPS a gasolinas, mientras el diésel va por su tercera semana con cuota cero",
-      "link": "https://expansion.mx/economia/2026/09/25/hacienda-baja-ieps-gasolinas-diesel-tercera-cuota-cero",
-      "source": "Expansion MX",
-      "pub": "Fri, 25 Sep 2026 23:53:16 GMT"
     }
   ]
 }
