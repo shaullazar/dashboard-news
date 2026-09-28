@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T00:17:49.893785+00:00",
+  "updated": "2026-09-28T05:30:03.101185+00:00",
   "colombia": [
     {
       "title": "Colombia tourist hotspot Santa Marta militarized over armed violence",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "El mexicano que ayudó a que el proyecto de Google despegara desde Stanford",
+      "link": "https://expansion.mx/carrera/2026/09/27/mexicano-ayudo-proyecto-google-despegara-stanford",
+      "source": "Expansion MX",
+      "pub": "Mon, 28 Sep 2026 00:26:07 GMT"
+    },
+    {
+      "title": "Primark llega a México y su modelo de tiendas será distinto al de Zara y H&M",
+      "link": "https://expansion.mx/empresas/2026/09/27/primark-llega-a-mexico-tendra-tienda-en-linea-modelo-zara-hm",
+      "source": "Expansion MX",
+      "pub": "Sun, 27 Sep 2026 21:54:12 GMT"
+    },
+    {
       "title": "Aguinaldo 2026: cuándo se paga, cuánto te corresponde y qué pasa si trabajaste menos de un año",
       "link": "https://expansion.mx/finanzas-personales/2026/09/27/aguinaldo-2026-cuando-cuanto-trabajaste-menos-ano",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/economia/2026/09/25/hacienda-baja-ieps-gasolinas-diesel-tercera-cuota-cero",
       "source": "Expansion MX",
       "pub": "Fri, 25 Sep 2026 23:53:16 GMT"
-    },
-    {
-      "title": "La IA aumenta el tráfico de datos y presiona la capacidad de las redes de las telecomunicaciones",
-      "link": "https://expansion.mx/empresas/2026/09/25/ia-aumenta-trafico-datos-presiona-redes-telecomunicaciones",
-      "source": "Expansion MX",
-      "pub": "Fri, 25 Sep 2026 23:12:37 GMT"
-    },
-    {
-      "title": "Openbank capta 48 pesos por cada peso que presta; ahora quiere acelerar el crédito",
-      "link": "https://expansion.mx/economia/2026/09/25/openbank-acelera-credito-mexico-clientes-fitch",
-      "source": "Expansion MX",
-      "pub": "Fri, 25 Sep 2026 22:55:02 GMT"
     }
   ]
 }
