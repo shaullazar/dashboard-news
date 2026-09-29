@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T09:01:04.804280+00:00",
+  "updated": "2026-09-29T15:31:37.505064+00:00",
   "colombia": [
     {
       "title": "Colombia’s child welfare institution faces criticism for omitting the word “girl”",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Tipo de cambio cercano a 18 pesos por dólar y Wall Street titubea ante petróleo, tasas y datos de empleo",
+      "link": "https://expansion.mx/mercados/2026/09/29/tipo-de-cambio-hoy-29-septiembre-2026-bmv-wall-street",
+      "source": "Expansion MX",
+      "pub": "Tue, 29 Sep 2026 14:49:50 GMT"
+    },
+    {
+      "title": "La Ley de Economía Digital contribuirá a la fiscalización del SAT y lucha anti lavado",
+      "link": "https://expansion.mx/economia/2026/09/29/ley-economia-digital-fiscalizacion-sat-lucha-anti-lavado",
+      "source": "Expansion MX",
+      "pub": "Tue, 29 Sep 2026 11:55:38 GMT"
+    },
+    {
       "title": "BMV será sede en 2027 de la reunión de bolsas iberoamericanas",
       "link": "https://expansion.mx/mercados/2026/09/28/bmv-sera-sede-reunion-anual-fiab-2027",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/09/28/geely-supera-mg-ventas-se-acerca-byd-mexico",
       "source": "Expansion MX",
       "pub": "Mon, 28 Sep 2026 21:07:29 GMT"
-    },
-    {
-      "title": "Mexicana suma su avión número 10 y alcanza la mitad de la flota que usará para ampliar sus rutas nacionales",
-      "link": "https://expansion.mx/empresas/2026/09/28/mexicana-aviacion-mitad-flota-llegada-decimo-avion-embraer",
-      "source": "Expansion MX",
-      "pub": "Mon, 28 Sep 2026 20:55:48 GMT"
-    },
-    {
-      "title": "Acereras de EU redoblan la presión a Trump por los aranceles ante un posible acuerdo con México",
-      "link": "https://expansion.mx/economia/2026/09/28/acereras-eu-presion-trump-aranceles-acuerdo-mexico",
-      "source": "Expansion MX",
-      "pub": "Mon, 28 Sep 2026 20:54:27 GMT"
     }
   ]
 }
