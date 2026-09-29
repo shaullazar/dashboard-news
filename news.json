@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-28T23:31:49.066730+00:00",
+  "updated": "2026-09-29T02:40:42.069504+00:00",
   "colombia": [
+    {
+      "title": "Colombia’s child welfare institution faces criticism for omitting the word “girl”",
+      "link": "https://thebogotapost.com/colombias-child-welfare-institution-faces-criticism-for-omitting-the-word-girl/56779/",
+      "source": "The Bogota Post",
+      "pub": "Tue, 29 Sep 2026 01:45:07 +0000"
+    },
     {
       "title": "12 signatories of Colombia’s peace process killed so far in 2026",
       "link": "https://thebogotapost.com/12-signatories-of-colombias-peace-process-killed-so-far-in-2026/56776/",
@@ -54,33 +60,9 @@
       "link": "https://thebogotapost.com/99-forced-disappearances-linked-to-colombia-armed-conflict-this-year/56725/",
       "source": "The Bogota Post",
       "pub": "Mon, 31 Aug 2026 23:11:05 +0000"
-    },
-    {
-      "title": "Abelardo de la Espriella begins to dismantle Colombia’s peace process",
-      "link": "https://thebogotapost.com/abelardo-de-la-espriella-begins-to-dismantle-colombias-peace-process/56719/",
-      "source": "The Bogota Post",
-      "pub": "Fri, 28 Aug 2026 02:37:08 +0000"
     }
   ],
   "mexico": [
-    {
-      "title": "La fusión de Viva y Volaris busca eficiencias, pero abre riesgo para rutas menos rentables y tarifas",
-      "link": "https://expansion.mx/empresas/2026/09/28/fusion-viva-volaris-abandono-rutas-tarifas-altas",
-      "source": "Expansion MX",
-      "pub": "Mon, 28 Sep 2026 20:09:12 GMT"
-    },
-    {
-      "title": "Tupperware abandona la idea de vender en supermercados y lo apuesta todo a la venta por Facebook y WhatsApp",
-      "link": "https://expansion.mx/empresas/2026/09/28/tupperware-venta-catalogo-nuevas-generaciones",
-      "source": "Expansion MX",
-      "pub": "Mon, 28 Sep 2026 19:58:32 GMT"
-    },
-    {
-      "title": "Peso y oro, víctimas del repunte del petróleo y los bonos de EU",
-      "link": "https://expansion.mx/mercados/2026/09/28/peso-mexicano-oro-caen-petroleo-bonos-estados-unidos",
-      "source": "Expansion MX",
-      "pub": "Mon, 28 Sep 2026 18:48:53 GMT"
-    },
     {
       "title": "¿Quién puso comerciales en el mar? La publicidad que genera polémica entre visitantes de Puerto Vallarta",
       "link": "https://expansion.mx/empresas/2026/09/28/pantalla-publicitaria-mar-empresa-detras-puerto-vallarta",
@@ -122,6 +104,24 @@
       "link": "https://expansion.mx/empresas/2026/09/28/pemex-10-contratos-mixtos-pero-quiere-lograr-21",
       "source": "Expansion MX",
       "pub": "Mon, 28 Sep 2026 11:55:34 GMT"
+    },
+    {
+      "title": "Los ciberdelincuentes llegaron hasta tu firma: así se especializan para robar tus datos",
+      "link": "https://expansion.mx/tecnologia/2026/09/28/phishing-correos-falsos-zoom-docusign",
+      "source": "Expansion MX",
+      "pub": "Mon, 28 Sep 2026 11:55:16 GMT"
+    },
+    {
+      "title": "El mexicano que ayudó a que el proyecto de Google despegara desde Stanford",
+      "link": "https://expansion.mx/carrera/2026/09/27/mexicano-ayudo-proyecto-google-despegara-stanford",
+      "source": "Expansion MX",
+      "pub": "Mon, 28 Sep 2026 00:26:07 GMT"
+    },
+    {
+      "title": "Primark llega a México y su modelo de tiendas será distinto al de Zara y H&M",
+      "link": "https://expansion.mx/empresas/2026/09/27/primark-llega-a-mexico-tendra-tienda-en-linea-modelo-zara-hm",
+      "source": "Expansion MX",
+      "pub": "Sun, 27 Sep 2026 21:54:12 GMT"
     }
   ]
 }
