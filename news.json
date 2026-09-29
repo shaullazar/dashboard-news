@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T15:31:37.505064+00:00",
+  "updated": "2026-09-29T20:09:43.225728+00:00",
   "colombia": [
     {
       "title": "Colombia’s child welfare institution faces criticism for omitting the word “girl”",
@@ -64,6 +64,24 @@
   ],
   "mexico": [
     {
+      "title": "México vs. Perú: hora del partido y dónde ver en vivo gratis la transmisión por televisión",
+      "link": "https://expansion.mx/tendencias/2026/09/29/mexico-vs-peru-donde-ver-en-vivo",
+      "source": "Expansion MX",
+      "pub": "Tue, 29 Sep 2026 17:41:12 GMT"
+    },
+    {
+      "title": "Spotify presenta fallas a nivel global este 29 de septiembre; usuarios no pueden iniciar sesión ni reproducir música",
+      "link": "https://expansion.mx/tecnologia/2026/09/29/spotify-falla-hoy-29-de-septiembre",
+      "source": "Expansion MX",
+      "pub": "Tue, 29 Sep 2026 17:38:55 GMT"
+    },
+    {
+      "title": "“Queremos asegurarnos de que sea seguro”: OpenAI retrasa su modelo de IA por preocupaciones internas",
+      "link": "https://expansion.mx/tecnologia/2026/09/29/openai-retrasa-ia-por-preocupaciones-seguridad",
+      "source": "Expansion MX",
+      "pub": "Tue, 29 Sep 2026 16:11:17 GMT"
+    },
+    {
       "title": "Tipo de cambio cercano a 18 pesos por dólar y Wall Street titubea ante petróleo, tasas y datos de empleo",
       "link": "https://expansion.mx/mercados/2026/09/29/tipo-de-cambio-hoy-29-septiembre-2026-bmv-wall-street",
       "source": "Expansion MX",
@@ -104,24 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/09/28/carls-jr-aniversario-35-pesos-mexico-promocion",
       "source": "Expansion MX",
       "pub": "Mon, 28 Sep 2026 22:29:32 GMT"
-    },
-    {
-      "title": "Carlos Slim convirtió tres estaciones del Metro en negocio y puso plazas comerciales donde miles pasan cada día",
-      "link": "https://expansion.mx/empresas/2026/09/28/carlos-slim-tres-plazas-comerciales-conectadas-al-metro",
-      "source": "Expansion MX",
-      "pub": "Mon, 28 Sep 2026 21:45:15 GMT"
-    },
-    {
-      "title": "Pemex arrastra calificación de México a grado especulativo: Alejandro Werner; prevé déficits fiscales de 4 a 5% a 2030",
-      "link": "https://expansion.mx/economia/2026/09/28/alejandro-werner-deficits-fiscales-4-5-pib-sexenio-sheinbaum",
-      "source": "Expansion MX",
-      "pub": "Mon, 28 Sep 2026 21:33:41 GMT"
-    },
-    {
-      "title": "Geely supera a MG en ventas y acecha a BYD",
-      "link": "https://expansion.mx/empresas/2026/09/28/geely-supera-mg-ventas-se-acerca-byd-mexico",
-      "source": "Expansion MX",
-      "pub": "Mon, 28 Sep 2026 21:07:29 GMT"
     }
   ]
 }
