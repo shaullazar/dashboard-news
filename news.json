@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T08:42:15.120258+00:00",
+  "updated": "2026-09-30T15:17:40.253953+00:00",
   "colombia": [
     {
       "title": "Colombia’s child welfare institution faces criticism for omitting the word “girl”",
@@ -64,6 +64,24 @@
   ],
   "mexico": [
     {
+      "title": "Trump reúne a Google, Nvidia y Anthropic para fijar reglas a la IA, pero el pacto tiene una grieta",
+      "link": "https://expansion.mx/tecnologia/2026/09/30/trump-fija-reglas-a-la-ia-pero-pacto-tiene-grieta",
+      "source": "Expansion MX",
+      "pub": "Wed, 30 Sep 2026 14:27:34 GMT"
+    },
+    {
+      "title": "¿Cómo cuidar a tus hijos en WhatsApp? La app tendrá nuevas funciones para protegerlos",
+      "link": "https://expansion.mx/tecnologia/2026/09/30/whatsapp-tendra-nuevas-funciones-para-vigilar-hijos",
+      "source": "Expansion MX",
+      "pub": "Wed, 30 Sep 2026 13:01:13 GMT"
+    },
+    {
+      "title": "Más 'dientes' para las aduanas, pero con presupuesto recortado y fallas operativas",
+      "link": "https://expansion.mx/economia/2026/09/30/reforma-aduanera-2027-fallas-operativas-presupuesto-anam",
+      "source": "Expansion MX",
+      "pub": "Wed, 30 Sep 2026 11:55:00 GMT"
+    },
+    {
       "title": "Clientes llevan un año sin sus joyas por la huelga del Monte de Piedad y reclaman: “No quiero perderlas”",
       "link": "https://expansion.mx/economia/2026/09/29/clientes-atrapados-por-la-huelga-de-nacional-monte-de-piedad",
       "source": "Expansion MX",
@@ -104,24 +122,6 @@
       "link": "https://expansion.mx/mercados/2026/09/29/peso-mexicano-borra-ganancia-2026-cotiza-cerca-18-14-dolar",
       "source": "Expansion MX",
       "pub": "Tue, 29 Sep 2026 21:16:13 GMT"
-    },
-    {
-      "title": "Emilio Azcárraga quería comprar Chivas, pero Jorge Vergara irrumpió cuando el club estaba en crisis",
-      "link": "https://expansion.mx/empresas/2026/09/29/emilio-azcarraga-queria-comprar-chivas",
-      "source": "Expansion MX",
-      "pub": "Tue, 29 Sep 2026 21:09:59 GMT"
-    },
-    {
-      "title": "Carlos Slim no le perdona la renta ni a sus propias marcas: ¿por qué Sanborns, Sears y DAX pagan mensualmente?",
-      "link": "https://expansion.mx/empresas/2026/09/29/carlos-slim-renta-sus-marcas-sanborns-sears-dax",
-      "source": "Expansion MX",
-      "pub": "Tue, 29 Sep 2026 21:08:31 GMT"
-    },
-    {
-      "title": "De Tlatelolco a Halloween: estas son las efemérides de octubre que México conmemora este mes",
-      "link": "https://expansion.mx/tendencias/2026/09/29/efemerides-octubre-mexico-conmemora-este-mes-2026",
-      "source": "Expansion MX",
-      "pub": "Tue, 29 Sep 2026 18:43:21 GMT"
     }
   ]
 }
