@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T23:39:59.670529+00:00",
+  "updated": "2026-09-30T02:21:27.899118+00:00",
   "colombia": [
     {
       "title": "Colombia’s child welfare institution faces criticism for omitting the word “girl”",
@@ -64,6 +64,24 @@
   ],
   "mexico": [
     {
+      "title": "México quiere emular a Brasil y masificar en un año los pagos digitales",
+      "link": "https://expansion.mx/economia/2026/09/29/mexico-quiere-emular-a-brasil-y-masificar-en-un-ano-los-pagos-digitales",
+      "source": "Expansion MX",
+      "pub": "Tue, 29 Sep 2026 23:07:32 GMT"
+    },
+    {
+      "title": "¿Pagarás impuestos al SAT por pagos digitales? Esto es lo que debes saber de la iniciativa de Ley",
+      "link": "https://expansion.mx/finanzas-personales/2026/09/29/pagaras-impuestos-extra-tarjeta-debito",
+      "source": "Expansion MX",
+      "pub": "Tue, 29 Sep 2026 22:21:48 GMT"
+    },
+    {
+      "title": "Nu México nombra a Estephany Paulette Ley como CEO",
+      "link": "https://expansion.mx/economia/2026/09/29/nu-mexico-nombra-a-estephany-paulette-ley-como-ceo",
+      "source": "Expansion MX",
+      "pub": "Tue, 29 Sep 2026 22:15:09 GMT"
+    },
+    {
       "title": "Trump toma el control de la IA y firma acuerdo “moralmente vinculante” para no ralentizar su desarrollo",
       "link": "https://expansion.mx/tecnologia/2026/09/29/trump-acuerdo-lideres-ia-autorregulacion-desarrollo",
       "source": "Expansion MX",
@@ -104,24 +122,6 @@
       "link": "https://expansion.mx/mercados/2026/09/29/mercado-libre-deuda-biva-mercado-pago-riesgos-fondeo",
       "source": "Expansion MX",
       "pub": "Tue, 29 Sep 2026 18:07:30 GMT"
-    },
-    {
-      "title": "México vs. Perú: hora del partido y dónde ver en vivo gratis la transmisión por televisión",
-      "link": "https://expansion.mx/tendencias/2026/09/29/mexico-vs-peru-donde-ver-en-vivo",
-      "source": "Expansion MX",
-      "pub": "Tue, 29 Sep 2026 17:41:12 GMT"
-    },
-    {
-      "title": "Spotify presenta fallas a nivel global este 29 de septiembre; usuarios no pueden iniciar sesión ni reproducir música",
-      "link": "https://expansion.mx/tecnologia/2026/09/29/spotify-falla-hoy-29-de-septiembre",
-      "source": "Expansion MX",
-      "pub": "Tue, 29 Sep 2026 17:38:55 GMT"
-    },
-    {
-      "title": "“Queremos asegurarnos de que sea seguro”: OpenAI retrasa su modelo de IA por preocupaciones internas",
-      "link": "https://expansion.mx/tecnologia/2026/09/29/openai-retrasa-ia-por-preocupaciones-seguridad",
-      "source": "Expansion MX",
-      "pub": "Tue, 29 Sep 2026 16:11:17 GMT"
     }
   ]
 }
