@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T02:21:27.899118+00:00",
+  "updated": "2026-09-30T08:42:15.120258+00:00",
   "colombia": [
     {
       "title": "Colombia’s child welfare institution faces criticism for omitting the word “girl”",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Clientes llevan un año sin sus joyas por la huelga del Monte de Piedad y reclaman: “No quiero perderlas”",
+      "link": "https://expansion.mx/economia/2026/09/29/clientes-atrapados-por-la-huelga-de-nacional-monte-de-piedad",
+      "source": "Expansion MX",
+      "pub": "Wed, 30 Sep 2026 00:55:10 GMT"
+    },
+    {
+      "title": "Reforma a la inversión extranjera llega al pleno del Senado entre críticas por sus filtros",
+      "link": "https://expansion.mx/economia/2026/09/29/reforma-inversion-extranjera-pleno-senado-criticas",
+      "source": "Expansion MX",
+      "pub": "Wed, 30 Sep 2026 00:02:21 GMT"
+    },
+    {
       "title": "México quiere emular a Brasil y masificar en un año los pagos digitales",
       "link": "https://expansion.mx/economia/2026/09/29/mexico-quiere-emular-a-brasil-y-masificar-en-un-ano-los-pagos-digitales",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/tendencias/2026/09/29/efemerides-octubre-mexico-conmemora-este-mes-2026",
       "source": "Expansion MX",
       "pub": "Tue, 29 Sep 2026 18:43:21 GMT"
-    },
-    {
-      "title": "La IA que trabaja aunque no estés: así son los nuevos Dots de OpenAI",
-      "link": "https://expansion.mx/tecnologia/2026/09/29/openai-dots-agentes-ia-gpt-6-astra",
-      "source": "Expansion MX",
-      "pub": "Tue, 29 Sep 2026 18:33:28 GMT"
-    },
-    {
-      "title": "Mercado Libre emite deuda en BIVA ante riesgos de fondeo señalados por Moody’s",
-      "link": "https://expansion.mx/mercados/2026/09/29/mercado-libre-deuda-biva-mercado-pago-riesgos-fondeo",
-      "source": "Expansion MX",
-      "pub": "Tue, 29 Sep 2026 18:07:30 GMT"
     }
   ]
 }
