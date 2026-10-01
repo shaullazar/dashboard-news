@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T23:40:12.505416+00:00",
+  "updated": "2026-10-01T02:23:31.153884+00:00",
   "colombia": [
     {
       "title": "Colombia’s child welfare institution faces criticism for omitting the word “girl”",
@@ -64,42 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "La inflación superaría 4% sin apoyos fiscales a gasolinas y diésel, asegura el secretario de Hacienda",
-      "link": "https://expansion.mx/economia/2026/09/30/comparecencia-shcp-edgar-amador-zamora",
-      "source": "Expansion MX",
-      "pub": "Wed, 30 Sep 2026 19:35:04 GMT"
-    },
-    {
-      "title": "México vive un boom exportador, pero no todos los estados son ganadores",
-      "link": "https://expansion.mx/economia/2026/09/30/boom-exportador-mexico-estados-exportaciones-2026",
-      "source": "Expansion MX",
-      "pub": "Wed, 30 Sep 2026 19:14:41 GMT"
-    },
-    {
-      "title": "El nuevo CLA 2027 de Mercedes-Benz llega con versiones híbrida y eléctrica",
-      "link": "https://expansion.mx/tendencias/2026/09/30/el-nuevo-cla-2027-de-mercedes-benz-llega-con-versiones-hibrida-y-electrica",
-      "source": "Expansion MX",
-      "pub": "Wed, 30 Sep 2026 19:12:11 GMT"
-    },
-    {
-      "title": "Tu iPhone se puede convertir en cazador de ofertas automático, así activas la configuración de Apple",
-      "link": "https://expansion.mx/tecnologia/2026/09/30/iphone-cazador-de-ofertas-automatico",
-      "source": "Expansion MX",
-      "pub": "Wed, 30 Sep 2026 18:42:41 GMT"
-    },
-    {
-      "title": "¿De qué era empresario Jorge Kahwagi? De medios de comunicación hasta negocios de salud y verificentros",
-      "link": "https://expansion.mx/empresas/2026/09/30/jorge-kahwagi-empresas-cargos-carrera-empresarial",
-      "source": "Expansion MX",
-      "pub": "Wed, 30 Sep 2026 18:16:32 GMT"
-    },
-    {
-      "title": "John Ternus prepara una revolución en la estrategia de Apple y este es su plan",
-      "link": "https://expansion.mx/tecnologia/2026/09/30/john-ternus-prepara-una-revolucion-en-apple",
-      "source": "Expansion MX",
-      "pub": "Wed, 30 Sep 2026 16:30:39 GMT"
-    },
-    {
       "title": "Trump reúne a Google, Nvidia y Anthropic para fijar reglas a la IA, pero el pacto tiene una grieta",
       "link": "https://expansion.mx/tecnologia/2026/09/30/trump-fija-reglas-a-la-ia-pero-pacto-tiene-grieta",
       "source": "Expansion MX",
@@ -122,6 +86,42 @@
       "link": "https://expansion.mx/economia/2026/09/29/clientes-atrapados-por-la-huelga-de-nacional-monte-de-piedad",
       "source": "Expansion MX",
       "pub": "Wed, 30 Sep 2026 00:55:10 GMT"
+    },
+    {
+      "title": "Reforma a la inversión extranjera llega al pleno del Senado entre críticas por sus filtros",
+      "link": "https://expansion.mx/economia/2026/09/29/reforma-inversion-extranjera-pleno-senado-criticas",
+      "source": "Expansion MX",
+      "pub": "Wed, 30 Sep 2026 00:02:21 GMT"
+    },
+    {
+      "title": "México quiere emular a Brasil y masificar en un año los pagos digitales",
+      "link": "https://expansion.mx/economia/2026/09/29/mexico-quiere-emular-a-brasil-y-masificar-en-un-ano-los-pagos-digitales",
+      "source": "Expansion MX",
+      "pub": "Tue, 29 Sep 2026 23:07:32 GMT"
+    },
+    {
+      "title": "¿Pagarás impuestos al SAT por pagos digitales? Esto es lo que debes saber de la iniciativa de Ley",
+      "link": "https://expansion.mx/finanzas-personales/2026/09/29/pagaras-impuestos-extra-tarjeta-debito",
+      "source": "Expansion MX",
+      "pub": "Tue, 29 Sep 2026 22:21:48 GMT"
+    },
+    {
+      "title": "Nu México nombra a Estephany Paulette Ley como CEO",
+      "link": "https://expansion.mx/economia/2026/09/29/nu-mexico-nombra-a-estephany-paulette-ley-como-ceo",
+      "source": "Expansion MX",
+      "pub": "Tue, 29 Sep 2026 22:15:09 GMT"
+    },
+    {
+      "title": "Trump toma el control de la IA y firma acuerdo “moralmente vinculante” para no ralentizar su desarrollo",
+      "link": "https://expansion.mx/tecnologia/2026/09/29/trump-acuerdo-lideres-ia-autorregulacion-desarrollo",
+      "source": "Expansion MX",
+      "pub": "Tue, 29 Sep 2026 22:11:04 GMT"
+    },
+    {
+      "title": "Peso borra ganancias de 2026; tipo de cambio rompe barrera de 18 unidades por dólar",
+      "link": "https://expansion.mx/mercados/2026/09/29/peso-mexicano-borra-ganancia-2026-cotiza-cerca-18-14-dolar",
+      "source": "Expansion MX",
+      "pub": "Tue, 29 Sep 2026 21:16:13 GMT"
     }
   ]
 }
