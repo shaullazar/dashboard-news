@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T09:06:30.846208+00:00",
+  "updated": "2026-10-01T16:20:03.333791+00:00",
   "colombia": [
     {
       "title": "Colombia’s child welfare institution faces criticism for omitting the word “girl”",
@@ -64,6 +64,36 @@
   ],
   "mexico": [
     {
+      "title": "Liderazgo educativo desde el Tec de Monterrey",
+      "link": "https://expansion.mx/carrera/2026/10/01/liderazgo-educativo-desde-tec-monterrey",
+      "source": "Expansion MX",
+      "pub": "Thu, 01 Oct 2026 16:00:23 GMT"
+    },
+    {
+      "title": "Tu forma de viajar está a punto de cambiar",
+      "link": "https://expansion.mx/bespoke-ad/2026/10/01/tu-forma-de-viajar-esta-a-punto-de-cambiar",
+      "source": "Expansion MX",
+      "pub": "Thu, 01 Oct 2026 15:08:51 GMT"
+    },
+    {
+      "title": "La última milla del nearshoring: mover el capital entre fronteras",
+      "link": "https://expansion.mx/opinion/2026/10/01/la-ultima-milla-del-nearshoring-mover-el-capital-entre-fronteras",
+      "source": "Expansion MX",
+      "pub": "Thu, 01 Oct 2026 12:03:21 GMT"
+    },
+    {
+      "title": "Usuarios abandonan el seguro de gastos médicos y buscan atención en el servicio público de salud",
+      "link": "https://expansion.mx/economia/2026/10/01/usuarios-abandonan-el-seguro-de-gastos-medicos-y-buscan-atencion-en-el-servicio-publico-de-salud",
+      "source": "Expansion MX",
+      "pub": "Thu, 01 Oct 2026 11:55:17 GMT"
+    },
+    {
+      "title": "Cancún y Veracruz se posicionan para atraer data centers, si logran superar la barrera del suministro eléctrico",
+      "link": "https://expansion.mx/tecnologia/2026/10/01/mexico-centros-datos-cancun-veracruz-cables-submarinos",
+      "source": "Expansion MX",
+      "pub": "Thu, 01 Oct 2026 11:55:03 GMT"
+    },
+    {
       "title": "Sofipos quieren el mercado de pagos que todavía domina el efectivo",
       "link": "https://expansion.mx/economia/2026/09/30/sofipos-van-mercado-pagos-todavia-domina-efectivo",
       "source": "Expansion MX",
@@ -92,30 +122,6 @@
       "link": "https://expansion.mx/economia/2026/09/30/isr-cae-tercera-vez-reporta-menor-nivel-desde-2021",
       "source": "Expansion MX",
       "pub": "Thu, 01 Oct 2026 00:07:58 GMT"
-    },
-    {
-      "title": "México lleva al G20 dos frentes de tensión: presión sobre el acero y coerción en alimentos",
-      "link": "https://expansion.mx/economia/2026/09/30/mexico-g20-tension-acero-alimentos-ebrard",
-      "source": "Expansion MX",
-      "pub": "Wed, 30 Sep 2026 23:47:18 GMT"
-    },
-    {
-      "title": "¿Cansado del clutch? Estos hatchback, sedanes y SUV automáticos son los más accesibles en México",
-      "link": "https://expansion.mx/empresas/2026/09/30/hatchback-sedanes-y-suv-automaticos-mas-accesibles-de-mexico",
-      "source": "Expansion MX",
-      "pub": "Wed, 30 Sep 2026 23:09:57 GMT"
-    },
-    {
-      "title": "La nueva Mazda CX-90 PHEV llega a México con tecnología híbrida enchufable",
-      "link": "https://expansion.mx/tendencias/2026/09/30/la-nueva-mazda-cx-90-phev-llega-a-mexico-con-tecnologia-hibrida-enchufable",
-      "source": "Expansion MX",
-      "pub": "Wed, 30 Sep 2026 22:50:35 GMT"
-    },
-    {
-      "title": "México tiene DiMo y CoDi; Perú apuesta por Bim y un modelo que podría cambiar los pagos digitales",
-      "link": "https://expansion.mx/economia/2026/09/30/mexico-tiene-codi-peru-compartamos-banco-apuesta-bim",
-      "source": "Expansion MX",
-      "pub": "Wed, 30 Sep 2026 22:12:07 GMT"
     }
   ]
 }
