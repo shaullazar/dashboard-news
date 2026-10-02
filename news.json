@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T21:05:31.452319+00:00",
+  "updated": "2026-10-02T00:40:41.895171+00:00",
   "colombia": [
     {
       "title": "Colombia’s child welfare institution faces criticism for omitting the word “girl”",
@@ -64,6 +64,24 @@
   ],
   "mexico": [
     {
+      "title": "Messi adquiere el CD Eldense: qué negocios tiene fuera del fútbol y cómo los hizo crecer",
+      "link": "https://expansion.mx/tendencias/2026/10/01/messi-adquiere-cd-eldense-negocios-tiene-fuera-del-futbol",
+      "source": "Expansion MX",
+      "pub": "Thu, 01 Oct 2026 22:26:13 GMT"
+    },
+    {
+      "title": "Diputados aplican cambios contra el huachicol fiscal y aprueban en Comisión la reforma a Ley Aduanera",
+      "link": "https://expansion.mx/economia/2026/10/01/diputados-reforma-ley-aduanera-contra-huachicol-fiscal",
+      "source": "Expansion MX",
+      "pub": "Thu, 01 Oct 2026 22:23:13 GMT"
+    },
+    {
+      "title": "Así puedes convertir tu celular Android o iOS en una tarjeta para pagar sin efectivo",
+      "link": "https://expansion.mx/tecnologia/2026/10/01/como-pagar-con-celular-sin-tarjeta",
+      "source": "Expansion MX",
+      "pub": "Thu, 01 Oct 2026 21:11:00 GMT"
+    },
+    {
       "title": "Christa Pike recibió dos inyecciones letales, sobrevivió y su fallida ejecución reavivó el debate sobre la pena",
       "link": "https://expansion.mx/mundo/2026/10/01/christa-pike-sobrevive-ejecucion-inyecciones-tennessee",
       "source": "Expansion MX",
@@ -104,24 +122,6 @@
       "link": "https://expansion.mx/carrera/2026/10/01/liderazgo-educativo-desde-tec-monterrey",
       "source": "Expansion MX",
       "pub": "Thu, 01 Oct 2026 16:00:23 GMT"
-    },
-    {
-      "title": "La última milla del nearshoring: mover el capital entre fronteras",
-      "link": "https://expansion.mx/opinion/2026/10/01/la-ultima-milla-del-nearshoring-mover-el-capital-entre-fronteras",
-      "source": "Expansion MX",
-      "pub": "Thu, 01 Oct 2026 12:03:21 GMT"
-    },
-    {
-      "title": "Cancún y Veracruz se posicionan para atraer data centers, si logran superar la barrera del suministro eléctrico",
-      "link": "https://expansion.mx/tecnologia/2026/10/01/mexico-centros-datos-cancun-veracruz-cables-submarinos",
-      "source": "Expansion MX",
-      "pub": "Thu, 01 Oct 2026 11:55:03 GMT"
-    },
-    {
-      "title": "Sofipos quieren el mercado de pagos que todavía domina el efectivo",
-      "link": "https://expansion.mx/economia/2026/09/30/sofipos-van-mercado-pagos-todavia-domina-efectivo",
-      "source": "Expansion MX",
-      "pub": "Thu, 01 Oct 2026 02:48:43 GMT"
     }
   ]
 }
