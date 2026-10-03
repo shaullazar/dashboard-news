@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T14:52:36.441717+00:00",
+  "updated": "2026-10-03T18:20:11.474503+00:00",
   "colombia": [
     {
       "title": "Activists gather in Medellín to support abortion rights on global action day",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "El Brasil que viene: mercados, inversiones y nuevas alianzas",
+      "link": "https://expansion.mx/opinion/2026/10/03/brasil-viene-mercados-inversiones-nuevas-alianzas",
+      "source": "Expansion MX",
+      "pub": "Sat, 03 Oct 2026 16:56:33 GMT"
+    },
+    {
+      "title": "Starbucks suma 57,200 coleccionables de Día de Muertos a la disputa por clientes con Tim Hortons",
+      "link": "https://expansion.mx/mercadotecnia/2026/10/03/starbucks-dia-muertos-coleccion-2026",
+      "source": "Expansion MX",
+      "pub": "Sat, 03 Oct 2026 16:00:59 GMT"
+    },
+    {
       "title": "¿Quién es el dueño de Parque Tepeyac, la plaza con acuario, y quiénes son las personas de las estatuas en lo alto?",
       "link": "https://expansion.mx/empresas/2026/10/02/quien-es-el-dueno-de-parque-tepeyac-y-sus-estatuas",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/tecnologia/2026/10/02/huawei-mate-padair-competencia-del-ipad-apple",
       "source": "Expansion MX",
       "pub": "Fri, 02 Oct 2026 21:00:32 GMT"
-    },
-    {
-      "title": "FMI urge a México a reducir la deuda y recuerda a Banxico que la meta de inflación es 3%",
-      "link": "https://expansion.mx/economia/2026/10/02/fmi-mexico-ajuste-fiscal-inflacion-banxico",
-      "source": "Expansion MX",
-      "pub": "Fri, 02 Oct 2026 20:59:15 GMT"
-    },
-    {
-      "title": "Mazda México celebra su primer millón de autos vendidos",
-      "link": "https://expansion.mx/tendencias/2026/10/02/mazda-mexico-celebra-su-primer-millon-de-autos-vendidos",
-      "source": "Expansion MX",
-      "pub": "Fri, 02 Oct 2026 20:15:59 GMT"
     }
   ]
 }
