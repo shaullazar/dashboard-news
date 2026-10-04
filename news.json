@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T18:38:31.834038+00:00",
+  "updated": "2026-10-04T21:53:41.017390+00:00",
   "colombia": [
     {
       "title": "Activists gather in Medellín to support abortion rights on global action day",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Trump pone a su jefe de inteligencia al frente de la nueva fuerza para controlar la IA en Estados Unidos",
+      "link": "https://expansion.mx/mundo/2026/10/04/trump-crea-fuerza-para-controlar-riesgos-de-la-ia",
+      "source": "Expansion MX",
+      "pub": "Sun, 04 Oct 2026 17:50:27 GMT"
+    },
+    {
+      "title": "Elecciones Brasil: Lula da Silva vs. Flávio Bolsonaro, entre la izquierda y el giro hacia la derecha de Trump",
+      "link": "https://expansion.mx/mundo/2026/10/04/elecciones-brasil-lula-flavio-bolsonaro-2026",
+      "source": "Expansion MX",
+      "pub": "Sun, 04 Oct 2026 16:58:44 GMT"
+    },
+    {
       "title": "Slim, Fernández Carbajal y Servitje, entre los empresarios que más empleos generan",
       "link": "https://expansion.mx/empresas/2026/10/03/slim-fernandez-carbajal-y-servitje-empleos-generan",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/economia/2026/10/02/banxico-cierre-programa-directo-a-mexico",
       "source": "Expansion MX",
       "pub": "Sat, 03 Oct 2026 00:13:58 GMT"
-    },
-    {
-      "title": "Bancos en México refuerzan prevención de lavado de dinero ante mayores exigencias de EU en combate a cárteles",
-      "link": "https://expansion.mx/economia/2026/10/02/bancos-en-mexico-refuerzan-prevencion-de-lavado-de-dinero-ante-mayores-exigencias-de-eu-en-combate-a-carteles",
-      "source": "Expansion MX",
-      "pub": "Sat, 03 Oct 2026 00:00:32 GMT"
-    },
-    {
-      "title": "El diésel inicia octubre sin IEPS, mientras Hacienda reporta caídas en su recaudación",
-      "link": "https://expansion.mx/economia/2026/10/02/diesel-gasolinas-ieps-hacienda-cae-recaudacion",
-      "source": "Expansion MX",
-      "pub": "Fri, 02 Oct 2026 23:34:53 GMT"
     }
   ]
 }
