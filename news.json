@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T03:33:00.023144+00:00",
+  "updated": "2026-10-04T10:02:33.267936+00:00",
   "colombia": [
     {
       "title": "Activists gather in Medellín to support abortion rights on global action day",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Slim, Fernández Carbajal y Servitje, entre los empresarios que más empleos generan",
+      "link": "https://expansion.mx/empresas/2026/10/03/slim-fernandez-carbajal-y-servitje-empleos-generan",
+      "source": "Expansion MX",
+      "pub": "Sat, 03 Oct 2026 23:27:44 GMT"
+    },
+    {
       "title": "México vs. Estados Unidos: así está el marcador económico entre los dos países",
       "link": "https://expansion.mx/economia/2026/10/03/mexico-vs-estados-unidos-marcador-economico",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/economia/2026/10/02/diesel-gasolinas-ieps-hacienda-cae-recaudacion",
       "source": "Expansion MX",
       "pub": "Fri, 02 Oct 2026 23:34:53 GMT"
-    },
-    {
-      "title": "OXIO tiene seis meses para cerrar la compra de Telefónica y quedarse con los 21 millones de usuarios de Movistar",
-      "link": "https://expansion.mx/empresas/2026/10/02/oxio-6-meses-concretar-compra-movistar-usuarios",
-      "source": "Expansion MX",
-      "pub": "Fri, 02 Oct 2026 22:56:36 GMT"
     }
   ]
 }
