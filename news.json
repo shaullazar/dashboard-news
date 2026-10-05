@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T21:53:41.017390+00:00",
+  "updated": "2026-10-05T00:14:36.729050+00:00",
   "colombia": [
     {
       "title": "Activists gather in Medellín to support abortion rights on global action day",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Así es como algunas tienditas ya generan 14,500 pesos al mes por aceptar pagos con tarjeta",
+      "link": "https://expansion.mx/economia/2026/10/04/tienditas-generan-14-mil-pesos-mes-aceptar-metodo-de-pago",
+      "source": "Expansion MX",
+      "pub": "Sun, 04 Oct 2026 21:10:21 GMT"
+    },
+    {
       "title": "Trump pone a su jefe de inteligencia al frente de la nueva fuerza para controlar la IA en Estados Unidos",
       "link": "https://expansion.mx/mundo/2026/10/04/trump-crea-fuerza-para-controlar-riesgos-de-la-ia",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/10/02/quien-es-el-dueno-de-parque-tepeyac-y-sus-estatuas",
       "source": "Expansion MX",
       "pub": "Sat, 03 Oct 2026 00:17:27 GMT"
-    },
-    {
-      "title": "Banxico cierra el programa de envío de remesas \"Directo a México\"; garantiza operaciones ordenadas",
-      "link": "https://expansion.mx/economia/2026/10/02/banxico-cierre-programa-directo-a-mexico",
-      "source": "Expansion MX",
-      "pub": "Sat, 03 Oct 2026 00:13:58 GMT"
     }
   ]
 }
