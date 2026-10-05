@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T05:39:54.636123+00:00",
+  "updated": "2026-10-05T12:36:15.563470+00:00",
   "colombia": [
     {
       "title": "Activists gather in Medellín to support abortion rights on global action day",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Flávio Bolsonaro sorprende, supera a Lula y ambos disputarán la Presidencia de Brasil en segunda vuelta",
+      "link": "https://expansion.mx/mundo/2026/10/04/flavio-bolsonaro-supera-a-lula-van-a-segunda-vuelta",
+      "source": "Expansion MX",
+      "pub": "Mon, 05 Oct 2026 00:35:44 GMT"
+    },
+    {
       "title": "Así es como algunas tienditas ya generan 14,500 pesos al mes por aceptar pagos con tarjeta",
       "link": "https://expansion.mx/economia/2026/10/04/tienditas-generan-14-mil-pesos-mes-aceptar-metodo-de-pago",
       "source": "Expansion MX",
@@ -74,12 +80,6 @@
       "link": "https://expansion.mx/mundo/2026/10/04/trump-crea-fuerza-para-controlar-riesgos-de-la-ia",
       "source": "Expansion MX",
       "pub": "Sun, 04 Oct 2026 17:50:27 GMT"
-    },
-    {
-      "title": "Elecciones Brasil: Lula da Silva vs. Flávio Bolsonaro, entre la izquierda y el giro hacia la derecha de Trump",
-      "link": "https://expansion.mx/mundo/2026/10/04/elecciones-brasil-lula-flavio-bolsonaro-2026",
-      "source": "Expansion MX",
-      "pub": "Sun, 04 Oct 2026 16:58:44 GMT"
     },
     {
       "title": "Slim, Fernández Carbajal y Servitje, entre los empresarios que más empleos generan",
@@ -110,18 +110,6 @@
       "link": "https://expansion.mx/opinion/2026/10/03/brasil-viene-mercados-inversiones-nuevas-alianzas",
       "source": "Expansion MX",
       "pub": "Sat, 03 Oct 2026 16:56:33 GMT"
-    },
-    {
-      "title": "Starbucks suma 57,200 coleccionables de Día de Muertos a la disputa por clientes con Tim Hortons",
-      "link": "https://expansion.mx/mercadotecnia/2026/10/03/starbucks-dia-muertos-coleccion-2026",
-      "source": "Expansion MX",
-      "pub": "Sat, 03 Oct 2026 16:00:59 GMT"
-    },
-    {
-      "title": "¿Quién es el dueño de Parque Tepeyac, la plaza con acuario, y quiénes son las personas de las estatuas en lo alto?",
-      "link": "https://expansion.mx/empresas/2026/10/02/quien-es-el-dueno-de-parque-tepeyac-y-sus-estatuas",
-      "source": "Expansion MX",
-      "pub": "Sat, 03 Oct 2026 00:17:27 GMT"
     }
   ]
 }
