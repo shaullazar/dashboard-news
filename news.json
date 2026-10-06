@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T07:47:26.724941+00:00",
+  "updated": "2026-10-06T14:29:19.536948+00:00",
   "colombia": [
     {
       "title": "Activists gather in Medellín to support abortion rights on global action day",
@@ -64,52 +64,58 @@
   ],
   "mexico": [
     {
-      "title": "Inteligencia artificial para transformar la atención de siniestros en México",
-      "link": "https://expansion.mx/opinion/2026/10/05/inteligencia-artificial-para-transformar-la-atencion-de-siniestros-en-mexico",
+      "title": "Nuestra próxima tasa de interés podría decidirla un algoritmo",
+      "link": "https://expansion.mx/opinion/2026/10/06/nuestra-proxima-tasa-de-interes-podria-decidirla-un-algoritmo",
       "source": "Expansion MX",
-      "pub": "Mon, 05 Oct 2026 12:04:03 GMT"
+      "pub": "Tue, 06 Oct 2026 11:59:45 GMT"
     },
     {
-      "title": "El Buen Fin empieza mucho antes de noviembre",
-      "link": "https://expansion.mx/opinion/2026/10/05/el-buen-fin-empieza-mucho-antes-de-noviembre",
+      "title": "La manufactura frente a una demanda que ya no espera",
+      "link": "https://expansion.mx/opinion/2026/10/06/la-manufactura-frente-a-una-demanda-que-ya-no-espera",
       "source": "Expansion MX",
-      "pub": "Mon, 05 Oct 2026 11:59:26 GMT"
+      "pub": "Tue, 06 Oct 2026 11:59:23 GMT"
     },
     {
-      "title": "EU ve avances modestos en el Plan México y rezagos en inversión y productividad",
-      "link": "https://expansion.mx/economia/2026/10/05/plan-mexico-evaluacion-eu-departamento-estado",
+      "title": "El efectivo vuelve invisible a las pymes y les cierra la puerta al crédito",
+      "link": "https://expansion.mx/economia/2026/10/06/pagos-digitales-efectivo-pymes-credito-mexico",
       "source": "Expansion MX",
-      "pub": "Mon, 05 Oct 2026 11:55:51 GMT"
+      "pub": "Tue, 06 Oct 2026 11:55:17 GMT"
     },
     {
-      "title": "Restringir exportaciones de diésel a México sería un ‘balazo en el pie’ para EU",
-      "link": "https://expansion.mx/empresas/2026/10/05/restringir-diesel-a-mexico-balazo-en-el-pie-estados-unidos",
+      "title": "La IA da consulta antes que el doctor y gana terreno ante el alto costo de la atención médica",
+      "link": "https://expansion.mx/tecnologia/2026/10/06/ia-consultar-sintomas-riesgos-antes-de-ir-al-medico",
       "source": "Expansion MX",
-      "pub": "Mon, 05 Oct 2026 11:55:13 GMT"
+      "pub": "Tue, 06 Oct 2026 11:55:01 GMT"
     },
     {
-      "title": "Flávio Bolsonaro sorprende, supera a Lula y ambos disputarán la Presidencia de Brasil en segunda vuelta",
-      "link": "https://expansion.mx/mundo/2026/10/04/flavio-bolsonaro-supera-a-lula-van-a-segunda-vuelta",
+      "title": "Banco de México destaca respaldo del FMI y descarta alarma por depreciación del peso",
+      "link": "https://expansion.mx/economia/2026/10/05/omar-mejia-banxico-fmi-inflacion-2028",
       "source": "Expansion MX",
-      "pub": "Mon, 05 Oct 2026 00:35:44 GMT"
+      "pub": "Tue, 06 Oct 2026 03:25:59 GMT"
     },
     {
-      "title": "Así es como algunas tienditas ya generan 14,500 pesos al mes por aceptar pagos con tarjeta",
-      "link": "https://expansion.mx/economia/2026/10/04/tienditas-generan-14-mil-pesos-mes-aceptar-metodo-de-pago",
+      "title": "El registro telefónico supera los 90 millones de líneas vinculadas",
+      "link": "https://expansion.mx/empresas/2026/10/05/registro-telefonico-supera-90-millones-lineas-vinculadas",
       "source": "Expansion MX",
-      "pub": "Sun, 04 Oct 2026 21:10:21 GMT"
+      "pub": "Tue, 06 Oct 2026 03:00:36 GMT"
     },
     {
-      "title": "Trump pone a su jefe de inteligencia al frente de la nueva fuerza para controlar la IA en Estados Unidos",
-      "link": "https://expansion.mx/mundo/2026/10/04/trump-crea-fuerza-para-controlar-riesgos-de-la-ia",
+      "title": "Convocatoria UNAM: fechas, costo del examen y requisitos para ingresar a licenciatura",
+      "link": "https://expansion.mx/carrera/2026/10/05/convocatoria-unam-fechas-costo-examen-requisitos-ingresar",
       "source": "Expansion MX",
-      "pub": "Sun, 04 Oct 2026 17:50:27 GMT"
+      "pub": "Tue, 06 Oct 2026 01:03:41 GMT"
     },
     {
-      "title": "Slim, Fernández Carbajal y Servitje, entre los empresarios que más empleos generan",
-      "link": "https://expansion.mx/empresas/2026/10/03/slim-fernandez-carbajal-y-servitje-empleos-generan",
+      "title": "Querétaro, Cancún y Los Cabos crecen, pero falta vivienda para sus trabajadores",
+      "link": "https://expansion.mx/economia/2026/10/05/queretaro-cancun-cabos-crecen-pero-falta-vivienda",
       "source": "Expansion MX",
-      "pub": "Sat, 03 Oct 2026 23:27:44 GMT"
+      "pub": "Tue, 06 Oct 2026 00:21:27 GMT"
+    },
+    {
+      "title": "Ganar el Nobel deja una fortuna: cuánto reciben y qué han hecho los ganadores con el dinero",
+      "link": "https://expansion.mx/tendencias/2026/10/05/premio-nobel-cuanto-dinero-reciben-ganadores-en-que-gastan",
+      "source": "Expansion MX",
+      "pub": "Tue, 06 Oct 2026 00:18:48 GMT"
     }
   ]
 }
