@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T12:36:15.563470+00:00",
+  "updated": "2026-10-06T01:27:24.111383+00:00",
   "colombia": [
     {
       "title": "Activists gather in Medellín to support abortion rights on global action day",
@@ -64,52 +64,58 @@
   ],
   "mexico": [
     {
-      "title": "Flávio Bolsonaro sorprende, supera a Lula y ambos disputarán la Presidencia de Brasil en segunda vuelta",
-      "link": "https://expansion.mx/mundo/2026/10/04/flavio-bolsonaro-supera-a-lula-van-a-segunda-vuelta",
+      "title": "Convocatoria UNAM: fechas, costo del examen y requisitos para ingresar a licenciatura",
+      "link": "https://expansion.mx/carrera/2026/10/05/convocatoria-unam-fechas-costo-examen-requisitos-ingresar",
       "source": "Expansion MX",
-      "pub": "Mon, 05 Oct 2026 00:35:44 GMT"
+      "pub": "Tue, 06 Oct 2026 01:03:41 GMT"
     },
     {
-      "title": "Así es como algunas tienditas ya generan 14,500 pesos al mes por aceptar pagos con tarjeta",
-      "link": "https://expansion.mx/economia/2026/10/04/tienditas-generan-14-mil-pesos-mes-aceptar-metodo-de-pago",
+      "title": "Querétaro, Cancún y Los Cabos crecen, pero falta vivienda para sus trabajadores",
+      "link": "https://expansion.mx/economia/2026/10/05/queretaro-cancun-cabos-crecen-pero-falta-vivienda",
       "source": "Expansion MX",
-      "pub": "Sun, 04 Oct 2026 21:10:21 GMT"
+      "pub": "Tue, 06 Oct 2026 00:21:27 GMT"
     },
     {
-      "title": "Trump pone a su jefe de inteligencia al frente de la nueva fuerza para controlar la IA en Estados Unidos",
-      "link": "https://expansion.mx/mundo/2026/10/04/trump-crea-fuerza-para-controlar-riesgos-de-la-ia",
+      "title": "Ganar el Nobel deja una fortuna: cuánto reciben y qué han hecho los ganadores con el dinero",
+      "link": "https://expansion.mx/tendencias/2026/10/05/premio-nobel-cuanto-dinero-reciben-ganadores-en-que-gastan",
       "source": "Expansion MX",
-      "pub": "Sun, 04 Oct 2026 17:50:27 GMT"
+      "pub": "Tue, 06 Oct 2026 00:18:48 GMT"
     },
     {
-      "title": "Slim, Fernández Carbajal y Servitje, entre los empresarios que más empleos generan",
-      "link": "https://expansion.mx/empresas/2026/10/03/slim-fernandez-carbajal-y-servitje-empleos-generan",
+      "title": "¿Qué sabemos de la muerte de una trabajadora por neumonía en Siberia?",
+      "link": "https://expansion.mx/mundo/2026/10/05/muerte-trabajadora-neumonia-siberia-rusia",
       "source": "Expansion MX",
-      "pub": "Sat, 03 Oct 2026 23:27:44 GMT"
+      "pub": "Mon, 05 Oct 2026 22:52:15 GMT"
     },
     {
-      "title": "México vs. Estados Unidos: así está el marcador económico entre los dos países",
-      "link": "https://expansion.mx/economia/2026/10/03/mexico-vs-estados-unidos-marcador-economico",
+      "title": "Carlos Slim tiene el estacionamiento más grande de México: le gana al AICM, Estadio Azteca y Centro Santa Fe",
+      "link": "https://expansion.mx/empresas/2026/10/05/carlos-slim-estacionamiento-mas-grande-de-mexico",
       "source": "Expansion MX",
-      "pub": "Sat, 03 Oct 2026 21:06:53 GMT"
+      "pub": "Mon, 05 Oct 2026 22:24:03 GMT"
     },
     {
-      "title": "Un avión desaparece frente a la costa este de Estados Unidos",
-      "link": "https://expansion.mx/mundo/2026/10/03/avion-desaparece-viaje-bermudas-boston",
+      "title": "March y Kwid no son los únicos: estos autos nuevos cuestan menos de 300,000 pesos",
+      "link": "https://expansion.mx/empresas/2026/10/05/auto-nuevos-por-menos-de-300-000-pesos",
       "source": "Expansion MX",
-      "pub": "Sat, 03 Oct 2026 19:19:08 GMT"
+      "pub": "Mon, 05 Oct 2026 22:14:55 GMT"
     },
     {
-      "title": "Lula da Silva y Flávio Bolsonaro se preparan para las elecciones en Brasil",
-      "link": "https://expansion.mx/mundo/2026/10/03/lula-da-silva-y-flavio-bolsonaro-preparan-elecciones-brasil",
+      "title": "¿Qué empresas serán las más afectadas por la jornada de 40 horas y por qué tendrán que cambiar?",
+      "link": "https://expansion.mx/empresas/2026/10/05/jornada-40-horas-estrategia-empresas-cambios",
       "source": "Expansion MX",
-      "pub": "Sat, 03 Oct 2026 18:09:25 GMT"
+      "pub": "Mon, 05 Oct 2026 21:48:29 GMT"
     },
     {
-      "title": "El Brasil que viene: mercados, inversiones y nuevas alianzas",
-      "link": "https://expansion.mx/opinion/2026/10/03/brasil-viene-mercados-inversiones-nuevas-alianzas",
+      "title": "Plan México incentiva a la farmacéutica Adium a expandir capacidad industrial e investigación local",
+      "link": "https://expansion.mx/empresas/2026/10/05/asofarma-adium-investigacion-produccion-mexico",
       "source": "Expansion MX",
-      "pub": "Sat, 03 Oct 2026 16:56:33 GMT"
+      "pub": "Mon, 05 Oct 2026 21:10:52 GMT"
+    },
+    {
+      "title": "Nafin quiere apoyar a más MiPymes y coloca 9,750 mdp como parte del Plan México",
+      "link": "https://expansion.mx/economia/2026/10/05/nafin-quiere-apoyar-a-mas-mipymes-y-coloca-9-750-mdp-como-parte-del-plan-mexico",
+      "source": "Expansion MX",
+      "pub": "Mon, 05 Oct 2026 20:18:45 GMT"
     }
   ]
 }
