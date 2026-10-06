@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T14:29:19.536948+00:00",
+  "updated": "2026-10-06T19:42:40.889657+00:00",
   "colombia": [
     {
       "title": "Activists gather in Medellín to support abortion rights on global action day",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "El peso mexicano se recupera y regresa a 17.95 por dólar; petróleo y bonos dan un respiro",
+      "link": "https://expansion.mx/mercados/2026/10/06/peso-mexicano-baja-17-95-dolar-06-octubre-2026",
+      "source": "Expansion MX",
+      "pub": "Tue, 06 Oct 2026 16:03:53 GMT"
+    },
+    {
+      "title": "Paramount y Warner Bros. ya son una sola empresa",
+      "link": "https://expansion.mx/tecnologia/2026/10/06/paramount-compra-warner-bros-nuevo-gigante-hollywood",
+      "source": "Expansion MX",
+      "pub": "Tue, 06 Oct 2026 16:00:29 GMT"
+    },
+    {
+      "title": "¿El SAT te debe dinero? La SCJN pone un límite a los intereses que puedes reclamar tras años de espera",
+      "link": "https://expansion.mx/economia/2026/10/06/scjn-limita-intereses-que-puedes-cobrar-al-sat",
+      "source": "Expansion MX",
+      "pub": "Tue, 06 Oct 2026 15:11:55 GMT"
+    },
+    {
+      "title": "Desde la Antártida llega el Nobel de Física 2026: un enorme cubo de hielo captura a los mensajeros del universo",
+      "link": "https://expansion.mx/mundo/2026/10/06/nobel-fisica-francis-halzen-neutrinos-icecube",
+      "source": "Expansion MX",
+      "pub": "Tue, 06 Oct 2026 14:03:54 GMT"
+    },
+    {
       "title": "Nuestra próxima tasa de interés podría decidirla un algoritmo",
       "link": "https://expansion.mx/opinion/2026/10/06/nuestra-proxima-tasa-de-interes-podria-decidirla-un-algoritmo",
       "source": "Expansion MX",
@@ -98,24 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/10/05/registro-telefonico-supera-90-millones-lineas-vinculadas",
       "source": "Expansion MX",
       "pub": "Tue, 06 Oct 2026 03:00:36 GMT"
-    },
-    {
-      "title": "Convocatoria UNAM: fechas, costo del examen y requisitos para ingresar a licenciatura",
-      "link": "https://expansion.mx/carrera/2026/10/05/convocatoria-unam-fechas-costo-examen-requisitos-ingresar",
-      "source": "Expansion MX",
-      "pub": "Tue, 06 Oct 2026 01:03:41 GMT"
-    },
-    {
-      "title": "Querétaro, Cancún y Los Cabos crecen, pero falta vivienda para sus trabajadores",
-      "link": "https://expansion.mx/economia/2026/10/05/queretaro-cancun-cabos-crecen-pero-falta-vivienda",
-      "source": "Expansion MX",
-      "pub": "Tue, 06 Oct 2026 00:21:27 GMT"
-    },
-    {
-      "title": "Ganar el Nobel deja una fortuna: cuánto reciben y qué han hecho los ganadores con el dinero",
-      "link": "https://expansion.mx/tendencias/2026/10/05/premio-nobel-cuanto-dinero-reciben-ganadores-en-que-gastan",
-      "source": "Expansion MX",
-      "pub": "Tue, 06 Oct 2026 00:18:48 GMT"
     }
   ]
 }
