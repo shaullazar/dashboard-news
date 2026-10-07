@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T02:23:34.759461+00:00",
+  "updated": "2026-10-07T08:53:57.493377+00:00",
   "colombia": [
     {
       "title": "Dirty and flirty: Rock al Parque turns 30",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "La tasa más baja de Infonavit es de 3.69% y esta la única condición para acceder a ella",
+      "link": "https://expansion.mx/finanzas-personales/2026/10/06/tasa-baja-infonavit-unica-condicion-acceder-ella",
+      "source": "Expansion MX",
+      "pub": "Wed, 07 Oct 2026 01:45:53 GMT"
+    },
+    {
+      "title": "La CRT depurará 25 millones de líneas móviles y los chips gratis explican una parte del ajuste",
+      "link": "https://expansion.mx/empresas/2026/10/06/chip-gratis-deja-25-millones-lineas-desuso-registro",
+      "source": "Expansion MX",
+      "pub": "Wed, 07 Oct 2026 01:34:41 GMT"
+    },
+    {
+      "title": "Hay datos de tu iPhone que ni el gobierno de Estados Unidos puede ver y por qué odia que sea así",
+      "link": "https://expansion.mx/tecnologia/2026/10/06/iphone-protege-datos-que-ni-gobierno-eu-puede-ver",
+      "source": "Expansion MX",
+      "pub": "Wed, 07 Oct 2026 00:36:36 GMT"
+    },
+    {
+      "title": "El secretario de Hacienda descarta que la UIF investigue al empresario Amílcar Olán y a Andy López Beltrán",
+      "link": "https://expansion.mx/economia/2026/10/06/hacienda-niega-que-uif-investigue-amilcar-olan-andy-lopez",
+      "source": "Expansion MX",
+      "pub": "Wed, 07 Oct 2026 00:09:06 GMT"
+    },
+    {
       "title": "¿Qué sabemos de la muerte de una trabajadora por neumonía en Siberia?",
       "link": "https://expansion.mx/mundo/2026/10/06/que-paso-muerte-cientifica-rusa-laboratorio-investigacion-peste",
       "source": "Expansion MX",
@@ -98,30 +122,6 @@
       "link": "https://expansion.mx/tecnologia/2026/10/06/prime-day-2026-mejores-ofertas-y-promociones-bancarias",
       "source": "Expansion MX",
       "pub": "Tue, 06 Oct 2026 20:57:46 GMT"
-    },
-    {
-      "title": "Sin reforma fiscal, el SAT aumentó 776,000 millones la recaudación de impuestos, dice Hacienda",
-      "link": "https://expansion.mx/economia/2026/10/06/sin-reforma-fiscal-el-sat-aumento-776-000-millones-la-recaudacion-de-impuestos-dice-hacienda",
-      "source": "Expansion MX",
-      "pub": "Tue, 06 Oct 2026 19:48:07 GMT"
-    },
-    {
-      "title": "Primark llega a México y su modelo de tiendas será distinto al de Zara y H&M",
-      "link": "https://expansion.mx/empresas/2026/10/06/diferencia-tiendas-primark-zara-hm-mexico",
-      "source": "Expansion MX",
-      "pub": "Tue, 06 Oct 2026 19:25:12 GMT"
-    },
-    {
-      "title": "El nuevo hombre fuerte de Televisa supera a Azcárraga y entra al top 100 de los empresarios más importantes",
-      "link": "https://expansion.mx/empresas/2026/10/06/alfonso-de-angoitia-supera-a-emilio-azcarraga-en-ranking",
-      "source": "Expansion MX",
-      "pub": "Tue, 06 Oct 2026 19:15:27 GMT"
-    },
-    {
-      "title": "México envejeció en cinco años y la presión por pagar pensiones apenas comienza",
-      "link": "https://expansion.mx/economia/2026/09/26/mexico-envejecimiento-pensiones-gasto-publico",
-      "source": "Expansion MX",
-      "pub": "Tue, 06 Oct 2026 19:07:38 GMT"
     }
   ]
 }
