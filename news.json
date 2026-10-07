@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T23:14:43.956482+00:00",
+  "updated": "2026-10-07T02:23:34.759461+00:00",
   "colombia": [
     {
       "title": "Dirty and flirty: Rock al Parque turns 30",
@@ -64,6 +64,48 @@
   ],
   "mexico": [
     {
+      "title": "¿Qué sabemos de la muerte de una trabajadora por neumonía en Siberia?",
+      "link": "https://expansion.mx/mundo/2026/10/06/que-paso-muerte-cientifica-rusa-laboratorio-investigacion-peste",
+      "source": "Expansion MX",
+      "pub": "Tue, 06 Oct 2026 22:45:15 GMT"
+    },
+    {
+      "title": "¿Para qué sirve la \"S\" en la palanca de velocidades? El error que casi todos activan y cuándo te conviene usarlo",
+      "link": "https://expansion.mx/tendencias/2026/10/06/significado-letra-s-en-palanca-carro-automaticos",
+      "source": "Expansion MX",
+      "pub": "Tue, 06 Oct 2026 22:35:52 GMT"
+    },
+    {
+      "title": "El registro telefónico supera los 90 millones de líneas vinculadas",
+      "link": "https://expansion.mx/empresas/2026/10/06/mas-de-50-lineas-celulares-ya-estan-registradas-numero-3",
+      "source": "Expansion MX",
+      "pub": "Tue, 06 Oct 2026 21:21:36 GMT"
+    },
+    {
+      "title": "Sanborns empezó como una farmacia en CDMX, Slim la compró en plena crisis y hoy es de las marcas más valiosas de México",
+      "link": "https://expansion.mx/empresas/2026/10/06/sanborns-historia-carlos-slim",
+      "source": "Expansion MX",
+      "pub": "Tue, 06 Oct 2026 21:08:53 GMT"
+    },
+    {
+      "title": "México cierra la puerta a inversiones de riesgo, pero el nuevo filtro de 49% deja rendijas",
+      "link": "https://expansion.mx/economia/2026/10/06/filtro-inversion-extranjera-mexico-huecos-49-por-ciento",
+      "source": "Expansion MX",
+      "pub": "Tue, 06 Oct 2026 21:06:39 GMT"
+    },
+    {
+      "title": "Prime Day 2026: las mejores ofertas y promociones bancarias para ahorrar durante el evento de Amazon",
+      "link": "https://expansion.mx/tecnologia/2026/10/06/prime-day-2026-mejores-ofertas-y-promociones-bancarias",
+      "source": "Expansion MX",
+      "pub": "Tue, 06 Oct 2026 20:57:46 GMT"
+    },
+    {
+      "title": "Sin reforma fiscal, el SAT aumentó 776,000 millones la recaudación de impuestos, dice Hacienda",
+      "link": "https://expansion.mx/economia/2026/10/06/sin-reforma-fiscal-el-sat-aumento-776-000-millones-la-recaudacion-de-impuestos-dice-hacienda",
+      "source": "Expansion MX",
+      "pub": "Tue, 06 Oct 2026 19:48:07 GMT"
+    },
+    {
       "title": "Primark llega a México y su modelo de tiendas será distinto al de Zara y H&M",
       "link": "https://expansion.mx/empresas/2026/10/06/diferencia-tiendas-primark-zara-hm-mexico",
       "source": "Expansion MX",
@@ -80,42 +122,6 @@
       "link": "https://expansion.mx/economia/2026/09/26/mexico-envejecimiento-pensiones-gasto-publico",
       "source": "Expansion MX",
       "pub": "Tue, 06 Oct 2026 19:07:38 GMT"
-    },
-    {
-      "title": "Amazon abre más de 11,000 empleos temporales en México para fin de año",
-      "link": "https://expansion.mx/tecnologia/2026/10/06/amazon-abre-11-000-empleos-temporales-mexico",
-      "source": "Expansion MX",
-      "pub": "Tue, 06 Oct 2026 17:30:02 GMT"
-    },
-    {
-      "title": "LuxuryLab Global marca las tendencias de la industria del lujo",
-      "link": "https://expansion.mx/tendencias/2026/10/06/luxurylab-global-marca-las-tendencias-de-la-industria-del-lujo",
-      "source": "Expansion MX",
-      "pub": "Tue, 06 Oct 2026 16:52:16 GMT"
-    },
-    {
-      "title": "México crecerá por debajo del promedio de América Latina en 2026, dice el Banco Mundial",
-      "link": "https://expansion.mx/economia/2026/10/06/el-salvador-paraguay-creceran-mas-mexico-2026-banco-mundial",
-      "source": "Expansion MX",
-      "pub": "Tue, 06 Oct 2026 16:29:34 GMT"
-    },
-    {
-      "title": "El peso mexicano se recupera y regresa a 17.95 por dólar; petróleo y bonos dan un respiro",
-      "link": "https://expansion.mx/mercados/2026/10/06/peso-mexicano-baja-17-95-dolar-06-octubre-2026",
-      "source": "Expansion MX",
-      "pub": "Tue, 06 Oct 2026 16:03:53 GMT"
-    },
-    {
-      "title": "Paramount y Warner Bros. ya son una sola empresa",
-      "link": "https://expansion.mx/tecnologia/2026/10/06/paramount-compra-warner-bros-nuevo-gigante-hollywood",
-      "source": "Expansion MX",
-      "pub": "Tue, 06 Oct 2026 16:00:29 GMT"
-    },
-    {
-      "title": "¿El SAT te debe dinero? La SCJN pone un límite a los intereses que puedes reclamar tras años de espera",
-      "link": "https://expansion.mx/economia/2026/10/06/scjn-limita-intereses-que-puedes-cobrar-al-sat",
-      "source": "Expansion MX",
-      "pub": "Tue, 06 Oct 2026 15:11:55 GMT"
     }
   ]
 }
