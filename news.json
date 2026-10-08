@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T19:27:20.970642+00:00",
+  "updated": "2026-10-08T23:49:48.835726+00:00",
   "colombia": [
     {
       "title": "Leadership centre named for assassinated senator Miguel Uribe Turbay holds first summit",
@@ -64,6 +64,42 @@
   ],
   "mexico": [
     {
+      "title": "Gemini falla este 8 de octubre y muestra el error 1099: qué significa y por qué aparece",
+      "link": "https://expansion.mx/tecnologia/2026/10/08/gemini-presenta-fallas-8-de-octubre-error-1099",
+      "source": "Expansion MX",
+      "pub": "Thu, 08 Oct 2026 17:05:39 GMT"
+    },
+    {
+      "title": "Dólar regresa a 18.20 pesos; moneda mexicana es afectada por petróleo y expectativas de la FED",
+      "link": "https://expansion.mx/mercados/2026/10/08/tipo-cambio-hoy-8-octubre-2026-18-pesos-dolar",
+      "source": "Expansion MX",
+      "pub": "Thu, 08 Oct 2026 16:40:32 GMT"
+    },
+    {
+      "title": "Mexicana revela cuándo será rentable, suma una nueva ruta y va por 20 aviones para alcanzar esa meta",
+      "link": "https://expansion.mx/empresas/2026/10/08/mexicana-busca-ser-rentable-en-2030-con-mas-aviones",
+      "source": "Expansion MX",
+      "pub": "Thu, 08 Oct 2026 15:23:48 GMT"
+    },
+    {
+      "title": "Tormenta perfecta para el petróleo; huracán, guerra y bajas reservas disparan su precio 5%",
+      "link": "https://expansion.mx/mercados/2026/10/08/petroleo-dispara-5-por-ciento-presiona-wall-street",
+      "source": "Expansion MX",
+      "pub": "Thu, 08 Oct 2026 15:14:32 GMT"
+    },
+    {
+      "title": "México, entre dos huracanes: Simón golpea el Pacífico e Isaias avanza por el Golfo; trayectoria y estados afectados",
+      "link": "https://expansion.mx/mexico/2026/10/08/mexico-dos-huracanes-simon-isaias-octubre-de-2026",
+      "source": "Expansion MX",
+      "pub": "Thu, 08 Oct 2026 14:17:26 GMT"
+    },
+    {
+      "title": "Jitomate, cebolla y gas LP impulsan la inflación en México a 3.45% en septiembre",
+      "link": "https://expansion.mx/economia/2026/10/08/inflacion-inegi-mexico-a-3-45-en-septiembre-2026",
+      "source": "Expansion MX",
+      "pub": "Thu, 08 Oct 2026 13:57:51 GMT"
+    },
+    {
       "title": "¿Quién es Anne Carson, la Nobel de Literatura 2026? Estas son las obras que la llevaron a ganar el premio",
       "link": "https://expansion.mx/mundo/2026/10/08/quien-es-anne-carson-la-nobel-de-literatura-2026-estas-son-las-obras-que-la-llevaron-a-ganar-el-premio",
       "source": "Expansion MX",
@@ -80,48 +116,6 @@
       "link": "https://expansion.mx/opinion/2026/10/08/una-semana-para-multiplicar-el-talento-stem-en-mexico",
       "source": "Expansion MX",
       "pub": "Thu, 08 Oct 2026 12:04:14 GMT"
-    },
-    {
-      "title": "El valor de cambiar de opinión",
-      "link": "https://expansion.mx/https:/obras.expansion.mx/opinion/2026/10/08/el-valor-de-cambiar-de-opinion",
-      "source": "Expansion MX",
-      "pub": "Thu, 08 Oct 2026 11:59:11 GMT"
-    },
-    {
-      "title": "Gmail bloquea 100 millones de intentos de phishing diarios: así detecta Google las amenazas",
-      "link": "https://expansion.mx/tecnologia/2026/10/08/google-trust-safety-phishing-ia-ciberseguridad",
-      "source": "Expansion MX",
-      "pub": "Thu, 08 Oct 2026 11:55:43 GMT"
-    },
-    {
-      "title": "Amigo GNL tiene permiso ambiental, pero dos suspensiones frenan sus obras",
-      "link": "https://expansion.mx/empresas/2026/10/08/amigo-gnl-permisos-suspensiones-proyecto-gas-guaymas-sonora",
-      "source": "Expansion MX",
-      "pub": "Thu, 08 Oct 2026 11:55:28 GMT"
-    },
-    {
-      "title": "El CCE advierte que cambios a deducciones pueden llevar a empresas a la quiebra",
-      "link": "https://expansion.mx/economia/2026/10/08/cce-advierte-riesgo-de-quiebra-ante-ajustes-de-deducciones",
-      "source": "Expansion MX",
-      "pub": "Thu, 08 Oct 2026 11:55:12 GMT"
-    },
-    {
-      "title": "Nissan lanza en México la Frontier PRO PHEV: hecha en China y por menos de 900,000 pesos",
-      "link": "https://expansion.mx/empresas/2026/10/07/nissan-frontier-pro-phev-precio-hecha-china",
-      "source": "Expansion MX",
-      "pub": "Thu, 08 Oct 2026 03:06:21 GMT"
-    },
-    {
-      "title": "¿Correos de México puede competir con DHL y Estafeta? Así están sus precios y tiempos de entrega",
-      "link": "https://expansion.mx/empresas/2026/10/07/correos-demexico-compite-dhl-estafeta-precios-tiemposentrega",
-      "source": "Expansion MX",
-      "pub": "Thu, 08 Oct 2026 01:44:34 GMT"
-    },
-    {
-      "title": "El auge de la IA choca con la guerra en el tablero del comercio mundial",
-      "link": "https://expansion.mx/economia/2026/10/07/ia-dispara-pronostico-omc-comercio-bienes-2026",
-      "source": "Expansion MX",
-      "pub": "Thu, 08 Oct 2026 00:54:09 GMT"
     }
   ]
 }
