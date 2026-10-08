@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T20:48:51.295932+00:00",
+  "updated": "2026-10-08T00:26:54.223022+00:00",
   "colombia": [
     {
       "title": "Dirty and flirty: Rock al Parque turns 30",
@@ -64,6 +64,54 @@
   ],
   "mexico": [
     {
+      "title": "Golpe a los centros de datos de Google: gobierno detiene dos de sus grandes obras en Finlandia",
+      "link": "https://expansion.mx/tecnologia/2026/10/07/golpe-a-centros-de-datos-de-google-detienen-obras",
+      "source": "Expansion MX",
+      "pub": "Wed, 07 Oct 2026 15:00:13 GMT"
+    },
+    {
+      "title": "Nobel de Química explica por qué algunas moléculas toman una sola forma y cómo esto ayuda a crear fármacos",
+      "link": "https://expansion.mx/mundo/2026/10/07/premio-nobel-quimica-moleculas-una-sola-forma-crear-farmacos",
+      "source": "Expansion MX",
+      "pub": "Wed, 07 Oct 2026 13:43:54 GMT"
+    },
+    {
+      "title": "Cuando el trabajo consume más de lo que produce",
+      "link": "https://expansion.mx/opinion/2026/10/07/cuando-el-trabajo-consume-mas-de-lo-que-produce",
+      "source": "Expansion MX",
+      "pub": "Wed, 07 Oct 2026 12:05:32 GMT"
+    },
+    {
+      "title": "Salud o economía: el falso dilema empieza en el salón de clases",
+      "link": "https://expansion.mx/opinion/2026/10/07/salud-o-economia-el-falso-dilema-empieza-en-el-salon-de-clases",
+      "source": "Expansion MX",
+      "pub": "Wed, 07 Oct 2026 12:01:51 GMT"
+    },
+    {
+      "title": "CFE alerta que tu refrigerador se come 24% de tu recibo de luz, pero reducir consumo te costaría 40,000 pesos con IA",
+      "link": "https://expansion.mx/tecnologia/2026/10/07/refrigerador-ia-ahorro-energia-40000-pesos",
+      "source": "Expansion MX",
+      "pub": "Wed, 07 Oct 2026 11:55:37 GMT"
+    },
+    {
+      "title": "El boom de la IA impulsa las plusvalías de las Afores y hace crecer el ahorro",
+      "link": "https://expansion.mx/economia/2026/10/07/el-boom-de-la-ia-impulsa-las-plusvalias-de-las-afores-y-hace-crecer-el-ahorro",
+      "source": "Expansion MX",
+      "pub": "Wed, 07 Oct 2026 11:55:33 GMT"
+    },
+    {
+      "title": "¿Refrigerador con IA o buenos hábitos? Cómo evitar que tu electrodoméstico infle tu recibo de la CFE",
+      "link": "https://expansion.mx/tecnologia/2026/10/07/como-ahorrar-luz-refrigerador-sin-comprar-uno-nuevo",
+      "source": "Expansion MX",
+      "pub": "Wed, 07 Oct 2026 11:55:31 GMT"
+    },
+    {
+      "title": "Spotify ya tiene audiolibros en México: así puedes acceder a más de 45,000 títulos",
+      "link": "https://expansion.mx/tecnologia/2026/10/07/spotify-ya-tiene-audiolibros-en-mexico",
+      "source": "Expansion MX",
+      "pub": "Wed, 07 Oct 2026 07:00:19 GMT"
+    },
+    {
       "title": "Diputados aprueban Ley de Economía Digital para reducir el uso del efectivo",
       "link": "https://expansion.mx/economia/2026/10/06/diputados-aprueban-ley-de-economia-digital",
       "source": "Expansion MX",
@@ -74,54 +122,6 @@
       "link": "https://expansion.mx/finanzas-personales/2026/10/06/tasa-baja-infonavit-unica-condicion-acceder-ella",
       "source": "Expansion MX",
       "pub": "Wed, 07 Oct 2026 01:45:53 GMT"
-    },
-    {
-      "title": "La CRT depurará 25 millones de líneas móviles y los chips gratis explican una parte del ajuste",
-      "link": "https://expansion.mx/empresas/2026/10/06/chip-gratis-deja-25-millones-lineas-desuso-registro",
-      "source": "Expansion MX",
-      "pub": "Wed, 07 Oct 2026 01:34:41 GMT"
-    },
-    {
-      "title": "Hay datos de tu iPhone que ni el gobierno de Estados Unidos puede ver y por qué odia que sea así",
-      "link": "https://expansion.mx/tecnologia/2026/10/06/iphone-protege-datos-que-ni-gobierno-eu-puede-ver",
-      "source": "Expansion MX",
-      "pub": "Wed, 07 Oct 2026 00:36:36 GMT"
-    },
-    {
-      "title": "El secretario de Hacienda descarta que la UIF investigue al empresario Amílcar Olán y a Andy López Beltrán",
-      "link": "https://expansion.mx/economia/2026/10/06/hacienda-niega-que-uif-investigue-amilcar-olan-andy-lopez",
-      "source": "Expansion MX",
-      "pub": "Wed, 07 Oct 2026 00:09:06 GMT"
-    },
-    {
-      "title": "¿Qué sabemos de la muerte de una trabajadora por neumonía en Siberia?",
-      "link": "https://expansion.mx/mundo/2026/10/06/que-paso-muerte-cientifica-rusa-laboratorio-investigacion-peste",
-      "source": "Expansion MX",
-      "pub": "Tue, 06 Oct 2026 22:45:15 GMT"
-    },
-    {
-      "title": "¿Para qué sirve la \"S\" en la palanca de velocidades? El error que casi todos activan y cuándo te conviene usarlo",
-      "link": "https://expansion.mx/tendencias/2026/10/06/significado-letra-s-en-palanca-carro-automaticos",
-      "source": "Expansion MX",
-      "pub": "Tue, 06 Oct 2026 22:35:52 GMT"
-    },
-    {
-      "title": "El registro telefónico supera los 90 millones de líneas vinculadas",
-      "link": "https://expansion.mx/empresas/2026/10/06/mas-de-50-lineas-celulares-ya-estan-registradas-numero-3",
-      "source": "Expansion MX",
-      "pub": "Tue, 06 Oct 2026 21:21:36 GMT"
-    },
-    {
-      "title": "Sanborns empezó como una farmacia en CDMX, Slim la compró en plena crisis y hoy es de las marcas más valiosas de México",
-      "link": "https://expansion.mx/empresas/2026/10/06/sanborns-historia-carlos-slim",
-      "source": "Expansion MX",
-      "pub": "Tue, 06 Oct 2026 21:08:53 GMT"
-    },
-    {
-      "title": "México cierra la puerta a inversiones de riesgo, pero el nuevo filtro de 49% deja rendijas",
-      "link": "https://expansion.mx/economia/2026/10/06/filtro-inversion-extranjera-mexico-huecos-49-por-ciento",
-      "source": "Expansion MX",
-      "pub": "Tue, 06 Oct 2026 21:06:39 GMT"
     }
   ]
 }
