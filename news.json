@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T03:07:59.551518+00:00",
+  "updated": "2026-10-09T10:25:24.907066+00:00",
   "colombia": [
     {
       "title": "Leadership centre named for assassinated senator Miguel Uribe Turbay holds first summit",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "Nissan se suma a otras 9 marcas tradicionales que importan autos desde China para abastecer a México",
+      "link": "https://expansion.mx/empresas/2026/10/08/nissan-marcas-autos-china-mexico",
+      "source": "Expansion MX",
+      "pub": "Fri, 09 Oct 2026 01:43:05 GMT"
+    },
+    {
+      "title": "AriZona cambia de cancha: de su famoso té a bebidas con 5% de alcohol para conquistar otro mercado",
+      "link": "https://expansion.mx/mercadotecnia/2026/10/08/arizona-te-bebidas-alcohol-conquistar-mercado",
+      "source": "Expansion MX",
+      "pub": "Fri, 09 Oct 2026 01:27:43 GMT"
+    },
+    {
+      "title": "De Dr. Simi a Bienestar: las marcas que ahora tienen cafetería aunque su negocio original sea otro",
+      "link": "https://expansion.mx/mercadotecnia/2026/10/08/dr-simi-pato-bienestar-marcas-con-cafeteria-su-negocio-otro",
+      "source": "Expansion MX",
+      "pub": "Thu, 08 Oct 2026 23:50:22 GMT"
+    },
+    {
+      "title": "Cobrar una incapacidad del IMSS ya no será igual para todos: este monto cambia la forma de pago",
+      "link": "https://expansion.mx/finanzas-personales/2026/10/08/imss-pago-incapacidades-monto-cambia-forma-de-pago",
+      "source": "Expansion MX",
+      "pub": "Thu, 08 Oct 2026 23:42:09 GMT"
+    },
+    {
       "title": "Los contratos mixtos no atraen a los gigantes petroleros, pero algunas empresas sí ven negocio con Pemex",
       "link": "https://expansion.mx/empresas/2026/10/08/contratos-mixtos-no-atraen-shell-bp-empresas-negocio-pemex",
       "source": "Expansion MX",
@@ -98,30 +122,6 @@
       "link": "https://expansion.mx/economia/2026/10/08/por-que-cerro-programa-remesas-banxico-directo-a-mexico",
       "source": "Expansion MX",
       "pub": "Thu, 08 Oct 2026 21:55:49 GMT"
-    },
-    {
-      "title": "Nafin e IP quieren descarbonizar las cadenas de valor en México",
-      "link": "https://expansion.mx/economia/2026/10/08/nafin-e-ip-quieren-descarbonizar-las-cadenas-de-valor-en-mexico",
-      "source": "Expansion MX",
-      "pub": "Thu, 08 Oct 2026 21:50:48 GMT"
-    },
-    {
-      "title": "Tu cara como pasaporte: aeropuertos y empresas turísticas impulsan la biometría facial como identificación",
-      "link": "https://expansion.mx/empresas/2026/10/08/cara-pasaporte-biometria-tiempo-viajes",
-      "source": "Expansion MX",
-      "pub": "Thu, 08 Oct 2026 21:26:28 GMT"
-    },
-    {
-      "title": "Las empresas que pagan menos ISR usan hasta 10% de facturas falsas, dice el SAT",
-      "link": "https://expansion.mx/economia/2026/10/08/empresas-pagan-menos-isr-usan-10-facturas-falsas",
-      "source": "Expansion MX",
-      "pub": "Thu, 08 Oct 2026 21:15:33 GMT"
-    },
-    {
-      "title": "EU suspende a Microsoft y Adobe visas de trabajo para extranjeros y las acusa de abusar de ellas",
-      "link": "https://expansion.mx/tecnologia/2026/10/08/eu-suspende-a-microsoft-y-adobe-visas-de-trabajo",
-      "source": "Expansion MX",
-      "pub": "Thu, 08 Oct 2026 20:30:24 GMT"
     }
   ]
 }
