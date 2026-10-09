@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T17:05:07.686328+00:00",
+  "updated": "2026-10-09T21:35:18.135236+00:00",
   "colombia": [
     {
       "title": "Leadership centre named for assassinated senator Miguel Uribe Turbay holds first summit",
@@ -64,6 +64,42 @@
   ],
   "mexico": [
     {
+      "title": "Videos muestran el potente sismo de magnitud 7.7 que sacudió Panamá y provocó pánico entre la población",
+      "link": "https://expansion.mx/mundo/2026/10/09/videos-sismo-panama-provoco-panico-entre-poblacion",
+      "source": "Expansion MX",
+      "pub": "Fri, 09 Oct 2026 19:08:06 GMT"
+    },
+    {
+      "title": "Los empleos que EU perdió con Yokohama reaparecen en un caso laboral contra México",
+      "link": "https://expansion.mx/economia/2026/10/09/yokohama-saltillo-reemplazo-eu-disputa-laboral-t-mec",
+      "source": "Expansion MX",
+      "pub": "Fri, 09 Oct 2026 18:56:10 GMT"
+    },
+    {
+      "title": "La historia nadie conoce de la crema Teatrical: pasó por Sanborns, la compró Slim y acabó en manos de Rodrigo Herrera",
+      "link": "https://expansion.mx/empresas/2026/10/09/crema-teatrical-historia-carlos-slim-sanborns-genomma-lab",
+      "source": "Expansion MX",
+      "pub": "Fri, 09 Oct 2026 18:24:44 GMT"
+    },
+    {
+      "title": "La planta de Heineken en Orizaba cumple 130 años y hoy usa la IA para gestionar su recurso más valioso",
+      "link": "https://expansion.mx/empresas/2026/10/09/heineken-130-anos-planta-orizaba-eficiencia-hidrica-uso-ia",
+      "source": "Expansion MX",
+      "pub": "Fri, 09 Oct 2026 17:59:21 GMT"
+    },
+    {
+      "title": "Empresas advierten sobre daños económicos y operativos por cambios fiscales para 2027",
+      "link": "https://expansion.mx/economia/2026/10/09/empresas-riesgos-limite-deducciones-sat-hacienda",
+      "source": "Expansion MX",
+      "pub": "Fri, 09 Oct 2026 17:38:03 GMT"
+    },
+    {
+      "title": "Tipo de cambio se dispara y se acerca a los 18.50  pesos por dólar",
+      "link": "https://expansion.mx/mercados/2026/10/09/tipo-de-cambio-se-dispara-y-se-acerca-a-los-18-50-pesos-por-dolar",
+      "source": "Expansion MX",
+      "pub": "Fri, 09 Oct 2026 17:04:18 GMT"
+    },
+    {
       "title": "La deuda que la inteligencia artificial no puede pagar",
       "link": "https://expansion.mx/opinion/2026/10/09/deuda-ia-inteligencia-artificial-empresas",
       "source": "Expansion MX",
@@ -86,42 +122,6 @@
       "link": "https://expansion.mx/opinion/2026/10/09/pagos-digitales-una-oportunidad-para-ampliar-la-inclusion-financiera-en-mexico",
       "source": "Expansion MX",
       "pub": "Fri, 09 Oct 2026 12:08:37 GMT"
-    },
-    {
-      "title": "México y Europa: La infraestructura como prueba de absorción",
-      "link": "https://expansion.mx/opinion/2026/10/09/mexico-y-europa-la-infraestructura-como-prueba-de-absorcion",
-      "source": "Expansion MX",
-      "pub": "Fri, 09 Oct 2026 12:03:24 GMT"
-    },
-    {
-      "title": "¿La IA puede destruir la humanidad?",
-      "link": "https://expansion.mx/opinion/2026/10/08/la-ia-puede-destruir-la-humanidad",
-      "source": "Expansion MX",
-      "pub": "Fri, 09 Oct 2026 12:01:40 GMT"
-    },
-    {
-      "title": "Fraude bancario imparable en México; clientes reclaman 11,213 mdp en el primer semestre de 2026",
-      "link": "https://expansion.mx/economia/2026/10/09/fraude-bancario-imparable-en-mexico-clientes-reclaman-11-213-mdp-en-el-primer-semestre-de-2026",
-      "source": "Expansion MX",
-      "pub": "Fri, 09 Oct 2026 11:55:06 GMT"
-    },
-    {
-      "title": "Volvo arranca producción de camiones en Nuevo León y exporta las primeras unidades a Canadá",
-      "link": "https://expansion.mx/empresas/2026/10/09/volvo-inicia-produccion-camiones-en-nuevo-leon-nueva-planta",
-      "source": "Expansion MX",
-      "pub": "Fri, 09 Oct 2026 11:51:10 GMT"
-    },
-    {
-      "title": "Nissan se suma a otras 9 marcas tradicionales que importan autos desde China para abastecer a México",
-      "link": "https://expansion.mx/empresas/2026/10/08/nissan-marcas-autos-china-mexico",
-      "source": "Expansion MX",
-      "pub": "Fri, 09 Oct 2026 01:43:05 GMT"
-    },
-    {
-      "title": "AriZona cambia de cancha: de su famoso té a bebidas con 5% de alcohol para conquistar otro mercado",
-      "link": "https://expansion.mx/mercadotecnia/2026/10/08/arizona-te-bebidas-alcohol-conquistar-mercado",
-      "source": "Expansion MX",
-      "pub": "Fri, 09 Oct 2026 01:27:43 GMT"
     }
   ]
 }
