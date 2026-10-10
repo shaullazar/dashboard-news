@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T17:55:20.394844+00:00",
+  "updated": "2026-10-10T20:48:10.103850+00:00",
   "colombia": [
     {
       "title": "Leadership centre named for assassinated senator Miguel Uribe Turbay holds first summit",
@@ -64,18 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Nerds llega oficialmente a México tras años de venta por distribuidores",
-      "link": "https://expansion.mx/mercadotecnia/2026/10/10/nerds-llega-oficialmente-a-mexico",
-      "source": "Expansion MX",
-      "pub": "Sat, 10 Oct 2026 15:27:43 GMT"
-    },
-    {
-      "title": "Mantendrá México de las inflaciones médicas más altas en América Latina en 2027",
-      "link": "https://expansion.mx/economia/2026/10/10/mantendra-mexico-de-las-inflaciones-medicas-mas-altas-en-america-latina-en-2027",
-      "source": "Expansion MX",
-      "pub": "Sat, 10 Oct 2026 14:00:37 GMT"
-    },
-    {
       "title": "Hacienda baja el IEPS para gasolinas, mientras el diésel va por su quinta semana con cuota cero",
       "link": "https://expansion.mx/economia/2026/10/09/hacienda-ieps-gasolinas-diesel-octubre",
       "source": "Expansion MX",
@@ -122,6 +110,18 @@
       "link": "https://expansion.mx/economia/2026/10/09/empresas-riesgos-limite-deducciones-sat-hacienda",
       "source": "Expansion MX",
       "pub": "Fri, 09 Oct 2026 17:38:03 GMT"
+    },
+    {
+      "title": "Tipo de cambio se dispara y se acerca a los 18.50  pesos por dólar",
+      "link": "https://expansion.mx/mercados/2026/10/09/tipo-de-cambio-se-dispara-y-se-acerca-a-los-18-50-pesos-por-dolar",
+      "source": "Expansion MX",
+      "pub": "Fri, 09 Oct 2026 17:04:18 GMT"
+    },
+    {
+      "title": "La deuda que la inteligencia artificial no puede pagar",
+      "link": "https://expansion.mx/opinion/2026/10/09/deuda-ia-inteligencia-artificial-empresas",
+      "source": "Expansion MX",
+      "pub": "Fri, 09 Oct 2026 16:01:32 GMT"
     }
   ]
 }
