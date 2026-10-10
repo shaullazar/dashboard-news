@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T01:11:02.931620+00:00",
+  "updated": "2026-10-10T07:01:28.607401+00:00",
   "colombia": [
     {
       "title": "Leadership centre named for assassinated senator Miguel Uribe Turbay holds first summit",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Hacienda baja el IEPS para gasolinas, mientras el diésel va por su quinta semana con cuota cero",
+      "link": "https://expansion.mx/economia/2026/10/09/hacienda-ieps-gasolinas-diesel-octubre",
+      "source": "Expansion MX",
+      "pub": "Fri, 09 Oct 2026 23:39:21 GMT"
+    },
+    {
       "title": "De equipo de adolescentes a negocio de 490 millones: cómo los Azcárraga convirtieron al América en un imperio",
       "link": "https://expansion.mx/empresas/2026/10/09/america-azcarraga-historia-negocio-y-valor-en-bolsa",
       "source": "Expansion MX",
@@ -94,7 +100,7 @@
       "pub": "Fri, 09 Oct 2026 18:24:44 GMT"
     },
     {
-      "title": "La planta de Heineken en Orizaba cumple 130 años y hoy usa la IA para gestionar su recurso más valioso",
+      "title": "De recetas en las paredes a la automatización: así cambió la producción de cerveza en la fábrica de Orizaba de Heineken",
       "link": "https://expansion.mx/empresas/2026/10/09/heineken-130-anos-planta-orizaba-eficiencia-hidrica-uso-ia",
       "source": "Expansion MX",
       "pub": "Fri, 09 Oct 2026 17:59:21 GMT"
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/opinion/2026/10/09/deuda-ia-inteligencia-artificial-empresas",
       "source": "Expansion MX",
       "pub": "Fri, 09 Oct 2026 16:01:32 GMT"
-    },
-    {
-      "title": "¿Quién es Navi Pillay, la Nobel de la Paz 2026 que incomoda a Trump y Netanyahu por su trabajo sobre Gaza?",
-      "link": "https://expansion.mx/mundo/2026/10/09/quien-es-navi-pillay-nobel-paz-2026-y-su-trayectoria",
-      "source": "Expansion MX",
-      "pub": "Fri, 09 Oct 2026 13:55:13 GMT"
     }
   ]
 }
