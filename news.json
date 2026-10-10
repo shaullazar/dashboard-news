@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T21:35:18.135236+00:00",
+  "updated": "2026-10-10T01:11:02.931620+00:00",
   "colombia": [
     {
       "title": "Leadership centre named for assassinated senator Miguel Uribe Turbay holds first summit",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "De equipo de adolescentes a negocio de 490 millones: cómo los Azcárraga convirtieron al América en un imperio",
+      "link": "https://expansion.mx/empresas/2026/10/09/america-azcarraga-historia-negocio-y-valor-en-bolsa",
+      "source": "Expansion MX",
+      "pub": "Fri, 09 Oct 2026 22:33:06 GMT"
+    },
+    {
+      "title": "Antes de Chivas y Omnilife, Jorge Vergara se levantaba a las 4:00 de la mañana para vender carnitas",
+      "link": "https://expansion.mx/empresas/2026/09/18/antes-de-chivas-omnilife-jorge-vergara-vendia-carnitas",
+      "source": "Expansion MX",
+      "pub": "Fri, 09 Oct 2026 19:57:13 GMT"
+    },
+    {
       "title": "Videos muestran el potente sismo de magnitud 7.7 que sacudió Panamá y provocó pánico entre la población",
       "link": "https://expansion.mx/mundo/2026/10/09/videos-sismo-panama-provoco-panico-entre-poblacion",
       "source": "Expansion MX",
@@ -76,7 +88,7 @@
       "pub": "Fri, 09 Oct 2026 18:56:10 GMT"
     },
     {
-      "title": "La historia nadie conoce de la crema Teatrical: pasó por Sanborns, la compró Slim y acabó en manos de Rodrigo Herrera",
+      "title": "La historia que nadie conoce de crema Teatrical: pasó por Sanborns, la compró Slim y acabó en manos de Rodrigo Herrera",
       "link": "https://expansion.mx/empresas/2026/10/09/crema-teatrical-historia-carlos-slim-sanborns-genomma-lab",
       "source": "Expansion MX",
       "pub": "Fri, 09 Oct 2026 18:24:44 GMT"
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/mundo/2026/10/09/quien-es-navi-pillay-nobel-paz-2026-y-su-trayectoria",
       "source": "Expansion MX",
       "pub": "Fri, 09 Oct 2026 13:55:13 GMT"
-    },
-    {
-      "title": "El menor gasto de México ayuda a contener el crecimiento del déficit fiscal",
-      "link": "https://expansion.mx/economia/2026/10/09/menor-gasto-contienel-crecimiento-deficit-fiscal",
-      "source": "Expansion MX",
-      "pub": "Fri, 09 Oct 2026 13:02:54 GMT"
-    },
-    {
-      "title": "Pagos digitales: una oportunidad para ampliar la inclusión financiera en México",
-      "link": "https://expansion.mx/opinion/2026/10/09/pagos-digitales-una-oportunidad-para-ampliar-la-inclusion-financiera-en-mexico",
-      "source": "Expansion MX",
-      "pub": "Fri, 09 Oct 2026 12:08:37 GMT"
     }
   ]
 }
