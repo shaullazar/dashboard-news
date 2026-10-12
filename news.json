@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T23:06:07.385757+00:00",
+  "updated": "2026-10-12T02:17:33.660331+00:00",
   "colombia": [
     {
       "title": "Leadership centre named for assassinated senator Miguel Uribe Turbay holds first summit",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "¿Por qué Tiendas 3B vende tan barato y sigue ganando millones? El secreto del \"Hard Discount\"",
+      "link": "https://expansion.mx/empresas/2026/10/11/por-que-tiendas-3b-vende-tan-barato-secreto-hard-discount",
+      "source": "Expansion MX",
+      "pub": "Mon, 12 Oct 2026 00:54:41 GMT"
+    },
+    {
+      "title": "¿Dejaste una prenda en Monte de Piedad? Esta es la fecha límite para recuperarla",
+      "link": "https://expansion.mx/finanzas-personales/2026/10/11/dejaste-prenda-monte-de-piedad-fecha-limite-para-recuperarla",
+      "source": "Expansion MX",
+      "pub": "Sun, 11 Oct 2026 20:02:26 GMT"
+    },
+    {
       "title": "Nerds llega oficialmente a México tras años de venta por distribuidores",
       "link": "https://expansion.mx/mercadotecnia/2026/10/10/nerds-llega-oficialmente-a-mexico",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/10/09/crema-teatrical-historia-carlos-slim-sanborns-genomma-lab",
       "source": "Expansion MX",
       "pub": "Fri, 09 Oct 2026 18:24:44 GMT"
-    },
-    {
-      "title": "De recetas en las paredes a la automatización: así cambió la producción de cerveza en la fábrica de Orizaba de Heineken",
-      "link": "https://expansion.mx/empresas/2026/10/09/heineken-130-anos-planta-orizaba-eficiencia-hidrica-uso-ia",
-      "source": "Expansion MX",
-      "pub": "Fri, 09 Oct 2026 17:59:21 GMT"
-    },
-    {
-      "title": "Empresas advierten sobre daños económicos y operativos por cambios fiscales para 2027",
-      "link": "https://expansion.mx/economia/2026/10/09/empresas-riesgos-limite-deducciones-sat-hacienda",
-      "source": "Expansion MX",
-      "pub": "Fri, 09 Oct 2026 17:38:03 GMT"
     }
   ]
 }
