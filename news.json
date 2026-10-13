@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T07:43:44.314705+00:00",
+  "updated": "2026-10-13T15:16:32.684368+00:00",
   "colombia": [
     {
       "title": "The Bogotá Post Presents its Top 10 Engineering Leaders to Watch in 2026",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Checo Pérez y la apuesta en un hotel de Mónaco que terminó en 18 años de patrocinio",
+      "link": "https://expansion.mx/tendencias/2026/10/12/checo-perez-apuesta-que-termino-en-18-anos-de-patrocinio",
+      "source": "Expansion MX",
+      "pub": "Tue, 13 Oct 2026 01:55:37 GMT"
+    },
+    {
       "title": "Carlos Slim lleva otra empresa a la BMV; prepara debut de INCA en mercado accionario",
       "link": "https://expansion.mx/economia/2026/10/12/carlos-slim-lleva-otra-empresa-a-la-bmv-prepara-debut-de-inca-en-mercado-accionario",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/economia/2026/10/12/el-nino-pone-a-prueba-las-finanzas-de-10-estados-en-mexico-alerta-standard-and-poors",
       "source": "Expansion MX",
       "pub": "Mon, 12 Oct 2026 18:38:50 GMT"
-    },
-    {
-      "title": "Hay más empleos para programadores, pero la IA complica el camino a los jóvenes",
-      "link": "https://expansion.mx/tecnologia/2026/10/12/ia-empleo-programadores-experiencia",
-      "source": "Expansion MX",
-      "pub": "Mon, 12 Oct 2026 16:30:20 GMT"
     }
   ]
 }
