@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T17:55:32.655570+00:00",
+  "updated": "2026-10-14T21:04:10.262013+00:00",
   "colombia": [
     {
       "title": "The Bogotá Post Presents its Top 10 Engineering Leaders to Watch in 2026",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Acciones de Televisa suben 6.17% después de anuncio de compra de ATT",
+      "link": "https://expansion.mx/economia/2026/10/14/acciones-de-televisa-suben-6-17-despues-de-anuncio-de-compra-de-att",
+      "source": "Expansion MX",
+      "pub": "Wed, 14 Oct 2026 17:31:57 GMT"
+    },
+    {
+      "title": "Roku estrena nueva interfaz en México: estos son los cambios que llegarán a tu televisión",
+      "link": "https://expansion.mx/tecnologia/2026/10/14/roku-nueva-interfaz-mexico-pantalla-inicio",
+      "source": "Expansion MX",
+      "pub": "Wed, 14 Oct 2026 16:00:03 GMT"
+    },
+    {
       "title": "Peso mexicano toca los 18.60 por dólar; se deprecia por dato de inflación de Estados Unidos",
       "link": "https://expansion.mx/economia/2026/10/14/peso-mexicano-toca-los-18-60-por-dolar-se-deprecia-por-dato-de-inflacion-de-estados-unidos",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/economia/2026/10/13/ley-derechos-2027-alzas-cuotas-turistas-aereo-vias-ferreas",
       "source": "Expansion MX",
       "pub": "Wed, 14 Oct 2026 01:56:42 GMT"
-    },
-    {
-      "title": "Quejas contra aseguradoras en México crecen 7.76% y los reclamos suman 2,386 mdp",
-      "link": "https://expansion.mx/economia/2026/10/13/quejas-contra-aseguradoras-en-mexico-crecen-7-76-y-los-reclamos-suman-2-386-mdp",
-      "source": "Expansion MX",
-      "pub": "Wed, 14 Oct 2026 01:42:54 GMT"
-    },
-    {
-      "title": "¿Qué pasa con tu cuenta si tu Afore se declara en quiebra? Esto ocurre con tu ahorro para el retiro",
-      "link": "https://expansion.mx/finanzas-personales/2026/10/13/que-pasa-afore-quiebra-esto-debes-saber-de-tus-ahorros",
-      "source": "Expansion MX",
-      "pub": "Wed, 14 Oct 2026 00:58:49 GMT"
     }
   ]
 }
