@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T21:04:10.262013+00:00",
+  "updated": "2026-10-14T23:51:33.315660+00:00",
   "colombia": [
     {
       "title": "The Bogotá Post Presents its Top 10 Engineering Leaders to Watch in 2026",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Bankaool apuesta por Pymes y subirse al Plan México",
+      "link": "https://expansion.mx/economia/2026/10/14/bankaool-apuesta-por-pymes-y-subirse-al-plan-mexico",
+      "source": "Expansion MX",
+      "pub": "Wed, 14 Oct 2026 19:40:50 GMT"
+    },
+    {
+      "title": "Grupo BAL y UNAM lanzan beca de 12,000 pesos para futuros ingenieros: qué carreras entran",
+      "link": "https://expansion.mx/carrera/2026/10/14/grupo-bal-unam-beca-12-000-pesos-ingenieros-carreras",
+      "source": "Expansion MX",
+      "pub": "Wed, 14 Oct 2026 18:30:50 GMT"
+    },
+    {
       "title": "Acciones de Televisa suben 6.17% después de anuncio de compra de ATT",
       "link": "https://expansion.mx/economia/2026/10/14/acciones-de-televisa-suben-6-17-despues-de-anuncio-de-compra-de-att",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/10/14/permisos-gasolineras-inversiones-detenidas-millones-pesos",
       "source": "Expansion MX",
       "pub": "Wed, 14 Oct 2026 11:55:06 GMT"
-    },
-    {
-      "title": "Cámara de Diputados avala reforma a Ley de ISR que limita deducciones a las empresas",
-      "link": "https://expansion.mx/economia/2026/10/13/diputados-aprueba-reforma-ley-isr-deducciones-empresas",
-      "source": "Expansion MX",
-      "pub": "Wed, 14 Oct 2026 04:38:22 GMT"
-    },
-    {
-      "title": "Ley de Derechos 2027 pasa al Senado con alzas a cuotas para turistas, trenes y aeronaves",
-      "link": "https://expansion.mx/economia/2026/10/13/ley-derechos-2027-alzas-cuotas-turistas-aereo-vias-ferreas",
-      "source": "Expansion MX",
-      "pub": "Wed, 14 Oct 2026 01:56:42 GMT"
     }
   ]
 }
