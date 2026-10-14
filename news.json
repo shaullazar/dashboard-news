@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T02:12:39.714386+00:00",
+  "updated": "2026-10-14T07:35:16.426468+00:00",
   "colombia": [
     {
       "title": "The Bogotá Post Presents its Top 10 Engineering Leaders to Watch in 2026",
@@ -64,6 +64,48 @@
   ],
   "mexico": [
     {
+      "title": "Cámara de Diputados avala reforma a Ley de ISR que limita deducciones a las empresas",
+      "link": "https://expansion.mx/economia/2026/10/13/diputados-aprueba-reforma-ley-isr-deducciones-empresas",
+      "source": "Expansion MX",
+      "pub": "Wed, 14 Oct 2026 04:38:22 GMT"
+    },
+    {
+      "title": "Ley de Derechos 2027 pasa al Senado con alzas a cuotas para turistas, trenes y aeronaves",
+      "link": "https://expansion.mx/economia/2026/10/13/ley-derechos-2027-alzas-cuotas-turistas-aereo-vias-ferreas",
+      "source": "Expansion MX",
+      "pub": "Wed, 14 Oct 2026 01:56:42 GMT"
+    },
+    {
+      "title": "Quejas contra aseguradoras en México crecen 7.76% y los reclamos suman 2,386 mdp",
+      "link": "https://expansion.mx/economia/2026/10/13/quejas-contra-aseguradoras-en-mexico-crecen-7-76-y-los-reclamos-suman-2-386-mdp",
+      "source": "Expansion MX",
+      "pub": "Wed, 14 Oct 2026 01:42:54 GMT"
+    },
+    {
+      "title": "¿Qué pasa con tu cuenta si tu Afore se declara en quiebra? Esto ocurre con tu ahorro para el retiro",
+      "link": "https://expansion.mx/finanzas-personales/2026/10/13/que-pasa-afore-quiebra-esto-debes-saber-de-tus-ahorros",
+      "source": "Expansion MX",
+      "pub": "Wed, 14 Oct 2026 00:58:49 GMT"
+    },
+    {
+      "title": "Del anuncio de inversión al empleo: el CCE plantea a Sheinbaum el reto del Plan México",
+      "link": "https://expansion.mx/economia/2026/10/13/cce-sheinbaum-plan-mexico-inversion-empleos",
+      "source": "Expansion MX",
+      "pub": "Wed, 14 Oct 2026 00:40:13 GMT"
+    },
+    {
+      "title": "Sheinbaum presenta inversión de 8.4 billones para impulsar el crecimiento de México",
+      "link": "https://expansion.mx/economia/2026/10/13/sheinbaum-inversion-8-4-billones-infraestructura",
+      "source": "Expansion MX",
+      "pub": "Wed, 14 Oct 2026 00:20:19 GMT"
+    },
+    {
+      "title": "Sanciona Departamento del Tesoro a Bank of America con 1,210 mdd por permitir lavado de dinero de China",
+      "link": "https://expansion.mx/economia/2026/10/13/sanciona-departamento-del-tesoro-a-bank-of-america-con-1-210-mdd-por-permitir-lavado-de-dinero-de-china",
+      "source": "Expansion MX",
+      "pub": "Wed, 14 Oct 2026 00:13:22 GMT"
+    },
+    {
       "title": "Carlos Slim tiene 6 empresas enormes en la Bolsa Mexicana y una más por llegar: de minería a telecomunicaciones",
       "link": "https://expansion.mx/empresas/2026/10/13/carlos-slim-tiene-6-empresas-enormes-en-la-bolsa-mexicana",
       "source": "Expansion MX",
@@ -80,42 +122,6 @@
       "link": "https://expansion.mx/tecnologia/2026/10/13/mercado-ads-ia-publicidad-netflix",
       "source": "Expansion MX",
       "pub": "Tue, 13 Oct 2026 22:00:41 GMT"
-    },
-    {
-      "title": "Peso presionado por la Reserva Federal de Estados Unidos; HSBC prevé otra alza en la tasa de la Fed",
-      "link": "https://expansion.mx/economia/2026/10/13/peso-presionado-por-la-reserva-federal-de-estados-unidos-hsbc-preve-otra-alza-en-la-tasa-de-la-fed",
-      "source": "Expansion MX",
-      "pub": "Tue, 13 Oct 2026 21:58:38 GMT"
-    },
-    {
-      "title": "Checo Pérez demandó a su equipo de F1 y logró salvar 400 empleos: esta es la historia detrás del conflicto",
-      "link": "https://expansion.mx/tendencias/2026/10/13/checo-perez-demando-equipo-de-f1-de-magnate-indio",
-      "source": "Expansion MX",
-      "pub": "Tue, 13 Oct 2026 21:21:14 GMT"
-    },
-    {
-      "title": "OpenAI descubre dispositivo de ‘espionaje’ en sus oficinas y denuncia a empleado ante el FBI",
-      "link": "https://expansion.mx/tecnologia/2026/10/13/openai-descubre-dispositivo-de-espionaje-en-sus-oficinas",
-      "source": "Expansion MX",
-      "pub": "Tue, 13 Oct 2026 21:17:42 GMT"
-    },
-    {
-      "title": "Operan al papa León XIV por cáncer de pulmón; le extirpan el lóbulo inferior del órgano",
-      "link": "https://expansion.mx/mundo/2026/10/13/papa-leon-xiv-operacion-cancer-pulmon",
-      "source": "Expansion MX",
-      "pub": "Tue, 13 Oct 2026 20:41:39 GMT"
-    },
-    {
-      "title": "Televisa y Fintech Holdings acuerdan comprar AT&T México por 2,000 millones de dólares",
-      "link": "https://expansion.mx/empresas/2026/10/13/televisa-acuerda-compra-att-mexico-2000-millones-dolares",
-      "source": "Expansion MX",
-      "pub": "Tue, 13 Oct 2026 20:35:05 GMT"
-    },
-    {
-      "title": "Cebolla encarece la canasta básica; hogares urbanos requirieron casi 5,000 pesos para cubrir alimentos y servicios",
-      "link": "https://expansion.mx/economia/2026/10/13/cebolla-encarece-la-canasta-basica-hogares-urbanos-requirieron-casi-5-000-pesos-para-cubrir-alimentos-y-servicios",
-      "source": "Expansion MX",
-      "pub": "Tue, 13 Oct 2026 20:16:35 GMT"
     }
   ]
 }
