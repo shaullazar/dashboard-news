@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T13:02:29.226075+00:00",
+  "updated": "2026-10-14T17:55:32.655570+00:00",
   "colombia": [
     {
       "title": "The Bogotá Post Presents its Top 10 Engineering Leaders to Watch in 2026",
@@ -64,6 +64,42 @@
   ],
   "mexico": [
     {
+      "title": "Peso mexicano toca los 18.60 por dólar; se deprecia por dato de inflación de Estados Unidos",
+      "link": "https://expansion.mx/economia/2026/10/14/peso-mexicano-toca-los-18-60-por-dolar-se-deprecia-por-dato-de-inflacion-de-estados-unidos",
+      "source": "Expansion MX",
+      "pub": "Wed, 14 Oct 2026 15:37:13 GMT"
+    },
+    {
+      "title": "La transformación no se compra, se construye",
+      "link": "https://expansion.mx/opinion/2026/10/14/la-transformacion-no-se-compra-se-construye",
+      "source": "Expansion MX",
+      "pub": "Wed, 14 Oct 2026 12:02:42 GMT"
+    },
+    {
+      "title": "El gobierno ruso y la guerra híbrida: la respuesta de la Unión Europea",
+      "link": "https://expansion.mx/ue-renueva-sanciones-rusia-guerra-hibrida",
+      "source": "Expansion MX",
+      "pub": "Wed, 14 Oct 2026 12:00:51 GMT"
+    },
+    {
+      "title": "La movilidad eléctrica se construye más allá del auto",
+      "link": "https://expansion.mx/opinion/2026/10/14/la-movilidad-electrica-se-construye-mas-alla-del-auto",
+      "source": "Expansion MX",
+      "pub": "Wed, 14 Oct 2026 11:59:28 GMT"
+    },
+    {
+      "title": "México registra el tercer mayor avance entre los principales exportadores de bienes para la IA",
+      "link": "https://expansion.mx/economia/2026/10/14/mexico-aumenta-participacion-exportaciones-ia",
+      "source": "Expansion MX",
+      "pub": "Wed, 14 Oct 2026 11:55:57 GMT"
+    },
+    {
+      "title": "Gasolineras con permisos pendientes frenan inversiones por más de 7,000 millones de pesos",
+      "link": "https://expansion.mx/empresas/2026/10/14/permisos-gasolineras-inversiones-detenidas-millones-pesos",
+      "source": "Expansion MX",
+      "pub": "Wed, 14 Oct 2026 11:55:06 GMT"
+    },
+    {
       "title": "Cámara de Diputados avala reforma a Ley de ISR que limita deducciones a las empresas",
       "link": "https://expansion.mx/economia/2026/10/13/diputados-aprueba-reforma-ley-isr-deducciones-empresas",
       "source": "Expansion MX",
@@ -86,42 +122,6 @@
       "link": "https://expansion.mx/finanzas-personales/2026/10/13/que-pasa-afore-quiebra-esto-debes-saber-de-tus-ahorros",
       "source": "Expansion MX",
       "pub": "Wed, 14 Oct 2026 00:58:49 GMT"
-    },
-    {
-      "title": "Del anuncio de inversión al empleo: el CCE plantea a Sheinbaum el reto del Plan México",
-      "link": "https://expansion.mx/economia/2026/10/13/cce-sheinbaum-plan-mexico-inversion-empleos",
-      "source": "Expansion MX",
-      "pub": "Wed, 14 Oct 2026 00:40:13 GMT"
-    },
-    {
-      "title": "Sheinbaum presenta inversión de 8.4 billones para impulsar el crecimiento de México",
-      "link": "https://expansion.mx/economia/2026/10/13/sheinbaum-inversion-8-4-billones-infraestructura",
-      "source": "Expansion MX",
-      "pub": "Wed, 14 Oct 2026 00:20:19 GMT"
-    },
-    {
-      "title": "Sanciona Departamento del Tesoro a Bank of America con 1,210 mdd por permitir lavado de dinero de China",
-      "link": "https://expansion.mx/economia/2026/10/13/sanciona-departamento-del-tesoro-a-bank-of-america-con-1-210-mdd-por-permitir-lavado-de-dinero-de-china",
-      "source": "Expansion MX",
-      "pub": "Wed, 14 Oct 2026 00:13:22 GMT"
-    },
-    {
-      "title": "Carlos Slim tiene 6 empresas enormes en la Bolsa Mexicana y una más por llegar: de minería a telecomunicaciones",
-      "link": "https://expansion.mx/empresas/2026/10/13/carlos-slim-tiene-6-empresas-enormes-en-la-bolsa-mexicana",
-      "source": "Expansion MX",
-      "pub": "Tue, 13 Oct 2026 23:08:01 GMT"
-    },
-    {
-      "title": "Televisa comprará AT&T México: qué pasará con tu línea y qué ocurrirá si todavía tienes una deuda",
-      "link": "https://expansion.mx/empresas/2026/10/13/televisa-compra-at-t-que-pasara-con-tu-linea-y-deuda",
-      "source": "Expansion MX",
-      "pub": "Tue, 13 Oct 2026 22:07:31 GMT"
-    },
-    {
-      "title": "La IA analiza tu comportamiento en Netflix y genera publicidad 8 veces más efectiva que la TV tradicional",
-      "link": "https://expansion.mx/tecnologia/2026/10/13/mercado-ads-ia-publicidad-netflix",
-      "source": "Expansion MX",
-      "pub": "Tue, 13 Oct 2026 22:00:41 GMT"
     }
   ]
 }
