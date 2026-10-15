@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T01:53:50.585892+00:00",
+  "updated": "2026-10-15T06:33:42.774703+00:00",
   "colombia": [
     {
       "title": "The Bogotá Post Presents its Top 10 Engineering Leaders to Watch in 2026",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Diputados aprueban eliminar límite para programa del SAT que condona multas y recargos en 2027",
+      "link": "https://expansion.mx/economia/2026/10/14/diputados-aprueban-sat-condona-multas-recargos-2027",
+      "source": "Expansion MX",
+      "pub": "Thu, 15 Oct 2026 05:21:26 GMT"
+    },
+    {
       "title": "Un auto eléctrico también pasa por el taller: cuánto cuesta mantenerlo y cada cuánto toca pagar",
       "link": "https://expansion.mx/empresas/2026/10/14/cuanto-cuesta-mantenimiento-auto-electrico-byd",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/10/14/at-t-compro-iusacell-desafiar-slim-vender-televisa-fintech",
       "source": "Expansion MX",
       "pub": "Wed, 14 Oct 2026 22:30:04 GMT"
-    },
-    {
-      "title": "Honorarios de doctores encarecen las pólizas de seguros de gastos médicos: AMIS",
-      "link": "https://expansion.mx/economia/2026/10/14/honorarios-de-doctores-encarecen-las-polizas-de-seguros-de-gastos-medicos-la-amis",
-      "source": "Expansion MX",
-      "pub": "Wed, 14 Oct 2026 21:54:22 GMT"
     }
   ]
 }
