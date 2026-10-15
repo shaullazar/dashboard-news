@@ -1,6 +1,12 @@
 {
-  "updated": "2026-10-15T19:55:46.372066+00:00",
+  "updated": "2026-10-15T22:45:26.281760+00:00",
   "colombia": [
+    {
+      "title": "Nationwide protests in Colombia against President Abelardo De la Espriella",
+      "link": "https://thebogotapost.com/nationwide-protests-in-colombia-against-president-abelardo-de-la-espriella/56840/",
+      "source": "The Bogota Post",
+      "pub": "Thu, 15 Oct 2026 22:42:16 +0000"
+    },
     {
       "title": "The Bogotá Post Presents its Top 10 Engineering Leaders to Watch in 2026",
       "link": "https://thebogotapost.com/the-bogota-post-presents-its-top-10-engineering-leaders-to-watch-in-2026/56811/",
@@ -54,74 +60,68 @@
       "link": "https://thebogotapost.com/what-colombias-exit-from-an-international-lgbti-rights-coalition-signals/56762/",
       "source": "The Bogota Post",
       "pub": "Tue, 22 Sep 2026 01:17:44 +0000"
-    },
-    {
-      "title": "Colombia’s de la Espriella ends negotiations with armed groups",
-      "link": "https://thebogotapost.com/colombias-de-la-espriella-ends-negotiations-with-armed-groups/56758/",
-      "source": "The Bogota Post",
-      "pub": "Mon, 14 Sep 2026 22:55:34 +0000"
     }
   ],
   "mexico": [
     {
-      "title": "De Ciencias a Medicina: estas son todas las carreras que tendrá el nuevo plantel de la UNAM en CDMX",
-      "link": "https://expansion.mx/carrera/2026/10/15/que-carreras-ofrecera-nueva-sede-unam-cdmx",
+      "title": "Diputados aprueban eliminar límite para programa del SAT que condona multas y recargos en 2027",
+      "link": "https://expansion.mx/economia/2026/10/14/diputados-aprueban-sat-condona-multas-recargos-2027",
       "source": "Expansion MX",
-      "pub": "Thu, 15 Oct 2026 16:58:01 GMT"
+      "pub": "Thu, 15 Oct 2026 05:21:26 GMT"
     },
     {
-      "title": "Amazon escuchará tus conversaciones con Bee, su nuevo dispositivo de IA que también recomienda compras",
-      "link": "https://expansion.mx/tecnologia/2026/10/15/amazon-bee-dispositivo-ia-escucha-conversaciones",
+      "title": "Un auto eléctrico también pasa por el taller: cuánto cuesta mantenerlo y cada cuánto toca pagar",
+      "link": "https://expansion.mx/empresas/2026/10/14/cuanto-cuesta-mantenimiento-auto-electrico-byd",
       "source": "Expansion MX",
-      "pub": "Thu, 15 Oct 2026 16:30:28 GMT"
+      "pub": "Thu, 15 Oct 2026 01:44:04 GMT"
     },
     {
-      "title": "Exportaciones de México crecerán 26% y superarán el ritmo regional, proyecta la Cepal",
-      "link": "https://expansion.mx/economia/2026/10/15/exportaciones-mexico-creceran-26-por-ciento-cepal-2026",
+      "title": "Plan Nescafé suma a más de 16,000 productores de café en México",
+      "link": "https://expansion.mx/empresas/2026/10/14/nestle-plan-nescafe-productores-cafe-mexico",
       "source": "Expansion MX",
-      "pub": "Thu, 15 Oct 2026 15:17:19 GMT"
+      "pub": "Thu, 15 Oct 2026 00:50:07 GMT"
     },
     {
-      "title": "Lo que el FMI y el Banco Mundial ven en México que vale la pena escuchar",
-      "link": "https://expansion.mx/opinion/2026/10/15/fmi-banco-mundial-ven-mexico",
+      "title": "Rodrigo Herrera vuelve a un Genomma Lab con ventas a la baja y un nuevo modelo de negocio",
+      "link": "https://expansion.mx/empresas/2026/10/14/rodrigo-herrera-reto-genomma-lab-ventas-a-la-baja",
       "source": "Expansion MX",
-      "pub": "Thu, 15 Oct 2026 15:01:12 GMT"
+      "pub": "Thu, 15 Oct 2026 00:49:16 GMT"
     },
     {
-      "title": "La inusual petición de Nvidia para la industria de la IA: EU y China “deberíamos trabajar juntos”",
-      "link": "https://expansion.mx/tecnologia/2026/10/15/nvidia-pide-colaborar-eu-china-controlar-ia",
+      "title": "SimiPet Care suma un laboratorio clínico para ampliar su negocio veterinario",
+      "link": "https://expansion.mx/empresas/2026/10/14/simipet-care-laboratorio-clinico-mascotas",
       "source": "Expansion MX",
-      "pub": "Thu, 15 Oct 2026 14:45:13 GMT"
+      "pub": "Thu, 15 Oct 2026 00:02:13 GMT"
     },
     {
-      "title": "El trabajo ya cambió y América Latina es quien propone las reglas",
-      "link": "https://expansion.mx/opinion/2026/10/15/el-trabajo-ya-cambio-y-america-latina-es-quien-propone-las-reglas",
+      "title": "No todo es CU: la UNAM tendrá dos nuevas sedes en CDMX y estos son los planteles universitarios que debes conocer",
+      "link": "https://expansion.mx/carrera/2026/10/14/unam-tendra-dos-nuevas-sedes-cdmx-planteles-debes-conocer",
       "source": "Expansion MX",
-      "pub": "Thu, 15 Oct 2026 12:04:52 GMT"
+      "pub": "Thu, 15 Oct 2026 00:00:56 GMT"
     },
     {
-      "title": "Telepeaje: la infraestructura invisible que impulsa la competitividad de México",
-      "link": "https://expansion.mx/opinion/2026/10/15/telepeaje-la-infraestructura-invisible-que-impulsa-la-competitividad-de-mexico",
+      "title": "¿Quién es David Martínez, el empresario detrás de Fintech, que comprará AT&T con Televisa y evita los reflectores?",
+      "link": "https://expansion.mx/empresas/2026/10/14/david-martinez-inversionista-compra-att-con-televisa",
       "source": "Expansion MX",
-      "pub": "Thu, 15 Oct 2026 11:59:38 GMT"
+      "pub": "Wed, 14 Oct 2026 23:55:35 GMT"
     },
     {
-      "title": "La ética como punto de partida de la responsabilidad social empresarial",
-      "link": "https://expansion.mx/opinion/2026/10/15/la-etica-como-punto-de-partida-de-la-responsabilidad-social-empresarial",
+      "title": "Televisa va por AT&T México sin debilitar su perfil crediticio, anticipa S&P",
+      "link": "https://expansion.mx/mercados/2026/10/14/televisa-compra-att-mexico-impacto-crediticio-sp",
       "source": "Expansion MX",
-      "pub": "Thu, 15 Oct 2026 11:59:13 GMT"
+      "pub": "Wed, 14 Oct 2026 23:46:49 GMT"
     },
     {
-      "title": "HEINEKEN logra devolver más agua en Monterrey",
-      "link": "https://expansion.mx/empresas/2026/10/15/heineken-logra-devolver-mas-agua-en-monterrey",
+      "title": "De enemigo de Ford a salvador de Chrysler: el proyecto que Henry Ford II rechazó y rescató a su rival de la quiebra",
+      "link": "https://expansion.mx/empresas/2026/10/14/henry-ford-ii-chrysler-k-car-minivan",
       "source": "Expansion MX",
-      "pub": "Thu, 15 Oct 2026 11:55:35 GMT"
+      "pub": "Wed, 14 Oct 2026 23:41:39 GMT"
     },
     {
-      "title": "Vietnam incursiona como proveedor de autos para México con el primer embarque de Hyundai Creta",
-      "link": "https://expansion.mx/empresas/2026/10/15/vietnam-incursiona-proveedor-autos-para-mexico-hyundai-creta",
+      "title": "AT&T compró Iusacell para desafiar a Slim, pero ahora vende su negocio en México por la mitad de lo que le costó",
+      "link": "https://expansion.mx/empresas/2026/10/14/at-t-compro-iusacell-desafiar-slim-vender-televisa-fintech",
       "source": "Expansion MX",
-      "pub": "Thu, 15 Oct 2026 11:55:24 GMT"
+      "pub": "Wed, 14 Oct 2026 22:30:04 GMT"
     }
   ]
 }
