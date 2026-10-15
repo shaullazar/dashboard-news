@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T06:33:42.774703+00:00",
+  "updated": "2026-10-15T11:59:14.551714+00:00",
   "colombia": [
     {
       "title": "The Bogotá Post Presents its Top 10 Engineering Leaders to Watch in 2026",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Convocatoria Mentoras Expansión 2027",
+      "link": "https://expansion.mx/carrera/2026/10/15/convocatoria-mentoras-expansion-2027",
+      "source": "Expansion MX",
+      "pub": "Thu, 15 Oct 2026 11:01:18 GMT"
+    },
+    {
+      "title": "Convocatoria Las 100 mujeres más poderosas de los negocios 2027",
+      "link": "https://expansion.mx/carrera/2026/10/15/convocatoria-100-mujeres-mas-poderosas-negocios-2027",
+      "source": "Expansion MX",
+      "pub": "Thu, 15 Oct 2026 11:01:09 GMT"
+    },
+    {
       "title": "Diputados aprueban eliminar límite para programa del SAT que condona multas y recargos en 2027",
       "link": "https://expansion.mx/economia/2026/10/14/diputados-aprueban-sat-condona-multas-recargos-2027",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/mercados/2026/10/14/televisa-compra-att-mexico-impacto-crediticio-sp",
       "source": "Expansion MX",
       "pub": "Wed, 14 Oct 2026 23:46:49 GMT"
-    },
-    {
-      "title": "De enemigo de Ford a salvador de Chrysler: el proyecto que Henry Ford II rechazó y rescató a su rival de la quiebra",
-      "link": "https://expansion.mx/empresas/2026/10/14/henry-ford-ii-chrysler-k-car-minivan",
-      "source": "Expansion MX",
-      "pub": "Wed, 14 Oct 2026 23:41:39 GMT"
-    },
-    {
-      "title": "AT&T compró Iusacell para desafiar a Slim, pero ahora vende su negocio en México por la mitad de lo que le costó",
-      "link": "https://expansion.mx/empresas/2026/10/14/at-t-compro-iusacell-desafiar-slim-vender-televisa-fintech",
-      "source": "Expansion MX",
-      "pub": "Wed, 14 Oct 2026 22:30:04 GMT"
     }
   ]
 }
