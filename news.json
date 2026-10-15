@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T11:59:14.551714+00:00",
+  "updated": "2026-10-15T16:21:46.406695+00:00",
   "colombia": [
     {
       "title": "The Bogotá Post Presents its Top 10 Engineering Leaders to Watch in 2026",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Vietnam incursiona como proveedor de autos para México con el primer embarque de Hyundai Creta",
+      "link": "https://expansion.mx/empresas/2026/10/15/vietnam-incursiona-proveedor-autos-para-mexico-hyundai-creta",
+      "source": "Expansion MX",
+      "pub": "Thu, 15 Oct 2026 11:55:24 GMT"
+    },
+    {
+      "title": "Las criptomonedas disparan 52% los avisos antilavado ante la UIF",
+      "link": "https://expansion.mx/economia/2026/10/15/las-criptomonedas-disparan-52-los-avisos-antilavado-ante-la-uif",
+      "source": "Expansion MX",
+      "pub": "Thu, 15 Oct 2026 11:55:04 GMT"
+    },
+    {
       "title": "Convocatoria Mentoras Expansión 2027",
       "link": "https://expansion.mx/carrera/2026/10/15/convocatoria-mentoras-expansion-2027",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/carrera/2026/10/14/unam-tendra-dos-nuevas-sedes-cdmx-planteles-debes-conocer",
       "source": "Expansion MX",
       "pub": "Thu, 15 Oct 2026 00:00:56 GMT"
-    },
-    {
-      "title": "¿Quién es David Martínez, el empresario detrás de Fintech, que comprará AT&T con Televisa y evita los reflectores?",
-      "link": "https://expansion.mx/empresas/2026/10/14/david-martinez-inversionista-compra-att-con-televisa",
-      "source": "Expansion MX",
-      "pub": "Wed, 14 Oct 2026 23:55:35 GMT"
-    },
-    {
-      "title": "Televisa va por AT&T México sin debilitar su perfil crediticio, anticipa S&P",
-      "link": "https://expansion.mx/mercados/2026/10/14/televisa-compra-att-mexico-impacto-crediticio-sp",
-      "source": "Expansion MX",
-      "pub": "Wed, 14 Oct 2026 23:46:49 GMT"
     }
   ]
 }
