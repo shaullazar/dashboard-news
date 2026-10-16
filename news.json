@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T18:03:00.902242+00:00",
+  "updated": "2026-10-16T20:54:19.267504+00:00",
   "colombia": [
     {
       "title": "Nationwide protests in Colombia against President Abelardo De la Espriella",
@@ -64,12 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Elon Musk presenta el auto “volador” de Tesla, pero reconoce que no es necesariamente seguro para todos",
-      "link": "https://expansion.mx/tecnologia/2026/10/16/elon-musk-presenta-auto-volador-tesla-seguridad",
-      "source": "Expansion MX",
-      "pub": "Fri, 16 Oct 2026 14:26:14 GMT"
-    },
-    {
       "title": "Ya jugué una hora del remake de Ocarina of Time y te digo por qué lo preferirás en vez de GTA VI",
       "link": "https://expansion.mx/tecnologia/2026/10/16/ya-jugue-el-remake-de-ocarina-of-time-mejor-que-gta-6",
       "source": "Expansion MX",
@@ -122,6 +116,12 @@
       "link": "https://expansion.mx/empresas/2026/10/15/geely-monjaro-em-i-precio-mexico",
       "source": "Expansion MX",
       "pub": "Fri, 16 Oct 2026 01:56:25 GMT"
+    },
+    {
+      "title": "Costco estrena telefonía móvil para competir con Bait de Walmart, ¿qué ofrece Woz y en qué se diferencia?",
+      "link": "https://expansion.mx/empresas/2026/10/15/costco-telefonia-movil-competir-bait-walmart-diferencia",
+      "source": "Expansion MX",
+      "pub": "Fri, 16 Oct 2026 01:32:27 GMT"
     }
   ]
 }
