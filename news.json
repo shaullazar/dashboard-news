@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T05:06:31.972565+00:00",
+  "updated": "2026-10-16T09:40:53.770060+00:00",
   "colombia": [
     {
       "title": "Nationwide protests in Colombia against President Abelardo De la Espriella",
@@ -64,16 +64,28 @@
   ],
   "mexico": [
     {
+      "title": "Trabajadores de Volkswagen rechazan por segunda vez el contrato colectivo y mantienen riesgo de huelga",
+      "link": "https://expansion.mx/empresas/2026/10/15/trabajadores-volkswagen-rechazan-contrato-colectivo-huelga",
+      "source": "Expansion MX",
+      "pub": "Fri, 16 Oct 2026 05:57:19 GMT"
+    },
+    {
+      "title": "HR Ratings baja calificación de Pemex en línea con ajuste a nota de México",
+      "link": "https://expansion.mx/economia/2026/10/15/hr-ratings-baja-calificacion-de-pemex-en-linea-con-ajuste-a-nota-de-mexico",
+      "source": "Expansion MX",
+      "pub": "Fri, 16 Oct 2026 04:44:35 GMT"
+    },
+    {
+      "title": "Ni Azcárraga ni Vergara: este es el empresario número uno del futbol mexicano",
+      "link": "https://expansion.mx/empresas/2026/10/15/empresario-numero-uno-del-futbol-mexicano",
+      "source": "Expansion MX",
+      "pub": "Fri, 16 Oct 2026 03:25:08 GMT"
+    },
+    {
       "title": "Geely lanza Monjaro EM-i, el SUV enchufable rival de BYD Song Plus y Mitsubishi Outlander",
       "link": "https://expansion.mx/empresas/2026/10/15/geely-monjaro-em-i-precio-mexico",
       "source": "Expansion MX",
       "pub": "Fri, 16 Oct 2026 01:56:25 GMT"
-    },
-    {
-      "title": "El empresario número uno del futbol mexicano no es Vergara ni Azcárraga y pocos adivinarían quién",
-      "link": "https://expansion.mx/empresas/2026/10/15/empresario-numero-uno-del-futbol-mexicano",
-      "source": "Expansion MX",
-      "pub": "Fri, 16 Oct 2026 01:56:08 GMT"
     },
     {
       "title": "Costco estrena telefonía móvil para competir con Bait de Walmart, ¿qué ofrece Woz y en qué se diferencia?",
@@ -110,12 +122,6 @@
       "link": "https://expansion.mx/tendencias/2026/10/15/checo-perez-ferrari-mclaren-f1",
       "source": "Expansion MX",
       "pub": "Thu, 15 Oct 2026 22:34:19 GMT"
-    },
-    {
-      "title": "AMIIF convoca a gobierno, industria y comunidad científica a acelerar la innovación en salud",
-      "link": "https://expansion.mx/ciencia-y-salud/2026/10/15/amiff-semana-innovacion-industria-farcameutica-salud",
-      "source": "Expansion MX",
-      "pub": "Thu, 15 Oct 2026 21:32:12 GMT"
     }
   ]
 }
