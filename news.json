@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T20:52:48.349014+00:00",
+  "updated": "2026-10-17T22:42:55.397120+00:00",
   "colombia": [
     {
       "title": "Nationwide protests in Colombia against President Abelardo De la Espriella",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Los países pobres pagan cada vez más deuda, el petróleo sube y el FMI alerta por otra amenaza que lo empeora",
+      "link": "https://expansion.mx/economia/2026/10/17/fmi-alerta-deuda-petroleo-y-riesgos-para-paises-pobres",
+      "source": "Expansion MX",
+      "pub": "Sat, 17 Oct 2026 17:48:31 GMT"
+    },
+    {
+      "title": "El papa León XIV sale del hospital tras una operación por cáncer de pulmón, ¿cuál es su estado de salud?",
+      "link": "https://expansion.mx/mundo/2026/10/17/papa-leon-xiv-regresa-vaticano-tras-cirugia-pulmonar",
+      "source": "Expansion MX",
+      "pub": "Sat, 17 Oct 2026 16:31:47 GMT"
+    },
+    {
       "title": "Nu México debuta como banco ante la CNBV con menor morosidad que otros neobancos",
       "link": "https://expansion.mx/economia/2026/10/16/nu-mexico-debuta-como-banco-reporta-morosidad-de-6-79",
       "source": "Expansion MX",
@@ -104,18 +116,6 @@
       "link": "https://expansion.mx/tecnologia/2026/10/16/china-limita-exportacion-tecnologias-ia",
       "source": "Expansion MX",
       "pub": "Fri, 16 Oct 2026 21:00:47 GMT"
-    },
-    {
-      "title": "Fujifilm X100VI, la cámara viral que me devolvió el amor por la fotografía de calle",
-      "link": "https://expansion.mx/tecnologia/2026/10/16/fujifilm-x100vi-resena-precio-mexico",
-      "source": "Expansion MX",
-      "pub": "Fri, 16 Oct 2026 20:00:48 GMT"
-    },
-    {
-      "title": "Empezó usando baterías de laptop, circula desde hace años en el espacio y es el primer auto volador de Tesla",
-      "link": "https://expansion.mx/empresas/2026/10/16/tesla-roadster-auto-volador-historia",
-      "source": "Expansion MX",
-      "pub": "Fri, 16 Oct 2026 19:37:37 GMT"
     }
   ]
 }
