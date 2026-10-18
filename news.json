@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T22:42:55.397120+00:00",
+  "updated": "2026-10-18T00:19:35.299488+00:00",
   "colombia": [
     {
       "title": "Nationwide protests in Colombia against President Abelardo De la Espriella",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Olinia necesita dinero privado para producir en masa; el gobierno busca empresarios que inviertan hasta 745 mdp",
+      "link": "https://expansion.mx/empresas/2026/10/17/olinia-busca-inversionistas-para-producir-autos-electricos",
+      "source": "Expansion MX",
+      "pub": "Sat, 17 Oct 2026 21:58:32 GMT"
+    },
+    {
       "title": "Los países pobres pagan cada vez más deuda, el petróleo sube y el FMI alerta por otra amenaza que lo empeora",
       "link": "https://expansion.mx/economia/2026/10/17/fmi-alerta-deuda-petroleo-y-riesgos-para-paises-pobres",
       "source": "Expansion MX",
@@ -104,18 +110,6 @@
       "link": "https://expansion.mx/finanzas-personales/2026/10/16/continuacion-voluntaria-issste-seguir-cotizando",
       "source": "Expansion MX",
       "pub": "Fri, 16 Oct 2026 22:06:21 GMT"
-    },
-    {
-      "title": "Arturo Elías Ayub encabeza una empresa ligada a Slim que factura 13,832 millones, pero triunfa fuera de México",
-      "link": "https://expansion.mx/empresas/2026/10/16/arturo-elias-ayub-sitios-latinoamerica-negocio-slim",
-      "source": "Expansion MX",
-      "pub": "Fri, 16 Oct 2026 21:25:46 GMT"
-    },
-    {
-      "title": "China busca limitar la exportación de tecnologías de IA en medio de la disputa con EU",
-      "link": "https://expansion.mx/tecnologia/2026/10/16/china-limita-exportacion-tecnologias-ia",
-      "source": "Expansion MX",
-      "pub": "Fri, 16 Oct 2026 21:00:47 GMT"
     }
   ]
 }
