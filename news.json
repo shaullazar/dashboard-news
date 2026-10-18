@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T09:05:49.879151+00:00",
+  "updated": "2026-10-18T13:10:49.895855+00:00",
   "colombia": [
     {
       "title": "Nationwide protests in Colombia against President Abelardo De la Espriella",
@@ -64,6 +64,24 @@
   ],
   "mexico": [
     {
+      "title": "Slim y Televisa pasaron de socios a rivales: estalló una guerra de 4 años y la compra de AT&T México podría reabrirla",
+      "link": "https://expansion.mx/empresas/2026/10/17/carlos-slim-televisa-guerra-empresarial-att-mexico",
+      "source": "Expansion MX",
+      "pub": "Sun, 18 Oct 2026 00:05:19 GMT"
+    },
+    {
+      "title": "Francia estalla contra el costo de vida: cientos de miles protestan y desafían a Macron antes de las elecciones",
+      "link": "https://expansion.mx/mundo/2026/10/17/francia-protestas-costo-de-vida-macron-elecciones",
+      "source": "Expansion MX",
+      "pub": "Sat, 17 Oct 2026 23:49:30 GMT"
+    },
+    {
+      "title": "Olinia necesita dinero privado para producir en masa; el gobierno busca empresarios que inviertan hasta 745 mdp",
+      "link": "https://expansion.mx/empresas/2026/10/17/olinia-busca-inversionistas-para-producir-autos-electricos",
+      "source": "Expansion MX",
+      "pub": "Sat, 17 Oct 2026 21:58:32 GMT"
+    },
+    {
       "title": "Los países pobres pagan cada vez más deuda, el petróleo sube y el FMI alerta por otra amenaza que lo empeora",
       "link": "https://expansion.mx/economia/2026/10/17/fmi-alerta-deuda-petroleo-y-riesgos-para-paises-pobres",
       "source": "Expansion MX",
@@ -92,24 +110,6 @@
       "link": "https://expansion.mx/empresas/2026/10/16/eu-levanta-restricciones-aifa-aicm-nuevas-rutas",
       "source": "Expansion MX",
       "pub": "Fri, 16 Oct 2026 22:31:37 GMT"
-    },
-    {
-      "title": "México logrará reducir aranceles al acero y autos en semanas o meses, asegura Ebrard",
-      "link": "https://expansion.mx/economia/2026/10/16/ebrard-reduccion-aranceles-acero-autos-eu-t-mec",
-      "source": "Expansion MX",
-      "pub": "Fri, 16 Oct 2026 22:12:34 GMT"
-    },
-    {
-      "title": "Dejaste el gobierno, pero aún puedes cotizar al ISSSTE para mantener tu pensión: quiénes aplican y cuánto cuesta",
-      "link": "https://expansion.mx/finanzas-personales/2026/10/16/continuacion-voluntaria-issste-seguir-cotizando",
-      "source": "Expansion MX",
-      "pub": "Fri, 16 Oct 2026 22:06:21 GMT"
-    },
-    {
-      "title": "Arturo Elías Ayub encabeza una empresa ligada a Slim que factura 13,832 millones, pero triunfa fuera de México",
-      "link": "https://expansion.mx/empresas/2026/10/16/arturo-elias-ayub-sitios-latinoamerica-negocio-slim",
-      "source": "Expansion MX",
-      "pub": "Fri, 16 Oct 2026 21:25:46 GMT"
     }
   ]
 }
