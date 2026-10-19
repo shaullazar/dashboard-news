@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T17:18:07.336130+00:00",
+  "updated": "2026-10-19T21:33:57.287714+00:00",
   "colombia": [
     {
       "title": "Cafés de Colombia Expo 2026: More than just Juan Valdez",
@@ -64,6 +64,54 @@
   ],
   "mexico": [
     {
+      "title": "WhatsApp ya permite programar mensajes: cómo hacerlo y quiénes pueden usar la función",
+      "link": "https://expansion.mx/tecnologia/2026/10/19/whatsapp-como-programar-mensajes-paso-a-paso",
+      "source": "Expansion MX",
+      "pub": "Mon, 19 Oct 2026 18:16:09 GMT"
+    },
+    {
+      "title": "Chevrolet bajó tanto el precio del Aveo nuevo que uno usado dejó de ser la opción barata",
+      "link": "https://expansion.mx/empresas/2026/10/07/chevrolet-aveo-2026-nuevo-mas-barato-que-usado",
+      "source": "Expansion MX",
+      "pub": "Mon, 19 Oct 2026 17:51:34 GMT"
+    },
+    {
+      "title": "México afina la medición del contenido nacional para ganar más negocio en energía",
+      "link": "https://expansion.mx/economia/2026/10/19/mexico-afina-medicion-contenido-nacional-energia",
+      "source": "Expansion MX",
+      "pub": "Mon, 19 Oct 2026 17:35:47 GMT"
+    },
+    {
+      "title": "Ser la capital de los data centers obliga a Querétaro a reforzar su seguridad",
+      "link": "https://expansion.mx/tecnologia/2026/10/19/ser-la-capital-de-los-data-centers-obliga-a-queretaro-a-reforzar-su-seguridad",
+      "source": "Expansion MX",
+      "pub": "Mon, 19 Oct 2026 17:30:38 GMT"
+    },
+    {
+      "title": "Hacienda refinancia deuda pública por 238,000 millones de pesos",
+      "link": "https://expansion.mx/economia/2026/10/19/hacienda-refinancia-deuda-publica-238000-millones-de-pesos",
+      "source": "Expansion MX",
+      "pub": "Mon, 19 Oct 2026 17:20:52 GMT"
+    },
+    {
+      "title": "La próxima revolución científica necesita una nueva creatividad humana",
+      "link": "https://expansion.mx/opinion/2026/10/19/la-proxima-revolucion-cientifica-necesita-una-nueva-creatividad-humana",
+      "source": "Expansion MX",
+      "pub": "Mon, 19 Oct 2026 11:57:21 GMT"
+    },
+    {
+      "title": "México quiere atraer inversiones automotrices con un esquema que López Mateos prohibió en 1962",
+      "link": "https://expansion.mx/empresas/2026/10/19/mexico-atraer-inversiones-automotrices-esquema-skd-ckd",
+      "source": "Expansion MX",
+      "pub": "Mon, 19 Oct 2026 11:55:20 GMT"
+    },
+    {
+      "title": "Abogados analizan amparos frente a reforma a Ley del ISR para 2027",
+      "link": "https://expansion.mx/economia/2026/10/19/amparos-contra-reforma-ley-isr-deducciones",
+      "source": "Expansion MX",
+      "pub": "Mon, 19 Oct 2026 11:55:12 GMT"
+    },
+    {
       "title": "Estas son las marcas chinas de autobuses eléctricos que ya circulan en el Metrobús de CDMX",
       "link": "https://expansion.mx/empresas/2026/10/18/marcas-autobuses-electricos-chinos-metrobus-cdmx",
       "source": "Expansion MX",
@@ -74,42 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/10/17/carlos-slim-televisa-guerra-empresarial-att-mexico",
       "source": "Expansion MX",
       "pub": "Sun, 18 Oct 2026 00:05:19 GMT"
-    },
-    {
-      "title": "Francia estalla contra el costo de vida: cientos de miles protestan y desafían a Macron antes de las elecciones",
-      "link": "https://expansion.mx/mundo/2026/10/17/francia-protestas-costo-de-vida-macron-elecciones",
-      "source": "Expansion MX",
-      "pub": "Sat, 17 Oct 2026 23:49:30 GMT"
-    },
-    {
-      "title": "Olinia necesita dinero privado para producir en masa; el gobierno busca empresarios que inviertan hasta 745 mdp",
-      "link": "https://expansion.mx/empresas/2026/10/17/olinia-busca-inversionistas-para-producir-autos-electricos",
-      "source": "Expansion MX",
-      "pub": "Sat, 17 Oct 2026 21:58:32 GMT"
-    },
-    {
-      "title": "Los países pobres pagan cada vez más deuda, el petróleo sube y el FMI alerta por otra amenaza que lo empeora",
-      "link": "https://expansion.mx/economia/2026/10/17/fmi-alerta-deuda-petroleo-y-riesgos-para-paises-pobres",
-      "source": "Expansion MX",
-      "pub": "Sat, 17 Oct 2026 17:48:31 GMT"
-    },
-    {
-      "title": "El papa León XIV sale del hospital tras una operación por cáncer de pulmón, ¿cuál es su estado de salud?",
-      "link": "https://expansion.mx/mundo/2026/10/17/papa-leon-xiv-regresa-vaticano-tras-cirugia-pulmonar",
-      "source": "Expansion MX",
-      "pub": "Sat, 17 Oct 2026 16:31:47 GMT"
-    },
-    {
-      "title": "Nu México debuta como banco ante la CNBV con menor morosidad que otros neobancos",
-      "link": "https://expansion.mx/economia/2026/10/16/nu-mexico-debuta-como-banco-reporta-morosidad-de-6-79",
-      "source": "Expansion MX",
-      "pub": "Sat, 17 Oct 2026 00:25:07 GMT"
-    },
-    {
-      "title": "Hacienda sube IEPS a gasolinas y estímulos a diésel se mantienen; superan los 9.7 pesos por litro",
-      "link": "https://expansion.mx/economia/2026/10/16/hacienda-sube-ieps-gasolinas-diesel-17-octubre",
-      "source": "Expansion MX",
-      "pub": "Fri, 16 Oct 2026 23:52:32 GMT"
     }
   ]
 }
