@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T05:23:43.727924+00:00",
+  "updated": "2026-10-19T10:57:53.848399+00:00",
   "colombia": [
     {
       "title": "Cafés de Colombia Expo 2026: More than just Juan Valdez",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Estas son las marcas chinas de autobuses eléctricos que ya circulan en el Metrobús de CDMX",
+      "link": "https://expansion.mx/empresas/2026/10/18/marcas-autobuses-electricos-chinos-metrobus-cdmx",
+      "source": "Expansion MX",
+      "pub": "Sun, 18 Oct 2026 23:41:39 GMT"
+    },
+    {
       "title": "Slim y Televisa pasaron de socios a rivales: estalló una guerra de 4 años y la compra de AT&T México podría reabrirla",
       "link": "https://expansion.mx/empresas/2026/10/17/carlos-slim-televisa-guerra-empresarial-att-mexico",
       "source": "Expansion MX",
@@ -104,12 +110,6 @@
       "link": "https://expansion.mx/economia/2026/10/16/hacienda-sube-ieps-gasolinas-diesel-17-octubre",
       "source": "Expansion MX",
       "pub": "Fri, 16 Oct 2026 23:52:32 GMT"
-    },
-    {
-      "title": "El AIFA y el AICM superan otro obstáculo, EU levanta restricciones y las aerolíneas podrán abrir más rutas",
-      "link": "https://expansion.mx/empresas/2026/10/16/eu-levanta-restricciones-aifa-aicm-nuevas-rutas",
-      "source": "Expansion MX",
-      "pub": "Fri, 16 Oct 2026 22:31:37 GMT"
     }
   ]
 }
