@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T14:42:23.011329+00:00",
+  "updated": "2026-10-20T18:43:59.922238+00:00",
   "colombia": [
     {
       "title": "Cafés de Colombia Expo 2026: More than just Juan Valdez",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "Roku y TCL refuerzan su alianza para competir con Samsung, LG y Hisense en México",
+      "link": "https://expansion.mx/tecnologia/2026/10/20/roku-tcl-alianza-televisores-mexico-2027",
+      "source": "Expansion MX",
+      "pub": "Tue, 20 Oct 2026 16:00:05 GMT"
+    },
+    {
+      "title": "Promociones en gasolina y una cuenta bancaria fácil de abrir, así debutará la Ley de Economía Digital",
+      "link": "https://expansion.mx/economia/2026/10/20/promociones-en-gasolina-y-una-cuenta-bancaria-facil-de-abrir-asi-debutara-la-ley-de-economia-digital",
+      "source": "Expansion MX",
+      "pub": "Tue, 20 Oct 2026 15:51:35 GMT"
+    },
+    {
+      "title": "Petróleo e incertidumbre por la IA golpean a las bolsas; peso supera los 18.50 por dólar",
+      "link": "https://expansion.mx/mercados/2026/10/20/tipo-cambio-hoy-20-octubre-2026-apertura-mercados",
+      "source": "Expansion MX",
+      "pub": "Tue, 20 Oct 2026 14:45:35 GMT"
+    },
+    {
+      "title": "Una falla eléctrica en Google Cloud afecta a miles de clientes de bancos como HSBC y Revolut",
+      "link": "https://expansion.mx/tecnologia/2026/10/20/falla-electrica-google-cloud-afecta-bancos-revolut-hsbc",
+      "source": "Expansion MX",
+      "pub": "Tue, 20 Oct 2026 14:29:09 GMT"
+    },
+    {
       "title": "¿Quién va ganando en la loca carrera por la IA?",
       "link": "https://expansion.mx/https:/obras.expansion.mx/opinion/2026/10/20/quien-va-ganando-en-la-loca-carrera-por-la-ia",
       "source": "Expansion MX",
@@ -98,30 +122,6 @@
       "link": "https://expansion.mx/finanzas-personales/2026/10/19/aguinaldo-impuestos-2026-quienes-pagan-sat-calcularlo-sueldo",
       "source": "Expansion MX",
       "pub": "Mon, 19 Oct 2026 22:59:33 GMT"
-    },
-    {
-      "title": "Ante envejecimiento del país Afores piden revisar sistema de pensiones, pero descartan elevar la edad de retiro",
-      "link": "https://expansion.mx/economia/2026/10/19/ante-envejecimiento-del-pais-afores-piden-revisar-sistema-de-pensiones-pero-descartan-elevar-la-edad-de-retiro",
-      "source": "Expansion MX",
-      "pub": "Mon, 19 Oct 2026 22:53:46 GMT"
-    },
-    {
-      "title": "Estudiante de la UNITEC crea invento para que personas ciegas 'sientan' lo que el bastón blanco no detecta",
-      "link": "https://expansion.mx/tecnologia/2026/10/19/estudiante-mexicano-crea-falcon-discapacidad-visual",
-      "source": "Expansion MX",
-      "pub": "Mon, 19 Oct 2026 22:39:26 GMT"
-    },
-    {
-      "title": "El rival de Norteamérica no es solo China, sino una Asia que reorganiza su inversión",
-      "link": "https://expansion.mx/economia/2026/10/19/asia-inversion-extranjera-desafio-norteamerica",
-      "source": "Expansion MX",
-      "pub": "Mon, 19 Oct 2026 22:18:57 GMT"
-    },
-    {
-      "title": "Asigna Consar 9.4 millones de cuentas de Afore a XXI Banorte; será la nueva prestadora de servicios del SAR",
-      "link": "https://expansion.mx/economia/2026/10/19/asigna-consar-9-4-millones-de-cuentas-de-afore-a-xxi-banorte-sera-la-nueva-prestadora-de-servicios-del-sar",
-      "source": "Expansion MX",
-      "pub": "Mon, 19 Oct 2026 22:13:49 GMT"
     }
   ]
 }
