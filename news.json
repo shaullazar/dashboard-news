@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T00:34:31.631049+00:00",
+  "updated": "2026-10-20T05:11:21.011297+00:00",
   "colombia": [
     {
       "title": "Cafés de Colombia Expo 2026: More than just Juan Valdez",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Esta es la cantidad que te retiene el SAT por cada 10,000 pesos que inviertes en Cetes",
+      "link": "https://expansion.mx/finanzas-personales/2026/10/19/retiene-sat-por-cada-10-000-pesos-inviertes-en-cetes",
+      "source": "Expansion MX",
+      "pub": "Tue, 20 Oct 2026 02:13:19 GMT"
+    },
+    {
       "title": "Aguinaldo del ISSSTE 2026: cuándo cae el depósito y qué pensionados pueden recibirlo",
       "link": "https://expansion.mx/finanzas-personales/2026/10/19/aguinaldo-issste-2026-pensionados-fecha-pago",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/economia/2026/10/19/sindicatos-municipios-partidos-politicos-asociaciones-sat",
       "source": "Expansion MX",
       "pub": "Mon, 19 Oct 2026 19:34:05 GMT"
-    },
-    {
-      "title": "Cáncer de mama en México: qué cambios en tus senos no debes ignorar y dónde revisarte sin costo",
-      "link": "https://expansion.mx/ciencia-y-salud/2026/10/19/cancer-de-mama-mexico-cambios-senos-revisarte-sin-costo",
-      "source": "Expansion MX",
-      "pub": "Mon, 19 Oct 2026 19:12:29 GMT"
     }
   ]
 }
