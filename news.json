@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T09:59:30.079237+00:00",
+  "updated": "2026-10-20T14:42:23.011329+00:00",
   "colombia": [
     {
       "title": "Cafés de Colombia Expo 2026: More than just Juan Valdez",
@@ -64,6 +64,24 @@
   ],
   "mexico": [
     {
+      "title": "¿Quién va ganando en la loca carrera por la IA?",
+      "link": "https://expansion.mx/https:/obras.expansion.mx/opinion/2026/10/20/quien-va-ganando-en-la-loca-carrera-por-la-ia",
+      "source": "Expansion MX",
+      "pub": "Tue, 20 Oct 2026 11:59:13 GMT"
+    },
+    {
+      "title": "Especialistas advierten que la velocidad del cómputo cuántico dejará obsoleta la protección digital en México",
+      "link": "https://expansion.mx/tecnologia/2026/10/20/computo-cuantico-deja-obsoleta-proteccion-digital-mexico",
+      "source": "Expansion MX",
+      "pub": "Tue, 20 Oct 2026 11:55:50 GMT"
+    },
+    {
+      "title": "México se prepara para disminuir el uso del efectivo; ley de Economía Digital entra en su etapa final de aprobación",
+      "link": "https://expansion.mx/economia/2026/10/20/curp-digital-as-bajo-para-reducir-el-uso-de-efectivo",
+      "source": "Expansion MX",
+      "pub": "Tue, 20 Oct 2026 11:55:26 GMT"
+    },
+    {
       "title": "Esta es la cantidad que te retiene el SAT por cada 10,000 pesos que inviertes en Cetes",
       "link": "https://expansion.mx/finanzas-personales/2026/10/19/retiene-sat-por-cada-10-000-pesos-inviertes-en-cetes",
       "source": "Expansion MX",
@@ -104,24 +122,6 @@
       "link": "https://expansion.mx/economia/2026/10/19/asigna-consar-9-4-millones-de-cuentas-de-afore-a-xxi-banorte-sera-la-nueva-prestadora-de-servicios-del-sar",
       "source": "Expansion MX",
       "pub": "Mon, 19 Oct 2026 22:13:49 GMT"
-    },
-    {
-      "title": "Qué hay detrás de las protestas en Francia y por qué decretaron toques de queda",
-      "link": "https://expansion.mx/mundo/2026/10/19/por-que-hay-protestas-en-francia-decretaron-toques-de-queda",
-      "source": "Expansion MX",
-      "pub": "Mon, 19 Oct 2026 21:25:59 GMT"
-    },
-    {
-      "title": "El ISSSTE puede cancelar tu pensión de viudez por volver a casarte, pero todavía puedes recuperarla",
-      "link": "https://expansion.mx/finanzas-personales/2026/10/19/issste-cancela-pension-viudez-volver-a-casarse",
-      "source": "Expansion MX",
-      "pub": "Mon, 19 Oct 2026 20:14:41 GMT"
-    },
-    {
-      "title": "Sindicatos, municipios, partidos políticos y asociaciones civiles estarán bajo la lupa del SAT",
-      "link": "https://expansion.mx/economia/2026/10/19/sindicatos-municipios-partidos-politicos-asociaciones-sat",
-      "source": "Expansion MX",
-      "pub": "Mon, 19 Oct 2026 19:34:05 GMT"
     }
   ]
 }
