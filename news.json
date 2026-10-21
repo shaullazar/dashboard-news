@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T04:39:39.327425+00:00",
+  "updated": "2026-10-21T09:36:18.222176+00:00",
   "colombia": [
     {
       "title": "Cafés de Colombia Expo 2026: More than just Juan Valdez",
@@ -64,6 +64,24 @@
   ],
   "mexico": [
     {
+      "title": "De Sears y Sanborns a la IA, así construye su camino en los negocios el hijo de Arturo Elías Ayub",
+      "link": "https://expansion.mx/empresas/2026/10/20/asi-construye-negocios-hijo-de-arturo-elias-ayub",
+      "source": "Expansion MX",
+      "pub": "Wed, 21 Oct 2026 01:50:34 GMT"
+    },
+    {
+      "title": "La Comer impulsa sus ventas con promociones, pero mayores gastos en sueldos, publicidad y tiendas diluyen sus ganancias",
+      "link": "https://expansion.mx/empresas/2026/10/20/la-comer-ventas-utilidad-reporte-trimestral-2026",
+      "source": "Expansion MX",
+      "pub": "Wed, 21 Oct 2026 01:13:19 GMT"
+    },
+    {
+      "title": "Alsea recupera utilidad con el repunte de Starbucks tras un primer semestre difícil",
+      "link": "https://expansion.mx/empresas/2026/10/20/reporte-trimestral-alsea-recupera-utilidad-efecto-starbucks",
+      "source": "Expansion MX",
+      "pub": "Wed, 21 Oct 2026 00:21:06 GMT"
+    },
+    {
       "title": "GAP se dispara 8% y lidera en la BMV; Wall Street busca ganancias fuera de la IA",
       "link": "https://expansion.mx/mercados/2026/10/20/acciones-bmv-tipo-cambio-hoy-20-octubre-2026",
       "source": "Expansion MX",
@@ -104,24 +122,6 @@
       "link": "https://expansion.mx/tendencias/2026/10/20/1-2-noviembre-dia-de-muertos-dias-descanso-oficial-2026",
       "source": "Expansion MX",
       "pub": "Tue, 20 Oct 2026 21:06:35 GMT"
-    },
-    {
-      "title": "La “Superinteligencia” ya es el negocio más grande de SpaceX; creció 830% y superó a Starlink y sus cohetes",
-      "link": "https://expansion.mx/tecnologia/2026/10/20/la-superinteligencia-ya-es-el-negocio-mas-grande-de-spacex",
-      "source": "Expansion MX",
-      "pub": "Tue, 20 Oct 2026 20:40:25 GMT"
-    },
-    {
-      "title": "Subway lanzó un sándwich con pan negro y Doritos para \"darle una mordida\" a las ventas de temporada",
-      "link": "https://expansion.mx/mercadotecnia/2026/10/20/subway-chicken-frankie-que-tiene-cuando-llega-mexico",
-      "source": "Expansion MX",
-      "pub": "Tue, 20 Oct 2026 20:23:30 GMT"
-    },
-    {
-      "title": "Siri AI ya está disponible en español y esto es todo lo que puedes hacer",
-      "link": "https://expansion.mx/tecnologia/2026/10/20/siri-ai-espanol-todo-lo-que-puedes-hacer",
-      "source": "Expansion MX",
-      "pub": "Tue, 20 Oct 2026 20:01:26 GMT"
     }
   ]
 }
