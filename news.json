@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T15:08:16.588507+00:00",
+  "updated": "2026-10-22T19:10:58.666681+00:00",
   "colombia": [
     {
       "title": "Colombia president removes artefacts from National Museum in ‘cultural counter-revolution’",
@@ -64,6 +64,42 @@
   ],
   "mexico": [
     {
+      "title": "¿Qué buscan los consumidores para el Buen Fin 2026?",
+      "link": "https://expansion.mx/bespoke-ad/2026/10/22/que-buscan-los-consumidores-para-el-buen-fin-2026",
+      "source": "Expansion MX",
+      "pub": "Thu, 22 Oct 2026 15:00:48 GMT"
+    },
+    {
+      "title": "La inflación sorprende al alza en octubre y llega a 3.62% anual: Inegi",
+      "link": "https://expansion.mx/economia/2026/10/22/inegi-inflacion-sorprende-al-alza-octubre-3-62-anual",
+      "source": "Expansion MX",
+      "pub": "Thu, 22 Oct 2026 12:40:01 GMT"
+    },
+    {
+      "title": "La red humana que sostiene la vida cuando el cáncer irrumpe",
+      "link": "https://expansion.mx/opinion/2026/10/22/la-red-humana-que-sostiene-la-vida-cuando-el-cancer-irrumpe",
+      "source": "Expansion MX",
+      "pub": "Thu, 22 Oct 2026 12:02:16 GMT"
+    },
+    {
+      "title": "La IA cambió al estudiante antes que a la educación",
+      "link": "https://expansion.mx/opinion/2026/10/22/la-ia-cambio-al-estudiante-antes-que-a-la-educacion",
+      "source": "Expansion MX",
+      "pub": "Thu, 22 Oct 2026 11:59:14 GMT"
+    },
+    {
+      "title": "Le diste los correos de tu empresa a la IA, pero, ¿quién vigila que no filtre tus secretos?",
+      "link": "https://expansion.mx/tecnologia/2026/10/22/riesgos-ia-agentes-correos-datos-empresas-ciberseguridad",
+      "source": "Expansion MX",
+      "pub": "Thu, 22 Oct 2026 11:55:40 GMT"
+    },
+    {
+      "title": "Alivio fiscal para las empresas es un “ganar-ganar”, pero el CCE mantiene la pelea por deducciones",
+      "link": "https://expansion.mx/economia/2026/10/22/cce-adeudos-fiscales-multas-recargos-y-deducciones-2027",
+      "source": "Expansion MX",
+      "pub": "Thu, 22 Oct 2026 11:55:14 GMT"
+    },
+    {
       "title": "Bose compra Skullcandy para conquistar a los consumidores que su marca premium no alcanza",
       "link": "https://expansion.mx/tecnologia/2026/10/21/bose-compra-skullcandy-para-conquistar-a-los-consumidores-que-su-marca-premium-no-alcanza",
       "source": "Expansion MX",
@@ -86,42 +122,6 @@
       "link": "https://expansion.mx/economia/2026/10/21/ley-de-economia-digital-gentera-preve-una-transicion-gradual-en-la-reduccion-del-efectivo-en-mexico",
       "source": "Expansion MX",
       "pub": "Thu, 22 Oct 2026 00:01:09 GMT"
-    },
-    {
-      "title": "América Móvil impulsa a la BMV sobre los 70,000 puntos; el peso cae a 18.68 por dólar",
-      "link": "https://expansion.mx/mercados/2026/10/21/america-movil-sube-bmv-peso-mexicano-18-68-dolar",
-      "source": "Expansion MX",
-      "pub": "Wed, 21 Oct 2026 23:33:13 GMT"
-    },
-    {
-      "title": "Crecen créditos fiscales del sector financiero con el SAT; acumulan 99,674 mdp",
-      "link": "https://expansion.mx/economia/2026/10/21/crecen-creditos-fiscales-del-sector-financiero-con-el-sat-acumulan-99-674-mdp",
-      "source": "Expansion MX",
-      "pub": "Wed, 21 Oct 2026 23:23:02 GMT"
-    },
-    {
-      "title": "¿Cuándo llegan los animales en día de Muertos? En esta fecha se pone la ofrenda para mascotas",
-      "link": "https://expansion.mx/tendencias/2026/10/21/cuando-llegan-animales-dia-de-muertos-ofrenda",
-      "source": "Expansion MX",
-      "pub": "Wed, 21 Oct 2026 23:16:25 GMT"
-    },
-    {
-      "title": "Llegó de Ucrania a los 19 años, vendió herramientas en tianguis de CDMX y sentó las bases del imperio Truper",
-      "link": "https://expansion.mx/empresas/2026/10/21/truper-historia-origen-ucrania-tianguis-cdmx",
-      "source": "Expansion MX",
-      "pub": "Wed, 21 Oct 2026 21:24:20 GMT"
-    },
-    {
-      "title": "Los deducibles más altos encarecen el seguro médico que las empresas dan a sus empleados",
-      "link": "https://expansion.mx/carrera/2026/10/21/seguro-medico-empresarial-aumento-pago-deducibles",
-      "source": "Expansion MX",
-      "pub": "Wed, 21 Oct 2026 21:12:46 GMT"
-    },
-    {
-      "title": "Meses sin intereses, pagos pequeños que comprometen tus finanzas cada mes",
-      "link": "https://expansion.mx/finanzas-personales/2026/10/21/meses-sin-intereses-riesgos-deudas-como-evitar",
-      "source": "Expansion MX",
-      "pub": "Wed, 21 Oct 2026 21:02:30 GMT"
     }
   ]
 }
