@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T19:10:58.666681+00:00",
+  "updated": "2026-10-22T22:16:41.033675+00:00",
   "colombia": [
     {
       "title": "Colombia president removes artefacts from National Museum in ‘cultural counter-revolution’",
@@ -64,6 +64,36 @@
   ],
   "mexico": [
     {
+      "title": "Ya usé el nuevo iPhone Duo y entendí por qué no es para todos y no tiene nada que ver con el precio",
+      "link": "https://expansion.mx/tecnologia/2026/10/22/ya-use-el-nuevo-iphone-duo-y-entendi-para-quien-es",
+      "source": "Expansion MX",
+      "pub": "Thu, 22 Oct 2026 19:00:19 GMT"
+    },
+    {
+      "title": "Qué es el virus Shamonda, detectado por primera vez en un humano, y qué se sabe de su transmisión",
+      "link": "https://expansion.mx/mundo/2026/10/22/virus-shamonda-detectado-primera-vez-humano-como-transmite",
+      "source": "Expansion MX",
+      "pub": "Thu, 22 Oct 2026 18:25:05 GMT"
+    },
+    {
+      "title": "IMSS pone nuevas condiciones a Modalidad 40 y no todos quedan igual: qué cambia y a quién afecta",
+      "link": "https://expansion.mx/finanzas-personales/2026/10/22/modalidad-40-imss-cambia-2026-modificaciones",
+      "source": "Expansion MX",
+      "pub": "Thu, 22 Oct 2026 18:07:51 GMT"
+    },
+    {
+      "title": "Trump tendrá que declarar bajo juramento en demanda de 10,000 mdd contra la BBC; jueza fija fecha límite",
+      "link": "https://expansion.mx/mundo/2026/10/22/jueza-ordena-a-trump-declarar-contra-la-bbc",
+      "source": "Expansion MX",
+      "pub": "Thu, 22 Oct 2026 18:05:45 GMT"
+    },
+    {
+      "title": "Meta se desploma 6.7% en apertura de Wall Street; el peso cotiza en 18.70 por dólar",
+      "link": "https://expansion.mx/mercados/2026/10/22/acciones-meta-desploma-6-7-peso-cotiza-18-70-por-dolar",
+      "source": "Expansion MX",
+      "pub": "Thu, 22 Oct 2026 16:12:55 GMT"
+    },
+    {
       "title": "¿Qué buscan los consumidores para el Buen Fin 2026?",
       "link": "https://expansion.mx/bespoke-ad/2026/10/22/que-buscan-los-consumidores-para-el-buen-fin-2026",
       "source": "Expansion MX",
@@ -88,40 +118,10 @@
       "pub": "Thu, 22 Oct 2026 11:59:14 GMT"
     },
     {
-      "title": "Le diste los correos de tu empresa a la IA, pero, ¿quién vigila que no filtre tus secretos?",
+      "title": "Le diste los correos de tu empresa a la IA, pero ¿quién vigila que no filtre tus secretos?",
       "link": "https://expansion.mx/tecnologia/2026/10/22/riesgos-ia-agentes-correos-datos-empresas-ciberseguridad",
       "source": "Expansion MX",
       "pub": "Thu, 22 Oct 2026 11:55:40 GMT"
-    },
-    {
-      "title": "Alivio fiscal para las empresas es un “ganar-ganar”, pero el CCE mantiene la pelea por deducciones",
-      "link": "https://expansion.mx/economia/2026/10/22/cce-adeudos-fiscales-multas-recargos-y-deducciones-2027",
-      "source": "Expansion MX",
-      "pub": "Thu, 22 Oct 2026 11:55:14 GMT"
-    },
-    {
-      "title": "Bose compra Skullcandy para conquistar a los consumidores que su marca premium no alcanza",
-      "link": "https://expansion.mx/tecnologia/2026/10/21/bose-compra-skullcandy-para-conquistar-a-los-consumidores-que-su-marca-premium-no-alcanza",
-      "source": "Expansion MX",
-      "pub": "Thu, 22 Oct 2026 02:50:44 GMT"
-    },
-    {
-      "title": "En México ya circula un mini auto eléctrico que no es Olinia, tiene modo deportivo y hasta 200 km de autonomía",
-      "link": "https://expansion.mx/empresas/2026/10/21/zacua-vs-olinia-auto-electrico-mexicano",
-      "source": "Expansion MX",
-      "pub": "Thu, 22 Oct 2026 01:09:11 GMT"
-    },
-    {
-      "title": "AT&T reconoce un deterioro contable de 2,600 mdd y pérdida de 500 mdd en ingresos anuales por venta de filial mexicana",
-      "link": "https://expansion.mx/empresas/2026/10/21/salida-mexico-att-reconoce-perdida-ingresos-500-mdd-anuales",
-      "source": "Expansion MX",
-      "pub": "Thu, 22 Oct 2026 00:05:00 GMT"
-    },
-    {
-      "title": "Ley de economía digital: Gentera prevé una transición gradual en la reducción del efectivo en México",
-      "link": "https://expansion.mx/economia/2026/10/21/ley-de-economia-digital-gentera-preve-una-transicion-gradual-en-la-reduccion-del-efectivo-en-mexico",
-      "source": "Expansion MX",
-      "pub": "Thu, 22 Oct 2026 00:01:09 GMT"
     }
   ]
 }
