@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T05:21:26.033794+00:00",
+  "updated": "2026-10-23T10:12:52.255892+00:00",
   "colombia": [
     {
       "title": "Colombia president removes artefacts from National Museum in ‘cultural counter-revolution’",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Bimbo aumenta 22% sus ganancias con México como motor de crecimiento",
+      "link": "https://expansion.mx/empresas/2026/10/22/bimbo-utilidad-tercer-trimestre-mexico-ventas",
+      "source": "Expansion MX",
+      "pub": "Fri, 23 Oct 2026 03:12:12 GMT"
+    },
+    {
       "title": "El trágico accidente que le dio su nombre al Autódromo Hermanos Rodríguez y tiene que ver con dos famosos pilotos de F1",
       "link": "https://expansion.mx/tendencias/2026/10/22/accidente-nombre-autodromo-hermanos-rodriguez-f1",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/economia/2026/10/20/los-cuidados-en-la-vejez-requeriran-ahorros-por-persona-superiores-a-2-mdp-ante-cambios-demograficos-en-mexico",
       "source": "Expansion MX",
       "pub": "Thu, 22 Oct 2026 22:44:20 GMT"
-    },
-    {
-      "title": "Alza de precios en seguros de gastos médicos mayores, principal motivo de cancelación, dice Condusef",
-      "link": "https://expansion.mx/economia/2026/10/22/alza-de-precios-en-seguros-de-gastos-medicos-mayores-principal-motivo-de-cancelacion-dice-condusef",
-      "source": "Expansion MX",
-      "pub": "Thu, 22 Oct 2026 22:38:41 GMT"
     }
   ]
 }
