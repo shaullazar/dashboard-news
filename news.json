@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T10:12:52.255892+00:00",
+  "updated": "2026-10-23T15:02:30.114035+00:00",
   "colombia": [
     {
       "title": "Colombia president removes artefacts from National Museum in ‘cultural counter-revolution’",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Comprar más a EU no basta: el déficit con México sigue creciendo sin freno a la vista",
+      "link": "https://expansion.mx/economia/2026/10/23/comprar-mas-eu-no-basta-deficit-comercial-mexico",
+      "source": "Expansion MX",
+      "pub": "Fri, 23 Oct 2026 11:55:20 GMT"
+    },
+    {
+      "title": "Perder la batalla del video costó 1,000 mdd: la historia de los formatos fallidos que sobreviven entre coleccionistas",
+      "link": "https://expansion.mx/tecnologia/2026/10/23/betamax-minidisc-laserdisc-hd-dvd-tecnologias-desaparecidas",
+      "source": "Expansion MX",
+      "pub": "Fri, 23 Oct 2026 11:55:10 GMT"
+    },
+    {
       "title": "Bimbo aumenta 22% sus ganancias con México como motor de crecimiento",
       "link": "https://expansion.mx/empresas/2026/10/22/bimbo-utilidad-tercer-trimestre-mexico-ventas",
       "source": "Expansion MX",
@@ -104,24 +116,6 @@
       "link": "https://expansion.mx/empresas/2026/10/22/officemax-deja-de-ser-solo-papeleria-maquillaje-skincare",
       "source": "Expansion MX",
       "pub": "Thu, 22 Oct 2026 22:58:53 GMT"
-    },
-    {
-      "title": "El peso mexicano se encamina a una depreciación semanal de 1.2% frente al dólar",
-      "link": "https://expansion.mx/mercados/2026/10/22/epeso-mexicano-depreciacion-semanal-1-2-dolar",
-      "source": "Expansion MX",
-      "pub": "Thu, 22 Oct 2026 22:50:35 GMT"
-    },
-    {
-      "title": "Se acabaron las jubilaciones doradas: la educación financiera se convirtió en el 'plan de retiro' de los jóvenes",
-      "link": "https://expansion.mx/carrera/2026/10/22/fin-jubilacion-dorada-finanzas-personales-ahorro-retiro",
-      "source": "Expansion MX",
-      "pub": "Thu, 22 Oct 2026 22:47:12 GMT"
-    },
-    {
-      "title": "Los cuidados en la vejez requerirán ahorros por persona superiores a 2 mdp ante cambios demográficos en México",
-      "link": "https://expansion.mx/economia/2026/10/20/los-cuidados-en-la-vejez-requeriran-ahorros-por-persona-superiores-a-2-mdp-ante-cambios-demograficos-en-mexico",
-      "source": "Expansion MX",
-      "pub": "Thu, 22 Oct 2026 22:44:20 GMT"
     }
   ]
 }
