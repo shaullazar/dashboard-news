@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T16:34:53.715831+00:00",
+  "updated": "2026-10-24T18:57:18.116742+00:00",
   "colombia": [
     {
       "title": "Colombia president removes artefacts from National Museum in ‘cultural counter-revolution’",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Profuturo adelanta el reloj y gana el Gran Effie al ponerle cara al retiro",
+      "link": "https://expansion.mx/mercadotecnia/2026/10/24/profuturo-gran-effie-mexico-2026-retiro-gut-agencias",
+      "source": "Expansion MX",
+      "pub": "Sat, 24 Oct 2026 14:00:36 GMT"
+    },
+    {
       "title": "Mientras el Olinia costará 150,000 pesos, en Japón el Suzuki e-Sky cuesta 186,319, recorre 310 km y carga en 25 minutos",
       "link": "https://expansion.mx/empresas/2026/10/23/olinia-vs-suzuki-e-sky-precio-autonomia-carga",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/tecnologia/2026/10/23/meta-retrasa-terminos-uso-noticias-inteligencia-artificial",
       "source": "Expansion MX",
       "pub": "Fri, 23 Oct 2026 19:10:35 GMT"
-    },
-    {
-      "title": "Con los cambios en la Modalidad 40, este es el nuevo tope máximo en la pensión del IMSS",
-      "link": "https://expansion.mx/finanzas-personales/2026/10/23/modalidad-40-imss-nuevo-tope-pension-2026",
-      "source": "Expansion MX",
-      "pub": "Fri, 23 Oct 2026 18:43:09 GMT"
     }
   ]
 }
