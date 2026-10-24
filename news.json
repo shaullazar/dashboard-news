@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T21:22:38.229612+00:00",
+  "updated": "2026-10-24T23:23:53.408275+00:00",
   "colombia": [
     {
       "title": "Colombia president removes artefacts from National Museum in ‘cultural counter-revolution’",
@@ -64,6 +64,36 @@
   ],
   "mexico": [
     {
+      "title": "¿Mensajería o paquetería? Profeco compara precios y tiempos de entrega",
+      "link": "https://expansion.mx/empresas/2026/10/24/profeco-compara-precios-mensajeria-paqueteria",
+      "source": "Expansion MX",
+      "pub": "Sat, 24 Oct 2026 18:48:55 GMT"
+    },
+    {
+      "title": "Lula y Bolsonaro cierran sus campañas con actos de calle en Brasil",
+      "link": "https://expansion.mx/mundo/2026/10/24/brasil-elecciones-lula-flavio-bolsonaro-segunda-vuelta",
+      "source": "Expansion MX",
+      "pub": "Sat, 24 Oct 2026 17:05:43 GMT"
+    },
+    {
+      "title": "Con ISR de 7.5% el SAT quiere regresar capitales del extranjero",
+      "link": "https://expansion.mx/economia/2026/10/24/isr-75-sat-retorno-capitales-extranjero-2027",
+      "source": "Expansion MX",
+      "pub": "Sat, 24 Oct 2026 16:34:09 GMT"
+    },
+    {
+      "title": "A tres años de Otis, negocios operan sin seguro y escasa protección ante eventos climáticos",
+      "link": "https://expansion.mx/economia/2026/10/24/huracan-otis-negocios-acapulco-mitad-blindaje-financiero",
+      "source": "Expansion MX",
+      "pub": "Sat, 24 Oct 2026 14:05:50 GMT"
+    },
+    {
+      "title": "Profuturo adelanta el reloj y gana el Gran Effie al ponerle cara al retiro",
+      "link": "https://expansion.mx/mercadotecnia/2026/10/24/profuturo-gran-effie-mexico-2026-retiro-gut-agencias",
+      "source": "Expansion MX",
+      "pub": "Sat, 24 Oct 2026 14:00:36 GMT"
+    },
+    {
       "title": "Mientras el Olinia costará 150,000 pesos, en Japón el Suzuki e-Sky cuesta 186,319, recorre 310 km y carga en 25 minutos",
       "link": "https://expansion.mx/empresas/2026/10/23/olinia-vs-suzuki-e-sky-precio-autonomia-carga",
       "source": "Expansion MX",
@@ -92,36 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/10/23/plaza-carso-el-manhattan-de-carlos-slim-en-cdmx",
       "source": "Expansion MX",
       "pub": "Fri, 23 Oct 2026 22:30:29 GMT"
-    },
-    {
-      "title": "Bet365 y Betano podrían regresar a México tras fallo judicial, pero el dinero de usuarios sigue bloqueado",
-      "link": "https://expansion.mx/tecnologia/2026/10/23/bet365-betano-regreso-mexico-fallo-tribunal-dinero-usuarios",
-      "source": "Expansion MX",
-      "pub": "Fri, 23 Oct 2026 20:41:34 GMT"
-    },
-    {
-      "title": "¿Trabajas por honorarios? Este es el caso en que sí te deben pagar aguinaldo en 2026",
-      "link": "https://expansion.mx/finanzas-personales/2026/10/23/aguinaldo-honorarios-2026-derecho-pago",
-      "source": "Expansion MX",
-      "pub": "Fri, 23 Oct 2026 20:40:22 GMT"
-    },
-    {
-      "title": "Trabajadores de confianza de Pemex llevan a la SCJN lucha por reconocimiento sindical",
-      "link": "https://expansion.mx/empresas/2026/10/23/trabajadores-de-confianza-pemex-scjn-reconocimiento-sindical",
-      "source": "Expansion MX",
-      "pub": "Fri, 23 Oct 2026 20:18:39 GMT"
-    },
-    {
-      "title": "Meta retrasa nuevas reglas que le permitirían usar contenido de sitios web tras presión de editores",
-      "link": "https://expansion.mx/tecnologia/2026/10/23/meta-retrasa-terminos-uso-noticias-inteligencia-artificial",
-      "source": "Expansion MX",
-      "pub": "Fri, 23 Oct 2026 19:10:35 GMT"
-    },
-    {
-      "title": "Con los cambios en la Modalidad 40, este es el nuevo tope máximo en la pensión del IMSS",
-      "link": "https://expansion.mx/finanzas-personales/2026/10/23/modalidad-40-imss-nuevo-tope-pension-2026",
-      "source": "Expansion MX",
-      "pub": "Fri, 23 Oct 2026 18:43:09 GMT"
     }
   ]
 }
