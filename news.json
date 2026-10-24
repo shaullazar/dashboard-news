@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T00:14:35.555736+00:00",
+  "updated": "2026-10-24T04:36:28.538558+00:00",
   "colombia": [
     {
       "title": "Colombia president removes artefacts from National Museum in ‘cultural counter-revolution’",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "Gasolinas tendrán mayores cuotas por IEPS y los subsidios al diésel llegan a los 10 pesos",
+      "link": "https://expansion.mx/economia/2026/10/23/gasolinas-impuesto-ieps-subsidios-diesel",
+      "source": "Expansion MX",
+      "pub": "Fri, 23 Oct 2026 23:49:01 GMT"
+    },
+    {
+      "title": "HSBC suspenderá el uso de sus tarjetas durante varias horas por mantenimiento y estos clientes serán afectados",
+      "link": "https://expansion.mx/finanzas-personales/2026/10/23/tarjetas-hsbc-dejaran-funcionar-horas-mantenimiento",
+      "source": "Expansion MX",
+      "pub": "Fri, 23 Oct 2026 22:38:25 GMT"
+    },
+    {
+      "title": "Jornada de 40 horas abre dudas sobre los ingresos por bonos, comisiones y horas extra",
+      "link": "https://expansion.mx/carrera/2026/10/23/jornada-laboral-40-horas-bonos-comisiones-horas-extra",
+      "source": "Expansion MX",
+      "pub": "Fri, 23 Oct 2026 22:33:37 GMT"
+    },
+    {
+      "title": "Carlos Slim creó el 'Manhattan' de la CDMX donde había fábricas: la megaobra que reúne negocios, vivienda y museos",
+      "link": "https://expansion.mx/empresas/2026/10/23/plaza-carso-el-manhattan-de-carlos-slim-en-cdmx",
+      "source": "Expansion MX",
+      "pub": "Fri, 23 Oct 2026 22:30:29 GMT"
+    },
+    {
       "title": "Bet365 y Betano podrían regresar a México tras fallo judicial, pero el dinero de usuarios sigue bloqueado",
       "link": "https://expansion.mx/tecnologia/2026/10/23/bet365-betano-regreso-mexico-fallo-tribunal-dinero-usuarios",
       "source": "Expansion MX",
@@ -98,30 +122,6 @@
       "link": "https://expansion.mx/carrera/2026/10/23/embajada-eu-abre-vacante-para-chef-s-sueldo-superior-ley",
       "source": "Expansion MX",
       "pub": "Fri, 23 Oct 2026 17:48:20 GMT"
-    },
-    {
-      "title": "Ley de economía digital: México alcanza máximo de tarjetas de crédito y reduce el número de sucursales bancarias",
-      "link": "https://expansion.mx/economia/2026/10/23/ley-de-economia-digital-mexico-alcanza-maximo-de-tarjetas-de-credito-y-reduce-el-numero-de-sucursales-bancarias",
-      "source": "Expansion MX",
-      "pub": "Fri, 23 Oct 2026 16:18:30 GMT"
-    },
-    {
-      "title": "El peso toma un respiro, pero se encamina a siete semanas de pérdidas",
-      "link": "https://expansion.mx/mercados/2026/10/23/dolar-hoy-23-octubre-2026-peso-mexicano-bolsa-mexicana",
-      "source": "Expansion MX",
-      "pub": "Fri, 23 Oct 2026 15:27:26 GMT"
-    },
-    {
-      "title": "Cómo comprar el iPhone Duo en México desde 48,000 pesos y cuántos meses debes esperar para recibirlo",
-      "link": "https://expansion.mx/tecnologia/2026/10/23/iphone-duo-mexico-precio-compra-y-tiempo-de-entrega",
-      "source": "Expansion MX",
-      "pub": "Fri, 23 Oct 2026 15:22:24 GMT"
-    },
-    {
-      "title": "Economía mexicana crece más de lo esperado y mejora su perspectiva para 2026",
-      "link": "https://expansion.mx/economia/2026/10/23/economia-mexicana-crece-mas-de-lo-esperado-y-mejora-su-perspectiva-para-2026",
-      "source": "Expansion MX",
-      "pub": "Fri, 23 Oct 2026 15:00:09 GMT"
     }
   ]
 }
