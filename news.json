@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T04:36:28.538558+00:00",
+  "updated": "2026-10-24T09:04:10.501288+00:00",
   "colombia": [
     {
       "title": "Colombia president removes artefacts from National Museum in ‘cultural counter-revolution’",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Mientras el Olinia costará 150,000 pesos, en Japón el Suzuki e-Sky cuesta 186,319, recorre 310 km y carga en 25 minutos",
+      "link": "https://expansion.mx/empresas/2026/10/23/olinia-vs-suzuki-e-sky-precio-autonomia-carga",
+      "source": "Expansion MX",
+      "pub": "Sat, 24 Oct 2026 01:52:46 GMT"
+    },
+    {
       "title": "Gasolinas tendrán mayores cuotas por IEPS y los subsidios al diésel llegan a los 10 pesos",
       "link": "https://expansion.mx/economia/2026/10/23/gasolinas-impuesto-ieps-subsidios-diesel",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/finanzas-personales/2026/10/23/modalidad-40-imss-nuevo-tope-pension-2026",
       "source": "Expansion MX",
       "pub": "Fri, 23 Oct 2026 18:43:09 GMT"
-    },
-    {
-      "title": "La Embajada de EU en México busca chef y ofrece 20,800 pesos al mes para cocinar en la residencia del embajador",
-      "link": "https://expansion.mx/carrera/2026/10/23/embajada-eu-abre-vacante-para-chef-s-sueldo-superior-ley",
-      "source": "Expansion MX",
-      "pub": "Fri, 23 Oct 2026 17:48:20 GMT"
     }
   ]
 }
