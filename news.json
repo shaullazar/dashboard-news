@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T18:06:48.851770+00:00",
+  "updated": "2026-10-25T20:44:50.515503+00:00",
   "colombia": [
     {
       "title": "Colombia president removes artefacts from National Museum in ‘cultural counter-revolution’",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Vales de despensa, bajo la lupa antimonopolio; un beneficio que alcanza a 40 millones de personas",
+      "link": "https://expansion.mx/economia/2026/10/25/vales-de-despensa-bajo-la-lupa-antimonopolio-un-beneficio-que-alcanza-a-40-millones-de-personas",
+      "source": "Expansion MX",
+      "pub": "Sun, 25 Oct 2026 16:04:40 GMT"
+    },
+    {
       "title": "Dodo Pizza llega a México con un plan de 200 restaurantes para 2035",
       "link": "https://expansion.mx/empresas/2026/10/24/dodo-pizza-mexico-200-restaurantes-2035",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/mercadotecnia/2026/10/24/profuturo-gran-effie-mexico-2026-retiro-gut-agencias",
       "source": "Expansion MX",
       "pub": "Sat, 24 Oct 2026 14:00:36 GMT"
-    },
-    {
-      "title": "Mientras el Olinia costará 150,000 pesos, en Japón el Suzuki e-Sky cuesta 186,319, recorre 310 km y carga en 25 minutos",
-      "link": "https://expansion.mx/empresas/2026/10/23/olinia-vs-suzuki-e-sky-precio-autonomia-carga",
-      "source": "Expansion MX",
-      "pub": "Sat, 24 Oct 2026 01:52:46 GMT"
     }
   ]
 }
