@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T01:18:49.787587+00:00",
+  "updated": "2026-10-25T06:13:44.339017+00:00",
   "colombia": [
     {
       "title": "Colombia president removes artefacts from National Museum in ‘cultural counter-revolution’",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "Dodo Pizza llega a México con un plan de 200 restaurantes para 2035",
+      "link": "https://expansion.mx/empresas/2026/10/24/dodo-pizza-mexico-200-restaurantes-2035",
+      "source": "Expansion MX",
+      "pub": "Sun, 25 Oct 2026 00:36:46 GMT"
+    },
+    {
+      "title": "Capcom alerta por acceso a datos de casi 12 millones de cuentas de usuarios",
+      "link": "https://expansion.mx/tecnologia/2026/10/24/capcom-acceso-no-autorizado-datos-cuentas-usuarios",
+      "source": "Expansion MX",
+      "pub": "Sat, 24 Oct 2026 23:47:23 GMT"
+    },
+    {
+      "title": "Trump vota por anticipado en Florida para las elecciones intermedias de EU",
+      "link": "https://expansion.mx/mundo/2026/10/24/trump-vota-anticipado-elecciones-intermedias-eu",
+      "source": "Expansion MX",
+      "pub": "Sat, 24 Oct 2026 21:57:01 GMT"
+    },
+    {
+      "title": "Las redes sociales abren oportunidades de venta para las PyMEs de cara al fin de año",
+      "link": "https://expansion.mx/empresas/2026/10/24/pymes-redes-sociales-ventas-fin-de-ano",
+      "source": "Expansion MX",
+      "pub": "Sat, 24 Oct 2026 20:41:05 GMT"
+    },
+    {
       "title": "¿Mensajería o paquetería? Profeco compara precios y tiempos de entrega",
       "link": "https://expansion.mx/empresas/2026/10/24/profeco-compara-precios-mensajeria-paqueteria",
       "source": "Expansion MX",
@@ -98,30 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/10/23/olinia-vs-suzuki-e-sky-precio-autonomia-carga",
       "source": "Expansion MX",
       "pub": "Sat, 24 Oct 2026 01:52:46 GMT"
-    },
-    {
-      "title": "Gasolinas tendrán mayores cuotas por IEPS y los subsidios al diésel llegan a los 10 pesos",
-      "link": "https://expansion.mx/economia/2026/10/23/gasolinas-impuesto-ieps-subsidios-diesel",
-      "source": "Expansion MX",
-      "pub": "Fri, 23 Oct 2026 23:49:01 GMT"
-    },
-    {
-      "title": "HSBC suspenderá el uso de sus tarjetas durante varias horas por mantenimiento y estos clientes serán afectados",
-      "link": "https://expansion.mx/finanzas-personales/2026/10/23/tarjetas-hsbc-dejaran-funcionar-horas-mantenimiento",
-      "source": "Expansion MX",
-      "pub": "Fri, 23 Oct 2026 22:38:25 GMT"
-    },
-    {
-      "title": "Jornada de 40 horas abre dudas sobre los ingresos por bonos, comisiones y horas extra",
-      "link": "https://expansion.mx/carrera/2026/10/23/jornada-laboral-40-horas-bonos-comisiones-horas-extra",
-      "source": "Expansion MX",
-      "pub": "Fri, 23 Oct 2026 22:33:37 GMT"
-    },
-    {
-      "title": "Carlos Slim creó el 'Manhattan' de la CDMX donde había fábricas: la megaobra que reúne negocios, vivienda y museos",
-      "link": "https://expansion.mx/empresas/2026/10/23/plaza-carso-el-manhattan-de-carlos-slim-en-cdmx",
-      "source": "Expansion MX",
-      "pub": "Fri, 23 Oct 2026 22:30:29 GMT"
     }
   ]
 }
