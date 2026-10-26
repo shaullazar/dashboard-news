@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T11:15:12.692257+00:00",
+  "updated": "2026-10-26T17:23:13.306063+00:00",
   "colombia": [
     {
       "title": "Colombia president removes artefacts from National Museum in ‘cultural counter-revolution’",
@@ -64,13 +64,7 @@
   ],
   "mexico": [
     {
-      "title": "Lula da Silva conquista un cuarto mandato y prolonga su legado político en Brasil",
-      "link": "https://expansion.mx/mundo/2026/10/25/lula-da-silva-gana-elecciones-presidente-brasil-2026",
-      "source": "Expansion MX",
-      "pub": "Mon, 26 Oct 2026 00:50:30 GMT"
-    },
-    {
-      "title": "Pensión del IMSS e ISSSTE en noviembre: estas son las fechas de pago y cuándo recibirán el aguinaldo",
+      "title": "Pensión del IMSS e ISSSTE en noviembre: estas son las fechas de pago y aguinaldo en noviembre",
       "link": "https://expansion.mx/finanzas-personales/2026/10/25/pension-imss-issste-noviembre-fecha-cuanto-aguinaldo",
       "source": "Expansion MX",
       "pub": "Sun, 25 Oct 2026 21:30:31 GMT"
@@ -122,6 +116,12 @@
       "link": "https://expansion.mx/mundo/2026/10/24/brasil-elecciones-lula-flavio-bolsonaro-segunda-vuelta",
       "source": "Expansion MX",
       "pub": "Sat, 24 Oct 2026 17:05:43 GMT"
+    },
+    {
+      "title": "Con ISR de 7.5% el SAT quiere regresar capitales del extranjero",
+      "link": "https://expansion.mx/economia/2026/10/24/isr-75-sat-retorno-capitales-extranjero-2027",
+      "source": "Expansion MX",
+      "pub": "Sat, 24 Oct 2026 16:34:09 GMT"
     }
   ]
 }
