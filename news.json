@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T00:44:49.231926+00:00",
+  "updated": "2026-10-26T05:20:34.171915+00:00",
   "colombia": [
     {
       "title": "Colombia president removes artefacts from National Museum in ‘cultural counter-revolution’",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "Lula da Silva conquista un cuarto mandato y prolonga su legado político en Brasil",
+      "link": "https://expansion.mx/mundo/2026/10/25/lula-da-silva-gana-elecciones-presidente-brasil-2026",
+      "source": "Expansion MX",
+      "pub": "Mon, 26 Oct 2026 00:50:30 GMT"
+    },
+    {
+      "title": "Pensión del IMSS e ISSSTE en noviembre: estas son las fechas de pago y cuándo recibirán el aguinaldo",
+      "link": "https://expansion.mx/finanzas-personales/2026/10/25/pension-imss-issste-noviembre-fecha-cuanto-aguinaldo",
+      "source": "Expansion MX",
+      "pub": "Sun, 25 Oct 2026 21:30:31 GMT"
+    },
+    {
+      "title": "Brasil vuelve a las urnas con Lula y Flávio Bolsonaro en una elección que se define en una segunda vuelta",
+      "link": "https://expansion.mx/mundo/2026/10/25/brasil-lula-flavio-bolsonaro-eleccion-segunda-vuelta",
+      "source": "Expansion MX",
+      "pub": "Sun, 25 Oct 2026 18:38:58 GMT"
+    },
+    {
+      "title": "Vales de despensa, bajo la lupa antimonopolio; un beneficio que alcanza a 40 millones de personas",
+      "link": "https://expansion.mx/economia/2026/10/25/vales-de-despensa-bajo-la-lupa-antimonopolio-un-beneficio-que-alcanza-a-40-millones-de-personas",
+      "source": "Expansion MX",
+      "pub": "Sun, 25 Oct 2026 16:04:40 GMT"
+    },
+    {
       "title": "Dodo Pizza llega a México con un plan de 200 restaurantes para 2035",
       "link": "https://expansion.mx/empresas/2026/10/24/dodo-pizza-mexico-200-restaurantes-2035",
       "source": "Expansion MX",
@@ -98,30 +122,6 @@
       "link": "https://expansion.mx/mundo/2026/10/24/brasil-elecciones-lula-flavio-bolsonaro-segunda-vuelta",
       "source": "Expansion MX",
       "pub": "Sat, 24 Oct 2026 17:05:43 GMT"
-    },
-    {
-      "title": "Con ISR de 7.5% el SAT quiere regresar capitales del extranjero",
-      "link": "https://expansion.mx/economia/2026/10/24/isr-75-sat-retorno-capitales-extranjero-2027",
-      "source": "Expansion MX",
-      "pub": "Sat, 24 Oct 2026 16:34:09 GMT"
-    },
-    {
-      "title": "A tres años de Otis, negocios operan sin seguro y escasa protección ante eventos climáticos",
-      "link": "https://expansion.mx/economia/2026/10/24/huracan-otis-negocios-acapulco-mitad-blindaje-financiero",
-      "source": "Expansion MX",
-      "pub": "Sat, 24 Oct 2026 14:05:50 GMT"
-    },
-    {
-      "title": "Profuturo adelanta el reloj y gana el Gran Effie al ponerle cara al retiro",
-      "link": "https://expansion.mx/mercadotecnia/2026/10/24/profuturo-gran-effie-mexico-2026-retiro-gut-agencias",
-      "source": "Expansion MX",
-      "pub": "Sat, 24 Oct 2026 14:00:36 GMT"
-    },
-    {
-      "title": "Mientras el Olinia costará 150,000 pesos, en Japón el Suzuki e-Sky cuesta 186,319, recorre 310 km y carga en 25 minutos",
-      "link": "https://expansion.mx/empresas/2026/10/23/olinia-vs-suzuki-e-sky-precio-autonomia-carga",
-      "source": "Expansion MX",
-      "pub": "Sat, 24 Oct 2026 01:52:46 GMT"
     }
   ]
 }
