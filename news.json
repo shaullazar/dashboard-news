@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T10:57:10.336684+00:00",
+  "updated": "2026-10-27T16:07:48.695822+00:00",
   "colombia": [
     {
       "title": "Colombia president removes artefacts from National Museum in ‘cultural counter-revolution’",
@@ -64,12 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "¿Quién es dueño de Dodo Pizza, la cadena rusa que quiere quitarle clientes a Little Caesars y Domino's en México?",
-      "link": "https://expansion.mx/empresas/2026/10/26/quien-dueno-dodo-pizza-cadena-rusa-little-caesars-dominos",
-      "source": "Expansion MX",
-      "pub": "Tue, 27 Oct 2026 01:43:46 GMT"
-    },
-    {
       "title": "Brasil golpea a Coca-Cola FEMSA y arrastra a la BMV; el peso avanza",
       "link": "https://expansion.mx/mercados/2026/10/26/brasil-golpea-a-coca-cola-femsa-y-arrastra-a-la-bmv-el-peso-avanza",
       "source": "Expansion MX",
@@ -122,6 +116,12 @@
       "link": "https://expansion.mx/tecnologia/2026/10/26/curiosidades-pantalla-iphone-duo",
       "source": "Expansion MX",
       "pub": "Mon, 26 Oct 2026 21:00:19 GMT"
+    },
+    {
+      "title": "Afores obtienen más dinero vía comisiones mientras Consar vuelve a bajar la tasa de cobro para 2027",
+      "link": "https://expansion.mx/economia/2026/10/26/afores-obtienen-mas-dinero-via-comisiones-mientras-consar-vuelve-a-bajar-la-tasa-de-cobro-para-2027",
+      "source": "Expansion MX",
+      "pub": "Mon, 26 Oct 2026 20:34:17 GMT"
     }
   ]
 }
