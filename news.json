@@ -1,6 +1,12 @@
 {
-  "updated": "2026-10-27T20:38:12.289050+00:00",
+  "updated": "2026-10-27T23:58:13.409241+00:00",
   "colombia": [
+    {
+      "title": "As Bogotá restricts phones in schools, teachers explore AI in the classroom",
+      "link": "https://thebogotapost.com/as-bogota-restricts-phones-in-schools-teachers-explore-ai-in-the-classroom/56855/",
+      "source": "The Bogota Post",
+      "pub": "Tue, 27 Oct 2026 23:17:19 +0000"
+    },
     {
       "title": "Colombia president removes artefacts from National Museum in ‘cultural counter-revolution’",
       "link": "https://thebogotapost.com/colombia-president-removes-artefacts-from-national-museum-declares-cultural-counter-revolution/56850/",
@@ -54,15 +60,15 @@
       "link": "https://thebogotapost.com/colombias-child-welfare-institution-faces-criticism-for-omitting-the-word-girl/56779/",
       "source": "The Bogota Post",
       "pub": "Tue, 29 Sep 2026 01:45:07 +0000"
-    },
-    {
-      "title": "12 signatories of Colombia’s peace process killed so far in 2026",
-      "link": "https://thebogotapost.com/12-signatories-of-colombias-peace-process-killed-so-far-in-2026/56776/",
-      "source": "The Bogota Post",
-      "pub": "Mon, 28 Sep 2026 17:24:52 +0000"
     }
   ],
   "mexico": [
+    {
+      "title": "Un exdirectivo de Meta quiere reemplazar Word, Excel y PowerPoint con Inteligencia Artificial",
+      "link": "https://expansion.mx/tecnologia/2026/10/27/director-ia-meta-rohit-patel-microsoft-office-google",
+      "source": "Expansion MX",
+      "pub": "Tue, 27 Oct 2026 17:25:38 GMT"
+    },
     {
       "title": "Las elecciones de EU pueden cambiar la negociación del T-MEC, pero no el poder de Trump",
       "link": "https://expansion.mx/economia/2026/10/27/t-mec-elecciones-eu-que-cambia-para-mexico",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/tendencias/2026/10/26/balon-de-oro-2026-ganadores-masculino-y-femenino",
       "source": "Expansion MX",
       "pub": "Mon, 26 Oct 2026 22:53:00 GMT"
-    },
-    {
-      "title": "Tras renuncia de Taddei, la IP exige investigar irregularidades y un relevo imparcial",
-      "link": "https://expansion.mx/economia/2026/10/26/coparmex-investigacion-relevo-taddei-ine",
-      "source": "Expansion MX",
-      "pub": "Mon, 26 Oct 2026 22:29:06 GMT"
     }
   ]
 }
