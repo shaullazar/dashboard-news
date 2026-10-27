@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T16:07:48.695822+00:00",
+  "updated": "2026-10-27T20:38:12.289050+00:00",
   "colombia": [
     {
       "title": "Colombia president removes artefacts from National Museum in ‘cultural counter-revolution’",
@@ -64,6 +64,36 @@
   ],
   "mexico": [
     {
+      "title": "Las elecciones de EU pueden cambiar la negociación del T-MEC, pero no el poder de Trump",
+      "link": "https://expansion.mx/economia/2026/10/27/t-mec-elecciones-eu-que-cambia-para-mexico",
+      "source": "Expansion MX",
+      "pub": "Tue, 27 Oct 2026 15:02:15 GMT"
+    },
+    {
+      "title": "El peso mexicano cae a 18.66 por dólar; Wall Street avanza con la Fed y la IA en la mira",
+      "link": "https://expansion.mx/mercados/2026/10/27/peso-mexicano-18-66-por-dolar-hoy-27-octubre-2026",
+      "source": "Expansion MX",
+      "pub": "Tue, 27 Oct 2026 14:49:00 GMT"
+    },
+    {
+      "title": "Exportaciones de México crecen 37.9% en septiembre y alcanzan su tercer máximo histórico",
+      "link": "https://expansion.mx/economia/2026/10/27/exportaciones-mexico-septiembre-2026-deficit-comercial",
+      "source": "Expansion MX",
+      "pub": "Tue, 27 Oct 2026 13:02:42 GMT"
+    },
+    {
+      "title": "Los topes a deducciones y condonación de multas del SAT a grandes empresas llegan al pleno del Senado",
+      "link": "https://expansion.mx/economia/2026/10/27/deducciones-condonacion-multas-empresas-senado",
+      "source": "Expansion MX",
+      "pub": "Tue, 27 Oct 2026 11:55:58 GMT"
+    },
+    {
+      "title": "¿Quién es dueño de Dodo Pizza, la cadena rusa que quiere quitarle clientes a Little Caesars y Domino's en México?",
+      "link": "https://expansion.mx/empresas/2026/10/26/quien-dueno-dodo-pizza-cadena-rusa-little-caesars-dominos",
+      "source": "Expansion MX",
+      "pub": "Tue, 27 Oct 2026 01:43:46 GMT"
+    },
+    {
       "title": "Brasil golpea a Coca-Cola FEMSA y arrastra a la BMV; el peso avanza",
       "link": "https://expansion.mx/mercados/2026/10/26/brasil-golpea-a-coca-cola-femsa-y-arrastra-a-la-bmv-el-peso-avanza",
       "source": "Expansion MX",
@@ -92,36 +122,6 @@
       "link": "https://expansion.mx/economia/2026/10/26/coparmex-investigacion-relevo-taddei-ine",
       "source": "Expansion MX",
       "pub": "Mon, 26 Oct 2026 22:29:06 GMT"
-    },
-    {
-      "title": "YUMovil va por los usuarios chinos que viven en México con una plataforma 'al estilo WeChat'",
-      "link": "https://expansion.mx/empresas/2026/10/26/yumovil-plataforma-usuarios-chinos-sim-mexico",
-      "source": "Expansion MX",
-      "pub": "Mon, 26 Oct 2026 22:26:41 GMT"
-    },
-    {
-      "title": "Las marcas apuestan a ciegas por aparecer en la IA: invierten más, pero desconocen el retorno en ventas",
-      "link": "https://expansion.mx/tecnologia/2026/10/26/marcas-invierten-chatgpt-ia-sin-medir-ventas",
-      "source": "Expansion MX",
-      "pub": "Mon, 26 Oct 2026 22:00:24 GMT"
-    },
-    {
-      "title": "Olinia quiere hacer el auto eléctrico mexicano, pero una marca china ya presume su sello de \"Hecho en México\"",
-      "link": "https://expansion.mx/empresas/2026/10/26/olinia-auto-electrico-marca-china-presume-sello-hecho-mexico",
-      "source": "Expansion MX",
-      "pub": "Mon, 26 Oct 2026 21:09:25 GMT"
-    },
-    {
-      "title": "Las pantallas del iPhone Duo no se doblan, se deslizan: lo que descubrí mientras usaba el nuevo plegable de Apple",
-      "link": "https://expansion.mx/tecnologia/2026/10/26/curiosidades-pantalla-iphone-duo",
-      "source": "Expansion MX",
-      "pub": "Mon, 26 Oct 2026 21:00:19 GMT"
-    },
-    {
-      "title": "Afores obtienen más dinero vía comisiones mientras Consar vuelve a bajar la tasa de cobro para 2027",
-      "link": "https://expansion.mx/economia/2026/10/26/afores-obtienen-mas-dinero-via-comisiones-mientras-consar-vuelve-a-bajar-la-tasa-de-cobro-para-2027",
-      "source": "Expansion MX",
-      "pub": "Mon, 26 Oct 2026 20:34:17 GMT"
     }
   ]
 }
