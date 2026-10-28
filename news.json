@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T10:02:41.265555+00:00",
+  "updated": "2026-10-28T16:32:57.923746+00:00",
   "colombia": [
     {
       "title": "As Bogotá restricts phones in schools, teachers explore AI in the classroom",
@@ -64,6 +64,36 @@
   ],
   "mexico": [
     {
+      "title": "¿Aún conviene la Modalidad 40 del IMSS tras los cambios si estoy en trámite para jubilarme?",
+      "link": "https://expansion.mx/economia/2026/10/28/aun-conviene-la-modalidad-40-del-imss-tras-los-cambios-si-estoy-en-tramite-para-jubilarme",
+      "source": "Expansion MX",
+      "pub": "Wed, 28 Oct 2026 15:41:32 GMT"
+    },
+    {
+      "title": "Tragedia en España; dos trenes de alta velocidad chocan, dejan más de 60 muertos y decenas de heridos",
+      "link": "https://expansion.mx/mundo/2026/10/28/choque-de-trenes-espana-toledo",
+      "source": "Expansion MX",
+      "pub": "Wed, 28 Oct 2026 13:36:25 GMT"
+    },
+    {
+      "title": "Airbnb llevará a más países su programa de estancias médicas tras probarlo en México",
+      "link": "https://expansion.mx/tecnologia/2026/10/28/airbnb-alojamiento-gratis-estancias-medicas-mexico-violencia",
+      "source": "Expansion MX",
+      "pub": "Wed, 28 Oct 2026 13:00:50 GMT"
+    },
+    {
+      "title": "La Ley de Economía Digital abre una batalla legal por las facultades de Hacienda",
+      "link": "https://expansion.mx/economia/2026/10/28/la-ley-de-economia-digital-abre-una-batalla-legal-por-las-facultades-de-hacienda",
+      "source": "Expansion MX",
+      "pub": "Wed, 28 Oct 2026 11:55:41 GMT"
+    },
+    {
+      "title": "Coca-Cola Femsa recupera ventas en México pese al alza de impuestos a las bebidas azucaradas",
+      "link": "https://expansion.mx/empresas/2026/10/27/coca-cola-femsa-ventas-mexico-ieps-tercer-trimestre-2026",
+      "source": "Expansion MX",
+      "pub": "Wed, 28 Oct 2026 04:18:08 GMT"
+    },
+    {
       "title": "El Senado aprueba las leyes de Ingresos y Derechos 2027 y las envía al Ejecutivo para su publicación en el DOF",
       "link": "https://expansion.mx/economia/2026/10/27/senado-aprueba-ley-ingresos-derechos",
       "source": "Expansion MX",
@@ -92,36 +122,6 @@
       "link": "https://expansion.mx/finanzas-personales/2026/10/27/subieron-sueldo-deben-usar-calcular-tu-aguinaldo-2026",
       "source": "Expansion MX",
       "pub": "Wed, 28 Oct 2026 00:09:17 GMT"
-    },
-    {
-      "title": "Recorte a CFE para 2027 obedece a revisión de su gasto, explica Hacienda",
-      "link": "https://expansion.mx/economia/2026/10/27/hacienda-recorte-cfe-2027-obedece-revision-gasto",
-      "source": "Expansion MX",
-      "pub": "Tue, 27 Oct 2026 23:53:49 GMT"
-    },
-    {
-      "title": "Flavio Bolsonaro huye a Estados Unidos tras su derrota contra Lula",
-      "link": "https://expansion.mx/mundo/2026/10/27/flavio-bolsonaro-huye-estados-unidos-tras-derrota-lula",
-      "source": "Expansion MX",
-      "pub": "Tue, 27 Oct 2026 23:21:48 GMT"
-    },
-    {
-      "title": "El seguro médico sube de precio, pero empresas buscan mantener la prestación a sus colaboradores",
-      "link": "https://expansion.mx/economia/2026/10/27/el-seguro-medico-sube-de-precio-pero-empresas-buscan-mantener-la-prestacion-a-sus-colaboradores",
-      "source": "Expansion MX",
-      "pub": "Tue, 27 Oct 2026 23:21:23 GMT"
-    },
-    {
-      "title": "Walmart mantiene precios bajos para atraer clientes, pero la estrategia presiona sus resultados",
-      "link": "https://expansion.mx/empresas/2026/10/27/walmart-reporte-trimestral-ganancias-2026",
-      "source": "Expansion MX",
-      "pub": "Tue, 27 Oct 2026 22:19:03 GMT"
-    },
-    {
-      "title": "Gran Premio de México 2026: cómo llegar al Autódromo, qué transporte tomar y cuánto cuesta cada opción",
-      "link": "https://expansion.mx/tendencias/2026/10/27/gran-premio-de-mexico-2026-rutas-y-alternativas-para-llegar",
-      "source": "Expansion MX",
-      "pub": "Tue, 27 Oct 2026 22:10:27 GMT"
     }
   ]
 }
