@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T13:43:29.342409+00:00",
+  "updated": "2026-10-29T19:13:01.177152+00:00",
   "colombia": [
     {
       "title": "As Bogotá restricts phones in schools, teachers explore AI in the classroom",
@@ -64,24 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Renault renueva el Kwid y cambia de fábrica para mantener su precio en México",
-      "link": "https://expansion.mx/empresas/2026/10/28/renault-renueva-kwid-precio",
-      "source": "Expansion MX",
-      "pub": "Thu, 29 Oct 2026 02:29:08 GMT"
-    },
-    {
-      "title": "Ley de Economía Digital no será draconiana; la implementación de pagos digitales será paulatina, dicen banqueros",
-      "link": "https://expansion.mx/economia/2026/10/28/ley-de-economia-digital-no-sera-draconiana-la-implementacion-de-pagos-digitales-sera-paulatina-dicen-banqueros",
-      "source": "Expansion MX",
-      "pub": "Thu, 29 Oct 2026 01:55:06 GMT"
-    },
-    {
-      "title": "Taco Bell fracasó en México donde hoy triunfa Chipotle: la breve historia de su paso fallido por el país",
-      "link": "https://expansion.mx/empresas/2026/10/28/taco-bell-fracaso-mexico-triunfa-chipotle-historia",
-      "source": "Expansion MX",
-      "pub": "Thu, 29 Oct 2026 01:52:42 GMT"
-    },
-    {
       "title": "José Cuervo no logra atraer nuevos consumidores y sus ganancias se desploman 85% en el tercer trimestre",
       "link": "https://expansion.mx/empresas/2026/10/28/jose-cuervo-caida-ganancias-tercer-trimestre-2026",
       "source": "Expansion MX",
@@ -122,6 +104,24 @@
       "link": "https://expansion.mx/mercados/2026/10/28/bitso-invertir-20-pesos-empresas-plan-mexico",
       "source": "Expansion MX",
       "pub": "Wed, 28 Oct 2026 22:25:31 GMT"
+    },
+    {
+      "title": "La falta de reglas claras para importar carne brasileña pone en vilo los planes de la industria mexicana",
+      "link": "https://expansion.mx/empresas/2026/10/28/cupos-importacion-carne-brasil-mexico-productores-costos",
+      "source": "Expansion MX",
+      "pub": "Wed, 28 Oct 2026 20:40:28 GMT"
+    },
+    {
+      "title": "La exposición “Tic Tac. El cambio climático es ahora” llega al Museo Yancuic",
+      "link": "https://expansion.mx/tendencias/2026/10/28/la-exposicion-tic-tac-el-cambio-climatico-es-ahora-llega-al-museo-yancuic",
+      "source": "Expansion MX",
+      "pub": "Wed, 28 Oct 2026 20:34:20 GMT"
+    },
+    {
+      "title": "Samsung está detrás de la pantalla del iPhone Duo: el negocio que une a dos gigantes rivales",
+      "link": "https://expansion.mx/tecnologia/2026/10/28/samsung-pantalla-del-iphone-duo-negocio-gigantes-rivales",
+      "source": "Expansion MX",
+      "pub": "Wed, 28 Oct 2026 19:30:03 GMT"
     }
   ]
 }
