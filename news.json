@@ -1,6 +1,12 @@
 {
-  "updated": "2026-10-29T19:13:01.177152+00:00",
+  "updated": "2026-10-29T23:16:15.998059+00:00",
   "colombia": [
+    {
+      "title": "Ex-politician and mayoral candidate assassinated in Colombia",
+      "link": "https://thebogotapost.com/ex-politician-and-mayoral-candidate-assassinated-in-colombia/56859/",
+      "source": "The Bogota Post",
+      "pub": "Thu, 29 Oct 2026 22:23:01 +0000"
+    },
     {
       "title": "As Bogotá restricts phones in schools, teachers explore AI in the classroom",
       "link": "https://thebogotapost.com/as-bogota-restricts-phones-in-schools-teachers-explore-ai-in-the-classroom/56855/",
@@ -54,15 +60,51 @@
       "link": "https://thebogotapost.com/activists-gather-in-medellin-to-support-abortion-rights-on-global-action-day/56783/",
       "source": "The Bogota Post",
       "pub": "Fri, 02 Oct 2026 18:27:58 +0000"
-    },
-    {
-      "title": "Colombia’s child welfare institution faces criticism for omitting the word “girl”",
-      "link": "https://thebogotapost.com/colombias-child-welfare-institution-faces-criticism-for-omitting-the-word-girl/56779/",
-      "source": "The Bogota Post",
-      "pub": "Tue, 29 Sep 2026 01:45:07 +0000"
     }
   ],
   "mexico": [
+    {
+      "title": "Por qué Google quiere que sigas usando su buscador en la era de los chatbots de IA",
+      "link": "https://expansion.mx/tecnologia/2026/10/29/google-quiere-que-sigas-usando-su-buscador",
+      "source": "Expansion MX",
+      "pub": "Thu, 29 Oct 2026 15:59:11 GMT"
+    },
+    {
+      "title": "¿Para quién es la ofrenda de muertos el 29 de octubre? Este es su significado y lo que se debe poner en el altar",
+      "link": "https://expansion.mx/tendencias/2026/10/29/para-quien-es-la-ofrenda-el-29-de-octubre-y-que-debe-llevar",
+      "source": "Expansion MX",
+      "pub": "Thu, 29 Oct 2026 15:51:33 GMT"
+    },
+    {
+      "title": "Carlos Slim va por más pozos petroleros para aumentar la producción de Grupo Carso",
+      "link": "https://expansion.mx/empresas/2026/10/29/slim-mas-pozos-petroleros-aumentar-produccion-grupo-cardo",
+      "source": "Expansion MX",
+      "pub": "Thu, 29 Oct 2026 15:16:31 GMT"
+    },
+    {
+      "title": "Presupuesto 2027 tendrá inversión pública estancada e intereses de la deuda en ascenso",
+      "link": "https://expansion.mx/economia/2026/10/29/presupuesto-2027-inversion-publica-estancada-intereses-deuda",
+      "source": "Expansion MX",
+      "pub": "Thu, 29 Oct 2026 11:55:15 GMT"
+    },
+    {
+      "title": "Renault renueva el Kwid y cambia de fábrica para mantener su precio en México",
+      "link": "https://expansion.mx/empresas/2026/10/28/renault-renueva-kwid-precio",
+      "source": "Expansion MX",
+      "pub": "Thu, 29 Oct 2026 02:29:08 GMT"
+    },
+    {
+      "title": "Ley de Economía Digital no será draconiana; la implementación de pagos digitales será paulatina, dicen banqueros",
+      "link": "https://expansion.mx/economia/2026/10/28/ley-de-economia-digital-no-sera-draconiana-la-implementacion-de-pagos-digitales-sera-paulatina-dicen-banqueros",
+      "source": "Expansion MX",
+      "pub": "Thu, 29 Oct 2026 01:55:06 GMT"
+    },
+    {
+      "title": "Taco Bell fracasó en México donde hoy triunfa Chipotle: la breve historia de su paso fallido por el país",
+      "link": "https://expansion.mx/empresas/2026/10/28/taco-bell-fracaso-mexico-triunfa-chipotle-historia",
+      "source": "Expansion MX",
+      "pub": "Thu, 29 Oct 2026 01:52:42 GMT"
+    },
     {
       "title": "José Cuervo no logra atraer nuevos consumidores y sus ganancias se desploman 85% en el tercer trimestre",
       "link": "https://expansion.mx/empresas/2026/10/28/jose-cuervo-caida-ganancias-tercer-trimestre-2026",
@@ -80,48 +122,6 @@
       "link": "https://expansion.mx/mundo/2026/10/28/revelan-la-posible-causa-del-choque-de-trenes-en-espana",
       "source": "Expansion MX",
       "pub": "Thu, 29 Oct 2026 00:03:54 GMT"
-    },
-    {
-      "title": "Cuando Checo Pérez soñaba con la F1, Carlos Slim Domit creyó en él; hoy el piloto lo llama su “segundo padre”",
-      "link": "https://expansion.mx/empresas/2026/10/28/carlos-slim-domit-el-segundo-padre-de-checo-perez",
-      "source": "Expansion MX",
-      "pub": "Wed, 28 Oct 2026 23:07:31 GMT"
-    },
-    {
-      "title": "1 de cada 2 estudiantes en línea en México ya cayó en un fraude digital por clases a distancia: este es el más común",
-      "link": "https://expansion.mx/tecnologia/2026/10/28/fraudes-estudiar-en-linea-mexico-alumnos-kaspersky",
-      "source": "Expansion MX",
-      "pub": "Wed, 28 Oct 2026 22:40:52 GMT"
-    },
-    {
-      "title": "Ebrard a pequeños negocios: sin pagos digitales “te vas a ir quedando fuera”",
-      "link": "https://expansion.mx/economia/2026/10/28/ebrard-a-pequenos-negocios-sin-pagos-digitales-te-vas-a-ir-quedando-fuera",
-      "source": "Expansion MX",
-      "pub": "Wed, 28 Oct 2026 22:27:08 GMT"
-    },
-    {
-      "title": "Bitso ya permite invertir desde 20 pesos en empresas del Plan México",
-      "link": "https://expansion.mx/mercados/2026/10/28/bitso-invertir-20-pesos-empresas-plan-mexico",
-      "source": "Expansion MX",
-      "pub": "Wed, 28 Oct 2026 22:25:31 GMT"
-    },
-    {
-      "title": "La falta de reglas claras para importar carne brasileña pone en vilo los planes de la industria mexicana",
-      "link": "https://expansion.mx/empresas/2026/10/28/cupos-importacion-carne-brasil-mexico-productores-costos",
-      "source": "Expansion MX",
-      "pub": "Wed, 28 Oct 2026 20:40:28 GMT"
-    },
-    {
-      "title": "La exposición “Tic Tac. El cambio climático es ahora” llega al Museo Yancuic",
-      "link": "https://expansion.mx/tendencias/2026/10/28/la-exposicion-tic-tac-el-cambio-climatico-es-ahora-llega-al-museo-yancuic",
-      "source": "Expansion MX",
-      "pub": "Wed, 28 Oct 2026 20:34:20 GMT"
-    },
-    {
-      "title": "Samsung está detrás de la pantalla del iPhone Duo: el negocio que une a dos gigantes rivales",
-      "link": "https://expansion.mx/tecnologia/2026/10/28/samsung-pantalla-del-iphone-duo-negocio-gigantes-rivales",
-      "source": "Expansion MX",
-      "pub": "Wed, 28 Oct 2026 19:30:03 GMT"
     }
   ]
 }
