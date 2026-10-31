@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T18:49:11.226661+00:00",
+  "updated": "2026-10-31T21:54:55.410754+00:00",
   "colombia": [
     {
       "title": "Ex-politician and mayoral candidate assassinated in Colombia",
@@ -64,6 +64,24 @@
   ],
   "mexico": [
     {
+      "title": "Miles de personas salen a las calles disfrazadas de Halloween para protestar contra el alto costo de la vida en Francia",
+      "link": "https://expansion.mx/mundo/2026/10/31/manifestaciones-francia-costo-de-vida-disfraces-de-halloween",
+      "source": "Expansion MX",
+      "pub": "Sat, 31 Oct 2026 18:19:30 GMT"
+    },
+    {
+      "title": "Renault, Hyundai y Nissan bajan 50,000 pesos los precios de Kwid, Grand i10 y March",
+      "link": "https://expansion.mx/empresas/2026/10/31/kwid-grand-i10-march-bajan-precio-auto-mas-barato-mexico",
+      "source": "Expansion MX",
+      "pub": "Sat, 31 Oct 2026 17:19:51 GMT"
+    },
+    {
+      "title": "SAT hasta en la tumba: qué pasa con las deudas y los saldos a favor cuando alguien muere en 2026",
+      "link": "https://expansion.mx/economia/2026/10/31/sat-que-pasa-deudas-saldos-a-favor-persona-fallecida-2026",
+      "source": "Expansion MX",
+      "pub": "Sat, 31 Oct 2026 14:01:17 GMT"
+    },
+    {
       "title": "Ollamani de Emilio Azcárraga pierde casi 1,000 millones de pesos por el Mundial 2026 y estos son los motivos",
       "link": "https://expansion.mx/empresas/2026/10/30/ollamani-pierde-casi-mil-millones-por-el-mundial-2026",
       "source": "Expansion MX",
@@ -98,24 +116,6 @@
       "link": "https://expansion.mx/tecnologia/2026/10/30/tiktok-guia-controlar-tiempo-en-pantalla",
       "source": "Expansion MX",
       "pub": "Fri, 30 Oct 2026 22:00:59 GMT"
-    },
-    {
-      "title": "El pan de muerto no solo se vende en Halloween y Día de Muertos: se disparan pedidos a domicilio fuera de estas fechas",
-      "link": "https://expansion.mx/tecnologia/2026/10/30/halloween-dia-muertos-pan-a-domicilio",
-      "source": "Expansion MX",
-      "pub": "Fri, 30 Oct 2026 21:00:09 GMT"
-    },
-    {
-      "title": "Binance admite robo de fondos en la hot wallet por ciberataque; anuncia plan para recuperar el dinero",
-      "link": "https://expansion.mx/economia/2026/10/30/binance-admite-robo-de-fondos-hot-wallet-ciberataque",
-      "source": "Expansion MX",
-      "pub": "Fri, 30 Oct 2026 20:29:57 GMT"
-    },
-    {
-      "title": "El hackeo a Binance por 6,300 mdd apunta a atacantes de Corea del Norte",
-      "link": "https://expansion.mx/tecnologia/2026/10/30/hackeo-a-binance-apunta-a-atacantes-de-corea-del-norte",
-      "source": "Expansion MX",
-      "pub": "Fri, 30 Oct 2026 20:22:21 GMT"
     }
   ]
 }
