@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T13:44:36.794981+00:00",
+  "updated": "2026-11-01T18:35:06.961360+00:00",
   "colombia": [
     {
       "title": "Ex-politician and mayoral candidate assassinated in Colombia",
@@ -64,6 +64,24 @@
   ],
   "mexico": [
     {
+      "title": "\"Canelo\" Álvarez vuelve a reinar tras derrotar a Mbilli en Arabia Saudita",
+      "link": "https://expansion.mx/tendencias/2026/10/31/canelo-alvarez-derrota-a-mbilli-en-arabia-saudita",
+      "source": "Expansion MX",
+      "pub": "Sun, 01 Nov 2026 00:17:42 GMT"
+    },
+    {
+      "title": "Hamilton buscará su tercer triunfo desde la 'pole' en el GP de México: así queda la parrilla de salida para el domingo",
+      "link": "https://expansion.mx/tendencias/2026/10/31/gp-de-mexico-asi-queda-la-parrilla-de-salida-carrera-domingo",
+      "source": "Expansion MX",
+      "pub": "Sat, 31 Oct 2026 23:55:43 GMT"
+    },
+    {
+      "title": "“No podemos depender de un solo sector”: Puebla acelera su diversificación tras el bache de Volkswagen",
+      "link": "https://expansion.mx/empresas/2026/10/31/puebla-acelera-diversificacion-planta-volkswagen",
+      "source": "Expansion MX",
+      "pub": "Sat, 31 Oct 2026 23:05:03 GMT"
+    },
+    {
       "title": "Miles de personas salen a las calles disfrazadas de Halloween para protestar contra el alto costo de la vida en Francia",
       "link": "https://expansion.mx/mundo/2026/10/31/manifestaciones-francia-costo-de-vida-disfraces-de-halloween",
       "source": "Expansion MX",
@@ -104,18 +122,6 @@
       "link": "https://expansion.mx/mercadotecnia/2026/10/30/victoria-campana-dia-muertos",
       "source": "Expansion MX",
       "pub": "Fri, 30 Oct 2026 22:58:22 GMT"
-    },
-    {
-      "title": "El T-MEC puede perder prioridad para Trump tras las elecciones, prevé Daniel Watson",
-      "link": "https://expansion.mx/economia/2026/10/30/tmec-trump-elecciones-perder-prioridad-daniel-watson",
-      "source": "Expansion MX",
-      "pub": "Fri, 30 Oct 2026 22:37:15 GMT"
-    },
-    {
-      "title": "TikTok presenta una guía para controlar el tiempo en pantalla y reconocer riesgos digitales",
-      "link": "https://expansion.mx/tecnologia/2026/10/30/tiktok-guia-controlar-tiempo-en-pantalla",
-      "source": "Expansion MX",
-      "pub": "Fri, 30 Oct 2026 22:00:59 GMT"
     }
   ]
 }
