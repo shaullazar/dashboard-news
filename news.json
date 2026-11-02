@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T01:33:17.702102+00:00",
+  "updated": "2026-11-02T08:10:19.741893+00:00",
   "colombia": [
     {
       "title": "Ex-politician and mayoral candidate assassinated in Colombia",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "Aguinaldo ISSSTE 2026: así puedes calcular cuánto recibirás si eres pensionado del Décimo Transitorio",
+      "link": "https://expansion.mx/finanzas-personales/2026/11/01/aguinaldo-issste-2026-calcula-pension-decimo-transitorio",
+      "source": "Expansion MX",
+      "pub": "Mon, 02 Nov 2026 00:16:23 GMT"
+    },
+    {
+      "title": "¿Qué se vota en las elecciones intermedias de EU? La elección que puede frenar a Trump",
+      "link": "https://expansion.mx/mundo/2026/11/01/que-elecciones-intermedias-eu-eleccion-donald-trump",
+      "source": "Expansion MX",
+      "pub": "Sun, 01 Nov 2026 21:52:30 GMT"
+    },
+    {
+      "title": "¿Dónde ver la carrera de Checo Pérez en TV abierta? Canal y horario del GP de México",
+      "link": "https://expansion.mx/tendencias/2026/11/01/donde-ver-f1-carrera-checo-perez-tv-canal-horario-gp-mexico",
+      "source": "Expansion MX",
+      "pub": "Sun, 01 Nov 2026 19:43:05 GMT"
+    },
+    {
+      "title": "¿Cuándo debes quitar la ofrenda de Día de Muertos? Esta es la fecha que marca la tradición",
+      "link": "https://expansion.mx/tendencias/2026/11/01/cuando-quitar-ofrenda-dia-de-muertos-fecha-marca-tradicion",
+      "source": "Expansion MX",
+      "pub": "Sun, 01 Nov 2026 18:18:24 GMT"
+    },
+    {
       "title": "\"Canelo\" Álvarez vuelve a reinar tras derrotar a Mbilli en Arabia Saudita",
       "link": "https://expansion.mx/tendencias/2026/10/31/canelo-alvarez-derrota-a-mbilli-en-arabia-saudita",
       "source": "Expansion MX",
@@ -98,30 +122,6 @@
       "link": "https://expansion.mx/economia/2026/10/31/sat-que-pasa-deudas-saldos-a-favor-persona-fallecida-2026",
       "source": "Expansion MX",
       "pub": "Sat, 31 Oct 2026 14:01:17 GMT"
-    },
-    {
-      "title": "Ollamani de Emilio Azcárraga pierde casi 1,000 millones de pesos por el Mundial 2026 y estos son los motivos",
-      "link": "https://expansion.mx/empresas/2026/10/30/ollamani-pierde-casi-mil-millones-por-el-mundial-2026",
-      "source": "Expansion MX",
-      "pub": "Sat, 31 Oct 2026 00:29:27 GMT"
-    },
-    {
-      "title": "Cuota cero IEPS del diésel va por su octava semana consecutiva, mientras sube carga por impuesto a gasolinas",
-      "link": "https://expansion.mx/economia/2026/10/30/cuota-cero-ieps-diesel-impuesto-gasolinas",
-      "source": "Expansion MX",
-      "pub": "Fri, 30 Oct 2026 23:48:31 GMT"
-    },
-    {
-      "title": "Recaudación del ISR queda 137,000 millones debajo de lo programado en el tercer trimestre",
-      "link": "https://expansion.mx/economia/2026/10/30/recaudacion-isr-iva-septiembre-shcp-tercer-trimestre",
-      "source": "Expansion MX",
-      "pub": "Fri, 30 Oct 2026 23:04:56 GMT"
-    },
-    {
-      "title": "Victoria apuesta por el colibrí, la animación artesanal y Juan Gabriel para su campaña de Día de Muertos",
-      "link": "https://expansion.mx/mercadotecnia/2026/10/30/victoria-campana-dia-muertos",
-      "source": "Expansion MX",
-      "pub": "Fri, 30 Oct 2026 22:58:22 GMT"
     }
   ]
 }
