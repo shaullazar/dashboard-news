@@ -1,6 +1,12 @@
 {
-  "updated": "2026-11-05T16:37:05.110492+00:00",
+  "updated": "2026-11-05T22:14:11.662050+00:00",
   "colombia": [
+    {
+      "title": "An open wound: new Colombia earthquake sparks conversation about trauma",
+      "link": "https://thebogotapost.com/an-open-wound-new-colombia-earthquake-sparks-conversation-about-trauma/56868/",
+      "source": "The Bogota Post",
+      "pub": "Thu, 05 Nov 2026 17:10:41 +0000"
+    },
     {
       "title": "Colombia’s rebels no longer considered political actors under landmark new law",
       "link": "https://thebogotapost.com/colombias-rebels-no-longer-considered-political-actors-under-landmark-new-law/56865/",
@@ -54,15 +60,45 @@
       "link": "https://thebogotapost.com/leadership-centre-named-for-assassinated-senator-miguel-uribe-turbay-holds-first-summit/56806/",
       "source": "The Bogota Post",
       "pub": "Thu, 08 Oct 2026 12:43:22 +0000"
-    },
-    {
-      "title": "SOFA 2026: A big Geek-end",
-      "link": "https://thebogotapost.com/sofa-2026-in-bogota-corferias/56799/",
-      "source": "The Bogota Post",
-      "pub": "Thu, 08 Oct 2026 00:36:29 +0000"
     }
   ],
   "mexico": [
+    {
+      "title": "¿Tu empresa te impone un banco para cobrar la quincena? Puedes llevarte tu sueldo a otro gratis y sin pedir permiso",
+      "link": "https://expansion.mx/finanzas-personales/2026/11/05/portabilidad-de-nomina-cambiar-de-banco-sin-pedirle-permiso",
+      "source": "Expansion MX",
+      "pub": "Thu, 05 Nov 2026 15:18:52 GMT"
+    },
+    {
+      "title": "Las 10 empresas de EU que encontraron en México un negocio de billonario, de Walmart a Costco y General Motors",
+      "link": "https://expansion.mx/empresas/2026/11/05/las-10-empresas-estadounidenses-mas-grandes-en-mexico",
+      "source": "Expansion MX",
+      "pub": "Thu, 05 Nov 2026 15:15:40 GMT"
+    },
+    {
+      "title": "¿De cuánto es la fortuna de Cristiano Ronaldo, la estrella del futbol que se retira de la selección de Portugal?",
+      "link": "https://expansion.mx/tendencias/2026/11/05/fortuna-cristiano-ronaldo-retiro-seleccion-portugal",
+      "source": "Expansion MX",
+      "pub": "Thu, 05 Nov 2026 14:05:21 GMT"
+    },
+    {
+      "title": "Liverpool gana más por rentar espacios en sus plazas comerciales que Palacio de Hierro",
+      "link": "https://expansion.mx/empresas/2026/11/05/liverpool-palacio-de-hierro-renta-locales-plazas-comerciales",
+      "source": "Expansion MX",
+      "pub": "Thu, 05 Nov 2026 11:55:51 GMT"
+    },
+    {
+      "title": "‘Moche digital’ será un nuevo IEPS a teléfonos, memorias y es anacrónico, advierten",
+      "link": "https://expansion.mx/tecnologia/2026/11/05/moche-digital-ieps-a-telefonos-memorias-y-anacronico",
+      "source": "Expansion MX",
+      "pub": "Thu, 05 Nov 2026 11:55:19 GMT"
+    },
+    {
+      "title": "Elecciones de medio término en EU: las otras lecturas de un proceso inédito",
+      "link": "https://expansion.mx/opinion/2026/11/05/elecciones-estados-unidos-otras-lecturas-de-proceso-inedito",
+      "source": "Expansion MX",
+      "pub": "Thu, 05 Nov 2026 11:30:34 GMT"
+    },
     {
       "title": "Las elecciones de EU dan certidumbre a la carga aérea en el norte de México",
       "link": "https://expansion.mx/empresas/2026/11/04/elecciones-intermedias-eu-dan-certidumbre-aeropuertos-norte",
@@ -86,42 +122,6 @@
       "link": "https://expansion.mx/economia/2026/11/04/la-innovacion-abre-nueva-oportunidad-para-el-nearshoring",
       "source": "Expansion MX",
       "pub": "Thu, 05 Nov 2026 01:32:26 GMT"
-    },
-    {
-      "title": "Gobierno publica Ley de Economía Digital en DOF; en 15 días deben establecerse sectores donde disminuirá uso de efectivo",
-      "link": "https://expansion.mx/economia/2026/11/04/ley-de-economia-digital-dof-cuando-entra-vigor",
-      "source": "Expansion MX",
-      "pub": "Thu, 05 Nov 2026 01:27:15 GMT"
-    },
-    {
-      "title": "Banqueros piden a SCJN acelerar juzgados financieros para el cobro de garantías en créditos vencidos",
-      "link": "https://expansion.mx/empresas/2026/11/04/banqueros-piden-a-scjn-acelerar-juzgados-financieros-para-el-cobro-de-garantias-en-creditos-vencidos",
-      "source": "Expansion MX",
-      "pub": "Thu, 05 Nov 2026 00:53:39 GMT"
-    },
-    {
-      "title": "Nuevo León necesita 40,000 técnicos, pero empresas tardan hasta 80 días en contratarlos",
-      "link": "https://expansion.mx/tecnologia/2026/11/04/nuevo-leon-necesita-40-000-tecnicos-simmit-norte-expansion",
-      "source": "Expansion MX",
-      "pub": "Thu, 05 Nov 2026 00:25:57 GMT"
-    },
-    {
-      "title": "Estudiantes del Tec elevan hasta 70% la proteína de la tortilla con lenteja y frijol",
-      "link": "https://expansion.mx/carrera/2026/11/04/tec-monterrey-desarrolla-tortilla-70-por-ciento-mas-proteina",
-      "source": "Expansion MX",
-      "pub": "Thu, 05 Nov 2026 00:05:07 GMT"
-    },
-    {
-      "title": "El norte de México atrae inversión, pero necesita preparar dónde recibirla, dicen especialistas",
-      "link": "https://expansion.mx/economia/2026/11/04/norte-mexico-obstaculos-atraer-inversion",
-      "source": "Expansion MX",
-      "pub": "Thu, 05 Nov 2026 00:02:54 GMT"
-    },
-    {
-      "title": "La estrategia de OXXO para ir contra Nu y convertir a sus clientes en usuarios de tarjeta Spin",
-      "link": "https://expansion.mx/empresas/2026/11/04/oxxo-clientes-usuarios-tajeta-spin-desafiar-nu",
-      "source": "Expansion MX",
-      "pub": "Wed, 04 Nov 2026 23:50:11 GMT"
     }
   ]
 }
