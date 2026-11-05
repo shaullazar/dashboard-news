@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T08:26:44.869127+00:00",
+  "updated": "2026-11-05T16:37:05.110492+00:00",
   "colombia": [
     {
       "title": "Colombia’s rebels no longer considered political actors under landmark new law",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Las elecciones de EU dan certidumbre a la carga aérea en el norte de México",
+      "link": "https://expansion.mx/empresas/2026/11/04/elecciones-intermedias-eu-dan-certidumbre-aeropuertos-norte",
+      "source": "Expansion MX",
+      "pub": "Thu, 05 Nov 2026 03:36:33 GMT"
+    },
+    {
       "title": "De cada 100 pesos del gasto público, 14 provendrán de deuda",
       "link": "https://expansion.mx/economia/2026/11/04/100-pesos-gasto-publico-14-provendran-de-deuda-en-2027",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/11/04/oxxo-clientes-usuarios-tajeta-spin-desafiar-nu",
       "source": "Expansion MX",
       "pub": "Wed, 04 Nov 2026 23:50:11 GMT"
-    },
-    {
-      "title": "Flying Tiger Copenhagen llega a México: dónde estarán sus tiendas y qué podrás comprar en la cadena de diseño accesible",
-      "link": "https://expansion.mx/empresas/2026/11/04/flying-tiger-copenhagen-cuando-abre-tiendas-mexico",
-      "source": "Expansion MX",
-      "pub": "Wed, 04 Nov 2026 23:36:54 GMT"
     }
   ]
 }
