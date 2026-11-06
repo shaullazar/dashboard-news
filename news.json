@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T22:14:11.662050+00:00",
+  "updated": "2026-11-06T02:24:47.155702+00:00",
   "colombia": [
     {
       "title": "An open wound: new Colombia earthquake sparks conversation about trauma",
@@ -64,6 +64,42 @@
   ],
   "mexico": [
     {
+      "title": "Banco de México sorprende y recorta su tasa de interés a 6.25%",
+      "link": "https://expansion.mx/economia/2026/11/05/banco-de-mexico-sorprende-y-recorta-su-tasa-de-interes-a-6-25",
+      "source": "Expansion MX",
+      "pub": "Thu, 05 Nov 2026 19:10:16 GMT"
+    },
+    {
+      "title": "Santiago Peña renuncia como presidente de Paraguay: ¿qué tiene que ver Ueno Bank con su caída?",
+      "link": "https://expansion.mx/mundo/2026/11/05/santiago-pena-renuncia-presidencia-paraguay-ueno-bank",
+      "source": "Expansion MX",
+      "pub": "Thu, 05 Nov 2026 19:08:57 GMT"
+    },
+    {
+      "title": "Ley de economía digital: los riesgos que enfrentarán los usuarios con más pagos con QR y transferencias",
+      "link": "https://expansion.mx/economia/2026/11/05/ley-de-economia-digital-los-riesgos-que-enfrentaran-los-usuarios-con-mas-pagos-con-qr-y-transferencias",
+      "source": "Expansion MX",
+      "pub": "Thu, 05 Nov 2026 19:02:41 GMT"
+    },
+    {
+      "title": "¿Sabías que una IA puede pedir Uber por ti? La función que nadie usa en la plataforma",
+      "link": "https://expansion.mx/tecnologia/2026/11/05/ia-pedir-uber-agentes-inteligencia-artificial",
+      "source": "Expansion MX",
+      "pub": "Thu, 05 Nov 2026 17:20:14 GMT"
+    },
+    {
+      "title": "Jetour va por los clientes de Ford Bronco con su SUV T2 4x4 de menos de un millón de pesos",
+      "link": "https://expansion.mx/empresas/2026/11/05/jetour-t2-4x4-suv-llega-mexico-precio",
+      "source": "Expansion MX",
+      "pub": "Thu, 05 Nov 2026 17:12:50 GMT"
+    },
+    {
+      "title": "¿Ocarina of Time o GTA VI? Tras jugar una hora el clásico de Zelda, tengo un claro ganador",
+      "link": "https://expansion.mx/tecnologia/2026/11/05/resena-legend-of-zelda-ocarina-of-time-es-mejor-gta-6",
+      "source": "Expansion MX",
+      "pub": "Thu, 05 Nov 2026 17:01:02 GMT"
+    },
+    {
       "title": "¿Tu empresa te impone un banco para cobrar la quincena? Puedes llevarte tu sueldo a otro gratis y sin pedir permiso",
       "link": "https://expansion.mx/finanzas-personales/2026/11/05/portabilidad-de-nomina-cambiar-de-banco-sin-pedirle-permiso",
       "source": "Expansion MX",
@@ -86,42 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/11/05/liverpool-palacio-de-hierro-renta-locales-plazas-comerciales",
       "source": "Expansion MX",
       "pub": "Thu, 05 Nov 2026 11:55:51 GMT"
-    },
-    {
-      "title": "‘Moche digital’ será un nuevo IEPS a teléfonos, memorias y es anacrónico, advierten",
-      "link": "https://expansion.mx/tecnologia/2026/11/05/moche-digital-ieps-a-telefonos-memorias-y-anacronico",
-      "source": "Expansion MX",
-      "pub": "Thu, 05 Nov 2026 11:55:19 GMT"
-    },
-    {
-      "title": "Elecciones de medio término en EU: las otras lecturas de un proceso inédito",
-      "link": "https://expansion.mx/opinion/2026/11/05/elecciones-estados-unidos-otras-lecturas-de-proceso-inedito",
-      "source": "Expansion MX",
-      "pub": "Thu, 05 Nov 2026 11:30:34 GMT"
-    },
-    {
-      "title": "Las elecciones de EU dan certidumbre a la carga aérea en el norte de México",
-      "link": "https://expansion.mx/empresas/2026/11/04/elecciones-intermedias-eu-dan-certidumbre-aeropuertos-norte",
-      "source": "Expansion MX",
-      "pub": "Thu, 05 Nov 2026 03:36:33 GMT"
-    },
-    {
-      "title": "De cada 100 pesos del gasto público, 14 provendrán de deuda",
-      "link": "https://expansion.mx/economia/2026/11/04/100-pesos-gasto-publico-14-provendran-de-deuda-en-2027",
-      "source": "Expansion MX",
-      "pub": "Thu, 05 Nov 2026 02:31:40 GMT"
-    },
-    {
-      "title": "La acerera Ternium desafía la presión de China y EU con una inversión de 4,000 mdd en Pesquería",
-      "link": "https://expansion.mx/empresas/2026/11/04/ternium-inversion-4000-mdd-pesqueria-china-estados-unidos",
-      "source": "Expansion MX",
-      "pub": "Thu, 05 Nov 2026 01:48:35 GMT"
-    },
-    {
-      "title": "Del ensamble a la innovación: la nueva oportunidad que abre el nearshoring en México",
-      "link": "https://expansion.mx/economia/2026/11/04/la-innovacion-abre-nueva-oportunidad-para-el-nearshoring",
-      "source": "Expansion MX",
-      "pub": "Thu, 05 Nov 2026 01:32:26 GMT"
     }
   ]
 }
