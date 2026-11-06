@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T02:24:47.155702+00:00",
+  "updated": "2026-11-06T09:33:00.504684+00:00",
   "colombia": [
     {
       "title": "An open wound: new Colombia earthquake sparks conversation about trauma",
@@ -64,6 +64,36 @@
   ],
   "mexico": [
     {
+      "title": "Abrían una tienda cada 48 horas hasta sumar 3,100 Farmacias Guadalajara: así es el imperio tapatío de la familia Arroyo",
+      "link": "https://expansion.mx/empresas/2026/11/05/farmacias-guadalajara-imperio-familia-arroyo-mexico-2026",
+      "source": "Expansion MX",
+      "pub": "Thu, 05 Nov 2026 22:04:21 GMT"
+    },
+    {
+      "title": "Los autos tienen cada vez más tecnología, pero eso también les genera más problemas a sus dueños",
+      "link": "https://expansion.mx/empresas/2026/11/05/autos-tienen-mas-tecnologia-pero-generan-mas-fallas",
+      "source": "Expansion MX",
+      "pub": "Thu, 05 Nov 2026 21:36:40 GMT"
+    },
+    {
+      "title": "De tiendas falsas a empleos inexistentes: las nuevas trampas de internet",
+      "link": "https://expansion.mx/tecnologia/2026/11/05/estafas-internet-2026-tiendas-falsas-empleos-fraude-ia",
+      "source": "Expansion MX",
+      "pub": "Thu, 05 Nov 2026 21:30:46 GMT"
+    },
+    {
+      "title": "¿Qué compañía telefónica te da más por 100 pesos en 2026? Telcel, AT&T, Movistar, OXXO y Bait se enfrentan",
+      "link": "https://expansion.mx/empresas/2026/11/05/recarga-100-pesos-2026-telcel-at-t-movistar-oxxo-bait",
+      "source": "Expansion MX",
+      "pub": "Thu, 05 Nov 2026 21:18:28 GMT"
+    },
+    {
+      "title": "Seguros de gastos médicos más caros obligan a usuarios a limitar coberturas, dice Fitch",
+      "link": "https://expansion.mx/economia/2026/11/05/seguros-gastos-medicos-alza-precios-menor-cobertura-fitch",
+      "source": "Expansion MX",
+      "pub": "Thu, 05 Nov 2026 19:35:01 GMT"
+    },
+    {
       "title": "Banco de México sorprende y recorta su tasa de interés a 6.25%",
       "link": "https://expansion.mx/economia/2026/11/05/banco-de-mexico-sorprende-y-recorta-su-tasa-de-interes-a-6-25",
       "source": "Expansion MX",
@@ -92,36 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/11/05/jetour-t2-4x4-suv-llega-mexico-precio",
       "source": "Expansion MX",
       "pub": "Thu, 05 Nov 2026 17:12:50 GMT"
-    },
-    {
-      "title": "¿Ocarina of Time o GTA VI? Tras jugar una hora el clásico de Zelda, tengo un claro ganador",
-      "link": "https://expansion.mx/tecnologia/2026/11/05/resena-legend-of-zelda-ocarina-of-time-es-mejor-gta-6",
-      "source": "Expansion MX",
-      "pub": "Thu, 05 Nov 2026 17:01:02 GMT"
-    },
-    {
-      "title": "¿Tu empresa te impone un banco para cobrar la quincena? Puedes llevarte tu sueldo a otro gratis y sin pedir permiso",
-      "link": "https://expansion.mx/finanzas-personales/2026/11/05/portabilidad-de-nomina-cambiar-de-banco-sin-pedirle-permiso",
-      "source": "Expansion MX",
-      "pub": "Thu, 05 Nov 2026 15:18:52 GMT"
-    },
-    {
-      "title": "Las 10 empresas de EU que encontraron en México un negocio de billonario, de Walmart a Costco y General Motors",
-      "link": "https://expansion.mx/empresas/2026/11/05/las-10-empresas-estadounidenses-mas-grandes-en-mexico",
-      "source": "Expansion MX",
-      "pub": "Thu, 05 Nov 2026 15:15:40 GMT"
-    },
-    {
-      "title": "¿De cuánto es la fortuna de Cristiano Ronaldo, la estrella del futbol que se retira de la selección de Portugal?",
-      "link": "https://expansion.mx/tendencias/2026/11/05/fortuna-cristiano-ronaldo-retiro-seleccion-portugal",
-      "source": "Expansion MX",
-      "pub": "Thu, 05 Nov 2026 14:05:21 GMT"
-    },
-    {
-      "title": "Liverpool gana más por rentar espacios en sus plazas comerciales que Palacio de Hierro",
-      "link": "https://expansion.mx/empresas/2026/11/05/liverpool-palacio-de-hierro-renta-locales-plazas-comerciales",
-      "source": "Expansion MX",
-      "pub": "Thu, 05 Nov 2026 11:55:51 GMT"
     }
   ]
 }
