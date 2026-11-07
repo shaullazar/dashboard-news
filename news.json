@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T18:28:33.551086+00:00",
+  "updated": "2026-11-07T22:09:47.152442+00:00",
   "colombia": [
     {
       "title": "Colombia ex-President Gustavo Petro in hot water over sex for contracts claims",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Santiago Peña, expresidente de Paraguay, ya es interrogado por la fiscalía ante crisis bancaria",
+      "link": "https://expansion.mx/mundo/2026/11/07/santiago-pena-expresidente-de-paraguay-ya-es-interrogado-por-la-fiscalia-ante-crisis-bancaria",
+      "source": "Expansion MX",
+      "pub": "Sat, 07 Nov 2026 18:34:41 GMT"
+    },
+    {
+      "title": "Honda ensamblará en Jalisco motos que traía de China; el ajuste evitará despidos tras caída en producción de autopartes",
+      "link": "https://expansion.mx/empresas/2026/11/07/honda-produccion-motos-jalisco-traia-china-evita-despidos",
+      "source": "Expansion MX",
+      "pub": "Sat, 07 Nov 2026 15:18:55 GMT"
+    },
+    {
       "title": "Tu iPhone puede encontrar fotos que te están robando espacio: esta función de Apple ayuda a eliminarlas",
       "link": "https://expansion.mx/tecnologia/2026/11/06/como-eliminar-capturas-de-pantalla-iphone-atajos",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/finanzas-personales/2026/11/06/canada-da-trabajo-a-maestras-con-sueldo-de-110-mil-dolares",
       "source": "Expansion MX",
       "pub": "Fri, 06 Nov 2026 20:36:17 GMT"
-    },
-    {
-      "title": "Los mejores celulares de menos de 12,000 pesos que puedes comprar durante el Buen Fin 2026",
-      "link": "https://expansion.mx/tecnologia/2026/11/06/mejores-celulares-de-menos-de-12-000-pesos-buenfin",
-      "source": "Expansion MX",
-      "pub": "Fri, 06 Nov 2026 20:00:20 GMT"
-    },
-    {
-      "title": "La botella de tres litros gana terreno en México y cambia el negocio de Coca-Cola",
-      "link": "https://expansion.mx/empresas/2026/11/06/coca-cola-botella-tres-litros-mexico-negocio",
-      "source": "Expansion MX",
-      "pub": "Fri, 06 Nov 2026 19:38:09 GMT"
     }
   ]
 }
