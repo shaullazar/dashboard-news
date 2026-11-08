@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T07:30:22.618066+00:00",
+  "updated": "2026-11-08T14:26:31.608214+00:00",
   "colombia": [
     {
       "title": "Colombia ex-President Gustavo Petro in hot water over sex for contracts claims",
@@ -64,6 +64,24 @@
   ],
   "mexico": [
     {
+      "title": "Tirador \"ultra derechista\" mata a 6 personas y hiere a 16 más en Cracovia",
+      "link": "https://expansion.mx/mundo/2026/11/07/tirador-ultra-derechista-mata-a-6-personas-y-hiere-a-16-mas-en-cracovia",
+      "source": "Expansion MX",
+      "pub": "Sun, 08 Nov 2026 00:22:22 GMT"
+    },
+    {
+      "title": "Petrobras analiza áreas petroleras en México para detectar oportunidades de desarrollo",
+      "link": "https://expansion.mx/empresas/2026/11/07/petrobras-analiza-areas-petroleras-en-mexico",
+      "source": "Expansion MX",
+      "pub": "Sat, 07 Nov 2026 20:40:51 GMT"
+    },
+    {
+      "title": "Santiago Peña, expresidente de Paraguay, queda en prisión preventiva por crisis de Ueno Bank",
+      "link": "https://expansion.mx/mundo/2026/11/07/santiago-pena-expresidente-de-paraguay-ya-es-interrogado-por-la-fiscalia-ante-crisis-bancaria",
+      "source": "Expansion MX",
+      "pub": "Sat, 07 Nov 2026 18:34:41 GMT"
+    },
+    {
       "title": "Honda ensamblará en Jalisco motos que traía de China; el ajuste evitará despidos tras caída en producción de autopartes",
       "link": "https://expansion.mx/empresas/2026/11/07/honda-produccion-motos-jalisco-traia-china-evita-despidos",
       "source": "Expansion MX",
@@ -104,24 +122,6 @@
       "link": "https://expansion.mx/economia/2026/11/06/diputados-6000-millones-ine-educacion-mujeres-turismo",
       "source": "Expansion MX",
       "pub": "Fri, 06 Nov 2026 22:55:02 GMT"
-    },
-    {
-      "title": "Quiebra de Ueno Bank exhibe fallas de supervisión y corrupción en Paraguay, advierte Moody’s",
-      "link": "https://expansion.mx/economia/2026/11/06/quiebra-de-ueno-bank-exhibe-fallas-de-supervision-y-corrupcion-en-paraguay-advierte-moodys",
-      "source": "Expansion MX",
-      "pub": "Fri, 06 Nov 2026 22:10:13 GMT"
-    },
-    {
-      "title": "Canadá quiere contratar maestras mexicanas: ofrece 110,000 dólares al año y siete semanas de vacaciones",
-      "link": "https://expansion.mx/finanzas-personales/2026/11/06/canada-da-trabajo-a-maestras-con-sueldo-de-110-mil-dolares",
-      "source": "Expansion MX",
-      "pub": "Fri, 06 Nov 2026 20:36:17 GMT"
-    },
-    {
-      "title": "Los mejores celulares de menos de 12,000 pesos que puedes comprar durante el Buen Fin 2026",
-      "link": "https://expansion.mx/tecnologia/2026/11/06/mejores-celulares-de-menos-de-12-000-pesos-buenfin",
-      "source": "Expansion MX",
-      "pub": "Fri, 06 Nov 2026 20:00:20 GMT"
     }
   ]
 }
