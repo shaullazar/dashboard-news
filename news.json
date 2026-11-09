@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T01:54:19.876137+00:00",
+  "updated": "2026-11-09T08:44:07.389987+00:00",
   "colombia": [
     {
       "title": "Colombia ex-President Gustavo Petro in hot water over sex for contracts claims",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "El escándalo que sacude a Nvidia y pone a su cofundador bajo la lupa de Estados Unidos",
+      "link": "https://expansion.mx/tecnologia/2026/11/08/escandalo-sacude-nvidia-cofundador-lupa-de-estados-unidos",
+      "source": "Expansion MX",
+      "pub": "Mon, 09 Nov 2026 01:01:02 GMT"
+    },
+    {
+      "title": "FEMSA apuesta por cerrar más de 100 tiendas OXXO, mientras que acelera la expansión de Bara para competir con Tiendas 3B",
+      "link": "https://expansion.mx/empresas/2026/11/08/femsa-cierra-100-tiendas-oxxo-acelera-bara-tiendas-3b",
+      "source": "Expansion MX",
+      "pub": "Sun, 08 Nov 2026 23:20:54 GMT"
+    },
+    {
+      "title": "¿Quién es dueño de Flying Tiger México? El grupo que reta a Miniso de Carlos Slim y abrió en Plaza Carso",
+      "link": "https://expansion.mx/empresas/2026/11/08/quien-dueno-flying-tiger-reta-miniso-slim-abrio-plaza-carso",
+      "source": "Expansion MX",
+      "pub": "Sun, 08 Nov 2026 20:48:51 GMT"
+    },
+    {
+      "title": "Gobierno de CDMX dará créditos para Pymes de hasta 100,000 pesos sin intereses; estos son los requisitos",
+      "link": "https://expansion.mx/finanzas-personales/2026/11/08/cdmx-creditos-pymes-100-000-pesos-sin-intereses-requisitos",
+      "source": "Expansion MX",
+      "pub": "Sun, 08 Nov 2026 18:34:04 GMT"
+    },
+    {
       "title": "Tirador \"ultra derechista\" mata a 6 personas y hiere a 16 más en Cracovia",
       "link": "https://expansion.mx/mundo/2026/11/07/tirador-ultra-derechista-mata-a-6-personas-y-hiere-a-16-mas-en-cracovia",
       "source": "Expansion MX",
@@ -98,30 +122,6 @@
       "link": "https://expansion.mx/economia/2026/11/06/crisis-en-paraguay-podria-afectar-confianza-de-inversionistas-en-el-corto-plazo-dice-s-p",
       "source": "Expansion MX",
       "pub": "Sat, 07 Nov 2026 00:43:41 GMT"
-    },
-    {
-      "title": "Hacienda sube IEPS a gasolinas, mientras la cuota cero del diésel va por su novena semana consecutiva",
-      "link": "https://expansion.mx/economia/2026/11/06/impuesto-gasolinas-sube-magna-premium-diesel-cero",
-      "source": "Expansion MX",
-      "pub": "Sat, 07 Nov 2026 00:17:30 GMT"
-    },
-    {
-      "title": "Detienen al expresidente Santiago Peña en su casa mientras avanza la investigación en Paraguay",
-      "link": "https://expansion.mx/mundo/2026/11/06/detienen-santiago-pena-expresidente-paraguay",
-      "source": "Expansion MX",
-      "pub": "Sat, 07 Nov 2026 00:15:02 GMT"
-    },
-    {
-      "title": "El negocio de vender autos deja solo 38 centavos",
-      "link": "https://expansion.mx/empresas/2026/11/06/negocio-de-vender-autos-deja-solo-38-centavos",
-      "source": "Expansion MX",
-      "pub": "Fri, 06 Nov 2026 23:55:38 GMT"
-    },
-    {
-      "title": "¡Castigo al INE!, diputados le quitan 6,000 millones y aprueban dictamen del Presupuesto 2027",
-      "link": "https://expansion.mx/economia/2026/11/06/diputados-6000-millones-ine-educacion-mujeres-turismo",
-      "source": "Expansion MX",
-      "pub": "Fri, 06 Nov 2026 22:55:02 GMT"
     }
   ]
 }
