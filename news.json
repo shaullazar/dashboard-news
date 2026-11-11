@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T22:19:53.352158+00:00",
+  "updated": "2026-11-11T01:58:32.400886+00:00",
   "colombia": [
     {
       "title": "With the emergency phase over, Quidbó’s mayor must turn the president’s promise into homes",
@@ -64,12 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Telmex construye dos Data Centers en Tijuana y Chihuahua; necesita más espacio para almacenar información de clientes",
-      "link": "https://expansion.mx/empresas/2026/11/10/telmex-data-centers-almacenar-informacion-sat-usuarios",
-      "source": "Expansion MX",
-      "pub": "Tue, 10 Nov 2026 21:33:12 GMT"
-    },
-    {
       "title": "Compra en el Buen Fin y paga hasta enero: el truco para usar la fecha de corte de tu tarjeta de crédito a favor",
       "link": "https://expansion.mx/finanzas-personales/2026/11/10/buen-fin-paga-enero-truco-fecha-corte-tarjeta-credito-favor",
       "source": "Expansion MX",
@@ -122,6 +116,12 @@
       "link": "https://expansion.mx/tecnologia/2026/11/10/hbo-max-paramount-plus-juntos-2027-precio-mexico",
       "source": "Expansion MX",
       "pub": "Tue, 10 Nov 2026 19:00:08 GMT"
+    },
+    {
+      "title": "Nvidia cae más de 6%; queda detrás de Apple y Microsoft",
+      "link": "https://expansion.mx/mercados/2026/11/10/nvidia-cae-mas-de-6-y-baja-al-tercer-lugar-mundial-por-valor-de-mercado",
+      "source": "Expansion MX",
+      "pub": "Tue, 10 Nov 2026 18:04:29 GMT"
     }
   ]
 }
