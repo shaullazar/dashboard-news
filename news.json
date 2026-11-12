@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T03:40:15.721670+00:00",
+  "updated": "2026-11-12T11:48:49.481039+00:00",
   "colombia": [
     {
       "title": "With the emergency phase over, Quidbó’s mayor must turn the president’s promise into homes",
@@ -64,6 +64,36 @@
   ],
   "mexico": [
     {
+      "title": "Mazda prepara el relevo del Mazda2 en Asia, pero México todavía tiene razones para mantenerlo",
+      "link": "https://expansion.mx/empresas/2026/11/11/mazda2-ventas-produccion-precio-mexico",
+      "source": "Expansion MX",
+      "pub": "Thu, 12 Nov 2026 03:26:41 GMT"
+    },
+    {
+      "title": "Costco revela por qué abrir más tiendas no es tan fácil y el terreno no es el único problema",
+      "link": "https://expansion.mx/empresas/2026/11/11/por-que-no-hay-costco-cerca-de-ti-obstaculos-nuevas-tiendas",
+      "source": "Expansion MX",
+      "pub": "Thu, 12 Nov 2026 00:38:03 GMT"
+    },
+    {
+      "title": "Ganancias de los bancos en México caen 5% al cierre del tercer trimestre de 2026",
+      "link": "https://expansion.mx/economia/2026/11/11/ganancias-de-los-bancos-en-mexico-caen-5-al-cierre-del-tercer-trimestre-de-2026",
+      "source": "Expansion MX",
+      "pub": "Thu, 12 Nov 2026 00:21:56 GMT"
+    },
+    {
+      "title": "De Carlos Slim a Liverpool y Gigante, ¿quiénes son los dueños de las 20 plazas comerciales más importantes de CDMX?",
+      "link": "https://expansion.mx/empresas/2026/11/11/duenos-de-las-20-plazas-comerciales-mas-importantes-cdmx",
+      "source": "Expansion MX",
+      "pub": "Thu, 12 Nov 2026 00:15:07 GMT"
+    },
+    {
+      "title": "Bait suma usuarios, pero sus ingresos se desaceleran por el registro obligatorio de líneas",
+      "link": "https://expansion.mx/empresas/2026/11/11/bait-crece-no-como-antes-registro-lineas",
+      "source": "Expansion MX",
+      "pub": "Wed, 11 Nov 2026 23:04:02 GMT"
+    },
+    {
       "title": "Jensen Huang, de Nvidia, sostuvo otra relación extramarital con ejecutiva de la empresa que le reporta, según el NYT",
       "link": "https://expansion.mx/tecnologia/2026/11/11/jensen-huang-relacion-extramarital-con-ejecutiva-de-nvidia",
       "source": "Expansion MX",
@@ -86,36 +116,6 @@
       "link": "https://expansion.mx/empresas/2026/11/11/hokchi-energy-nueva-exploracion-petrolera-golfo-de-mexico",
       "source": "Expansion MX",
       "pub": "Wed, 11 Nov 2026 21:44:49 GMT"
-    },
-    {
-      "title": "Seguros de gastos médicos seguirán caros; siniestros consumen casi todo lo que cobran las aseguradoras",
-      "link": "https://expansion.mx/economia/2026/11/11/seguros-de-gastos-medicos-seguiran-caros-siniestros-consumen-casi-todo-lo-que-cobran-las-aseguradoras",
-      "source": "Expansion MX",
-      "pub": "Wed, 11 Nov 2026 21:22:58 GMT"
-    },
-    {
-      "title": "Patrones y trabajadores chocan por el MIR del salario mínimo de 2027",
-      "link": "https://expansion.mx/economia/2026/11/11/salario-minimo-2027-discusion-patrones-trabajadores-mir",
-      "source": "Expansion MX",
-      "pub": "Wed, 11 Nov 2026 21:05:07 GMT"
-    },
-    {
-      "title": "Ueno bank: ¿Por qué el caso recuerda al Fobaproa en México?",
-      "link": "https://expansion.mx/economia/2026/11/11/ueno-bank-por-que-el-caso-recuerda-al-fobaproa-en-mexico",
-      "source": "Expansion MX",
-      "pub": "Wed, 11 Nov 2026 20:06:07 GMT"
-    },
-    {
-      "title": "Fox Sports desaparece de la TV de paga y Nación Deportes toma sus canales: esto cambia para los suscriptores",
-      "link": "https://expansion.mx/tendencias/2026/11/11/fox-sports-desaparece-y-da-paso-a-nacion-deportes",
-      "source": "Expansion MX",
-      "pub": "Wed, 11 Nov 2026 19:34:57 GMT"
-    },
-    {
-      "title": "Desde una MacBook hasta apoyo para emprender: Así fue el digno despido que hizo Canva",
-      "link": "https://expansion.mx/tecnologia/2026/11/11/paquete-liquidacion-canva-macbook-apoyo-para-emprender",
-      "source": "Expansion MX",
-      "pub": "Wed, 11 Nov 2026 19:30:27 GMT"
     }
   ]
 }
