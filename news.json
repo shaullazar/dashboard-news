@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T00:16:28.686428+00:00",
+  "updated": "2026-11-13T06:48:56.370561+00:00",
   "colombia": [
     {
       "title": "With the emergency phase over, Quidbó’s mayor must turn the president’s promise into homes",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Ternium invierte 7,510 millones de dólares en México, pero la inundación del acero chino amenaza su expansión",
+      "link": "https://expansion.mx/empresas/2026/11/12/ternium-invierte-mexico-pero-acero-chino-amenaza-expansion",
+      "source": "Expansion MX",
+      "pub": "Fri, 13 Nov 2026 01:17:28 GMT"
+    },
+    {
+      "title": "Ya no más filas en el cajero del Banco del Bienestar: así puedes hacer transferencias desde la nueva app",
+      "link": "https://expansion.mx/finanzas-personales/2026/11/12/banco-bienestar-app-como-hacer-transferencias-spei-qr",
+      "source": "Expansion MX",
+      "pub": "Fri, 13 Nov 2026 01:03:29 GMT"
+    },
+    {
       "title": "Nvidia extiende caída en bolsa. ¿Es momento de comprar acciones?",
       "link": "https://expansion.mx/economia/2026/11/12/nvidia-extiende-caida-en-bolsa-es-momento-de-comprar-acciones",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/economia/2026/11/12/pago-de-comisiones-y-falta-de-conectividad-los-retos-que-enfrentan-pequenos-negocios-con-ley-de-economia-digital",
       "source": "Expansion MX",
       "pub": "Thu, 12 Nov 2026 21:54:09 GMT"
-    },
-    {
-      "title": "Gobierno lanza vacante para puesto directivo con sueldo de 96,526 pesos; buscan administradores y sociólogos",
-      "link": "https://expansion.mx/finanzas-personales/2026/11/12/gobierno-lanza-vacante-de-direccion-con-sueldo-de-96-526",
-      "source": "Expansion MX",
-      "pub": "Thu, 12 Nov 2026 21:30:34 GMT"
-    },
-    {
-      "title": "Corrupción, burocracia y desconfianza, entre las mayores trabas para comerciar con México, dice encuesta de Santander",
-      "link": "https://expansion.mx/economia/2026/11/12/corrupcion-burocracia-entre-mayores-trabas-comerciar-mexico",
-      "source": "Expansion MX",
-      "pub": "Thu, 12 Nov 2026 21:04:53 GMT"
     }
   ]
 }
