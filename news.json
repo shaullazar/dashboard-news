@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T06:48:56.370561+00:00",
+  "updated": "2026-11-13T14:56:08.281231+00:00",
   "colombia": [
     {
       "title": "With the emergency phase over, Quidbó’s mayor must turn the president’s promise into homes",
@@ -64,6 +64,36 @@
   ],
   "mexico": [
     {
+      "title": "Microsoft se restablece lentamente pero deja afectaciones en hospitales, embajadas y daños económicos a empresas",
+      "link": "https://expansion.mx/tecnologia/2026/11/13/caida-mundial-microsoft-afecta-hospitales-embajadas-aerolina",
+      "source": "Expansion MX",
+      "pub": "Fri, 13 Nov 2026 14:12:11 GMT"
+    },
+    {
+      "title": "Hablar de menopausia ya no es suficiente",
+      "link": "https://expansion.mx/opinion/2026/11/13/hablar-de-menopausia-ya-no-es-suficiente",
+      "source": "Expansion MX",
+      "pub": "Fri, 13 Nov 2026 11:59:32 GMT"
+    },
+    {
+      "title": "Los \"coyotes\" de las Afore se instalan en el Metro y cobran hasta 11,000 pesos por los retiros de desempleo",
+      "link": "https://expansion.mx/economia/2026/11/13/los-coyotes-de-las-afore-se-instalan-en-el-metro-y-cobran-hasta-11-000-pesos-por-los-retiros-de-desempleo",
+      "source": "Expansion MX",
+      "pub": "Fri, 13 Nov 2026 11:55:35 GMT"
+    },
+    {
+      "title": "Meta quiere que Muse haga tus compras, pero antes debe convencerte de que le confíes tu tarjeta",
+      "link": "https://expansion.mx/tecnologia/2026/11/13/meta-muse-hacer-tus-compras-seguridad",
+      "source": "Expansion MX",
+      "pub": "Fri, 13 Nov 2026 11:55:27 GMT"
+    },
+    {
+      "title": "El tope de espectro de la CRT abre la puerta a Televisa para adquirir frecuencias y pone límites a AT&T, Axtel y Telcel",
+      "link": "https://expansion.mx/empresas/2026/11/13/tope-espectro-beneficia-a-televisa-limites-att-axtel-telcel",
+      "source": "Expansion MX",
+      "pub": "Fri, 13 Nov 2026 11:48:18 GMT"
+    },
+    {
       "title": "Ternium invierte 7,510 millones de dólares en México, pero la inundación del acero chino amenaza su expansión",
       "link": "https://expansion.mx/empresas/2026/11/12/ternium-invierte-mexico-pero-acero-chino-amenaza-expansion",
       "source": "Expansion MX",
@@ -92,36 +122,6 @@
       "link": "https://expansion.mx/bespoke-ad/2026/11/12/servicios-broxel-se-pronuncia-sobre-la-licitacion-federal-de-vales-2025",
       "source": "Expansion MX",
       "pub": "Thu, 12 Nov 2026 23:28:24 GMT"
-    },
-    {
-      "title": "El Buen Fin puede salir caro: Bravo México advierte el riesgo de sobreendeudamiento",
-      "link": "https://expansion.mx/finanzas-personales/2026/11/12/bravo-mexico-advierte-el-riesgo-de-sobreendeudamiento",
-      "source": "Expansion MX",
-      "pub": "Thu, 12 Nov 2026 23:17:03 GMT"
-    },
-    {
-      "title": "Así es como ASUS contribuye a enfrentar los retos de ciberseguridad empresarial",
-      "link": "https://expansion.mx/tecnologia/2026/11/12/asi-es-como-asus-contribuye-a-enfrentar-los-retos-de-la-ciberseguridad-empresarial",
-      "source": "Expansion MX",
-      "pub": "Thu, 12 Nov 2026 23:06:37 GMT"
-    },
-    {
-      "title": "Clarios forma técnicos dentro de sus plantas de baterías LTH ante la dificultad para encontrarlos",
-      "link": "https://expansion.mx/carrera/2026/11/12/clarios-capacitacion-operadores-baterias-lth",
-      "source": "Expansion MX",
-      "pub": "Thu, 12 Nov 2026 22:30:26 GMT"
-    },
-    {
-      "title": "En México, DiDi entrega comida; en China hasta puedes viajar sin conductor",
-      "link": "https://expansion.mx/tecnologia/2026/11/12/didi-mexico-estrategia-vs-china",
-      "source": "Expansion MX",
-      "pub": "Thu, 12 Nov 2026 22:00:43 GMT"
-    },
-    {
-      "title": "Pago de comisiones y falta de conectividad, los retos que enfrentan pequeños negocios con Ley de Economía Digital",
-      "link": "https://expansion.mx/economia/2026/11/12/pago-de-comisiones-y-falta-de-conectividad-los-retos-que-enfrentan-pequenos-negocios-con-ley-de-economia-digital",
-      "source": "Expansion MX",
-      "pub": "Thu, 12 Nov 2026 21:54:09 GMT"
     }
   ]
 }
