@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T21:05:10.186167+00:00",
+  "updated": "2026-11-14T01:23:37.384514+00:00",
   "colombia": [
     {
       "title": "Mike Hoey spotlights Colombia’s tech scale-up opportunity at Horasis Global Summit 2026",
@@ -64,10 +64,16 @@
   ],
   "mexico": [
     {
-      "title": "FEMSA conquista México con OXXO, pero su imperio de negocios se extiende de Estados Unidos hasta Europa",
-      "link": "https://expansion.mx/empresas/2026/11/13/mientras-oxxo-cierra-tiendas-mexico-femsa-imperio-marcas-europa",
+      "title": "Trabajadores sacan más de las Afores por desempleo que lo que ganan las administradoras por comisiones",
+      "link": "https://expansion.mx/economia/2026/11/13/trabajadores-sacan-mas-de-las-afores-por-desempleo-que-lo-que-ganan-las-administradoras-por-comisiones",
       "source": "Expansion MX",
-      "pub": "Sat, 14 Nov 2026 05:36:18 GMT"
+      "pub": "Fri, 13 Nov 2026 20:02:56 GMT"
+    },
+    {
+      "title": "Reducción a deducciones y mayores cobros a turistas ya son ley; publica gobierno Ley de Ingresos 2027",
+      "link": "https://expansion.mx/economia/2026/11/13/gobierno-publica-reduccion-deducciones-cobros-a-turistas",
+      "source": "Expansion MX",
+      "pub": "Fri, 13 Nov 2026 19:22:49 GMT"
     },
     {
       "title": "Cuánto deben pagarte por trabajar el 16 de noviembre y qué pasa si tu patrón te deposita menos",
@@ -76,8 +82,8 @@
       "pub": "Fri, 13 Nov 2026 19:09:43 GMT"
     },
     {
-      "title": "Antes de Chivas y Omnilife, Jorge Vergara se levantaba a las 4:00 de la mañana para vender carnitas",
-      "link": "https://expansion.mx/empresas/2026/09/18/antes-de-chivas-omnilife-jorge-vergara-vendia-carnitas",
+      "title": "Antes de Chivas y Omnilife, Jorge Vergara madrugaba a las 4:00 de la mañana para vender carnitas",
+      "link": "https://expansion.mx/empresas/2026/11/13/antes-de-chivas-omnilife-jorge-vergara-vendia-carnitas",
       "source": "Expansion MX",
       "pub": "Fri, 13 Nov 2026 18:57:13 GMT"
     },
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/11/13/nuevas-tiendas-costco-mexico-por-que-no-hay",
       "source": "Expansion MX",
       "pub": "Fri, 13 Nov 2026 17:58:03 GMT"
-    },
-    {
-      "title": "Carlos Slim vio potencial en este basurero del Edomex y lo convirtió en plaza comercial, hospital y centro deportivo",
-      "link": "https://expansion.mx/empresas/2026/11/13/ciudad-jardin-basurero-plaza-comercial-carlos-slim",
-      "source": "Expansion MX",
-      "pub": "Fri, 13 Nov 2026 17:51:20 GMT"
     }
   ]
 }
