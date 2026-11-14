@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T01:23:37.384514+00:00",
+  "updated": "2026-11-14T07:40:16.668806+00:00",
   "colombia": [
     {
       "title": "Mike Hoey spotlights Colombia’s tech scale-up opportunity at Horasis Global Summit 2026",
@@ -64,6 +64,48 @@
   ],
   "mexico": [
     {
+      "title": "Espacio aéreo de EU está abierto de nuevo y descartan ciberataque; culpan a  \"hardware viejo\"",
+      "link": "https://expansion.mx/empresas/2026/11/13/levantan-suspension-vuelos-estados-unidos",
+      "source": "Expansion MX",
+      "pub": "Sat, 14 Nov 2026 02:29:54 GMT"
+    },
+    {
+      "title": "Farmacias Benavides anuncia un acuerdo definitivo para ser adquirida por Farmacias del Ahorro",
+      "link": "https://expansion.mx/bespoke-ad/2026/11/13/farmacias-benavides-anuncia-un-acuerdo-definitivo-para-ser-adquirida-por-farmacias-del-ahorro",
+      "source": "Expansion MX",
+      "pub": "Sat, 14 Nov 2026 01:12:18 GMT"
+    },
+    {
+      "title": "BBVA permite pagar hasta marzo de 2027 en El Buen Fin y da hasta 15% de bonificación: así activas las promociones",
+      "link": "https://expansion.mx/finanzas-personales/2026/11/13/bbva-buen-fin-2026-activar-pago-marzo-bonificacion-15",
+      "source": "Expansion MX",
+      "pub": "Sat, 14 Nov 2026 00:17:04 GMT"
+    },
+    {
+      "title": "En puente, Hacienda aumenta IEPS a combustibles: deja en 0.02 pesos el estimulo para Magna y se lo quita a la Premium",
+      "link": "https://expansion.mx/economia/2026/11/13/cero-subsidio-ieps-premium-magna-diesel-puente",
+      "source": "Expansion MX",
+      "pub": "Fri, 13 Nov 2026 23:53:18 GMT"
+    },
+    {
+      "title": "Paralización de vuelos en EU impacta a las aerolíneas mexicanas desde el AICM hasta Monterrey",
+      "link": "https://expansion.mx/empresas/2026/11/13/detenimiento-vuelos-eu-llega-mexico-aicm-hasta-monterrey",
+      "source": "Expansion MX",
+      "pub": "Fri, 13 Nov 2026 23:18:06 GMT"
+    },
+    {
+      "title": "Estados Unidos suspende todos los vuelos y deja a su sistema aéreo en crisis: casi 7,000 viajes afectados",
+      "link": "https://expansion.mx/mundo/2026/11/13/estados-unidos-cancela-todos-los-vuelos-que-esta-pasando",
+      "source": "Expansion MX",
+      "pub": "Fri, 13 Nov 2026 22:48:32 GMT"
+    },
+    {
+      "title": "Farmacias del Ahorro acuerda comprar más de 96% de Farmacias Benavides",
+      "link": "https://expansion.mx/empresas/2026/11/13/farmacias-del-ahorro-acuerda-comprar-a-farmacias-benavides",
+      "source": "Expansion MX",
+      "pub": "Fri, 13 Nov 2026 21:12:05 GMT"
+    },
+    {
       "title": "Trabajadores sacan más de las Afores por desempleo que lo que ganan las administradoras por comisiones",
       "link": "https://expansion.mx/economia/2026/11/13/trabajadores-sacan-mas-de-las-afores-por-desempleo-que-lo-que-ganan-las-administradoras-por-comisiones",
       "source": "Expansion MX",
@@ -80,48 +122,6 @@
       "link": "https://expansion.mx/finanzas-personales/2026/11/13/pago-trabajar-16-noviembre-2026-que-hacer-si-no-pagan",
       "source": "Expansion MX",
       "pub": "Fri, 13 Nov 2026 19:09:43 GMT"
-    },
-    {
-      "title": "Antes de Chivas y Omnilife, Jorge Vergara madrugaba a las 4:00 de la mañana para vender carnitas",
-      "link": "https://expansion.mx/empresas/2026/11/13/antes-de-chivas-omnilife-jorge-vergara-vendia-carnitas",
-      "source": "Expansion MX",
-      "pub": "Fri, 13 Nov 2026 18:57:13 GMT"
-    },
-    {
-      "title": "Microsoft explica por qué se cayó Outlook, Copilot y otros servicios por más de 12 horas",
-      "link": "https://expansion.mx/tecnologia/2026/11/13/microsoft-explica-caida-outlook",
-      "source": "Expansion MX",
-      "pub": "Fri, 13 Nov 2026 18:32:20 GMT"
-    },
-    {
-      "title": "Chihuahua gana terreno frente a la manzana de EU mientras México investiga dumping",
-      "link": "https://expansion.mx/economia/2026/11/13/manzana-mexicana-gana-terreno-frente-a-eu",
-      "source": "Expansion MX",
-      "pub": "Fri, 13 Nov 2026 18:32:14 GMT"
-    },
-    {
-      "title": "Sin Buen Fin pero con promociones Pre-Navideñas: Cosco tiene descuentos del 30% y ahorros de hasta 15,000 pesos",
-      "link": "https://expansion.mx/finanzas-personales/2026/11/13/cosco-tiene-descuentos-y-ahorros-de-hasta-15-000-pesos",
-      "source": "Expansion MX",
-      "pub": "Fri, 13 Nov 2026 18:24:50 GMT"
-    },
-    {
-      "title": "Ya no más filas en el cajero del Banco del Bienestar: así puedes hacer transferencias desde la nueva app",
-      "link": "https://expansion.mx/finazas-personales/2026/11/13/como-hacer-transferencias-app-bienestar",
-      "source": "Expansion MX",
-      "pub": "Fri, 13 Nov 2026 18:13:29 GMT"
-    },
-    {
-      "title": "Toto Wolff develó el nuevo Mercedes-AMG GT 4-Door Coupé en México",
-      "link": "https://expansion.mx/tendencias/2026/11/13/toto-wolff-develo-el-nuevo-mercedes-amg-gt-4-door-coupe-en-mexico",
-      "source": "Expansion MX",
-      "pub": "Fri, 13 Nov 2026 18:06:43 GMT"
-    },
-    {
-      "title": "Costco revela qué puede frenar la apertura de nuevas tiendas en México: no se trata sólo de conseguir terreno",
-      "link": "https://expansion.mx/empresas/2026/11/13/nuevas-tiendas-costco-mexico-por-que-no-hay",
-      "source": "Expansion MX",
-      "pub": "Fri, 13 Nov 2026 17:58:03 GMT"
     }
   ]
 }
