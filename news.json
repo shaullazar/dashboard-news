@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T19:23:12.340015+00:00",
+  "updated": "2026-11-14T23:08:34.559865+00:00",
   "colombia": [
     {
       "title": "Mike Hoey spotlights Colombia’s tech scale-up opportunity at Horasis Global Summit 2026",
@@ -64,6 +64,24 @@
   ],
   "mexico": [
     {
+      "title": "Buen Fin: qué hacer si te clonan la tarjeta después de realizar una compra",
+      "link": "https://expansion.mx/finanzas-personales/2026/11/14/buen-fin-que-hacer-clonan-tarjeta-realizar-compras-buen-fin",
+      "source": "Expansion MX",
+      "pub": "Sat, 14 Nov 2026 22:29:47 GMT"
+    },
+    {
+      "title": "Microsoft restablece por completo sus servicios pero advierte a usuarios por aumento de  'phishing'",
+      "link": "https://expansion.mx/tecnologia/2026/11/14/microsoft-restablece-servicios-advierte-usuarios-phishing",
+      "source": "Expansion MX",
+      "pub": "Sat, 14 Nov 2026 20:16:13 GMT"
+    },
+    {
+      "title": "Suman más de 16 mil vuelos cancelados en Estados Unidos por fallas en comunicaciones",
+      "link": "https://expansion.mx/empresas/2026/11/14/vuelos-estados-unidos-se-restablecen-paulatimente-caos",
+      "source": "Expansion MX",
+      "pub": "Sat, 14 Nov 2026 16:28:43 GMT"
+    },
+    {
       "title": "¿Qué tiene de especial pedir un DiDi en China? Lo descubrí en su país de origen",
       "link": "https://expansion.mx/tecnologia/2026/11/14/que-tiene-de-especial-pedir-un-didi-en-china",
       "source": "Expansion MX",
@@ -104,24 +122,6 @@
       "link": "https://expansion.mx/mundo/2026/11/13/estados-unidos-cancela-todos-los-vuelos-que-esta-pasando",
       "source": "Expansion MX",
       "pub": "Fri, 13 Nov 2026 22:48:32 GMT"
-    },
-    {
-      "title": "Farmacias del Ahorro acuerda comprar más de 96% de Farmacias Benavides",
-      "link": "https://expansion.mx/empresas/2026/11/13/farmacias-del-ahorro-acuerda-comprar-a-farmacias-benavides",
-      "source": "Expansion MX",
-      "pub": "Fri, 13 Nov 2026 21:12:05 GMT"
-    },
-    {
-      "title": "Trabajadores sacan más de las Afores por desempleo que lo que ganan las administradoras por comisiones",
-      "link": "https://expansion.mx/economia/2026/11/13/trabajadores-sacan-mas-de-las-afores-por-desempleo-que-lo-que-ganan-las-administradoras-por-comisiones",
-      "source": "Expansion MX",
-      "pub": "Fri, 13 Nov 2026 20:02:56 GMT"
-    },
-    {
-      "title": "Reducción a deducciones y mayores cobros a turistas ya son ley; publica gobierno Ley de Ingresos 2027",
-      "link": "https://expansion.mx/economia/2026/11/13/gobierno-publica-reduccion-deducciones-cobros-a-turistas",
-      "source": "Expansion MX",
-      "pub": "Fri, 13 Nov 2026 19:22:49 GMT"
     }
   ]
 }
