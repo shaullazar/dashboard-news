@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T14:29:41.803698+00:00",
+  "updated": "2026-11-14T19:23:12.340015+00:00",
   "colombia": [
     {
       "title": "Mike Hoey spotlights Colombia’s tech scale-up opportunity at Horasis Global Summit 2026",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "¿Qué tiene de especial pedir un DiDi en China? Lo descubrí en su país de origen",
+      "link": "https://expansion.mx/tecnologia/2026/11/14/que-tiene-de-especial-pedir-un-didi-en-china",
+      "source": "Expansion MX",
+      "pub": "Sat, 14 Nov 2026 14:00:28 GMT"
+    },
+    {
       "title": "Espacio aéreo de EU está abierto de nuevo y descartan ciberataque; culpan a  \"hardware viejo\"",
       "link": "https://expansion.mx/empresas/2026/11/13/levantan-suspension-vuelos-estados-unidos",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/economia/2026/11/13/gobierno-publica-reduccion-deducciones-cobros-a-turistas",
       "source": "Expansion MX",
       "pub": "Fri, 13 Nov 2026 19:22:49 GMT"
-    },
-    {
-      "title": "Cuánto deben pagarte por trabajar el 16 de noviembre y qué pasa si tu patrón te deposita menos",
-      "link": "https://expansion.mx/finanzas-personales/2026/11/13/pago-trabajar-16-noviembre-2026-que-hacer-si-no-pagan",
-      "source": "Expansion MX",
-      "pub": "Fri, 13 Nov 2026 19:09:43 GMT"
     }
   ]
 }
