@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T02:34:58.991579+00:00",
+  "updated": "2026-11-15T09:49:52.898314+00:00",
   "colombia": [
     {
       "title": "Mike Hoey spotlights Colombia’s tech scale-up opportunity at Horasis Global Summit 2026",
@@ -64,6 +64,24 @@
   ],
   "mexico": [
     {
+      "title": "Sam’s Club, Walmart, First Cash y Elektra encabezan las quejas en el primer día del Buen Fin",
+      "link": "https://expansion.mx/empresas/2026/11/14/sams-club-walmart-first-cash-elektra-quejas-un-dia-buen-fin",
+      "source": "Expansion MX",
+      "pub": "Sat, 14 Nov 2026 23:37:55 GMT"
+    },
+    {
+      "title": "Buen Fin: qué hacer si te clonan la tarjeta después de realizar una compra",
+      "link": "https://expansion.mx/finanzas-personales/2026/11/14/buen-fin-que-hacer-clonan-tarjeta-realizar-compras-buen-fin",
+      "source": "Expansion MX",
+      "pub": "Sat, 14 Nov 2026 22:29:47 GMT"
+    },
+    {
+      "title": "Microsoft restablece por completo sus servicios pero advierte a usuarios por aumento de  'phishing'",
+      "link": "https://expansion.mx/tecnologia/2026/11/14/microsoft-restablece-servicios-advierte-usuarios-phishing",
+      "source": "Expansion MX",
+      "pub": "Sat, 14 Nov 2026 20:16:13 GMT"
+    },
+    {
       "title": "Suman más de 16 mil vuelos cancelados en Estados Unidos por fallas en comunicaciones",
       "link": "https://expansion.mx/empresas/2026/11/14/vuelos-estados-unidos-se-restablecen-paulatimente-caos",
       "source": "Expansion MX",
@@ -104,24 +122,6 @@
       "link": "https://expansion.mx/empresas/2026/11/13/detenimiento-vuelos-eu-llega-mexico-aicm-hasta-monterrey",
       "source": "Expansion MX",
       "pub": "Fri, 13 Nov 2026 23:18:06 GMT"
-    },
-    {
-      "title": "Estados Unidos suspende todos los vuelos y deja a su sistema aéreo en crisis: casi 7,000 viajes afectados",
-      "link": "https://expansion.mx/mundo/2026/11/13/estados-unidos-cancela-todos-los-vuelos-que-esta-pasando",
-      "source": "Expansion MX",
-      "pub": "Fri, 13 Nov 2026 22:48:32 GMT"
-    },
-    {
-      "title": "Farmacias del Ahorro acuerda comprar más de 96% de Farmacias Benavides",
-      "link": "https://expansion.mx/empresas/2026/11/13/farmacias-del-ahorro-acuerda-comprar-a-farmacias-benavides",
-      "source": "Expansion MX",
-      "pub": "Fri, 13 Nov 2026 21:12:05 GMT"
-    },
-    {
-      "title": "Trabajadores sacan más de las Afores por desempleo que lo que ganan las administradoras por comisiones",
-      "link": "https://expansion.mx/economia/2026/11/13/trabajadores-sacan-mas-de-las-afores-por-desempleo-que-lo-que-ganan-las-administradoras-por-comisiones",
-      "source": "Expansion MX",
-      "pub": "Fri, 13 Nov 2026 20:02:56 GMT"
     }
   ]
 }
