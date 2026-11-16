@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T01:00:13.280681+00:00",
+  "updated": "2026-11-16T07:42:35.232532+00:00",
   "colombia": [
     {
       "title": "Mike Hoey spotlights Colombia’s tech scale-up opportunity at Horasis Global Summit 2026",
@@ -64,6 +64,18 @@
   ],
   "mexico": [
     {
+      "title": "Licenciaturas de tres años y sin tesis para titularte, la propuesta que busca transformar las universidades en México",
+      "link": "https://expansion.mx/carrera/2026/11/15/licenciaturas-tres-anos-sin-tesis-titularte-universidades",
+      "source": "Expansion MX",
+      "pub": "Sun, 15 Nov 2026 20:47:22 GMT"
+    },
+    {
+      "title": "Ni con Farmacias Benavides alcanza al Dr. Simi; Farmacias del Ahorro podrá llegar a poco más de 3,000 tiendas",
+      "link": "https://expansion.mx/empresas/2026/11/15/farmacias-benavides-dr-simi-farmacias-del-ahorro-tiendas",
+      "source": "Expansion MX",
+      "pub": "Sun, 15 Nov 2026 19:30:52 GMT"
+    },
+    {
       "title": "Sam’s Club, Walmart, First Cash y Elektra encabezan las quejas en el primer día del Buen Fin",
       "link": "https://expansion.mx/empresas/2026/11/14/sams-club-walmart-first-cash-elektra-quejas-un-dia-buen-fin",
       "source": "Expansion MX",
@@ -110,18 +122,6 @@
       "link": "https://expansion.mx/finanzas-personales/2026/11/13/bbva-buen-fin-2026-activar-pago-marzo-bonificacion-15",
       "source": "Expansion MX",
       "pub": "Sat, 14 Nov 2026 00:17:04 GMT"
-    },
-    {
-      "title": "En puente, Hacienda aumenta IEPS a combustibles: deja en 0.02 pesos el estimulo para Magna y se lo quita a la Premium",
-      "link": "https://expansion.mx/economia/2026/11/13/cero-subsidio-ieps-premium-magna-diesel-puente",
-      "source": "Expansion MX",
-      "pub": "Fri, 13 Nov 2026 23:53:18 GMT"
-    },
-    {
-      "title": "Paralización de vuelos en EU impacta a las aerolíneas mexicanas desde el AICM hasta Monterrey",
-      "link": "https://expansion.mx/empresas/2026/11/13/detenimiento-vuelos-eu-llega-mexico-aicm-hasta-monterrey",
-      "source": "Expansion MX",
-      "pub": "Fri, 13 Nov 2026 23:18:06 GMT"
     }
   ]
 }
