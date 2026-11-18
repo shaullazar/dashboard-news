@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T17:51:02.585127+00:00",
+  "updated": "2026-11-18T00:00:19.915955+00:00",
   "colombia": [
     {
       "title": "Three Colombian women win Bayer Foundation award for healthtech that reaches patients far from hospitals",
@@ -64,42 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "El Buen Fin terminó, pero siguen los descuentos: cuándo son el Black Friday y el Cyber Monday en México 2026",
-      "link": "https://expansion.mx/finanzas-personales/2026/11/17/black-friday-cyber-monday-2026-fecha-y-que-descuentos-hay",
-      "source": "Expansion MX",
-      "pub": "Tue, 17 Nov 2026 17:13:29 GMT"
-    },
-    {
-      "title": "Esta empresa dará el día libre a sus 7,000 empleados para jugar GTA 6",
-      "link": "https://expansion.mx/tecnologia/2026/11/17/logitech-dara-dia-a-7-000-empleados-para-jugar-gta-6",
-      "source": "Expansion MX",
-      "pub": "Tue, 17 Nov 2026 15:57:26 GMT"
-    },
-    {
-      "title": "Peso mexicano gana terreno y la BMV sube pese al tropiezo de Wall Street",
-      "link": "https://expansion.mx/mercados/2026/11/17/bmv-avanza-peso-resiste-dolar-antes-reporte-nvidia",
-      "source": "Expansion MX",
-      "pub": "Tue, 17 Nov 2026 15:48:54 GMT"
-    },
-    {
-      "title": "¿Compraste en el Buen Fin 2026? El SAT transmitirá el sorteo que dará hasta 250,000 pesos y así puedes saber si ganaste",
-      "link": "https://expansion.mx/finanzas-personales/2026/11/17/buen-fin-2026-el-sorteo-sat-en-vivo-fecha-y-donde-ver",
-      "source": "Expansion MX",
-      "pub": "Tue, 17 Nov 2026 15:27:51 GMT"
-    },
-    {
-      "title": "Ciberespías usan facturas como caballos de Troya para infiltrar grandes empresas y gobiernos",
-      "link": "https://expansion.mx/tecnologia/2026/11/17/darkcaracal-ciberespionaje-facturas-falsas-malware",
-      "source": "Expansion MX",
-      "pub": "Tue, 17 Nov 2026 11:55:58 GMT"
-    },
-    {
-      "title": "Empresarios ya no aguantan el ritmo a Sheinbaum con el salario mínimo",
-      "link": "https://expansion.mx/economia/2026/11/17/salario-minimo-2027-empresarios-sheinbaum-bajar-aumentos",
-      "source": "Expansion MX",
-      "pub": "Tue, 17 Nov 2026 11:55:47 GMT"
-    },
-    {
       "title": "United Airlines reporta interrupción generalizada de su sistema en EU",
       "link": "https://expansion.mx/mundo/2026/11/16/united-airlines-interrupcion-sistema-eu",
       "source": "Expansion MX",
@@ -122,6 +86,42 @@
       "link": "https://expansion.mx/mundo/2026/11/16/usuarios-fallas-aplicaciones-bancos-eu",
       "source": "Expansion MX",
       "pub": "Mon, 16 Nov 2026 20:46:44 GMT"
+    },
+    {
+      "title": "Estados Unidos refuerza controles a la exportación de chips de IA hacia cinco países",
+      "link": "https://expansion.mx/mundo/2026/11/16/eu-bloquea-acceso-china-chips-ia",
+      "source": "Expansion MX",
+      "pub": "Mon, 16 Nov 2026 18:31:12 GMT"
+    },
+    {
+      "title": "Trump insiste en imponer aranceles a México si no detiene la caravana de migrantes",
+      "link": "https://expansion.mx/mundo/2026/11/16/trump-imponer-aranceles-mexico-detiene-caravana",
+      "source": "Expansion MX",
+      "pub": "Mon, 16 Nov 2026 17:58:23 GMT"
+    },
+    {
+      "title": "ISSSTE aguinaldo 2026: cuándo será el segundo pago y cuánto recibirá los pensionados",
+      "link": "https://expansion.mx/finanzas-personales/2026/11/16/issste-aguinaldo-2026-segundo-pago-cuanto-pensionados",
+      "source": "Expansion MX",
+      "pub": "Mon, 16 Nov 2026 17:37:28 GMT"
+    },
+    {
+      "title": "Trump dice que \"no le importaría\" que Jensen Huang volviera a liderar Nvidia",
+      "link": "https://expansion.mx/mundo/2026/11/16/trump-jensen-huang-volviera-a-nvidia",
+      "source": "Expansion MX",
+      "pub": "Mon, 16 Nov 2026 17:10:48 GMT"
+    },
+    {
+      "title": "Condonaciones a empresas y tasas cero; así serán algunos incentivos fiscales del SAT para este 2027",
+      "link": "https://expansion.mx/finanzas-personales/2026/11/16/incentivos-fiscales-sat-2027",
+      "source": "Expansion MX",
+      "pub": "Mon, 16 Nov 2026 16:10:40 GMT"
+    },
+    {
+      "title": "México y China comercian cada vez más entre nuevos aranceles y mayor presión de EU",
+      "link": "https://expansion.mx/economia/2026/11/16/sheinbaum-xi-jinping-apec-comercio-mexico-china",
+      "source": "Expansion MX",
+      "pub": "Mon, 16 Nov 2026 11:55:18 GMT"
     }
   ]
 }
