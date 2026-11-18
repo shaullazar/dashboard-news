@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T06:23:59.781105+00:00",
+  "updated": "2026-11-18T15:50:35.300959+00:00",
   "colombia": [
     {
       "title": "Three Colombian women win Bayer Foundation award for healthtech that reaches patients far from hospitals",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Starbucks relanza el oso Bearista que hizo madrugar a sus clientes y lo llevó en tamaño gigante a cinco tiendas",
+      "link": "https://expansion.mx/mercadotecnia/2026/11/17/starbucks-oso-bearista-gigante-cinco-tiendas-navidad-mexico",
+      "source": "Expansion MX",
+      "pub": "Wed, 18 Nov 2026 03:55:23 GMT"
+    },
+    {
       "title": "Cómo jugar GTA VI en Xbox One: cuánto cuesta, horas de juego en la nube y paso a paso para iniciar la partida",
       "link": "https://expansion.mx/tecnologia/2026/11/17/como-jugar-gta-vi-en-xbox-one-costo-horas-juego-nube",
       "source": "Expansion MX",
@@ -116,12 +122,6 @@
       "link": "https://expansion.mx/mercados/2026/11/17/nvidia-supera-expectativas-con-sus-resultados-financieros-y-acciones-suben",
       "source": "Expansion MX",
       "pub": "Tue, 17 Nov 2026 22:26:45 GMT"
-    },
-    {
-      "title": "No todas las pymes califican: estos son los requisitos para conseguir créditos de hasta 20 millones del Gobierno",
-      "link": "https://expansion.mx/finanzas-personales/2026/11/17/nafin-bancomext-que-credito-pueden-solicitar-pymes",
-      "source": "Expansion MX",
-      "pub": "Tue, 17 Nov 2026 22:20:51 GMT"
     }
   ]
 }
