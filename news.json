@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T04:03:37.974865+00:00",
+  "updated": "2026-11-21T12:26:17.779990+00:00",
   "colombia": [
     {
       "title": "Armed group attack highlights energy vulnerability in rural Colombia",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "Gasolina Magna se queda sin subsidio, Hacienda le cobrará 6.70 pesos de IEPS por litro",
+      "link": "https://expansion.mx/economia/2026/11/20/gasolinas-magna-hacienda-quita-subsidio-sube-ieps-diesel",
+      "source": "Expansion MX",
+      "pub": "Sat, 21 Nov 2026 00:25:58 GMT"
+    },
+    {
       "title": "GTA VI recauda 3,790 millones de dólares en su estreno y supera el récord de GTA V y Avengers: Endgame",
       "link": "https://expansion.mx/tecnologia/2026/11/20/gta-vi-recauda-3-790-millones-de-dolares-en-su-estreno",
       "source": "Expansion MX",
@@ -110,18 +116,6 @@
       "link": "https://expansion.mx/tecnologia/2026/11/20/primero-nvidia-ahora-amd-gigantes-chips-vinculos-china",
       "source": "Expansion MX",
       "pub": "Fri, 20 Nov 2026 17:34:03 GMT"
-    },
-    {
-      "title": "El actor Gérard Depardieu y el escritor Michel Houellebecq enfrentan una denuncia por violación grupal en un rodaje",
-      "link": "https://expansion.mx/tendencias/2026/11/20/gerard-depardieu-houellebecq-investigados-por-violacion",
-      "source": "Expansion MX",
-      "pub": "Fri, 20 Nov 2026 16:23:43 GMT"
-    },
-    {
-      "title": "Las certificaciones garantizan un descanso real al comprar un colchón",
-      "link": "https://expansion.mx/tendencias/2026/11/20/las-certificaciones-garantizan-un-descanso-real-al-comprar-un-colchon",
-      "source": "Expansion MX",
-      "pub": "Fri, 20 Nov 2026 16:18:23 GMT"
     }
   ]
 }
