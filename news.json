@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T23:23:07.690464+00:00",
+  "updated": "2026-11-21T04:03:37.974865+00:00",
   "colombia": [
     {
       "title": "Armed group attack highlights energy vulnerability in rural Colombia",
@@ -64,6 +64,36 @@
   ],
   "mexico": [
     {
+      "title": "GTA VI recauda 3,790 millones de dólares en su estreno y supera el récord de GTA V y Avengers: Endgame",
+      "link": "https://expansion.mx/tecnologia/2026/11/20/gta-vi-recauda-3-790-millones-de-dolares-en-su-estreno",
+      "source": "Expansion MX",
+      "pub": "Fri, 20 Nov 2026 22:54:02 GMT"
+    },
+    {
+      "title": "¿Ser buen novio es de débiles? GTA VI abre debate sobre el machismo entre gamers",
+      "link": "https://expansion.mx/tecnologia/2026/11/20/gta-vi-polemica-machismo-simulador-simp-buen-novio",
+      "source": "Expansion MX",
+      "pub": "Fri, 20 Nov 2026 22:40:39 GMT"
+    },
+    {
+      "title": "La fábrica de chocolates de Carlos Slim en CDMX que pocos conocen y esconde un negocio histórico detrás de Sanborns",
+      "link": "https://expansion.mx/empresas/2026/11/20/carlos-slim-y-su-fabrica-de-chocolate-en-sanborns",
+      "source": "Expansion MX",
+      "pub": "Fri, 20 Nov 2026 21:56:47 GMT"
+    },
+    {
+      "title": "El S&P 500 cierra su peor jornada desde 2020, tras desplome de acciones de IA",
+      "link": "https://expansion.mx/mercados/2026/11/20/viernes-negro-acciones-tecnologicas-wall-street-peor-racha",
+      "source": "Expansion MX",
+      "pub": "Fri, 20 Nov 2026 21:31:24 GMT"
+    },
+    {
+      "title": "México oficializa control a inversiones extranjeras y abre incertidumbre por adquisiciones",
+      "link": "https://expansion.mx/economia/2026/11/20/mexico-filtro-seguridad-nacional-inversiones-extranjeras",
+      "source": "Expansion MX",
+      "pub": "Fri, 20 Nov 2026 21:00:19 GMT"
+    },
+    {
       "title": "Telcel falla este viernes: usuarios reportan problemas para hacer llamadas y conectarse a internet",
       "link": "https://expansion.mx/empresas/2026/11/20/telcel-falla-este-viernes-problemas-para-hacer-llamadas",
       "source": "Expansion MX",
@@ -92,36 +122,6 @@
       "link": "https://expansion.mx/tendencias/2026/11/20/las-certificaciones-garantizan-un-descanso-real-al-comprar-un-colchon",
       "source": "Expansion MX",
       "pub": "Fri, 20 Nov 2026 16:18:23 GMT"
-    },
-    {
-      "title": "GTA VI le gana a Hollywood y se perfila a superar en ganancias a las 10 películas más taquilleras de la historia",
-      "link": "https://expansion.mx/tecnologia/2026/11/20/gta-vi-vence-a-las-peliculas-mas-taquilleras-de-la-historia",
-      "source": "Expansion MX",
-      "pub": "Fri, 20 Nov 2026 15:29:31 GMT"
-    },
-    {
-      "title": "La Unión Europea y Reino Unido sellan acuerdos para dar un \"nuevo impulso\" a sus relaciones",
-      "link": "https://expansion.mx/economia/2026/11/20/la-union-europea-y-reino-unido-sellan-acuerdos-para-dar-un-nuevo-impulso-a-sus-relaciones",
-      "source": "Expansion MX",
-      "pub": "Fri, 20 Nov 2026 15:21:41 GMT"
-    },
-    {
-      "title": "Comienzan las ofertas para comprar Axtel y su controladora",
-      "link": "https://expansion.mx/mercados/2026/11/20/comienzan-las-ofertas-para-comprar-axtel-y-su-controladora",
-      "source": "Expansion MX",
-      "pub": "Fri, 20 Nov 2026 15:04:19 GMT"
-    },
-    {
-      "title": "Mazda eliminará la transmisión manual y ajustará los precios de su compacto Mazda3 a partir de 2027",
-      "link": "https://expansion.mx/empresas/2026/11/20/mazda3-2027-adios-transmision-manual-precios-versiones-mexico",
-      "source": "Expansion MX",
-      "pub": "Fri, 20 Nov 2026 14:59:08 GMT"
-    },
-    {
-      "title": "¿En quién confiamos cuando confiamos en una IA?",
-      "link": "https://expansion.mx/opinion/2026/11/20/en-que-confiamos-cuando-utilizamos-ia-opinion",
-      "source": "Expansion MX",
-      "pub": "Fri, 20 Nov 2026 13:07:52 GMT"
     }
   ]
 }
