@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T19:34:57.471588+00:00",
+  "updated": "2026-11-21T23:53:36.808437+00:00",
   "colombia": [
     {
       "title": "Armed group attack highlights energy vulnerability in rural Colombia",
@@ -64,6 +64,12 @@
   ],
   "mexico": [
     {
+      "title": "El plan de los empresarios para amortiguar el golpe de la inseguridad en Sinaloa",
+      "link": "https://expansion.mx/economia/2026/11/21/plan-coparmex-sinaloa-inseguridad",
+      "source": "Expansion MX",
+      "pub": "Sat, 21 Nov 2026 17:56:53 GMT"
+    },
+    {
       "title": "Gasolina Magna se queda sin subsidio, Hacienda le cobrará 6.70 pesos de IEPS por litro",
       "link": "https://expansion.mx/economia/2026/11/20/gasolinas-magna-hacienda-quita-subsidio-sube-ieps-diesel",
       "source": "Expansion MX",
@@ -110,12 +116,6 @@
       "link": "https://expansion.mx/empresas/2026/11/20/huevo-san-juan-historia-familia-romo-y-su-imperio",
       "source": "Expansion MX",
       "pub": "Fri, 20 Nov 2026 17:57:09 GMT"
-    },
-    {
-      "title": "Primero Nvidia, ahora AMD: los gigantes de los chips bajo la lupa por sus vínculos con China",
-      "link": "https://expansion.mx/tecnologia/2026/11/20/primero-nvidia-ahora-amd-gigantes-chips-vinculos-china",
-      "source": "Expansion MX",
-      "pub": "Fri, 20 Nov 2026 17:34:03 GMT"
     }
   ]
 }
