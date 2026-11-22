@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T03:33:02.011692+00:00",
+  "updated": "2026-11-22T11:53:34.514642+00:00",
   "colombia": [
     {
       "title": "Armed group attack highlights energy vulnerability in rural Colombia",
@@ -64,12 +64,6 @@
   ],
   "mexico": [
     {
-      "title": "Nvidia pierde más de 20% en bolsa en una semana y ahora la SEC indaga sus cuentas",
-      "link": "https://expansion.mx/tecnologia/2026/11/21/nvidia-caida-en-bolsa-investigacion-sec",
-      "source": "Expansion MX",
-      "pub": "Sat, 21 Nov 2026 23:25:01 GMT"
-    },
-    {
       "title": "El Dr. Simi lleva café y atención veterinaria a una misma esquina de Holbox",
       "link": "https://expansion.mx/empresas/2026/11/21/cafe-simi-simipet-care-primera-veterinaria-holbox",
       "source": "Expansion MX",
@@ -116,6 +110,12 @@
       "link": "https://expansion.mx/economia/2026/11/20/mexico-filtro-seguridad-nacional-inversiones-extranjeras",
       "source": "Expansion MX",
       "pub": "Fri, 20 Nov 2026 21:00:19 GMT"
+    },
+    {
+      "title": "Telcel falla este viernes: usuarios reportan problemas para hacer llamadas y conectarse a internet",
+      "link": "https://expansion.mx/empresas/2026/11/20/telcel-falla-este-viernes-problemas-para-hacer-llamadas",
+      "source": "Expansion MX",
+      "pub": "Fri, 20 Nov 2026 18:43:07 GMT"
     }
   ]
 }
