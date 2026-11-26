@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T23:19:46.728641+00:00",
+  "updated": "2026-11-26T05:09:21.913352+00:00",
   "colombia": [
     {
       "title": "Armed group attack highlights energy vulnerability in rural Colombia",
@@ -64,58 +64,64 @@
   ],
   "mexico": [
     {
-      "title": "Telcel anuncia megas gratis por fallas del 20 de noviembre: quiénes los recibirán y cuánto tiempo tendrán para usarlos",
+      "title": "Adultos mayores, los que más cancelan pólizas de gastos médicos por altos precios; AMIS dice colaborar con Diputados",
+      "link": "https://expansion.mx/economia/2026/11/25/adultos-mayores-los-que-mas-cancelan-polizas-de-gastos-medicos-por-altos-precios-amis-mantiene-disposicion-a-colaborar",
+      "source": "Expansion MX",
+      "pub": "Thu, 26 Nov 2026 00:31:28 GMT"
+    },
+    {
+      "title": "Trabajar por tu cuenta no significa quedarte sin IMSS y hay una modalidad que ofrece mucho más que atención médica",
+      "link": "https://expansion.mx/finanzas-personales/2026/11/25/modalidad-10-imss-trabajadores-independientes-beneficios",
+      "source": "Expansion MX",
+      "pub": "Thu, 26 Nov 2026 00:13:03 GMT"
+    },
+    {
+      "title": "Rendimientos de las Cajitas de Nu bajarán a partir de esta fecha, pero el cambio no es para todas",
+      "link": "https://expansion.mx/economia/2026/11/25/rendimientos-cajitas-nu-bajaran-fecha-no-todas",
+      "source": "Expansion MX",
+      "pub": "Thu, 26 Nov 2026 00:08:45 GMT"
+    },
+    {
+      "title": "Neuralink consigue el aval de la FDA para una nueva etapa de pruebas en humanos",
+      "link": "https://expansion.mx/tecnologia/2026/11/25/neuralink-fda-ensayo-clinico-link-implantes-cerebrales",
+      "source": "Expansion MX",
+      "pub": "Wed, 25 Nov 2026 22:55:34 GMT"
+    },
+    {
+      "title": "Starbucks convierte su vaso de oso Bearista de un fenómeno viral en una estrategia de fidelización",
+      "link": "https://expansion.mx/mercadotecnia/2026/11/25/starbucks-vaso-oso-bearista-rosa",
+      "source": "Expansion MX",
+      "pub": "Wed, 25 Nov 2026 22:23:42 GMT"
+    },
+    {
+      "title": "BMW X7 2027 combina lujo, amplitud y tecnología en cada trayecto",
+      "link": "https://expansion.mx/empresas/2026/11/25/bmw-x7-2027-combina-lujo-y-tecnologia",
+      "source": "Expansion MX",
+      "pub": "Wed, 25 Nov 2026 22:05:14 GMT"
+    },
+    {
+      "title": "Concanaco pide reducir 50% impuesto sobre la nómina para compensar impacto del alza al salario mínimo y jornada laboral",
+      "link": "https://expansion.mx/carrera/2026/11/25/concanaco-bajar-impuesto-sobre-nomina-salario-minimo",
+      "source": "Expansion MX",
+      "pub": "Wed, 25 Nov 2026 21:45:41 GMT"
+    },
+    {
+      "title": "¿Cuál es el seguro de auto más barato en México según Condusef? Quálitas y Banorte lideran, pero con letras chiquitas",
+      "link": "https://expansion.mx/finanzas-personales/2026/11/25/el-seguro-de-auto-mas-barato-en-mexico-segun-condusef",
+      "source": "Expansion MX",
+      "pub": "Wed, 25 Nov 2026 21:41:36 GMT"
+    },
+    {
+      "title": "¿Quiénes ganan y pierden con la apreciación del peso frente al dólar?",
+      "link": "https://expansion.mx/mercados/2026/11/25/dolar-20-pesos-que-puede-encarecer-cuando-llegaria-bolsillo",
+      "source": "Expansion MX",
+      "pub": "Wed, 25 Nov 2026 21:14:03 GMT"
+    },
+    {
+      "title": "Telcel bonificará megas gratis por fallas del 20 de noviembre: quién los recibirá y cuánto tiempo tendrá para usarlos",
       "link": "https://expansion.mx/empresas/2026/11/25/telcel-megas-gratis-bonificacion-fallas-20-noviembre-2026",
       "source": "Expansion MX",
       "pub": "Wed, 25 Nov 2026 20:59:45 GMT"
-    },
-    {
-      "title": "Vendes tu auto, cobras en efectivo y el SAT puede multarte por más de lo que recibiste si rebasas este límite",
-      "link": "https://expansion.mx/finanzas-personales/2026/11/25/sat-venta-auto-efectivo-limite-multa-2026",
-      "source": "Expansion MX",
-      "pub": "Wed, 25 Nov 2026 20:19:16 GMT"
-    },
-    {
-      "title": "Ni de Milán ni de Roma: Ferrioni es 100% chilanga y esta es la familia que la creó",
-      "link": "https://expansion.mx/empresas/2026/11/25/ferrioni-marca-mexicana-historia-perrito-terrier",
-      "source": "Expansion MX",
-      "pub": "Wed, 25 Nov 2026 20:05:46 GMT"
-    },
-    {
-      "title": "Cómo y dónde comprar en México el libro del papa Francisco sobre sus encuentros con el diablo y crisis de fe",
-      "link": "https://expansion.mx/tendencias/2026/11/25/donde-comprar-diario-papa-francisco-mexico",
-      "source": "Expansion MX",
-      "pub": "Wed, 25 Nov 2026 18:51:33 GMT"
-    },
-    {
-      "title": "Desempleo en México alcanza a 1.8 millones de personas; se incrementa más en las mujeres",
-      "link": "https://expansion.mx/economia/2026/11/25/desempleo-en-mexico-alcanza-a-1-8-millones-de-personas-se-incrementa-mas-en-las-mujeres",
-      "source": "Expansion MX",
-      "pub": "Wed, 25 Nov 2026 18:26:29 GMT"
-    },
-    {
-      "title": "¿Instagram te espía? Su líder explica cómo personaliza los anuncios dentro de la plataforma",
-      "link": "https://expansion.mx/tecnologia/2026/11/25/instagram-escucha-lo-que-dices",
-      "source": "Expansion MX",
-      "pub": "Wed, 25 Nov 2026 18:00:13 GMT"
-    },
-    {
-      "title": "Una explosión de cinco toneladas en Iowa preocupa a la NASA; ¿qué es la azida de plomo y por qué es peligrosa?",
-      "link": "https://expansion.mx/mundo/2026/11/25/explosion-iowa-cinco-toneladas-azida-plomo-vigila-nasa",
-      "source": "Expansion MX",
-      "pub": "Wed, 25 Nov 2026 16:33:44 GMT"
-    },
-    {
-      "title": "El S&P 500 se perfila para registrar su peor noviembre desde la crisis financiera de 2008",
-      "link": "https://expansion.mx/mercados/2026/11/25/s-p-500-peor-noviembre-desde-crisis-financiera-2008",
-      "source": "Expansion MX",
-      "pub": "Wed, 25 Nov 2026 16:13:24 GMT"
-    },
-    {
-      "title": "El dólar acumula un alza de 9.66% frente al peso y se acerca a 19.80",
-      "link": "https://expansion.mx/mercados/2026/11/25/el-dolar-acumula-un-alza-de-9-66-frente-al-peso-y-se-acerca-a-19-80",
-      "source": "Expansion MX",
-      "pub": "Wed, 25 Nov 2026 15:25:53 GMT"
     }
   ]
 }
