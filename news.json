@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T05:21:00.273837+00:00",
+  "updated": "2026-11-27T15:16:44.761297+00:00",
   "colombia": [
     {
       "title": "Armed group attack highlights energy vulnerability in rural Colombia",
@@ -64,6 +64,42 @@
   ],
   "mexico": [
     {
+      "title": "Moisés Chaves deja Consejo de Bankaool ante imposibilidad de que CNBV autorice su cargo como dueño mayoritario",
+      "link": "https://expansion.mx/economia/2026/11/26/moises-chaves-deja-consejo-de-bankaool-ante-imposibilidad-de-que-cnbv-autorice-su-cargo-como-dueno-mayoritario",
+      "source": "Expansion MX",
+      "pub": "Fri, 27 Nov 2026 02:09:18 GMT"
+    },
+    {
+      "title": "Venden Ozempic falsificado en México, Cofepris identifica lotes irregulares",
+      "link": "https://expansion.mx/tendencias/2026/11/26/venden-ozempic-falsificado-cofepris-irregulares",
+      "source": "Expansion MX",
+      "pub": "Fri, 27 Nov 2026 01:42:13 GMT"
+    },
+    {
+      "title": "LG quiere aprender de los mexicanos para diseñar sus próximos productos",
+      "link": "https://expansion.mx/tecnologia/2026/11/26/lg-mexico-another-campus-desarrollo-productos-tecnologicos",
+      "source": "Expansion MX",
+      "pub": "Fri, 27 Nov 2026 00:00:43 GMT"
+    },
+    {
+      "title": "Agentes de seguros ven necesario mejorar las condiciones de gastos médicos tras un año difícil para renovar pólizas",
+      "link": "https://expansion.mx/economia/2026/11/26/agentes-de-seguros-ven-necesario-mejorar-las-condiciones-de-gastos-medicos-tras-un-ano-dificil-para-renovar-polizas",
+      "source": "Expansion MX",
+      "pub": "Thu, 26 Nov 2026 23:23:49 GMT"
+    },
+    {
+      "title": "El hospital del Tec de Monterrey que impulsó el empresario detrás de Cemex y atiende más de 100,000 pacientes",
+      "link": "https://expansion.mx/empresas/2026/11/26/hospital-empresario-cemex-tec-monterrey-atiende-100-000",
+      "source": "Expansion MX",
+      "pub": "Thu, 26 Nov 2026 23:02:39 GMT"
+    },
+    {
+      "title": "Tu jefe puede reducirte el aguinaldo por tus faltas, pero hay descuentos que no puede aplicar aunque quiera",
+      "link": "https://expansion.mx/finanzas-personales/2026/11/26/aguinaldo-descuentos-por-faltas-deudas-o-impuestos",
+      "source": "Expansion MX",
+      "pub": "Thu, 26 Nov 2026 22:33:37 GMT"
+    },
+    {
       "title": "Gobernadora de Banxico descarta inicio de ciclo de reducciones en la tasa de referencia",
       "link": "https://expansion.mx/economia/2026/11/26/gobernadora-banxico-descarta-reducciones-tasa-interes",
       "source": "Expansion MX",
@@ -77,7 +113,7 @@
     },
     {
       "title": "Tiendas 3B deja de lado los comerciales y apuesta por una publicidad difícil de comprar, que sus clientes la recomienden",
-      "link": "https://expansion.mx/empresas/2026/11/26/tiendas-3b-estrategia-competir-sin-gastar-comerciales",
+      "link": "https://expansion.mx/mercadotecnia/2026/11/26/tiendas-3b-estrategia-competir-sin-gastar-comerciales",
       "source": "Expansion MX",
       "pub": "Thu, 26 Nov 2026 21:21:11 GMT"
     },
@@ -86,42 +122,6 @@
       "link": "https://expansion.mx/tecnologia/2026/11/26/nueva-estafa-con-voces-clonadas-con-ia-en-llamadas",
       "source": "Expansion MX",
       "pub": "Thu, 26 Nov 2026 19:07:24 GMT"
-    },
-    {
-      "title": "PIB de México crecerá más, Banxico sube expectativa a 1.9% para el cierre de 2026",
-      "link": "https://expansion.mx/economia/2026/11/26/banxico-expectativa-pib-economia-2026-2027",
-      "source": "Expansion MX",
-      "pub": "Thu, 26 Nov 2026 18:47:24 GMT"
-    },
-    {
-      "title": "Pensión IMSS e ISSSTE de diciembre: cuándo depositan el último pago del año y quiénes recibirán el aguinaldo",
-      "link": "https://expansion.mx/finanzas-personales/2026/11/26/pension-imss-issste-diciembre-2026-cuando-cuanto-depositan",
-      "source": "Expansion MX",
-      "pub": "Thu, 26 Nov 2026 18:41:06 GMT"
-    },
-    {
-      "title": "CFE obtiene concesión para competir con Telcel, AT&T y Movistar en el mercado móvil",
-      "link": "https://expansion.mx/empresas/2026/11/26/cfe-concesion-competir-telcel-mercado-movil",
-      "source": "Expansion MX",
-      "pub": "Thu, 26 Nov 2026 17:57:04 GMT"
-    },
-    {
-      "title": "Xcaret planea un hotel más económico para familias ante la menor ocupación en la Riviera Maya",
-      "link": "https://expansion.mx/empresas/2026/11/26/xcaret-evitar-efecto-tulum-abrira-hotel-barato",
-      "source": "Expansion MX",
-      "pub": "Thu, 26 Nov 2026 16:45:08 GMT"
-    },
-    {
-      "title": "Elon Musk regalará acciones de SpaceX a los niños de EU, pero su apuesta va más lejos: “un millón de veces” más valor",
-      "link": "https://expansion.mx/tecnologia/2026/11/26/elon-musk-regalara-acciones-de-spacex-a-los-ninos-eu",
-      "source": "Expansion MX",
-      "pub": "Thu, 26 Nov 2026 14:22:24 GMT"
-    },
-    {
-      "title": "¿Puede el cielo ayudar a conectar la tierra? El internet satelital dice sí",
-      "link": "https://expansion.mx/opinion/2026/11/26/puede-el-cielo-ayudar-a-conectar-la-tierra-el-internet-satelital-dice-si",
-      "source": "Expansion MX",
-      "pub": "Thu, 26 Nov 2026 12:18:14 GMT"
     }
   ]
 }
