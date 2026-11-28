@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T23:28:57.917079+00:00",
+  "updated": "2026-11-28T04:51:30.086256+00:00",
   "colombia": [
     {
       "title": "Armed group attack highlights energy vulnerability in rural Colombia",
@@ -64,6 +64,30 @@
   ],
   "mexico": [
     {
+      "title": "Hacienda cobrará 6.70 pesos de IEPS a gasolina Magna; va por su segunda semana sin subsidio",
+      "link": "https://expansion.mx/economia/2026/11/27/gasolina-magna-premium-diesel-hacienda-subsidio-ieps",
+      "source": "Expansion MX",
+      "pub": "Sat, 28 Nov 2026 00:08:52 GMT"
+    },
+    {
+      "title": "Suzuki resucita al Ignis, pero ahora con motor eléctrico",
+      "link": "https://expansion.mx/empresas/2026/11/27/suzuki-resucita-ignis-electrico-mexico-2027",
+      "source": "Expansion MX",
+      "pub": "Fri, 27 Nov 2026 23:09:43 GMT"
+    },
+    {
+      "title": "A los 70 años puedes quedarte sin ahorros en la Afore aunque no los retires: esta es la razón y cómo reclamarlos al IMSS",
+      "link": "https://expansion.mx/finanzas-personales/2026/11/27/afore-ahorros-70-anos-como-recuperar-dinero-imss",
+      "source": "Expansion MX",
+      "pub": "Fri, 27 Nov 2026 23:05:46 GMT"
+    },
+    {
+      "title": "El campo mexicano quiere evitar una guerra comercial si EU limita la fresa",
+      "link": "https://expansion.mx/economia/2026/11/27/campo-mexicano-guerra-comercial-si-eu-limita-fresa",
+      "source": "Expansion MX",
+      "pub": "Fri, 27 Nov 2026 21:08:39 GMT"
+    },
+    {
       "title": "Más vigilancia y menos tiempos de espera motivan a Hacienda a eliminar el efectivo en gasolineras y casetas",
       "link": "https://expansion.mx/economia/2026/11/27/motivos-hacienda-pagos-digitales-gasolineras-casetas",
       "source": "Expansion MX",
@@ -98,30 +122,6 @@
       "link": "https://expansion.mx/economia/2026/11/27/nu-bajara-rendimientos-cajitas-diciembre",
       "source": "Expansion MX",
       "pub": "Fri, 27 Nov 2026 19:02:45 GMT"
-    },
-    {
-      "title": "¿Recibiste este mensaje? Cuidado: podrían vaciar tu cuenta bancaria",
-      "link": "https://expansion.mx/finanzas-personales/2026/11/27/mensaje-banco-estafa-vaciar-cuenta-banco",
-      "source": "Expansion MX",
-      "pub": "Fri, 27 Nov 2026 19:02:40 GMT"
-    },
-    {
-      "title": "Ley de Economía Digital: Bancos y empresas alistan campaña nacional para impulsar pagos digitales y reducir comisiones",
-      "link": "https://expansion.mx/economia/2026/11/27/ley-de-economia-digital-bancos-y-empresas-alistan-campana-nacional-para-impulsar-pagos-digitales-y-reducir-comisiones",
-      "source": "Expansion MX",
-      "pub": "Fri, 27 Nov 2026 18:47:11 GMT"
-    },
-    {
-      "title": "HSBC Travel One te acerca a tu próximo destino",
-      "link": "https://expansion.mx/tendencias/2026/11/27/hsbc-travel-one-te-acerca-a-tu-proximo-destino",
-      "source": "Expansion MX",
-      "pub": "Fri, 27 Nov 2026 16:45:58 GMT"
-    },
-    {
-      "title": "Hackers vulneran la nube militar de EU operada por Microsoft, Amazon, Google y Oracle",
-      "link": "https://expansion.mx/tecnologia/2026/11/27/hackers-ciberataque-cloud-one-fuerza-aerea-estados-unidos",
-      "source": "Expansion MX",
-      "pub": "Fri, 27 Nov 2026 16:38:54 GMT"
     }
   ]
 }
